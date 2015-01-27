@@ -1,0 +1,201 @@
+Gold Standard Topics	Phen ID	Phen Discription
+dental exam	phv00090199.v1 	 Age at time of dental exam 
+glucose tolerance test	phv00102450.v1 	 SPECIFY OTHER REASON GTT NOT DONE 
+subjective refraction	phv00030904.v1 	 Corrective lenses obtained by subjective refraction for distance (indicate if plus [+] or minus [-] were used): cylinder - left eye 
+ electrocardiogram	phv00003217.v1 	 ECG: NON-SPECIFIC S-T SEGMENT ABNORMALITY 
+x-ray	phv00000861.v1 	 X-RAY: AORTA TORTUOUS, DESCENDING, EXAM 6 
+x-ray	phv00142448.v1 	 Vertebral Thoracic Level 11 Reading for Follow-up X-ray 
+oral glucose tolerance test	phv00098453.v1 	 Mother's age at OGTT 
+ intelligence test/wais (procedure) 	phv00032224.v1 	 WAIS  information: total number of correct responses 
+ electrocardiogram	phv00023346.v3 	 LEAD V3, Q  WAVE VOLTAGE 
+x-ray	phv00050668.v1 	 B8g. Health care delivery. Chest x-ray: seen past 6 months 
+BMD	phv00065362.v2 	 WHOLEBODY LUMBAR BMD EX23 (GRAMS/CM2) 
+ examination of breast 	phv00001503.v1 	 BREAST EXAMINATION: AXILLARY NODES 
+autopsy	phv00051567.v1 	 D1d. Post mortem information and diagnosis. Reason autopsy was not performed 
+glomerular filtration rate	phv00030997.v1 	 CBL9: GFR gamma count serum - pre-injection 
+grip strength test	phv00106944.v1 	 WAS GRIP STRENGTH TEST DONE 
+electrocardiogram	phv00008664.v3 	 ECG: R PLUS S GREATER THAN OR EQUAL TO 35 MM IN PRECORDIAL LEAD LVH CRITERIA 
+glomerular filtration rate	phv00161432.v1 	 Historic (estimated) glomerular filtration rate 
+electrocardiogram	phv00023357.v3 	 LEAD V4, R  WAVE VOLTAGE 
+electrocardiogram	phv00155327.v2 	 QRS deflection balance (maximum of R or R') + (maximum of QAMP, SAMP, or S'AMP), lead qrsd_avf 
+electrocardiogram	phv00123704.v1 	 ECG: II: STM 
+electrocardiogram	phv00161225.v1 	 Total QRS Area, Lead I (uVmSec) 
+Inventory of Depression Severity (IDS)	phv00020602.v1 	 Inventory of Depression Severity (IDS) depression item 21: Feeling slowed down 
+electrocardiogram	phv00023344.v3 	 LEAD V2, QRS AREA WAVE VOLTAGE 
+electrocardiogram	phv00023442.v3 	 LEAD V1, S  WAVE DURATION 
+glomerular filtration rate	phv00028517.v1 	 CBL7: GFR gamma count urine - background 
+electrocardiogram	phv00008121.v3 	 ECG: STUDY 
+x-ray computed tomography	phv00117951.v2 	 CAT SCAN SINCE LST CARDIA XM - MON 96 
+mini-mental state examination;	phv00006690.v1 	 MMSE: OTHER (OTHER THAN THOSE LISTED ABOVE) (FACTORS POTENTIALLY AFFECTING MENTAL STATUS) 
+EXERCISE TEST	phv00111389.v2 	 Positive exercise test 
+skin test	phv00071256.v2 	 No. of core skin tests (all tests) at Follow-up 
+x-ray	phv00170104.v1 	 CHF Pulmonary edema chest X-ray this admit 
+glomerular filtration rate	phv00027364.v1 	 CBL2: Repeat evaluation for GFR tests 
+electrocardiogram	phv00154935.v2 	 P wave area, lead bpa_i 
+ positron-emission tomography	phv00072641.v2 	 If no (0) or partial (2) to PDONE: PAT scan deviation was caused by an other problem. 
+electrocardiogram	phv00009028.v3 	 ECG DONE 
+Probing measure	phv00092252.v1 	 Bleeding on Probing (BL) measure for Mesiolingual (ML) of tooth number 32 
+Neuropathy screening instrument	phv00050143.v1 	 C1b. Neuropathy screening instrument: appearance of feet (right) deformities 
+electrocardiogram	phv00123696.v1 	 ECG: II: RA 
+ doppler ultrasound (procedure) 	phv00071944.v1 	 Test date - doppler ultrasound 
+glomerular filtration rate	phv00031578.v1 	 CBL4: Repeat evaluation for GFR tests 
+FEV1	phv00128210.v1 	 BEST_FEV1 - Forced expiratory volume in 1 second, FEV1.0 from the best curve: measured in liters 
+ depression scale 	phv00106680.v1 	 DEPRESSION SCALE TOTAL 
+electrocardiogram	phv00000822.v1 	 ECG: ARRHYTHMIA, EXAM 5 
+ spirometry 	phv00072351.v2 	 REASON POST BRONCHODILATOR SPIROMETRY NOT DONE 
+FEV1	phv00070970.v1 	 Baseline FEV1 PC20 methacholine 
+electrocardiogram	phv00121709.v1 	 STATUS OF ECG'S 
+EXERCISE TEST	phv00121334.v2 	 PAD BASED ON POS EXERCISE TEST 
+electrocardiogram	phv00004002.v1 	 ECG: P-R INTERVAL (HUNDREDTHS OF SECOND) 
+x-ray	phv00001427.v1 	 X-RAY: (AFTER) RIGHT VENTRICULAR HYPERTROPHY 
+electrocardiogram	phv00001009.v1 	 ECG: LEFT VENTRICULAR HYPERTROPHY, EXAM 7 
+electrocardiogram	phv00007498.v1 	 ECG LVH: R > 11 MM IN AVL 
+electrocardiogram	phv00127310.v1 	 QRS_V4 - QRS- Amplitude in lead V4 
+electrocardiogram	phv00084550.v2 	 MINOR Q, QS WAVES WITH ST-T ABNORMALITIES 
+electrocardiogram	phv00093654.v1 	 ST SEG ELEV (92X) V1-V5      - FUP ECG 
+electrocardiogram	phv00008675.v3 	 ECG: CLINICAL READING 
+electrocardiogram	phv00161214.v1 	 Special T Wave Amplitude = the Minimum of either T Amplitude or the T Amplitude - STE. Lead II (uV) 
+x-ray	phv00001428.v1 	 X-RAY: (AFTER) ABNORMAL CONTOUR OTHER THAN ENLARGEMENT 
+Ophthalmoscopic examination	phv00049744.v1 	 F. Ophthalmoscopic examination: why do you not plan photocoagulation in the eye(s) with high risk characteristics? Unable to laser left eye - other reason 
+MNSI (Michigan Neuropathy Screening Instrument)	phv00034560.v1 	 MNSI (Michigan Neuropathy Screening Instrument): patient score > 6 
+magnetic resonance imaging 	phv00089404.v1 	 Date of MRI, 1st MRI 
+electrocardiogram	phv00009058.v3 	 ECG: ST DEPRESSION 
+glomerular filtration rate	phv00030383.v1 	 CBL3: GFR gamma count serum - t1 
+BMD	phv00161738.v1 	 Spine at L2 bone mineral density 
+FORCED VITAL CAPACITY	phv00118863.v2 	 FORCED VITAL CAPACITY, TRIAL #3 
+electrocardiogram	phv00005871.v1 	 ECG: VENTRICULAR PREMATURE BEATS 
+electrocardiogram	phv00023355.v3 	 LEAD V3, R WAVE NTCH WV VOLTAGE 
+magnetic resonance imaging	phv00064617.v2 	 CARDIAC MRI SCAN DATE, NUMBER OF DAYS SINCE EXAM 1 
+Respiratory examination	phv00001674.v1 	 RESPIRATORY SYSTEM EXAMINATION: ABNORMAL BREATH SOUNDS 
+electrocardiogram	phv00161067.v1 	 T Wave Area, Lead AVR (uVmSec) 
+electrocardiogram	phv00161215.v1 	 Special T Wave Amplitude = the Minimum of either T Amplitude or the T Amplitude - STE. Lead III (uV) 
+grip strength test	phv00101714.v1 	 WAS GRIP STRENGTH TEST DONE 
+electrocardiogram	phv00123616.v1 	 ECG: V4: RA 
+FEV6	phv00095614.v1 	 FEV(6) (liters) 
+electrocardiogram	phv00002936.v1 	 ECG: VPD DURING EXERCISE (ALL VALUES MISSING, DATA NOT MEASURED IN CORE EXAM) 
+grip strength test	phv00110305.v1 	 2ND GRIP STRENGTH (2) KG 
+autopsy	phv00081126.v1 	 If other autopsy result - specify 
+electrocardiogram	phv00021166.v4 	 ECG: NUMBER OF VENTRICULAR PREMATURE BEATS IN 
+chest examination	phv00000991.v1 	 CHEST EXAMINATION: SCOLIOSIS, EXAM 7 
+FEV1	phv00114706.v2 	 RATIO OF MAXIMUM FEV1 TO FVC 
+FEV6	phv00169395.v1 	 FEV6 pre-bronch 
+FEV1	phv00159856.v2 	 Pre/Post-bronch FEV1 volume change 
+x-ray computed tomography	phv00090355.v2 	 Date of CT Scan 
+electrocardiogram	phv00001986.v1 	 ECG: ATRIOVENTRICULAR BLOCK-INCOMPLETE 
+Neuropathy screening instrument	phv00050190.v1 	 C1b. Neuropathy screening instrument: appearance of feet (left) fissure 
+spirometry	phv00087723.v1 	 SPIROMETRY COMPLETED 
+electrocardiogram	phv00164655.v1 	 Digoxin, for EKG group 
+electrocardiogram	phv00084567.v2 	 QRS INTERVAL (MSEC) 
+glomerular filtration rate	phv00048485.v1 	 GFR (glomerular filtration rate) raw count: urine-t5 
+MEAN OF THE AORTIC VALVE SCORE	phv00066811.v2 	 MEAN OF THE AORTIC VALVE SCORE (FROM MULTIPLE OBSERVERS) - SECOND SCAN 
+electrocardiogram	phv00072014.v1 	 Date of ECG for first sleep study 
+electrocardiogram	phv00005882.v1 	 ECG: LEFT VENTRICULAR HYPERTROPHY CRITERIA S>=25MM, (R IN V5 OR V6) OR (S IN V1 OR V2) 
+slit lamp exam	phv00055067.v1 	 SLIT LAMP EXAM: LENS CHANGES: CORTICAL CUNEIFORM LENS CHANGES, O.D. 
+FEV1	phv00114704.v2 	 REPRODUCIBILITY OF MAX FEV1 (VOLUME DIF) 
+otoscopic check	phv00021759.v3 	 OTOSCOPIC CHECK 
+FORCED VITAL CAPACITY	phv00118899.v2 	 FORCED VITAL CAPACITY, TRIAL #6 
+magnetic resonance imaging	phv00024684.v3 	 VLDL PARTICLES SIZE 70+/-10 NM (EXPRESSED AS TG CONCENTRATIONS IN MG/DL) AND DETERMINED USING NMR, EXAM 4 
+electrocardiogram	phv00111954.v2 	 UAZ POSSIBLE ECG QT INTERVAL-ALTERING MEDICATION 
+x-ray computed tomography	phv00017084.v1 	 B5b. CAT scan. Head CAT scan? (Participants with European ancestry). DIGS4 
+x-ray	phv00000562.v1 	 X-RAY: NON-CARDIOVASCULAR ABNORMALITIES, EXAM 2 
+skin examination	phv00048572.v1 	 Q12. Physical examination, extremities and skin examinations: gangrene - right side 
+electrocardiogram	phv00107324.v1 	 PARTICIPANT POSITION FOR ECG 
+FEV1	phv00154573.v2 	 Accept s3 Pre  % Pred FEV1 
+Wechsler Intelligence Scale for Children	phv00032293.v1 	 WISC-R digit span: number of points 
+FORCED VITAL CAPACITY	phv00099670.v1 	 FVC PREDICTED VALUE 
+electrocardiogram	phv00123666.v1 	 ECG: I: SA 
+electrocardiogram	phv00127302.v1 	 QRS_II - QRS- Amplitude in lead II 
+x-ray computed tomography	phv00148459.v1 	 EXAM 4 CT SCANNER MODEL 
+electrocardiogram	phv00127306.v1 	 QRS_AVF - QRS- Amplitude in lead AVF 
+electrocardiogram	phv00009491.v3 	 ECG: QRS INTERVAL (HUNDREDTHS OF SECOND) 
+x-ray computed tomography	phv00169310.v1 	 CT finding: bronchial wall thickening 
+electrocardiogram	phv00155226.v2 	 P wave amplitude, lead pam_avr 
+heart examination	phv00001496.v1 	 HEART EXAMINATION: ANY MURMUR SIGNIFICANT 
+breast examination	phv00002761.v1 	 BREAST EXAMINATION: LOCALIZED MASS 
+ spirometry 	phv00083501.v1 	 OTHER SPECIFIC REASON SPIROMETRY NOT COMPLETED 
+electrocardiogram	phv00006218.v1 	 ECG - Q-T INTERVAL (HUNDREDTHS OF SECOND) 
+electrocardiogram	phv00008141.v3 	 ECG: OTHER FINDING 
+CORONARY ANGIOGRAPHY, 	phv00102688.v1 	 CORONARY ANGIOGRAPHY, HEART CATH. 
+electrocardiogram	phv00123698.v1 	 ECG: II: SA 
+electrocardiogram	phv00155563.v2 	 T Wave Amplitude, Lead I (uV) 
+breast examination	phv00001306.v1 	 BREAST EXAMINATION:  SCAR PRESENT 
+histology	phv00156579.v1 	 Histological diagnosis 
+x-ray	phv00142442.v1 	 Vertebral Thoracic Level 8 Reading for Follow-up X-ray 
+FEV1/FVC ratio	phv00113297.v2 	 FEV1/FVC, TRIAL 4 
+electrocardiogram	phv00004449.v1 	 ECG: R > 11 MM AV LEAD 
+FORCED VITAL CAPACITY	phv00071020.v1 	 FVC at follow-up visit 
+BMD	phv00065358.v2 	 WHOLEBODY LUMBAR BMD EX22 (GRAMS/CM2) 
+electrocardiogram	phv00002607.v1 	 ECG: U-WAVE 
+Wechsler Intelligence Scale for Children	phv00032346.v1 	 WISC-R block design: time needed to complete design  5 
+slit lamp exam	phv00049839.v1 	 E. Slit-lamp examination: right lens missing 
+Probing measure	phv00101258.v1 	 BL REREAD VESSEL MAX, L. POSTERIOR 
+electrocardiogram	phv00010002.v3 	 ECG DONE 
+electrocardiogram	phv00123602.v1 	 ECG: V3: SA 
+electrocardiogram	phv00009489.v3 	 ECG: VENTRICULAR RATE PER MINUTE 
+electrocardiogram	phv00164039.v1 	 Age in years at EKG measurement 
+cerebral angiography 	phv00121393.v2 	 ICH BASED ON XANTHOCHROMIC SPINAL FLUID AND CEREBRAL ANGIOGRAPHY 
+ oscillometry 	phv00114939.v2 	 AUSCULTATORY/OSCILLOMETRIC ST1 
+magnetic resonance imaging	phv00024696.v3 	 HDL PARTICLES 8.0+/-0.2 NM (EXPRESSED AS CHOLESTEROL CONCENTRATIONS IN MG/DL) AND DETERMINED USING NMR, EXAM 4 
+electrocardiogram	phv00072263.v2 	 ECG: QRS INTERVAL (HUNDREDTHS OF SECOND) 
+electrocardiogram	phv00009488.v3 	 ECG DONE 
+electrocardiogram	phv00155291.v2 	 Q wave amplitude, lead qam_avl 
+Echocardiogram	phv00094241.v1 	 ECHOCARDIOGRAM                       Q9A 
+x-ray	phv00001033.v1 	 X-RAY: (BEFORE) HEART ENLARGEMENT, EXAM 7 
+electrocardiogram	phv00123738.v1 	 ECG: III: TA 
+BMD	phv00116502.v2 	 HIP: WARDS TRIANGLE BMD 
+electrocardiogram	phv00155229.v2 	 P wave amplitude, lead pam_iii 
+glomerular filtration rate	phv00030424.v1 	 CBL3: Glomerular filtration rate - 1st period 
+BMD	phv00065306.v2 	 WHOLEBODY ARM BMD EX23 (GRAMS/CM2) 
+glomerular filtration rate	phv00027399.v1 	 CBL2: Glomerular filtration rate - 1st period 
+electrocardiogram	phv00093640.v1 	 "I1":MAJOR Q V1-V5      - 1ST ECG 
+glomerular filtration rate	phv00048515.v1 	 GFR  (glomerular filtration rate) serum count diff: baseline to t-4 
+electrocardiogram	phv00005231.v1 	 ECG: VENTRICULAR RATE PER MINUTE 
+Wechsler Intelligence Scale for Children; intelligence test/wais (procedure	phv00025375.v1 	 Object assembly: age-corrected scaled score (WAIS for adults; WISC-R for adolescents; quarterly visit 28) 
+glomerular filtration rate	phv00031000.v1 	 CBL9: GFR gamma count serum - t2 
+electrocardiogram	phv00155504.v2 	 E (end of ST segment/beginning of T wave) amplitude, lead ste_v5 
+glomerular filtration rate	phv00031725.v1 	 CBL5: GFR gamma count urine - t3 
+Rectal examination; occult blood screen	phv00004660.v1 	 RECTAL EXAM - TEST FOR OCCULT BLOOD IN STOOL - PAST TWO YEARS 
+FEV1/FVC ratio	phv00115622.v2 	 RATIO FEV1/FVC, TRIAL #1 
+electrocardiogram	phv00004903.v1 	 ECG: LEFT VENTRICULAR HYPERTROPHY 
+electrocardiogram	phv00010457.v3 	 ECG LVH: MEASURED VOLTAGE R AVL IN MM (1 MV = 10 MM STANDARD) 
+electrocardiogram	phv00155500.v2 	 E (end of ST segment/beginning of T wave) amplitude, lead ste_v1 
+electrocardiogram	phv00000571.v1 	 ECG: MYOCARDIAL INFARCTION, EXAM 2 
+electrocardiogram	phv00023303.v3 	 LEAD AVR, T  WAVE VOLTAGE 
+x-ray	phv00000865.v1 	 X-RAY: ARTHRITIS, GOUTY, EXAM 6 
+electrocardiogram	phv00001983.v1 	 ECG: INTRAVENTRICULAR BLOCK-LEFT 
+FEV1	phv00154619.v2 	 Accept Annual Visit4 Post  % Pred FEV1 
+grip strength test	phv00000683.v1 	 HAND GRIP, EXAM 4 
+electrocardiogram	phv00036357.v6 	 PR INTERVAL CYCLE 1 LEAD II (MS) (INTERVAL FROM P-WAVE ONSET TO QRS ONSET) 
+ coronary angiography 	phv00070490.v1 	 CORONARY ARTERIOGRAM (MOST RECENT ONLY) 
+electrocardiogram	phv00159164.v2 	 P Wave Area, Lead V3 (uVmSec) 
+electrocardiogram	phv00009504.v3 	 ECG: MYOCARDIAL INFARCT-ANTERIOR 
+electrocardiogram	phv00077283.v1 	 Cardiologist-generated free-text impression from first normal electrocardiogram 
+refraction assessment	phv00028780.v1 	 Refraction performed for both eyes 
+electrocardiogram	phv00072009.v1 	 Nonspecific S-T abnormality for second sleep study 
+electrocardiogram	phv00111296.v2 	 ECG pattern 
+neurobehavioral test	phv00032376.v1 	 Quality of neurobehavioral test: to what extent do you feel the information obtained is accurate? 
+electrocardiogram	phv00023356.v3 	 LEAD V4, Q  WAVE VOLTAGE 
+intelligence test/wais (procedure	phv00032237.v1 	 WAIS  arithmetic: number of points 
+glomerular filtration rate	phv00048530.v1 	 GFR  (glomerular filtration rate) -log transf.-serum count diff (t-2-3) 
+magnetic resonance imaging	phv00024690.v3 	 LDL PARTICLES 22+/-0.7 NM  (EXPRESSED AS CHOLESTEROL CONCENTRATIONS IN MG/DL) AND DETERMINED USING NMR, EXAM 4 
+glomerular filtration rate	phv00026519.v1 	 CBL00: Glomerular filtration rate - 1st period 
+electrocardiogram	phv00001989.v1 	 ECG: PREMATURE BEATS 
+electrocardiogram	phv00006225.v1 	 ECG - HEMIBLOCK 
+FEV	phv00022660.v1 	 FORCED EXPIRATORY FLOW AFTER 50% OF THE FEV  HAS BEEN EXPIRED - SUMMARY 
+intelligence test/wais (procedure	phv00024978.v1 	 Arithmetic: age-corrected score (WAIS for adults; WISC-R for adolescents at qv00) (quarterly visit 00) 
+electrocardiogram	phv00155513.v2 	 J (end of QRS) point amplitude, lead stj_v2 
+FEV1	phv00114695.v2 	 MAXIMUM FEV1 
+electrocardiogram	phv00003593.v1 	 ECG: VENTRICULAR RATE 
+electrocardiogram	phv00155533.v2 	 T wave amplitude, lead tam_avr 
+electrocardiogram	phv00001331.v1 	 ECG:  ORS INTERVAL 
+Inventory of Depression Severity (IDS)	phv00020582.v1 	 Inventory of Depression Severity (IDS) depression item 3: Waking up too early 
+BMD	phv00116530.v2 	 LATERAL: L3 BMD 
+Eye examination	phv00034441.v1 	 Examine for: left eye other fundoscopic abnormality 
+electrocardiogram	phv00155355.v2 	 Total QRS area, lead qrsr_ii 
+electrocardiogram	phv00109317.v1 	 QRS AXIS 
+electrocardiogram	phv00010460.v3 	 ECG LVH: R IN V5 OR V6: S IN V1 OR V2: S >= 25 MM 
+VENIPUCTURE	phv00086619.v2 	 LEAKAGE AT VENIPUNCTURE SITE 
+ultrasonography	phv00080620.v1 	 Time from visit 1 to ultrasound scan in days 
+glomerular filtration rate	phv00048543.v1 	 GFR  (glomerular filtration rate) coefficient of variation 
+mental test	phv00006344.v1 	 FACTORS POTENTIALLY AFFECTING MENTAL STATUS TESTING: COMA 
+glomerular filtration rate	phv00031058.v1 	 CBL8: GFR gamma count urine - background 

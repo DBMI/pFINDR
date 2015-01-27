@@ -1,0 +1,201 @@
+PhenID:::Phen Description
+phv00031628.v1 ::: How certain (0=Very uncertain; 5=moderately certain; 10=very certain) are you that you will be able to carry out  the following: test for acetone at least once/day 
+phv00116366.v2 ::: ABO BLOOD TYPE 
+phv00109264.v1 ::: DOES PTT USE AN ASSISTIVE DEVICE 
+phv00104712.v1 ::: DOES PTT USE A RIGHT ARM PROTHESIS 
+phv00105809.v1 ::: DOES PTT USE A PROTHESIS 
+phv00115941.v2 ::: WHAT PTT WAS DOING WHEN INJURED -CODE3 
+phv00115939.v2 ::: WHAT PTT WAS DOING WHEN INJURED -CODE1 
+phv00105804.v1 ::: IS PTT MISSING A LIMB 
+phv00110288.v1 ::: DOES PTT USE A RIGHT ARM PROTHESIS 
+phv00101693.v1 ::: DOES PTT USE AN ASSISTIVE DEVICE 
+phv00110289.v1 ::: DOES PTT USE A LEFT LEG PROTHESIS 
+phv00109271.v1 ::: IS PTT MISSING LEFT LEG 
+phv00104711.v1 ::: DOES PTT USE A LEFT ARM PROTHESIS 
+phv00115942.v2 ::: WHAT PTT WAS DOING WHEN INJURED -CODE4 
+phv00107482.v1 ::: DOES PTT USE A LEFT LEG PROTHESIS 
+phv00113508.v2 ::: HOW OFTEN PTT FEELS THAT OTHERS CARE? Q 8 
+phv00105799.v1 ::: CAN PTT DO A TANDEM STAND 
+phv00124099.v1 ::: Adiponectin am (pg/mL) 
+phv00027119.v1 ::: Log of AER 
+phv00081028.v1 ::: Albumin/Globulin Ratio 
+phv00009578.v3 ::: BLOOD ANALYSIS - GLUCOSE - 2 HOUR POST 
+phv00001404.v1 :::" BLOOD ANALYSIS, FASTING: VLDL BETA BAND "
+phv00001401.v1 :::" BLOOD ANALYSIS, FASTING: BETA CHOLESTEROL (MG/100 ML) "
+phv00002414.v1 :::" BLOOD ANALYSIS, HEMATOCRIT "
+phv00001383.v1 ::: BLOOD ANALYSIS: SERUM PHOSPHOLIPID (MG/100 ML) 
+phv00113708.v2 ::: CHOLESTEROL ANALYSIS DATE 
+phv00007989.v3 ::: BLOOD ANALYSIS-FASTING LIPIDS: SINKING PRE-BETA BAND 
+phv00001587.v1 :::" BLOOD ANALYSIS: FASTING LIPIDS, CHOLESTEROL - BOTTOM FRACTION (ALPHA + BETA) (SEE VARIABLE #47 FOR DECK 141 CHOLESTEROL VALUES RECORDED IN SERUM OR PLASMA UNITS.) "
+phv00007979.v3 ::: BLOOD ANALYSIS-FASTING LIPIDS ORIGIN TOP FRACTION (1.006) 
+phv00001381.v1 ::: BLOOD ANALYSIS: BETA CHOLESTEROL (MG/100 ML) 
+phv00142303.v2 :::" RNA LEVELS: APOA1, Run4, Platelet (TaqmanAssayID : Hs00163641_m1) "
+phv00142225.v2 :::" RNA LEVELS: CDKN2BAS, L, Run4, Leukocyte(AssaySequences:[forward primer: ACACAGTGCTCAAATCCATGATCT;reverse primer: CAAATTCCTGCCACTTCCTCTACT; probe: CATAGGTGGAGAACTTC]) "
+phv00032680.v1 ::: Pre-lunch blood glucose at OD 340 (close-out) 
+phv00032676.v1 ::: Pre-breakfast blood glucose at OD 340 (close-out) 
+phv00032899.v1 ::: Post-breakfast blood glucose at OD 340 (quarterly visit 11) 
+phv00033295.v1 ::: Post-breakfast blood glucose at OD 340 (quarterly visit 29) 
+phv00032771.v1 ::: Post-lunch blood glucose at OD 340 (quarterly visit 05) 
+phv00032641.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 00) 
+phv00033033.v1 ::: Pre-lunch blood glucose at OD 340 (quarterly visit 17) 
+phv00033297.v1 ::: Pre-lunch blood glucose at OD 340 (quarterly visit 29) 
+phv00033259.v1 ::: Post-supper blood glucose at OD 340 (quarterly visit 27) 
+phv00032707.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 02) 
+phv00033329.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 30) 
+phv00032721.v1 ::: Pre-breakfast blood glucose at OD 340 (quarterly visit 03) 
+phv00033411.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 34) 
+phv00033175.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 23) 
+phv00032831.v1 ::: Pre-breakfast blood glucose at OD 340 (quarterly visit 08) 
+phv00032993.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 15) 
+phv00032845.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 08) 
+phv00032705.v1 ::: Post-lunch blood glucose at OD 340 (quarterly visit 02) 
+phv00032779.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 05) 
+phv00033197.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 24) 
+phv00032635.v1 ::: Post-breakfast blood glucose at OD 340 (quarterly visit 00) 
+phv00032931.v1 ::: Bedtime blood glucose at OD 340 (quarterly visit 12) 
+phv00031331.v1 ::: Experimental group: self blood glucose monitoring - less frequent daily schedule 
+phv00027413.v1 ::: Mean blood glucose value taken from BG profile: quarterly visit 20 
+phv00007955.v3 ::: BLOOD ANALYSIS: SERUM POTASSIUM 
+phv00078515.v3 ::: High blood calcium 
+phv00100043.v1 ::: UNADJUSTED CALCULATED LDL (mg/dl) 
+phv00160505.v1 ::: CALCULATED VLDL TRIGLYCERIDES (mg/dL) FROM NMR LIPOPROFILE-3 SPECTRAL ANALYSIS 
+phv00163940.v1 ::: Values: EOMI_Case (Early MI case); EOMI_Control (Early MI control); LDL_High; LDL_Low 
+phv00171665.v1 ::: Year of the most recent study visit for which we have Leptin concentration 
+phv00171683.v1 ::: Year of the most recent study visit for which we have Total cholesterol 
+phv00171663.v1 ::: Number of study visits for which we have Leptin concentration 
+phv00077361.v3 ::: CBC Visit type 
+phv00077363.v3 ::: CBC Days since randomization/enrollment 
+phv00026602.v1 ::: Percentage of compliance with pre-supper (blood) tests 
+phv00170076.v1 ::: CK-MB within norm % or index 
+phv00034509.v1 :::" SCR (serum creatinine rate) > 2, StdClr < 70, and AER (albumin excretion rate) > 300 simultaneously "
+phv00032571.v1 ::: CBL10: Form date for 24-hr urine tests 
+phv00031219.v1 ::: Diabetes monitoring - one or two daily injection(s): blood test(s) should have done before breakfast 
+phv00025665.v1 ::: Diabetes monitoring (one or two daily injection[s]): blood test(s) done before lunch 
+phv00025995.v1 ::: Diabetes monitoring (three or more daily injections or infusion pump): blood test(s) should have done before lunch 
+phv00025651.v1 ::: Diabetes monitoring (three or more daily injections or infusion pump): blood test(s) done before lunch 
+phv00026011.v1 ::: Diabetes monitoring (one or two daily injection[s]): urine test(s) should have done before dinner 
+phv00051127.v1 ::: C5. Diagnostic tests performed. Result of test 1 
+phv00015277.v1 :::" F40.b. Oth DFA at Least 1 hour, (Participants with European ancestry). DIGS3 "
+phv00172226.v1 ::: ELISA plate number for Lp-PLA2 Mass 
+phv00111135.v2 ::: F130 Type of Estrogen Assay 
+phv00111160.v2 ::: F130 Days to Estrogen Assay 
+phv00165200.v1 ::: Age in years at Factor VII measurement 
+phv00165196.v1 ::: Blood fasting glucose at baseline in mg/dL 
+phv00066356.v1 ::: Fasting Blood Sugar 
+phv00163552.v1 ::: Fasting glucose 
+phv00078569.v3 ::: Hemoccult test ever 
+phv00163981.v1 ::: Age in years at Fibrinogen measurement 
+phv00065989.v1 :::" B5f. Health insurance coverage. If you currently have health insurance, does it provide coverage for blood glucose testing meters "
+phv00172254.v1 ::: Fructose + glucose + galactose 
+phv00172169.v1 ::: Gamma glutamyltransferase (sample type: serum) 
+phv00066340.v1 :::" Gender of participant has been confirmed with genotyping: 1 = Male, 2 = Female "
+phv00121977.v1 ::: The chip a sample was genotyped on (Platform) 
+phv00054359.v1 ::: SNP genotyping success rate: Y = at least 95% SNP genotyping success rate. (African American participants) 
+phv00073519.v1 ::: Sample IDs of samples being genotyped 
+phv00073544.v2 ::: Sample genotyping instance ID 
+phv00026497.v1 ::: CBL00: GFR serum glucose - pre-injection (mg/dl) 
+phv00027347.v1 ::: CBL2: GFR serum glucose - t3 value (mg/dl) 
+phv00030371.v1 ::: CBL3: GFR serum glucose - t2 value (mg/dl) 
+phv00030986.v1 ::: CBL9: GFR serum glucose - t1 value (mg/dl) 
+phv00026660.v1 ::: CBL6: GFR gamma count serum - t4 
+phv00031575.v1 ::: CBL4: GFR gamma count serum - t4 
+phv00028515.v1 ::: CBL7: GFR serum glucose - t4 value (mg/dl) 
+phv00048507.v1 ::: GFR (glomerular filtration rate) urine-volume: t-1 
+phv00171640.v1 ::: 2-hour glucose concentration at the first study visit 
+phv00049991.v1 :::" J6a1. Potential contributing factors,  glucose monitoring: self blood glucose "
+phv00118398.v2 :::" 3ML GRAY TUBE, 1ML SERUM(2 HR GLUCOSE). Q 28 "
+phv00029075.v1 ::: Standard treatment: performs urine glucose monitoring 
+phv00001391.v1 :::" GLUCOSE CHALLENGE: TIME OF LAST EATING, AM OR PM "
+phv00126016.v1 ::: Glucose fasting status 
+phv00126331.v1 ::: LFFQ: glucose (gm) 
+phv00126182.v1 ::: Glucose (g) 
+phv00112339.v1 ::: Baby's cord glucose 
+phv00100051.v1 ::: 2 HR GLUCOSE (mg/dl) 
+phv00094122.v1 ::: GLUCOSE (VALUE IN MG/DL)          Q4A 
+phv00032798.v1 ::: Bedtime blood glucose mg/dl (quarterly visit 06) 
+phv00032836.v1 ::: Post-lunch blood glucose mg/dl (quarterly visit 08) 
+phv00033162.v1 ::: Post-breakfast blood glucose mg/dl (quarterly visit 23) 
+phv00032886.v1 ::: Bedtime blood glucose mg/dl (quarterly visit 10) 
+phv00032774.v1 ::: Post-supper blood glucose mg/dl (quarterly visit 05) 
+phv00032926.v1 ::: Pre-supper blood glucose mg/dl (quarterly visit 12) 
+phv00033232.v1 ::: Post-lunch blood glucose mg/dl (quarterly visit 26) 
+phv00032990.v1 ::: Post-lunch blood glucose mg/dl (quarterly visit 15) 
+phv00033408.v1 ::: Post-lunch blood glucose mg/dl (quarterly visit 34) 
+phv00033362.v1 ::: Pre-lunch blood glucose mg/dl (quarterly visit 32) 
+phv00033498.v1 ::: Pre-supper blood glucose mg/dl (quarterly visit 38) 
+phv00033032.v1 ::: Pre-lunch blood glucose mg/dl (quarterly visit 17) 
+phv00032632.v1 ::: Pre-breakfast blood glucose mg/dl (quarterly visit 00) 
+phv00032794.v1 ::: Pre-supper blood glucose mg/dl (quarterly visit 06) 
+phv00033082.v1 ::: Post-supper blood glucose mg/dl (quarterly visit 19) 
+phv00033414.v1 ::: Bedtime blood glucose mg/dl (quarterly visit 34) 
+phv00030736.v1 ::: T31-blood glucose profile (bgp) 7 - mg/dl 
+phv00033264.v1 ::: Blood glucose profile 8 - mg/dl (quarterly visit 27) 
+phv00126817.v1 ::: LFFQ: glutamic acid (gm) 
+phv00050651.v1 ::: B8c3. Health care delivery. Other blood tests: paid other insurance 
+phv00094454.v1 ::: HEMATOCRIT                           Q5 
+phv00106920.v1 ::: HEMATOCRIT (%) 
+phv00165217.v1 ::: Hematocrit at designated visit (may not be baseline) in % 
+phv00021934.v3 ::: HOMOCYSTEINE 
+phv00024660.v3 ::: HOMOCYSTEINE (UMOL/L) 
+phv00121021.v2 ::: Y0 HOMOCYSTEINE (umol/L) - 2003 RUN 
+phv00066107.v1 :::" D4h. Hospitalization and other health care services used. During the past 12 months, have you had any of the following laboratory tests: dilated eye, in past 12 months "
+phv00050919.v1 :::" D4g1. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: stress test -number of times "
+phv00050912.v1 :::" D4d. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: fasting lipid test "
+phv00050930.v1 :::" D4m. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: other urine tests "
+phv00010094.v3 ::: DID YOU EVER HAVE HIGH BLOOD CHOLESTEROL (> 240 MG/DL) 
+phv00073694.v4 ::: Immunophenotype & Cytochemistry: CD15 
+phv00163819.v2 ::: Immunophenotype & Cytochemistry: CD3 % Positive 
+phv00163823.v2 ::: Immunophenotype & Cytochemistry: CD13 % Positive 
+phv00163886.v2 ::: :TEL-AML1: For FISH tested indicate % 
+phv00163883.v2 ::: :MLL: For FISH tested indicate % 
+phv00070362.v4 :::" INSULIN, PMOL/L (ELISA RESULTS WERE MULTIPLIED BY A FACTOR OF 6 TO GET PMOL/L UNITS FOR INSULIN) "
+phv00023796.v3 ::: INTERLEUKIN-6 FROM SERUM (PG/ML) 
+phv00159437.v2 :::" 1st, 2nd, 3rd, etc. culture taken for a particular subject. "
+phv00031767.v1 ::: CBL5: Lipid test - 24: collection date 
+phv00031103.v1 ::: CBL8: Lipid test - 24: collection date 
+phv00027395.v1 ::: CBL2: Lipid test - 24: collection date 
+phv00028562.v1 ::: CBL7: Lipid test - 24: collection date 
+phv00030416.v1 ::: CBL3: Lipid test - 21: collection date 
+phv00031757.v1 ::: CBL5: Renal test - 19: raw clearance value (ml/mn) 
+phv00027384.v1 ::: CBL2: Renal test - 18: patient's weight in kg 
+phv00121281.v2 ::: LDH1 & LDH2 AVAILABLE 
+phv00128717.v1 :::" REASON FOR MISSING DATA: ESTIMATED %CD8, AS A PERCENT OF LYMPHOCYTES "
+phv00128704.v1 ::: LYMPHOCYTE COUNT  x10^3/ul 
+phv00128734.v1 ::: PERCENT LYMPHOCYTES IN WHOLE BLOOD THAT ARE CD4+ 
+phv00027382.v1 ::: CBL2: Renal test - 16: creatinine (urine) value  (mg/dl) 
+phv00031596.v1 ::: CBL4: Renal test - 16: creatinine (urine) value  (mg/dl) 
+phv00116107.v2 ::: URINARY MAGNESIUM (UNADJUSTED):DAY 1 
+phv00031078.v1 ::: CBL8: 24-hr urine: urea nitrogen (mg/dl) 
+phv00031007.v1 ::: CBL9: 24-hr urine: creatinine/urine: value (mg/dl) 
+phv00030392.v1 ::: CBL3: 24-hr urine: creatinine/specimen value (mg/spec) 
+phv00124417.v1 ::: Mean corpuscular hemoglobin concentration in grams per deciliter 
+phv00094435.v1 ::: MEAN CORPUSCULAR VOLUME (MCV)     Q13 
+phv00164625.v1 ::: Mean corpuscular volume in femtoliters at designated visit (may not be baseline) 
+phv00027329.v1 ::: CBL1: Lipid test - 24: LDL cholesterol (serum) value  (mg/dl) 
+phv00027393.v1 ::: CBL2: Lipid test - 22: triglyceride (serum) value  (mg/dl) 
+phv00050429.v1 :::" B8e1. Health care delivery. During the past 6 months have you had laboratory test: stress test, how many times "
+phv00050676.v1 ::: B8h3. Health care delivery. Urine tests: paid by other insurance 
+phv00024694.v3 :::" HDL PARTICLES 9.4+/-0.6 NM (EXPRESSED AS CHOLESTEROL CONCENTRATIONS IN MG/DL) AND DETERMINED USING NMR, EXAM 4 "
+phv00126892.v1 ::: RECALL: niacin 
+phv00126946.v1 ::: RECALL: glutamic acid 
+phv00126484.v1 ::: RECALL: pantothenic acid 
+phv00126449.v1 ::: RECALL: total protein 
+phv00123982.v1 :::" ISI (0,120) = Metabolic clearance rate / log (Mean Serum Insulin) "
+phv00085016.v2 ::: NATURAL LOG TRANSFORMED C-REACTIVE PROTEIN (CRP) 
+phv00128745.v1 ::: REASON FOR MISSING DATA: PERCENT OF MONOCYTES THAT ARE TF+ IN UNSTIMULATED EXPRESSION ASSAY 
+phv00165226.v1 ::: Monocytes in absolute numbers at designated visit (may not be baseline). 
+phv00163844.v2 ::: Differential Count (Peripheral Blood): Myelocytes 
+phv00142129.v2 :::" RNA LEVELS: NPPA, Run2, Platelet (TaqmanAssayID : Hs00383231_m1) "
+phv00126354.v1 ::: LFFQ: niacin (mg) 
+phv00126616.v1 ::: SFFQ: niacin (mg) 
+phv00086534.v2 ::: NIACIN AND NICOTINIC ACID 
+phv00085923.v2 :::" HDL CHOLESTEROL, NCEP CATEGORIES "
+phv00080994.v3 ::: Interleukin-6 raw OD reading for second well 
+phv00156660.v2 ::: Osteoprotegerin raw OD reading for second well 
+phv00049318.v1 ::: O2e. Female/ reproductive: did test indicate pregnancy 
+phv00127638.v1 ::: Uric acid character result 
+phv00161369.v3 ::: PHENOTYPE SAMPLE WAS SEQUENCED FOR 
+phv00173446.v1 ::: Granule membrane protein 140 (P-selectin) (sample type: plasma) 
+phv00142180.v2 :::" RNA LEVELS: CACNB2, Run3, Platelet (TaqmanAssayID : Hs00167861_m1) "
+phv00142178.v2 :::" RNA LEVELS: B2M, Run3, Platelet (TaqmanAssayID : Hs99999907_m1) "
+phv00142341.v2 :::" RNA LEVELS: FLJ36031, Run4, Platelet (TaqmanAssayID : Hs00703139_s1) "

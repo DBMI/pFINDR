@@ -1,0 +1,200 @@
+	phv00000543.v1 	 TOBACCO USED "NOW" OR "EVER" 
+Amount	phv00000781.v1 	 HISTORY OF SMOKING: NUMBER OF CIGARETTES/DAY SMOKED NOW, EXAM 5 
+Amount	phv00000782.v1 	 HISTORY OF SMOKING: NUMBER OF PIPES/DAY SMOKED NOW, EXAM 5 
+Amount	phv00001841.v1 	 INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+	phv00001849.v1 	 CIGARETTE SMOKING ONLY: IF NOW SMOKING: INHALES CIGARETTES 
+Amount	phv00002058.v1 	 INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: CIGARS/DAY 
+Stop	phv00002061.v1 	 CIGARETTE SMOKING ONLY: STOPPED SMOKING CIGARETTES FOR LAST YEAR OR LONGER 
+Amount	phv00002241.v1 	 INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+Amount	phv00002462.v1 	 INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+Amount	phv00002981.v1 	 SMOKING HISTORY: EVER SMOKED CIGARETTES REGULARLY 
+	phv00004689.v1 	 CIGARETTE-LENGTH 
+	phv00007752.v3 	 CIGARETTE RANK 
+Amount	phv00008863.v3 	 HOW MANY CIGARETTES DO/DID YOU SMOKE PER DAY 
+	phv00009274.v3 	 CIGARETTES - DO YOU INHALE? 
+	phv00009276.v3 	 CIGARETTE-STRENGTH 
+	phv00009283.v3 	 DOES SPOUSE SMOKE NOW 
+Amount	phv00009284.v3 	 SPOUSE-CIGARETTES/DAY-TOTAL 
+Amount	phv00009286.v3 	 SPOUSE-CIGARS/DAY-TOTAL 
+	phv00009784.v3 	 FILTER OF CIGARETTES SMOKED 
+Amount	phv00010259.v3 	 SMOKED CIGARETTES REGULARLY IN LAST YEAR 
+	phv00010266.v3 	 LENGTH OF CIGARETTES SMOKED 
+	phv00010665.v3 	 RESPIRATORY: DO YOU NOW SMOKE CIGARETTES (I.E. WITHIN THE LAST WEEK)? 
+Amount	phv00010666.v3 	 RESPIRATORY: HAVE YOU EVER SMOKED CIGARETTES FOR AS LONG AS A YEAR? 
+Amount	phv00011752.v1 	 B7a. Have you ever smoked cigarettes on a daily basis? IF YES: are you currently smoking? IF YES AND EVER A CIGARETTE SMOKER: estimate number of pack-years Record: #YRS. (Participants with European ancestry). DIGS2 
+Amount	phv00015788.v1 	 J2.a.1. # of Years Smoked, (Participants with European ancestry). DIGS3 
+Amount	phv00018297.v1 	 J9.  Chain smoke.  (Participants with European ancestry). DIGS4 
+	phv00019986.v1 	 Is proband a current smoker? (Y/N/U) 
+Amount	phv00020937.v4 	 IF EVER SMOKED PIPES REGULARLY: HOW MUCH PIPE TOBACCO DO YOU SMOKE PER DAY NOW? (OZ. PER WEEK) 
+	phv00021683.v3 	 LIVE-BIRTH PREGNANCY #5: SMOKED CIGARETTES DURING  THE PREGNANCY? 
+Start; Stop; Amount	phv00024325.v1 	 Record of an individual's background with regard to smoking tobacco. This would include such factors as start date, end date (if applicable), number of cigarettes smoked, attempts to quit, and others. 
+	phv00024445.v3 	 HAVE YOU SMOKED CIGARETTES IN THE LAST 6 HOURS? (RENAMED FROM EF08) 
+	phv00025724.v1 	 Patient smoked cigarettes/cigarillos in past year 
+	phv00027710.v1 	 Pipe or cigar smoker: quarterly visit 04 
+	phv00034502.v1 	 Smoking status 
+	phv00034773.v1 	 Have you ever smoked a whole cigarette? 
+Amount	phv00034783.v1 	 How many cigarettes do you smoke in a typical day? 
+Amount	phv00035227.v1 	 How many cigarettes did you smoke on a typical day? (Participants with European ancestry) 
+	phv00035228.v1 	 During this time when you smoked the most, how soon after waking did you smoke your first cigarette? (Participants with European ancestry) 
+	phv00035230.v1 	 During this period, which one cigarette would you have hated most to give up? (Participants with European ancestry) 
+Amount	phv00035234.v1 	 How many cigarettes do you smoke in a typical day? (Participants with European ancestry) 
+	phv00044572.v1 	 Nicotine Abuse/Dependence, (Participants with European ancestry). DIGS4. Page1 
+Stop (last use)	phv00044575.v1 	 Nicotine Abuse/Dependence, age last dep., (Participants with European ancestry). DIGS4. Page1 
+Amount	phv00045300.v1 	 How many years did the person smoke, if the person is a current or former smoker? (Number of years smoked total). (See phs000004: NINDS Repository Neurologically Normal Control Collection). 
+	phv00049050.v1 	 C9a. Smoking status: past 12 months lived where person smoked 
+	phv00052664.v1 	 J11 Smoke more than intended, (African American participants). DIGS4 
+Amount	phv00053865.v2 	 HOW MANY CIGARETTES A DAY SMOKE (ALL PARTICIPANTS) 
+Amount	phv00053992.v2 	 HOW MANY CIGARETTES PER DAY SMOKE (ALL PARTICIPANTS) 
+Amount	phv00054531.v1 	 Have you smoked more than 100 cigarettes in your lifetime? (African American participants) 
+Amount	phv00054533.v1 	 How many cigarettes have you smoked in your lifetime? (African American participants) 
+	phv00054541.v1 	 Do you currently smoke cigarettes? (African American participants) 
+Stop	phv00054544.v1 	 (Months): how long has it been since you quit smoking? Years and months. (African American participants) 
+	phv00055315.v2 	 Have you ever smoked cigarettes ('ever' = at least 20 packs in lifetime)? 
+	phv00058020.v1 	 Smoking status at diagnosis 
+	phv00058344.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00058411.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00058440.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00058536.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00058661.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00058888.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00058923.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00058984.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00059208.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00059272.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00059403.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00059493.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00059592.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00059720.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00059851.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00059915.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00060392.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00060424.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00060427.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00060485.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00060491.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00060552.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00060613.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00060680.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00061227.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00061288.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00061416.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00061509.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00061544.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00061547.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00061765.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00061771.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00061861.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00061893.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00061992.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00062219.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00062245.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00062251.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00062312.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00062792.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00062824.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00063045.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00063211.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00063240.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00063464.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00063621.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00063688.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00063723.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00063845.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00063848.v2 	 1:smoker, 0:non-smoker at visit 2 
+	phv00063909.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00063947.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00063973.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00064267.v2 	 1:smoker, 0:non-smoker at visit 3 
+	phv00064485.v2 	 1:smoker, 0:non-smoker at visit 1 
+	phv00065622.v1 	 C1. Smoking status: smoke cigarettes/cigars in past year 
+Withdrawal 	phv00066363.v1 	 Withdrawal from nicotine 
+	phv00066365.v1 	 Persistent desire or unsuccessful efforts to cut down or control tobacco use 
+Amount	phv00066377.v1 	 Has participant ever smoked cigarettes daily for a month or more? 
+	phv00066380.v1 	 DSM4 nicotine dependence 
+	phv00071172.v2 	 Home exposure to smoke prior to trial enrollment 
+Amount	phv00071636.v1 	 How many cigarettes did you smoke on a typical day? 
+	phv00071639.v1 	 During this period, which one cigarette would you have hated most to give up? 
+Amount	phv00071830.v1 	 Pack-years Exposure to Cigarettes 
+Amount	phv00072092.v2 	 ON AVERAGE, SINCE YOUR LAST EXAM, HOW MANY CIGARETTES DID YOU SMOKE PER DAY? 
+stop	phv00078778.v3 	 Quit smoking because of health problems 
+	phv00079356.v3 	 Years as child lived with smoker 
+Start;amount	phv00080505.v1 	 Age 1st regularly smoked cigarettes (visit 1) 
+Amount	phv00080506.v1 	 Overall number of cigarettes per day (visit 1) 
+Amount	phv00080692.v1 	 Number of cigarettes per day (visit 1) 
+	phv00080702.v1 	 Do you smoke cigarettes now (visit 2) 
+stop (last use)	phv00080703.v1 	 When smoked last cigarette (visit 2) 
+	phv00080723.v1 	 Do you now smoke cigarettes (visit 4) 
+Amount	phv00080726.v1 	 Cigarettes smoked per day now (visit 4) 
+	phv00083241.v1 	 CIGARETTE SMOKING STATUS 
+stop (last use)	phv00083252.v1 	 CIGARS: SMOKED IN LAST 30 DAYS 
+	phv00083579.v1 	 HOURS BEFORE 1ST CIGARETTE 
+	phv00083785.v2 	 LIVE WITH A SMOKER AS A CHILD 
+Amount	phv00083788.v2 	 HOW MANY YEARS WITH ADULT SMOKER 
+	phv00083829.v2 	 SMOKE - FATHER 
+Amount	phv00085576.v2 	 SMOKED MORE THAN 20 CIGARS IN LIFETIME 
+Amount	phv00085596.v2 	 EXPOSURE TO SECOND-HAND SMOKE, HOURS PER WEEK 
+	phv00086113.v2 	 PIPE:  SMOKED IN LAST 30 DAYS 
+stop (last use)	phv00086115.v2 	 CHEWED TOBACCO:  USED IN LAST 30 DAYS 
+Amount	phv00087083.v1 	 PACK-YEARS OF CIGARETTE SMOKING 
+stop (last use)	phv00087254.v1 	 SMOKED CIGARETTES IN THE LAST 30 DAYS 
+stop (last use)	phv00087261.v1 	 AGE QUIT SMOKING CIGARS 
+	phv00087842.v1 	 CIGAR-YEARS OF EXAM 1 
+	phv00087843.v1 	 CIGAR-YEARS OF SPIROMETRY EXAM 
+	phv00092588.v1 	 DO YOU NOW SMOKE CIGARETTES          Q8 
+stop (last use)	phv00092589.v1 	 WHEN DID YOU SMOKE LAST CIGARETTE    Q9 
+	phv00092677.v1 	 CIGARETTE SMOKING STATUS 
+Amount	phv00092678.v1 	 CIGARETTE YEARS OF SMOKING 
+	phv00092679.v1 	 PIPE SMOKING STATUS 
+	phv00092785.v1 	 Former Smoker Flag 
+Amount;start	phv00094520.v1 	 AGE 1ST REGULARLY SMOKED CIGARETS Q29 
+	phv00095922.v1 	 DO YOU NOW SMOKE CIGARETTES          Q8 
+Amount	phv00098485.v1 	 Mother's cigarettes/day this pregnancy 
+	phv00100340.v1 	 PASSIVE SMOKING 
+Amount	phv00100341.v1 	 CIGS SMOKED/DAY 
+	phv00100372.v1 	 EVER SMOKED 
+Amount	phv00100373.v1 	 SMOKE AMOUNT 
+	phv00104878.v1 	 LIVED WITH SMOKER WHILE OLDER 
+Amount	phv00105890.v1 	 SMOKE AMOUNT 
+Amount	phv00106196.v1 	 EVER SMOKED MORE THAN 100 CIGARETTES 
+Amount	phv00108098.v1 	 LIVE WITH REGULAR SMOKER 
+	phv00108730.v1 	 SMOKED CIGARETTES DURING LAST 30 DAYS 
+Amount	phv00109463.v1 	 NUMBER CIGARETTES SMOKED PER DAY 
+stop (last use)	phv00110129.v1 	 SMOKED CIGARETTES DURING LAST 30 DAYS 
+Amount	phv00111939.v1 	 For current smokers, the average number of packs smoked per day (1 pack=20 cigarettes) 
+Amount	phv00112434.v2 	 LIFETIME CIGARETTE COMSUMPTION > 99. Q 4 
+	phv00113202.v2 	 EXPECTS TO SMOKE IN 5 YRS? Q 2.10 
+Amount	phv00113221.v2 	 HRS/WK PT IS EXPOSED TO SMOKE IN SM AREA. Q 10 
+	phv00113479.v2 	 PREDICTOR OF CIG. SMOKING BEHAVIOR 
+stop (last use)	phv00114103.v2 	 TIME SUBJECT LAST SMOKED. Q 1 
+Amount	phv00114548.v2 	 HOW OFTEN SMOKE INHALED? Q 2.08 
+	phv00114551.v2 	 DO YOU STILL SMOKE CIGARS? Q 3.01 
+Amount	phv00114554.v2 	 PIPEFULS, # SMOKED/WEEK. Q 4.02 
+	phv00115545.v2 	 CIGARETTE BRAND NAME 
+	phv00115574.v2 	 DO YOU STILL SMOKE CIGARS? Q 3.01 
+stop (last use)	phv00116542.v2 	 DATE SUBJECT LAST SMOKED. Q 1 
+Amount	phv00117531.v2 	 CIGARETTES, # SMOKED/DAY. Q 2.03 
+stop	phv00118758.v2 	 HOW INTERESTED IN QUITTING SMOKING. Q 2.08 
+	phv00120055.v2 	 PLAN TO CHANGE TO LOW TAR CIGARETTE. Q 2.07 
+	phv00120060.v2 	 DO YOU STILL USE SMOKELESS TOB? Q 5.01 
+Amount	phv00120074.v2 	 HRS/WK EXPOSED TO SMOKE IN HOME. Q 10 
+	phv00120699.v2 	 DID YOU SMOKE CIGARETTES 
+Amount	phv00120700.v2 	 NUMBER OF CIGARETTES 
+Amount	phv00121175.v2 	 Lifetime pack-years of cigarettes smoked @year 2 
+Amount	phv00121804.v1 	 Mother's cigarettes/day this pregnancy 
+	phv00122340.v1 	 Ever smoked cigarettes (A) 
+	phv00122547.v1 	 Inhale when smoking (C) 
+Amount	phv00123026.v1 	 Smoking: Years smoked 
+	phv00125654.v1 	 SMOKE CIGARRETES                  Q30 
+	phv00141857.v1 	 Trimester when smoking occurred 
+Amount	phv00142516.v1 	 NHS/HPFS: Cigarette smoking (pack years) as of index date. For NHS/HPFS only. 
+	phv00161541.v1 	 Participant's smoking history. 
+	phv00162800.v1 	 Score on the Wisconsin Index of Smoking Dependence Motives (WISDM) Scale (Sum of Means) 
+	phv00162830.v1 	 Tolerance to nicotine 
+Amount	phv00162832.v1 	 Using tobacco in larger amounts or over longer period than intended 
+	phv00162833.v1 	 Persistent desire or unsuccessful efforts to cut down or control tobacco use 
+	phv00163404.v1 	 Use of tobacco by subject. 
+	phv00163603.v1 	 Tobacco use prior to bariatric surgery. 
+	phv00163972.v1 	 Former smoking status at baseline [ 0=No, 1=Yes] 
+	phv00165189.v1 	 Former smoking status at baseline [0=No, 1=Yes] 
+	phv00169301.v1 	 Smoking status at index (cases) or enrollment (controls) 
+	phv00170998.v1 	 ESP_FORMER_SMOKER_BASELINE 

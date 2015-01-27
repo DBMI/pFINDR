@@ -1,0 +1,201 @@
+Gold Standard Topic for substance	Gold Standard Topic for Start; Last Use; Withdrawal; amount	PhenID	Phen Description
+cannabis		phv00053630.v1 	 Cannabis Abuse/Depend Diagnostic Confidence. (African American participants). DIGS4. Page 1 
+cannabis		phv00044579.v1 	 Cannabis Abuse/Dependence, age last dep., (Participants with European ancestry). DIGS4. Page1 
+cannabis		phv00044577.v1 	 Cannabis Abuse/Dependence, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 
+cocaine	withdrawal	phv00066426.v1	Withdrawal from cocaine
+cocaine		phv00016040.v1 	 J51. Cocaine High in Sch/Work, (Participants with European ancestry). DIGS3 
+cocaine		phv00016106.v1 	 J56. Cocaine 2 Sx's >= 1 Mth, (Participants with European ancestry). DIGS3 
+cocaine		phv00018487.v1 	 J51. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine		phv00052696.v1 	 J34a Cocaine, (African American participants). DIGS4 
+cocaine		phv00052759.v1 	 J41 Cocaine, (African American participants). DIGS4 
+cocaine		phv00114773.v2	DAYS USED COCAINE/CRACK: PAST 30 DAYS
+cocaine		phv00032039.v1 	 Cocaine taken during pregnancy 
+cocaine		phv00016030.v1 	 J50. Cocaine use Objections, (Participants with European ancestry). DIGS3 
+cocaine	Start	phv00066445.v1	Age onset of DSM4 cocaine dependence
+cocaine		phv00115781.v2	USED COCAINE, PAST 24 HOURS. Q 12
+cocaine		phv00052799.v1 	 J48 Cocaine, (African American participants). DIGS4 
+cocaine		phv00164988.v1	Cocaine Dependence
+cocaine		phv00015930.v1 	 J41. Cocaine - Tried to Reduce, (Participants with European ancestry). DIGS3 
+cocaine		phv00016081.v1 	 J53.f. Cocaine Cont'd After Prob, (Participants with European ancestry). DIGS3 
+cocaine	Start	phv00015917.v1 	 J38.c. Age First Cocaine Use, (Participants with European ancestry). DIGS3 
+cocaine		phv00119018.v2	EVER INJECTED COCAINE. Q 12
+cocaine		phv00053634.v1	Cocaine Abuse/Depend Diagnostic Confidence. (African American participants). DIGS4. Page 1
+cocaine		phv00018427.v1 	 J41. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine		phv00015945.v1 	 J43.a. Cocaine - 50% More, (Participants with European ancestry). DIGS3 
+cocaine		phv00162875.v1 	 Cocaine use despite knowledge of persistent or recurrent physical or psychological problems likely to have been caused or exacerbated by cocaine 
+cocaine		phv00018406.v1 	 J38. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine		phv00053635.v1 	 Cocaine Abuse/Depend AAO. (African American participants). DIGS4. Page 1 
+cocaine	withdrawal	phv00015970.v1 	 J46.c. Cocaine W/D Tired, (Participants with European ancestry). DIGS3 
+cocaine		phv00052743.v1 	 J39 Cocaine, (African American participants). DIGS4 
+cocaine		phv00016056.v1 	 J53.a. Cocaine Use Depressed, (Participants with European ancestry). DIGS3 
+cocaine		phv00016116.v1	J56.b. Cocaine Age Last 2 Sx's, (Participants with European ancestry). DIGS3
+cocaine		phv00066428.v1 	 Persistent desire or unsuccessful efforts to cut down or control cocaine use 
+cocaine		phv00052819.v1 	 J51 Cocaine, (African American participants). DIGS4 
+cocaine		phv00118996.v2 	 EVER USED OTHER FORMS OF COCAINE. Q 6 
+cocaine		phv00018492.v1 	 J51a. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine	Amount	phv00066427.v1 	 Using cocaine in larger amounts or over longer period than intended 
+cocaine		phv00052769.v1 	 J43 Cocaine, (African American participants). DIGS4 
+cocaine		phv00120099.v2	EVER USED OTHER FORMS OF COCAINE. Q 5
+cocaine		phv00117165.v2 	 EVER INJECTED COCAINE. Q 12 
+cocaine	Last Use	phv00066446.v1	Age recency of DSM4 cocaine dependence
+cocaine	Amount	phv00066427.v1	Using cocaine in larger amounts or over longer period than intended
+cocaine		phv00066443.v1 	 Number of cocaine symptoms endorsed 
+cocaine		phv00036128.v1 	 G30a. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine	Amount	phv00114773.v2 	 DAYS USED COCAINE/CRACK: PAST 30 DAYS 
+cocaine		phv00066443.v1 	 Number of cocaine symptoms endorsed 
+cocaine	Amount	phv00114772.v2	TMS USED COCAINE/CRACK IN LIFE
+cocaine	withdrawal	phv00015960.v1	J46.a. Cocaine W/D Depressed, (Participants with European ancestry). DIGS3
+cocaine	Amount	phv00118998.v2 	 DAYS USED COCAINE: PAST 30 DAYS. Q 7 
+cocaine		phv00018391.v1 	 J35. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine	Amount	phv00117157.v2 	 TIMES USED OTHER FORMS OF COCAINE IN LIF. Q 6 
+cocaine		phv00018447.v1 	 J45. Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine		phv00052841.v1 	 J53a Cocaine, (African American participants). DIGS4 
+cocaine	withdrawal	phv00066426.v1	Withdrawal from cocaine
+cocaine		phv00162883.v1 	 Number of cocaine symptoms endorsed 
+cocaine		phv00015899.v1 	 J38.a. Ever Used Cocaine, (Participants with European ancestry). DIGS3 
+cocaine		phv00012314.v1 	 G30. Were you using cocaine or other street drugs or were you drinking more than usual just before this episode began? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 
+cocaine		phv00053636.v1 	 Cocaine Abuse/Depend Age last dep. (African American participants). DIGS4. Page 1 
+cocaine		phv00018057.v1 	 G58a.  Cocaine.  (Participants with European ancestry). DIGS4 
+cocaine		phv00016081.v1	J53.f. Cocaine Cont'd After Prob, (Participants with European ancestry). DIGS3
+cocaine		phv00066443.v1 	 Number of cocaine symptoms endorsed 
+cocaine	Amount	phv00118997.v2	TIMES USED OTHER FORM OF COCAINE IN LIFE. Q 6
+cocaine		phv00066446.v1 	 Age recency of DSM4 cocaine dependence 
+cocaine	Amount	phv00115768.v2	TIMES USED OTHER FORMS OF COCAINE IN LIF
+cocaine	withdrawal	phv00015960.v1 	 J46.a. Cocaine W/D Depressed, (Participants with European ancestry). DIGS3 
+cocaine		phv00066444.v1 	 DSM4 cocaine dependence 
+cocaine		phv00044580.v1 	 Cocaine Abuse/Dependence, (Participants with European ancestry). DIGS4. Page1 
+cocaine		phv00066443.v1	Number of cocaine symptoms endorsed
+cocaine		phv00066431.v1 	 Cocaine use despite knowledge of persistent or recurrent physical or psychological problem likely to have been caused or exacerbated by cocaine 
+cocaine		phv00016066.v1 	 J53.c. Cocaine Use Confused, (Participants with European ancestry). DIGS3 
+cocaine		phv00016071.v1 	 J53.d. Cocaine Use Halns, (Participants with European ancestry). DIGS3 
+cocaine		phv00052733.v1 	 J37 Cocaine, (African American participants). DIGS4 
+cocaine		phv00015935.v1 	 J42. Cocaine - Could not Stop, (Participants with European ancestry). DIGS3 
+heroin	Amount	phv00114778.v2 	 TIMES USED HEROIN IN LIFE 
+heroin		phv00115783.v2 	 USED HEROIN, PAST 24 HOURS. Q 12 
+heroin		phv00115773.v2 	 USED HEROIN IN LIFE. Q 9 
+heroin		phv00119020.v2 	 EVER INJECTED HEROIN. Q 12 
+heroin		phv00089106.v1 	 Heroin/lifetime 
+heroin		phv00117167.v2 	 EVER INJECTED HEROIN. Q 12 
+heroin	Amount	phv00119013.v2 	 TIMES USED HEROIN: PAST 30 DAYS. Q 11 
+heroin		phv00117162.v2 	 USED HEROIN IN LIFE. Q 10 
+marijuana		phv00162868.v1 	 Age recency of DSM4 marijuana dependence 
+marijuana	Amount	phv00117151.v2 	 DAYS USED MARIJUANA: PAST 30 DAYS. Q 2 
+marijuana		phv00022934.v1	Age when last used marijuana
+marijuana		phv00114780.v2	USED MARIJUANA, PAST 24 HOURS
+marijuana	Amount	phv00022902.v1	Using marijuana in larger amounts or over longer period than intended
+marijuana	Amount	phv00120096.v2 	 DAYS USED MARIJUANA: PAST 30 DAYS. Q 2 
+marijuana		phv00012617.v1	J14. Did your marijuana use ever cause you to have legal problems, such as arrests for disorderly conduct, possession or selling? (Participants with European ancestry). DIGS2
+marijuana		phv00022900.v1	Tolerance to marijuana
+marijuana	withdrawal	phv00162856.v1 	 Withdrawal from marijuana 
+marijuana		phv00089094.v1 	 Marijuana/lifetime 
+marijuana		phv00012600.v1 	 J4b. While using marijuana did you ever have any psychological problems, such as feeling depressed, feeling paranoid, having trouble thinking clearly, hearing or seeing or smelling things, or feeling jumpy? (IF YES:)  Specify: which problems, read appropriate sub questions to confirm response and code. Specify: feeling paranoid or suspicious of people for more than 24 hours to the point that it interfered with your relationships? (Participants with European ancestry). DIGS2 
+marijuana	Amount	phv00022902.v1 	 Using marijuana in larger amounts or over longer period than intended 
+marijuana		phv00114767.v2	EVER USED MARIJUANA (1=NO, 2=YES)
+marijuana	Amount	phv00115763.v2 	 DAYS USED MARIJUANA: PAST 30 DAYS. Q 2 
+marijuana	Amount	phv00117150.v2	TIMES USED MARIJUANA IN LIFE. Q 1
+marijuana	withdrawal	phv00022901.v1 	 Withdrawal from marijuana 
+marijuana	Start	phv00022909.v1 	 Age onset of DSM4 marijuana dependence 
+marijuana		phv00012603.v1 	 J4e. While using marijuana did you ever have any psychological problems, such as feeling depressed, feeling paranoid, having trouble thinking clearly, hearing or seeing or smelling things, or feeling jumpy? (IF YES:) Specify: feeling jumpy or easily startled or nervous to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 
+marijuana		phv00022934.v1 	 Age when last used marijuana 
+marijuana 		phv00164993.v1 	 Marijuana Dependence 
+marijuana; cocaine; opiate		phv00066584.v1 	 Has participant ever used drugs other than marijuana, cocaine or opiates? 
+marijuana; cocaine; opiate	Start	phv00066589.v1 	 Age onset of DSM4 dependence on drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00066581.v1	Great amount of time spent in activities necessary to obtain, use or recover from the effects of drugs other than marijuana, cocaine or opiates
+marijuana; cocaine; opiate		phv00066586.v1 	 Age when last used drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate	Start	phv00066585.v1 	 Age when first used drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00162910.v1 	 Age recency of DSM4 dependence on drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00066590.v1 	 Age recency of DSM4 dependence on drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00162904.v1 	 Has participant ever used drugs other than marijuana, cocaine or opiates? 
+marijuana; cocaine; opiate		phv00066587.v1 	 Number of symptoms endorsed for drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00066583.v1 	 Use of drugs other than marijuana, cocaine or opiates despite knowledge of persistent or recurrent physical or psychological problems likely to have been caused or exacerbated by drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00162897.v1 	 Tolerance to drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate	Start	phv00066589.v1 	 Age onset of DSM4 dependence on drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00066586.v1 	 Age when last used drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiate		phv00162908.v1 	 DSM4 dependence on drugs other than marijuana, cocaine or opiates 
+marijuana; cocaine; opiates	Start		Age onset of DSM4 dependence on drugs other than marijuana, cocaine or opiates
+marijuana; cocaine; opiates		phv00066588.v1	DSM4 dependence on drugs other than marijuana, cocaine or opiates
+marijuana; cocaine; opiates	Start	phv00066589.v1	Age onset of DSM4 dependence on drugs other than marijuana, cocaine or opiates
+marijuana; cocaine; opiates		phv00066586.v1	Age when last used drugs other than marijuana, cocaine or opiates
+marijunana	Amount	phv00118987.v2 	 DAYS USED MARIJUANA: PAST 30 DAYS. Q 2 
+nicotine		phv00066362.v1 	 Tolerance to nicotine 
+nicotine		phv00113208.v2 	 1985 FTC NICOTINE OF CURRENT BRAND 
+nicotine		phv00162830.v1 	 Tolerance to nicotine 
+nicotine	withdrawal	phv00066363.v1 	 Withdrawal from nicotine 
+opiate		phv00162879.v1 	 Persistent desire or unsuccessful efforts to cut down or control opiates use 
+opiate		phv00066437.v1 	 Gave up or reduced important social, occupational, or recreational activities because of opiate use 
+opiate		phv00052777.v1 	 J44 Opiates, (African American participants). DIGS4 
+opiate		phv00052736.v1	J37 Opiates, (African American participants). DIGS4
+opiate		phv00052731.v1 	 J36 Opiates, (African American participants). DIGS4 
+opiate		phv00066450.v1 	 DSM4 opiate dependence 
+opiate		phv00053646.v1 	 Opiate Abuse/Depend Diagnostic Confidence. (African American participants). DIGS4. Page 1 
+opiate		phv00066438.v1 	 Opiate use despite knowledge of persistent or recurrent physical or psychological problem likely to have been caused or exacerbated by opiates 
+opiate		phv00018404.v1 	 J37. Opiates.  (Participants with European ancestry). DIGS4 
+opiate		phv00119010.v2 	 WHICH OPIATE? MORPHINE. Q 10 
+opiate		phv00066440.v1 	 Has participant ever used opiates? 
+opiate	withdrawal	phv00066433.v1 	 Withdrawal from opiates 
+opiate	Start	phv00066451.v1 	 Age onset of DSM4 opiate dependence 
+opiate		phv00052736.v1 	 J37 Opiates, (African American participants). DIGS4 
+opiate		phv00018430.v1 	 J41. Opiates.  (Participants with European ancestry). DIGS4 
+opiate		phv00052787.v1 	 J46 Opiates, (African American participants). DIGS4 
+opiate		phv00018480.v1	J49. Opiates.  (Participants with European ancestry). DIGS4
+opiate		phv00053648.v1	Opiate Abuse/Depend Age last dep. (African American participants). DIGS4. Page 1
+opiate		phv00066449.v1 	 Number of opiate symptoms endorsed 
+opiate	Start	phv00162894.v1	Age onset of DSM4 opiate dependence
+opiate		phv00052708.v1 	 J34b Opiates, (African American participants). DIGS4 
+opiate		phv00052817.v1 	 J50 Opiates, (African American participants). DIGS4 
+opiate		phv00052832.v1	J51b Opiates, (African American participants). DIGS4
+opiate		phv00162881.v1 	 Gave up or reduced important social, occupational, or recreational activities because of opiate use 
+opiate		phv00018490.v1	J51. Opiates.  (Participants with European ancestry). DIGS4
+opiate		phv00018450.v1 	 J45. Opiates.  (Participants with European ancestry). DIGS4 
+opiate;morphine		phv00120109.v2 	 WHICH OPIATE? MORPHINE. Q 9b 
+opiate		phv00018445.v1 	 J44. Opiates.  (Participants with European ancestry). DIGS4 
+opiate		phv00162884.v1 	 Number of opiate symptoms endorsed 
+opiate		phv00018475.v1	J48b. Opiates.  (Participants with European ancestry). DIGS4
+opiate		phv00066448.v1 	 Age when last used opiates 
+opiate; dilaudid		phv00120108.v2 	 WHICH OPIATE? DILAUDID. Q 9b 
+opiate		phv00018485.v1	J50. Opiates.  (Participants with European ancestry). DIGS4
+opiate		phv00052797.v1 	 J47b Opiates, (African American participants). DIGS4 
+opiate		phv00066449.v1 	 Number of opiate symptoms endorsed 
+opiate		phv00120113.v2	OTHER TYPE OF OPIATE USED. Q 9b
+opiate		phv00066450.v1 	 DSM4 opiate dependence 
+opiate		phv00052844.v1 	 J53d Opiates, (African American participants). DIGS4 
+opiate	withdrawal	phv00066433.v1 	 Withdrawal from opiates 
+opiate		phv00066432.v1 	 Tolerance to opiates 
+opiate	withdrawal	phv00066433.v1	Withdrawal from opiates
+opiate		phv00066435.v1 	 Persistent desire or unsuccessful efforts to cut down or control opiates use 
+opiate		phv00052827.v1	J51a Opiates, (African American participants). DIGS4
+opiate		phv00052827.v1 	 J51a Opiates, (African American participants). DIGS4 
+opiate; demerol		phv00120110.v2 	 WHICH OPIATE? DEMEROL. Q 9b 
+opiate		phv00018440.v1 	 J43. Opiates.  (Participants with European ancestry). DIGS4 
+opiate	Amount	phv00066434.v1 	 Using opiates in larger amounts or over longer period than intended 
+opiate		phv00066432.v1 	 Tolerance to opiates 
+opiate 		phv00018517.v1 	 J53d.  Opiates.  (Participants with European ancestry). DIGS4 
+opiates		phv00066450.v1	DSM4 opiate dependence
+opioid		phv00016079.v1 	 J53.e. Opioids Use Jumpy/Nervous, (Participants with European ancestry). DIGS3 
+opioid		phv00044595.v1	Opiate Abuse/Dependence, age last dep., (Participants with European ancestry). DIGS4. Page1
+opioid		phv00016089.v1 	 J54. Opioids Dangerous Behav, (Participants with European ancestry). DIGS3 
+opioid		phv00016028.v1 	 J49.a. Opioids Use Continued, (Participants with European ancestry). DIGS3 
+opioid		phv00016109.v1 	 J56. Opioids 2 Sx's >= 1 Mth, (Participants with European ancestry). DIGS3 
+opioid	withdrawal	phv00016001.v1	J46.l. Opioids W/D Yawn, (Participants with European ancestry). DIGS3
+opioid		phv00016104.v1 	 J55.b. Opioids Age Last 3 Sx's, (Participants with European ancestry). DIGS3 
+opioid	withdrawal	phv00015983.v1	J46.e. Opioids W/D Appetite Chg, (Participants with European ancestry). DIGS3
+opioid	Start	phv00016114.v1 	 J56.a. Opioids Age First 2 Sx's, (Participants with European ancestry). DIGS3 
+opioid		phv00015948.v1 	 J43.a. Opioids - 50% More, (Participants with European ancestry). DIGS3 
+opioid		phv00016053.v1 	 J53. Opioids Psych Problems, (Participants with European ancestry). DIGS3 
+opioid 	withdrawal	phv00015989.v1 	 J46.g. Opioids W/D Sweat/Fever, (Participants with European ancestry). DIGS3 
+stimlant		phv00053644.v1 	 Stimulant Abuse/Depend Age last dep. (African American participants). DIGS4. Page 1 
+stimulant; concerta		phv00017407.v1 	 E6. Concerta. Stimulants.(Participants with European ancestry). DIGS4 
+stimulant		phv00052755.v1 	 J41.0 Select stimulants, (African American participants). DIGS4 
+stimulant		phv00052780.v1 	 J45 Stimulants, (African American participants). DIGS4 
+stimulant		phv00015101.v1 	 E6. Stimulants Other Stimulant 1, (Participants with European ancestry). DIGS3 
+stimulant		phv00017414.v1 	 E6. Other drug name. Stimulants. (Participants with European ancestry). DIGS4 
+stimulant		phv00018448.v1	J45. Stimulants.  (Participants with European ancestry). DIGS4
+stimulant		phv00052744.v1 	 J39 Stimulants, (African American participants). DIGS4 
+stimulant		phv00044590.v1 	 Stimulant Abuse/Dependence, AAO (affective age of onset) , (Participants with European ancestry). DIGS4. Page1 
+stimulant		phv00044588.v1 	 Stimulant Abuse/Dependence, (Participants with European ancestry). DIGS4. Page1 
+stimulant		phv00052790.v1 	 J47 Stimulants, (African American participants). DIGS4 
+stimulant		phv00052795.v1 	 J47b Stimulants, (African American participants). DIGS4 
+stimulant		phv00018402.v1 	 J37. Stimulants.  (Participants with European ancestry). DIGS4 
+stimulant		phv00018463.v1 	 J47b. Stimulants.  (Participants with European ancestry). DIGS4 
+stimulant		phv00052706.v1 	 J34b Stimulants, (African American participants). DIGS4 
+stimulant		phv00018458.v1 	 J47. Stimulants.  (Participants with European ancestry). DIGS4 

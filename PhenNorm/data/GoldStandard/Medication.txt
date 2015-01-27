@@ -1,0 +1,201 @@
+GOLD STANDARD CATEGORY	PhenID	Phen Description
+Acetaminophen	phv00122908.v1 	 Meds: Acetaminophen 
+Acetaminophen	phv00123181.v1 	 74 On average, how many tablets acetaminophen taken 
+Acetylcholine esterase inhibitors	phv00086503.v2 	 ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH'S 
+Acetylcholine esterase inhibitors	phv00110634.v1 	 Acetylcholine esterase inhibitors for Al 
+BETA BLOCKER	phv00007292.v1 	 BETA BLOCKER GROUP 
+BETA BLOCKER; DIURETIC	phv00105031.v1 	 Beta-blockers with diuretics 
+BETA BLOCKER; DIURETIC	phv00086924.v2 	 BETA-BLOCKERS WITH DIURETICS 
+ALLOPURINOL	phv00053894.v2 	 YEARS TAKING ALLOPURINOL (ALL PARTICIPANTS) 
+ angiotensin II antagonists	phv00099575.v1 	 Combinations of angiotensin II antagonists 
+ ACE INHIBITORS;DIURETIC	phv00086002.v2 	 ACE INHIBITORS WITH DIURETICS 
+ ACE INHIBITORS 	phv00106435.v1 	 ACE Inhibitors without diuretics 
+RENIN-ANGIOTENSIN BLOCKING DRUGS	phv00009191.v3 	 RENIN-ANGIOTENSIN BLOCKING DRUGS 
+ANTI-ARRHYTHMICS	phv00083093.v1 	 ANTI-ARRHYTHMICS, CLASS 1C 
+ANTI-ARRHYTHMICS	phv00103076.v1 	 Anti-arrhythmics, class 1C 
+Non-steroidal anti-inflammatory agents,	phv00056974.v1 	 Non-steroidal anti-inflammatory agents, excluding aspirin 
+Tricyclic anti-depressants	phv00107426.v1 	 Tricyclic anti-depressants 
+Antineoplastic agents	phv00173653.v1 	 Antineoplastic agents that have been prescribed to the patient 
+arginine	phv00127076.v1 	 SFFQ: arginine (gm) 
+ASPIRIN	phv00054305.v2 	 OTHER REGULAR-STRENGTH ASPIRIN NAME (ALL PARTICIPANTS) 
+ASPIRIN	phv00127944.v1 	 33: Now taking aspirin? 
+ASPIRIN	phv00056788.v1 	 Aspirin:  the last two weeks, did you take any aspirin or aspirin-containing medicines such as Bufferin, Anacin, or Ascriptin 
+ASPIRIN	phv00034122.v1 	 Average number of aspirin or other prostaglandin inhibitors - containing tablets per month 
+ASPIRIN	phv00086003.v2 	 ASPIRIN FROM 280804 (ANTI-INFLAM AGENTS) 
+ASPIRIN	phv00006877.v1 	 ASPIRIN: USUAL ASPIRIN DOSE 
+ASPIRIN	phv00010183.v3 	 ASPIRIN: USUAL ASPIRIN DOSE FOR ABOVE 
+Benzodiazepines Restoril	phv00015058.v1 	 E6. Benzodiazepines Restoril, (Participants with European ancestry). DIGS3 
+caffeine	phv00127086.v1 	 SFFQ: caffeine (mg) 
+caffeine	phv00095443.v1 	 Caffeine (mg) 
+CALCIUM CHANNEL BLOCKER	phv00007288.v1 	 CALCIUM CHANNEL BLOCKER GROUP 
+CALCIUM CHANNEL BLOCKER	phv00009178.v3 	 CALCIUM CHANNEL BLOCKERS 
+CALCIUM CHANNEL BLOCKER	phv00106457.v1 	 T-type calcium-channel blocker 
+CALCIUM CHANNEL BLOCKER	phv00086950.v2 	 IMMEDIATE-RELEASE CCBS = NIFIR OR DIHIR OR VERIR OR DLTIR 
+ CARDIAC GLYCOSIDES 	phv00008780.v3 	 CARDIAC GLYCOSIDES 
+CARDIOVASCULAR MEDICATIONS	phv00008779.v3 	 ANY CARDIOVASCULAR MEDICATIONS? 
+BETA BLOCKER; CARDIOVASCULAR MEDICATIONS	phv00006466.v1 	 CARDIOVASCULAR MEDICATIONS - BETA BLOCKERS (SPECIFY) 
+ANTI-ARRHYTHMICS; CARDIOVASCULAR MEDICATIONS	phv00010176.v3 	 CARDIOVASCULAR MEDICATIONS: ANTI-ARRHYTHMICS (QUINIDINE, PROCAINAMIDE, AMIODARONE, SOTALOL DISOPYRAMIDE, ETC.) 
+CALCIUM CHANNEL BLOCKER; CALCIUM CHANNEL BLOCKER	phv00007287.v1 	 CARDIOVASCULAR MEDICATIONS: CALCIUM CHANNEL BLOCKERS 
+RENIN-ANGIOTENSIN BLOCKING DRUGS;CARDIOVASCULAR MEDICATIONS	phv00010172.v3 	 CARDIOVASCULAR MEDICATIONS: RENIN-ANGIOTENSIN BLOCKING DRUGS (ACE) (CAPTOPRIL, ENALAPRIL, LISINOPRIL) 
+ANTI-CHOLESTEROL DRUGS	phv00010187.v3 	 NON-CARDIOVASCULAR MEDICATIONS: ANTI-CHOLESTEROL DRUGS (STATINS - E.G. LOVASTATIN, PRAVASTATIN) 
+CARDIOVASCULAR MEDICATIONS	phv00173730.v1 	 Cardiovascular agents that have been prescribed to the patient 
+ PERIPHERAL VASODILATORS; CARDIOVASCULAR MEDICATIONS	phv00007304.v1 	 CARDIOVASCULAR MEDICATIONS: PERIPHERAL VASODILATORS (HYDRALAZINE, MINOXIDIL, ETC) 
+ANTI-HYPERTENSIVES; CARDIOVASCULAR MEDICATIONS	phv00006869.v1 	 CARDIOVASCULAR MEDICATIONS: OTHER ANTI-HYPERTENSIVES 
+ Cocaine	phv00018477.v1 	 J49. Cocaine.  (Participants with European ancestry). DIGS4 
+ Cocaine	phv00018401.v1 	 J37. Cocaine.  (Participants with European ancestry). DIGS4 
+ Cocaine	phv00016040.v1 	 J51. Cocaine High in Sch/Work, (Participants with European ancestry). DIGS3 
+Ultralente insulin	phv00065683.v1 	 F3. Diabetes management: units Ultralente insulin used - other 
+NPH insulin	phv00048670.v1 	 F3. Diabetes management: units NPH insulin used-supper 
+insulin	phv00048962.v1 	 F4. Diabetes management: total number of units/day of insulin 
+Heroin	phv00169156.v2 	 Heroin Use 
+Phenylalanine	phv00156479.v2 	 Dietary Phenylalanine (g) 
+Tryptophan 	phv00156483.v2 	 Dietary Tryptophan (g) 
+diltiazem 	phv00108248.v1 	 Immediate-release diltiazem 
+DIURETIC	phv00104462.v1 	 Any diuretic 
+DIURETIC	phv00086931.v2 	 ANY DIURETIC 
+Medication	phv00095245.v1 	 MEDICATION CODE NO. -- REPLACES Q7C 
+Medication	phv00083806.v2 	 NAME OF 3RD MEDICATION 
+Medication	phv00095290.v1 	 TAKE MEDICATION L IN PAST 24 HRS? Q15D 
+Medication	phv00102833.v1 	 STOP ANY MEDICATION IN PAST MONTH 
+Medication	phv00095224.v1 	 MEDICATION CODE NO. -- REPLACES Q04B 
+Medication	phv00114475.v2 	 MEDICATION NUMBER. Q 4.03A 
+Medication	phv00095109.v1 	 TAKE MEDICATION K IN PAST 24 HRS? Q14D 
+lipid-lowering medication	phv00104463.v1 	 Any lipid-lowering medication 
+Medication	phv00105635.v1 	 DAYS TOOK THIS MEDICINE IN LAST TWO WEEK 
+HORMONE 	phv00118693.v2 	 MEDICATION NUMBER: HORMONE MED 
+Medication	phv00108767.v1 	 STOP ANY MEDICATION IN PAST MONTH 
+Medication	phv00065927.v1 	 P12a. Medication, grade of right femoral pulse 
+Medication	phv00015714.v1 	 I 30. ETOH+Drugs Dangerous Mix, (Participants with European ancestry). DIGS3 
+Medication	phv00108147.v1 	 NAME OF FIRST MEDICATION CHANGED 
+Medication	phv00158561.v1 	 Medication ongoing - coded fields 
+Medication	phv00053417.v1 	 B6 Medication (row 25), (African American participants). DIGS4 
+Medication	phv00019156.v1 	 Q11.  Use of pills, drugs.  (Participants with European ancestry). DIGS4 
+Medication	phv00095158.v1 	 MEDICATION CODE (AHF CODE) - Q11B 
+Medication	phv00095055.v1 	 MEDICATION CODE (AHF CODE) - Q11B 
+OSTEOPOROSIS MEDICATIONS	phv00007352.v1 	 NONCARDIOVASCULAR MEDICATIONS: OSTEOPOROSIS MEDICATIONS 
+medication for sleep 	phv00079032.v3 	 Take medication for sleep 
+ANTI-PARKINSON DRUGS	phv00005618.v1 	 MEDICATION USE: ANTI-PARKINSON DRUGS (SINEMET, L-DOPA, SYMMETREL, COGENTIN, ETC.) 
+Medication	phv00095001.v1 	 GET MEDICATIONS INFO LATER?       Q3 
+Medication	phv00102090.v1 	 TAKE ANY MEDICATIONS 
+Medication	phv00087382.v1 	 TOTAL MEDICATIONS 
+Antidepressants	phv00011963.v1 	 E4. Have you ever taken medications for your nerves or any emotional or mental problems? Antidepressants: Wellbutrin. (Participants with European ancestry). DIGS2 
+ Marplan	phv00011965.v1 	 E4. Have you ever taken medications for your nerves or any emotional or mental problems? MAOI's:  Marplan. (Participants with European ancestry). DIGS2 
+Medication	phv00066848.v5 	 Description/Label for chemical subgroup - fourth drug in compound 
+Medication	phv00012668.v1 	 J22. Did you ever need larger amounts of (drug) to get an effect, or find that you could no longer get high on the amount you used to use? INTERVIEWER: code YES if at least 50% more use. C SED. (Participants with European ancestry). DIGS2 
+Medication	phv00012775.v1 	 J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 
+Medication	phv00012741.v1 	 J28. Did using (drug) cause you to have any other physical health problems (other than withdrawal)? B STIM. (Participants with European ancestry). DIGS2 
+Medication	phv00011723.v1 	 B5. If yes to B5, specify medication, dosage and duration (Med 4 R's response). (Participants with European ancestry). DIGS2 
+Medication	phv00169349.v1 	 Emphysema: received medical treatment or used medications/inhaler 
+ ESTROGEN	phv00107253.v1 	 TOOK ESTROGEN IN THE PAST 
+ ESTROGEN	phv00108754.v1 	 SPECIFY OTHER REASONS FOR TAKING ESTROGEN 
+ ESTROGEN	phv00108114.v1 	 DAYS PER MONTH TAKE ESTROGEN 
+ ESTROGEN	phv00109716.v1 	 Estrogens,  excluding vaginal creams 
+ ESTROGEN	phv00104934.v1 	 YEAR STOPPED TAKING ESTROGEN 
+ ESTROGEN	phv00079644.v3 	 Estrogen pill past year 
+ ESTROGEN	phv00108124.v1 	 DAYS PER MONTH TOOK ESTROGEN 
+ ESTROGEN	phv00108130.v1 	 TOOK ESTROGEN TO PREVENT OTHER SYMPTOMS 
+ ESTROGEN	phv00078016.v3 	 Did you use an estrogen patch? 
+ ESTROGEN	phv00089316.v1 	 Estrogen - Exam 18 
+ ESTROGEN	phv00077852.v3 	 Estrogen pill dose per day 
+ ESTROGEN	phv00078020.v3 	 Estrogen shots 
+ ESTROGEN	phv00077854.v3 	 Months took estrogen shots 
+oral contraceptives 	phv00065866.v1 	 O6a. Female/reproductive: now uses oral contraceptives 
+Progestin	phv00006929.v1 	 FEMALE HORMONE REPLACEMENT: DOSE/DAY OF PROGESTIN 
+ Premarin; estrogen	phv00007363.v1 	 FEMALE HORMONE REPLACEMENT: DOSE/DAY OF PREMARIN CONJUGATED ESTROGENS, OR OTHER ORAL ESTROGEN 
+IODINE SUPPLEMENT	phv00158213.v1 	 FFQ: TAKE IODINE SUPPLEMENT 
+MULTIVITAMINS 	phv00157390.v1 	 FFQ: MULTIVITAMINS BRAND 
+ZINC SUPPLEMENT 	phv00069876.v2 	 FFQ: TAKE ZINC SUPPLEMENT 
+NITROGLYCERIN	phv00053892.v2 	 YEARS TAKING NITROGLYCERIN (ALL PARTICIPANTS) 
+glycine	phv00126671.v1 	 SFFQ: glycine (gm) 
+insulin	phv00026199.v1 	 MDI - prescribed change in insulin regimen because of: symptoms of polyuria, polydipsia 
+insulin	phv00165310.v2 	 BASELINE INSULIN RIA METHOD 
+insulin	phv00025787.v1 	 Describe insulin regimen (if different from that described in Question 4) 
+insulin	phv00029229.v1 	 Change insulin regimen to: units of NPH or lente insulin 
+insulin	phv00122931.v1 	 Meds: Insulin 
+insulin	phv00031671.v1 	 Patient's performance rating: task 1 - draw 9 U of insulin in 0.5cc syringe, trial 2 
+insulin	phv00029812.v1 	 MDI4  - previous day: units of regular or semi-lente insulin 
+insulin	phv00029810.v1 	 MDI4  - previous day: units of long-acting or ultra-lente insulin 
+glucose tablets 	phv00050802.v1 	 B5g. Does your health insurance provide coverage for: glucose tablets 
+ Isoleucine 	phv00161755.v1 	 Isoleucine 
+PREMARIN 	phv00007731.v3 	 MENOPAUSE: EVER TAKEN PREMARIN 
+ Methionine 	phv00166791.v2 	 Methionine 
+NIFEDIPINE 	phv00086053.v2 	 IMMEDIATE-RELEASE NIFEDIPINE 
+Nitric Oxide	phv00123789.v1 	 Nitric Oxide: Ambient Air 
+oleic acid	phv00126381.v1 	 LFFQ: MUFA 18:1 (oleic acid) (gm) 
+Opiates	phv00018414.v1 	 J39. Opiates.  (Participants with European ancestry). DIGS4 
+Opiates	phv00018419.v1 	 J40. Opiates.  (Participants with European ancestry). DIGS4 
+Opiates	phv00018409.v1 	 J38. Opiates.  (Participants with European ancestry). DIGS4 
+Opiates	phv00052792.v1 	 J47 Opiates, (African American participants). DIGS4 
+Opiates	phv00052746.v1 	 J39 Opiates, (African American participants). DIGS4 
+NIFEDIPINE 	phv00109022.v1 	 Slow-release nifedipine 
+ verapamil	phv00087377.v1 	 SLOW-RELEASE VERAPAMIL 
+ verapamil	phv00107434.v1 	 Slow-release verapamil 
+Phosphatidylcholine	phv00166859.v2 	 Phosphatidylcholine (carbon:double bond = 36:3) 
+prednisone	phv00071067.v2 	 Number of months from Baseline to first prednisone burst.  This is calculated by dividing the number of days between Baseline and the first prednisone burst by 30.25. 
+ Probucol 	phv00109746.v1 	 Probucol 
+ PROGESTIN	phv00085385.v2 	 PROGESTINS 
+ PROGESTIN	phv00056983.v1 	 Progestins 
+ PROGESTIN	phv00106334.v1 	 YEARS TOOK PROGESTIN IN PAST 
+ PROGESTIN	phv00108755.v1 	 CURRENTLY TAKING PROGESTIN 
+Progesterone	phv00077669.v3 	 Progesterone use last 2 years 
+aspartame	phv00126541.v1 	 RECALL: aspartame 
+calcium 	phv00126897.v1 	 RECALL: calcium 
+leucine 	phv00126526.v1 	 RECALL: leucine 
+vitamin E	phv00126973.v1 	 RECALL: vitamin E (International Units) 
+pantothenic acid 	phv00126893.v1 	 RECALL: pantothenic acid 
+folate 	phv00126966.v1 	 RECALL: synthetic folate 
+Sedatives	phv00052801.v1 	 J48 Sedatives, (African American participants). DIGS4 
+Sedatives	phv00052811.v1 	 J49 Sedatives, (African American participants). DIGS4 
+MULTIVITAMINS 	phv00168306.v1 	 Prior to your recent stroke, did you ever regularly take multi-vitamins?  (DSF)  Aside from the VISP vitamin, have you regularly taken multi-vitamins during the past year? (FDS) 
+SYMPATHOMIMETICS	phv00083148.v1 	 SYMPATHOMIMETICS, ORAL AND INHALED 
+SYMPATHOMIMETICS	phv00087368.v1 	 SYMPATHOMIMETICS, ORAL AND INHALED 
+Medication	phv00066841.v5 	 Description/Label for therapeutic subgroup - third drug in compound 
+threonine	phv00126395.v1 	 LFFQ: threonine (gm) 
+Thyroid stimulating hormone	phv00072913.v1 	 Tsh (Thyroid stimulating hormone) - Milli-International-Units (MIU) 
+TRIAMTERENE 	phv00053882.v2 	 YEARS TAKING TRIAMTERENE (ALL PARTICIPANTS) 
+ Tyrosine 	phv00161764.v1 	 Tyrosine 
+ Valine 	phv00166798.v2 	 Valine 
+Vitamin E	phv00098253.v1 	 VIT E:UNITS                         Q5E 
+Vitamin E	phv00098385.v1 	 Vitamin E without vitamin pills mg 
+ZINC	phv00119328.v2 	 FREQ (DAY/WEEK/MONTH) TAKEN (ZINC). Q 4 
+ZINC	phv00098302.v1 	 ZINC :DOSE PER PILL                 QDE 
+ AMLODIPINE 	phv00086941.v2 	 AMLODIPINE 
+ AMLODIPINE 	phv00085335.v2 	 AMLODIPINE 
+ AMLODIPINE 	phv00105021.v1 	 Amlodipine 
+Biochanin A 	phv00156518.v2 	 Dietary Biochanin A (mg) 
+paroxetine	phv00124520.v1 	 Time to start of paroxetine 
+Rifaximin;Xifaxan	phv00090842.v1 	 Rifaximin (Xifaxan) 
+sucrose polyester	phv00126680.v1 	 SFFQ: sucrose polyester (gm) 
+(VITAMIN A	phv00120353.v2 	 NUMBER TAKEN (VITAMIN A). Q 2 
+insulin	phv00029072.v1 	 Standard treatment  - previous day: type of insulin - pork 
+glucose	phv00050038.v1 	 D4a. Treatment of clinical manifestation: given intravenous glucose treatment 
+linolenic acid	phv00126239.v1 	 PUFA 18:3 (linolenic acid) (g) 
+Serotonin specific reuptke inhibitors;Celexa 	phv00015028.v1 	 E6. Serotonin specific reuptke inhibitors (SSRIs. Celexa, (Participants with European ancestry). DIGS3 
+ MEDICATION; RENIN-ANGIOTENSIN BLOCKING DRUGS; CAPTOPRIL;ENALAPRIL; LISINOPRIL 	phv00005584.v1 	 MEDICATION USE: RENIN-ANGIOTENSIN BLOCKING DRUGS (CAPTOPRIL, ENALAPRIL, LISINOPRIL) 
+ MEDICATION; ANTICONVULSANTS; DILANTIN; PHENOBARB; TEGRETOL; MYSOLINE 	phv00004999.v1 	 MEDICATION USE: ANTICONVULSANTS (DILANTIN, PHENOBARB, TEGRETOL, MYSOLINE, ETC.) 
+ MEDICATION; INSULIN 	phv00004981.v1 	 MEDICATION USE: INSULIN 
+ MEDICATION; THYROID EXTRACT;DESSICATED THYROID 	phv00006150.v1 	 MEDICATION USE - THYROID EXTRACT (DESSICATED THYROID) 
+ MEDICATION; ANTIULCER; TAGAMET; RANITIDINE; PROBANTHINE; H-ION INHIBITORS 	phv00004992.v1 	 MEDICATION USE: ANTIULCER (TAGAMET, RANITIDINE, PROBANTHINE, H-ION INHIBITORS) 
+ Erectile dysfunction drugs 	phv00109004.v1 	 Erectile dysfunction drugs 
+Opioids	phv00016038.v1 	 J50. Opioids Despite Objection, (Participants with European ancestry). DIGS3 
+ANTICHOLINERGICS; BETA2-AGONIST	phv00086965.v2 	 ANTICHOLINERGICS + COMBINATION WITH BETA2-AGONIST (121200) 
+ Antimaniac agents;Oth Antimanic Agt 1 Spec	phv00015111.v1 	 E6. Antimaniac agents Oth Antimanic Agt 1 Spec, (Participants with European ancestry). DIGS3 
+Medication; antibacterial	phv00001251.v1 	 INTERIM HISTORY OF MEDICINE:  ANTIBACTERIAL 
+Medication; hypocholesterol	phv00000954.v1 	 INTERIM HISTORY OF DRUGS TAKEN: HYPOCHOLESTEROL, EXAM 7 
+Medication; Nitrites	phv00002220.v1 	 INTERIM HISTORY OF MEDICINE USED: NITRITES 
+Medication; Nitrites	phv00001820.v1 	 INTERIM HISTORY OF MEDICINE USED: NITRITES 
+Medication; Cardiac Glycosides	phv00002951.v1 	 INTERIM HISTORY OF MEDICINE USED: CARDIAC GLYCOSIDES 
+Medication; hypoglycemics	phv00001445.v1 	 INTERIM HISTORY OF MEDICINE USED: HYPOGLYCEMIC AGENTS 
+ Thyroid agents 	phv00056994.v1 	 Thyroid agents 
+ IRON 	phv00112705.v2 	 IRON (MG) 
+ IRON 	phv00008106.v3 	 IRON 
+Supplemental Potassium	phv00079522.v3 	 Supplemental Potassium, mg 
+Hydroxyurea; Procurement	phv00163806.v2 	 Was the Patient Exposed to Hydroxyurea Prior to Procurement? 
+ Loop diuretics 	phv00055358.v2 	 Loop diuretics 
+anticoagulants 	phv00107435.v1 	 Oral anticoagulants 
+HYPOGLYCEMICS	phv00007335.v1 	 ORAL HYPOGLYCEMICS: UNKNOWN 
+HYPOGLYCEMICS	phv00004621.v1 	 ORAL HYPOGLYCEMICS 
+Progesterone suppositories	phv00077725.v3 	 Natural/Progest suppositories 
+Medication	phv00014755.v1 	 B 5. Medication Weeks - 3, (Participants with European ancestry). DIGS3 
+Medication	phv00158562.v1 	 Medication start period is estimated - coded fields 
+ ANTI-PSYCHOTIC MEDICATIONS 	phv00086027.v2 	 ANTI-PSYCHOTIC MEDICATIONS 

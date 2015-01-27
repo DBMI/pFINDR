@@ -1,0 +1,285 @@
+Race [Caucasian]
+Race of participant [Caucasian]
+ESP, race [Caucasian]
+Race - Caucasian (0=no,1=yes)
+Race of subject (Caucasian)
+Is the participant Caucasian?
+Participant's gender
+Gender
+GENDER OF PARTICIPANT
+Gender [Male or Female]
+Participant's gender - See also NIDDK - GoKinD phs000088: SEX
+GENDER OF PARTICIPANT (M,F) Q18
+MENOPAUSE: AGE PERIOD STOPPED
+AGE OF MENOPAUSE
+Age at menopause
+AGE WHEN MENOPAUSE BEGAN Q8
+AGE MENOPAUSE BEGAN Q19
+AGE AT MENOPAUSE
+ACETAMINOPHEN (PILLS/DAY) (ALL PARTICIPANTS)
+CURRENTLY TAKING ACETAMINOPHEN/TYLENOL (ALL PARTICIPANTS)
+MEDICATIONS: ANALGESIC-NON-NARCOTICS (ACETAMINOPHEN, ETC)
+ACETAMINOPHEN (500 MG) (ALL PARTICIPANTS)
+Meds: Acetaminophen
+74 Last month have you used acetaminophen
+BASELINE HYPERTENSION MEDICATION
+ANY HYPERTENSION MEDICATION
+HYPERTENSION MEDICATION
+Currently taking high blood pressure medication at Exam 1
+Taking high blood pressure medication now [at Exam 2]?
+Hypertension med status (any) at baseline (0/1)
+TYPE OF BETA BLOCKER
+ANY BETA BLOCKER
+INTERIM HISTORY OF MEDICINE USED: BETA BLOCKER
+MEDICATION USE - BETA BLOCKER GROUP
+MEDICATION USE - DOSE OF BETA BLOCKER
+BETA BLOCKER GROUP
+URINALYSIS: ALBUMIN
+URINE ALBUMIN (MG/L)
+Albumin, urine
+Albumin (sample type: urine)
+URINARY ALBUMIN (mg/dl)
+Urine Albumin (grams/24 hours)
+Blood fasting glucose at baseline in mg/dL
+Fasting glucose (mg/dl)
+Fasting glucose (sample type: plasma)
+FASTING GLUCOSE CALIBRATED (mg/dl)
+Blood fasting glucose at baseline in mg/dL
+FASTING GLUCOSE (VALUE) Q4A
+Platelet count at designated visit (may not be baseline) in x 1000/cubic mm
+PLATELET COUNT (/cc.mm)
+Platelet Count
+Platelets (10^9/L)
+Platelet cell count per microliter of whole blood
+Platelet count (K/uL)
+83 Any biological relative had Breast Cancer
+Female relative had breast cancer
+17: Do mother have/had Cancer?
+MOTHER HAVE CANCER Q25
+NATURAL MOTHER HAVE CANCER? Q15A
+Alzheimer's OR Dementia
+DEMENTIA OR ALZHEIMER'S DISEASE
+(2.A) HAS THERE BEEN A DIAGNOSIS OF DEMENTIA OR ALZHEIMER'S DISEASE MADE BY A DOCTOR?
+Diagnosis (DSM-IV) of dementia of Alzheimer's type
+Alzheimers Disease - cause of Dementia
+CLINICAL DIAGNOSTIC IMPRESSION: DEMENTIA
+Dementia With Unknown Cause
+NEUROLOGIST 1ST OPINION: DEMENTIA
+Prevalent dementia, at time of 1st battery
+CDI-DEMENTIA
+Medical history: dementia (absent, present)
+Unexplained Cough
+DO YOU USUALLY HAVE A COUGH
+COUGH AS MUCH AS 4 TO 6 TIMES A DAY
+COUGH DURING THE REST OF THE DAY/NIGHT
+FOR HOW MANY YRS HAVE YOU HAD THIS COUGH
+HAD COUGH IN LAST TWO WEEKS
+DID YOUR MOTHER EVER HAVE DIABETES MELLITUS
+18: Do mother have/had Diabetes?
+MOTHER HAD DIABETES Q24
+NATURAL MOTHER HAVE DIABETES? Q15B
+DOES PT'S MOTHER HAVE DIABETES? Q 1
+Mother diagnosed with insulin dependent diabetes mellitus.
+Diagnosis criteria - fever
+HAVE A FEVER TODAY. Q 1
+Active Fever or no fever
+High Unexplained Fever
+PRESENT FEVER
+HAD FEVER, CHILLS IN LAST TWO WEEKS
+Tactual performance: memory score (quarterly visit 00)
+MEMORY IMPAIRMENT SCREEN: Other - Interpretation
+Memory: Raw score
+Has your memory problem gotten worse in the last year?
+Subject's history of disease - SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE)
+The presence or absence of memory loss in the subjects themselves as determined by clinician's interview.
+COGNITIVE FUNCTION CATEGORY
+Quartiles of rate of cognitive decline
+Does this participant have cognitive impairment on testing?
+Diagnosed with MCI (Mild Cognitive Impairment)
+Was cognitive testing administered to the subject?
+Intial presentation: Cognitive
+Is easily distracted, concentration wanders
+Difficulty concentrating
+Trouble concentrating on things, reading
+DIFFICULTY CONCENTRATING FOR LONG Q21
+Did you have a lot more trouble concentrating than usual?
+I have trouble concentrating
+HOW MANY DID YOU SMOKE PER DAY ON AVER (99=UNKNOWN)
+SMOKE DURING THE PAST HOUR
+SMOKING STATUS
+SMOKE AMOUNT
+RESPIRATORY: HOW MANY YEARS HAVE YOU SMOKED/DID YOU SMOKE?
+IF NO LONGER SMOKE, WHEN QUIT
+INTERIM HISTORY OF SMOKING: SMOKES PIPE
+SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE
+DOES PATIENT NOW SMOKE A PIPE
+IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?
+IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?
+RECODED PIPE SMK STAT OF EXAM 1
+Tolerance to nicotine
+Withdrawal from nicotine
+DSM4 nicotine dependence
+Age onset of DSM4 nicotine dependence
+NICOTINE PATCH: EVER USED Q12E
+Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale
+INTERIM HISTORY OF ALCOHOL DRINKING, EXAM 4
+Alcohol drinking in the past 12 month (Y/N)
+Alcohol drinking per day
+Alcohol drinking classification I
+Current Drinking Consumption at Baseline
+Drinking History at Baseline
+AGE FIRST STARTED DRINKING ALCOHOLIC BEVERAGES
+ALCOHOL: AGE STARTED DRINKING
+Age onset of regular drinking (drinking once a month for 6 months or more)
+IF EVER CONSUMED ALCOHOL: HOW OLD WERE YOU WHEN YOU FIRST STARTED DRINKING ALCOHOLIC BEVERAGE?
+AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?
+Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?
+# YEARS DRINKING ALCOHOL (CURRENT DRINKERS)
+# YEARS DRINKING ALCOHOL (CURRENT AND FORMER DRINKERS)
+# YEARS DRINKING ALCOHOL (FORMER DRINKERS)
+# DRINKS PER WEEK WHEN DRINKING (FORMER DRINKERS)
+FORMER DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES
+CURRENT DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES
+Tolerance to cocaine
+Withdrawal from cocaine
+Using cocaine in larger amounts or over longer period than intended
+Persistent desire or unsuccessful efforts to cut down or control cocaine use
+Has participant ever used cocaine?
+DSM4 cocaine dependence
+Ever used marijuana
+Number of marijuana symptoms endorsed
+Marijuana use despite knowledge of persistent or recurrent physical or psychological problems likely to have been caused or exacerbated by marijuana
+Persistent desire or unsuccessful efforts to cut down or control marijuana use
+Marijuana Dependence
+HOW MANY TIMES USED MARIJUANA IN LIFE. Q 1
+Age onset of DSM4 opiate dependence
+Age recency of DSM4 opiate dependence
+Age when last used opiates
+Age when first used opiates
+OTHER TYPE OF OPIATE USED. Q 9b
+Number of opiate symptoms endorsed
+DSM4 opiate dependence
+Opiate Dependence
+Has participant ever used opiates?
+Using opiates in larger amounts or over longer period than intended
+How many hours of sleep do you usually get at night (or your main sleep period) on weekdays or workdays?
+How often do you not get enough sleep?
+ACTIVITIES - HRS SLEEP PER DAY
+AMOUNT OF SLEEP NEEDED EACH NIGHT (IF YES IN COLUMN 222)
+REST AND ACTIVITY (AVERAGE HOURS PER DAY) SLEEP
+Sleep and nighttime behaviour - Severity
+WALKING FOR EXERCISE IN LAST 2 WEEKS
+FREQUENCY IN PAST 2 WEEKS - WALK
+TIME (MIN.) - WALK
+MONTHS PER YEAR - WALK
+DURING THE PAST YEAR, HOW OFTEN HAVE YOU PARTICIPATED IN THE FOLLOWING LEISURE TIME ACTIVITIES? --WALKING FOR EXERCISE
+DURING THE PAST YEAR - WALKING FOR EXERCISE
+Difficulty driving during the day
+Difficulty driving at night
+Do you currently drive a car?
+Ever driven a car
+# years driving
+Why did you stop driving a car
+HOW OFTEN DO YOU USE LOW-SALT BREAD
+HOW OFTEN DO YOU USE LOW-CALORIE BREAD
+FFQ: WHITE BREAD (SLICE), INCLUDING PITA
+FFQ: DARK BREAD (SLICE)
+DERIVED FIELD: SERVINGS PER WEEK - WHITE BREAD
+LOAF-TYPE BREAD AND PLAIN ROLLS - WHOLE GRAIN
+VITAMIN C (MG) DAILY AVG OVER WHOLE YR
+TOOK VITAMIN C
+DAYS TOOK VITAMIN C
+DID YOU TAKE VITAMIN C
+VITAMIN C (MG)
+# OF VITAMIN C TABS PER WEEK
+GLASSES OF WATER, NOT COUNT IN COFFEE/TEA
+FFQ: Water - bottled, sparkling or tap
+Derived field: Water
+NUTRIENTS: WATER
+How often do you consume Plain water, bottled or tap including mineral water and soda water; 1 c. or glass?
+Past 3 months frequency drank tap water
+WAS THERE ANY TIME DURING THE PAST YEAR NEED HELP PERSONAL GROOMING, SHAVING ETC. (SEE CODING FOR VARIABLE FJ177)
+GROOMING AND BATHING ABILITY
+DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING BATH AND DOING GROOMING ACTIVITIES
+USE VERY FEW GROOMING PRODUCTS. Q 19
+TAKE SPECIAL CARE WHEN GROOMING MY HAIR. Q 33
+Grooming ability
+K47d. Neglect hygiene. (Participants with European ancestry). DIGS4
+U13. Grooming and Hygiene, (Participants with European ancestry). DIGS3
+L5. Poor Hygiene, (Participants with European ancestry). DIGS3
+K70.d. Hygiene Residual, (Participants with European ancestry). DIGS3
+K70.d. Hygiene Prodromal, (Participants with European ancestry). DIGS3
+L5. In general did you not take care of hygiene and grooming? (Participants with European ancestry). DIGS2
+TOILETING ABILITY
+FUNCTIONAL PERFORMANCE: TOILETING ACTIVITIES
+TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) (SEE NOTE ABOVE)
+DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING)
+DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING CARE PERSONAL NEEDS FOR TOILETING
+FUNCTIONAL PERFORMANCE (ADL)-TOILETING ACTIVITES
+HOSPITALIZED FOR MI
+NUMBER TIMES HOSPITALIZED FOR MI
+NUMBER DAYS IN HOSPITAL FOR MI
+INTERIM HISTORY OF HOSPITALIZATION
+LENGTH OF SECOND HOSPITAL STAY (DAYS)
+REASON FOR SECOND HOSPITAL STAY
+HOSPITALIZATION IN INTERIM
+10. Have you stayed (did [name] stay) overnight as a patient in a hospital ?
+37a. Hospitalization reason
+E.R. VISIT IN INTERIM
+E.R. VISIT EVER
+E.R. VISIT SINCE YOUR LAST EXAM
+Health Care: Since your last exam or medical history update: E.R. Visits
+ORIG BASELINE P WAVE, LEFT SIDE
+Mean VTI A Wave - Mitral Doppler
+LEAD I, Q WAVE VOLTAGE
+LEAD I, S WAVE VOLTAGE
+LEAD I, QRS AREA WAVE VOLTAGE
+LEAD III, R WAVE NTCH WAVE VOLTAGE
+ECG: NON-SPECIFIC T-WAVE, EXAM 3
+ECG: NONSPECIFIC T-WAVE ABNORMALITY
+ECG: U-WAVE
+E. Are ECG tracings attached?
+P-R interval (visit 1) [electrocardiography related variable]
+Q-T interval (visit 1) [electrocardiography related variable]
+Lateral Ventricular Volume, 1st MRI
+Hippocampal Volume, 1st MRI
+Parietal Brain Volume, 1st MRI
+Received Blood Transfusion In Another Country
+EVER RECEIVED BLOOD TRANSFUSION Q11
+REASON FOR FIRST TRANSFUSION Q14
+HOW MANY TIMES BLOOD TRANSFUSION Q12
+Did the patient receive a flu vaccine this past year?
+Did the patient receive H1N1 vaccine this year?
+Have you been immunized (received a vaccine shot) in the last month?
+77 Dad diagnosed - Angioplasty or By-pass Surgery
+DID YOUR FATHER HAVE HEART BYPASS SURGERY BEFORE AGE 55
+Systolic blood pressure at baseline (avg. of 2 measurements), in mm Hg
+PALPATED SYSTOLIC BLOOD PRESSURE
+(STAND READING) BLOOD PRESSURE: SYSTOLIC
+FIRST STANDARD SEATED SYSTOLIC
+PALPATED SYSTOLIC
+SUPINE SBP
+SUPINE READING: 30 SECOND HEART RATE
+HEART RATE (30 SECONDS)
+HEART RATE (30 SEC) PRIOR TO CHAIR STANDS
+HEART RATE
+MINIMUM HEART RATE
+HEART RATE (beats/min)
+DID YOU SEE DOCTOR BECAUSE OF THIS PAIN
+PRESENT CHEST PAIN
+INCREASE CHEST PAIN
+PAIN IN LEFT ANTERIOR CHEST
+EVER HAD PAIN/DISCOMFORT IN YOUR CHEST
+SEVERE PAIN ACROSS THE FRONT OF CHEST
+Final case-control status
+Case/Control status of subject
+Final Case/Control designation
+Case/control group updated
+Case/control status
+Case-control status, Tier2
+Protocol used to measure Blood Pressure
+PROTOCOL MODIFICATION - 2ND BP READING
+PROTOCOL MODIFICATION FOR TECH BLOOD PRESSURE
+PROTOCOL MODIFICATION FOR PHYSICIAN'S SECOND BLOOD PRESSURE READING
+PROTOCOL MODIFICATION FOR TECHNICIAN'S BLOOD PRESSURE READING
+Physical Exam-Blood Pressure: Physician Blood Pressure first reading - Protocol modification

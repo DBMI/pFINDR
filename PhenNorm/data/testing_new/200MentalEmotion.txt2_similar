@@ -1,0 +1,544 @@
+MEDICAL HISTORY CLUSTERS
+C0038454
+	phv00168431.v1  	  If you had any sudden numbness, tingling, or loss of feeling on one side of your body, including your face, arm, or leg which lasted 30 seconds or longer during your recent stroke, how long did the longest episode last? 	 C0020580;C0028643;C2242996;C0013987;C1527305;C0038454 	 fndg;sosy;sosy;menp;menp;dsyn 
+	phv00006554.v1  	  SYNCOPE HISTORY - HAVE YOU FAINTED OR LOST CONSCIOUSNESS IN THE INTERIM? (IF DUE TO STROKE, SKIP TO FR338 (SCREEN 11)? IF EVENT IMMEDIATELY PRECEDED BY HEAD INJURY OR ACCIDENT CODE 0=NO. 	 C0039070;C0262926;C2004062;C0009791;C0234421;C0038454;C0560435;C0220908;C0430054;C0018674 	 sosy;fndg;fndg;fndg;menp;dsyn;fndg;hlca;lbpr;inpo 
+===============
+C0009791
+	phv00011707.v1  	  B3lb. Have you had any of the following conditions: serious head injury? IF YES: did you lose consciousness? IF YES: specify how long: (MINUTES). (Participants with European ancestry). DIGS2 	 C1710055;C0009791;C0234421 	 inpo;fndg;menp 
+	phv00006554.v1  	  SYNCOPE HISTORY - HAVE YOU FAINTED OR LOST CONSCIOUSNESS IN THE INTERIM? (IF DUE TO STROKE, SKIP TO FR338 (SCREEN 11)? IF EVENT IMMEDIATELY PRECEDED BY HEAD INJURY OR ACCIDENT CODE 0=NO. 	 C0039070;C0262926;C2004062;C0009791;C0234421;C0038454;C0560435;C0220908;C0430054;C0018674 	 sosy;fndg;fndg;fndg;menp;dsyn;fndg;hlca;lbpr;inpo 
+===============
+C0344315
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00005952.v1  	  ACTIVITIES II - CES-D SCALE I FELT DEPRESSED 	 C0013987;C1527305;C0344315 	 menp;menp;fndg 
+	phv00082926.v1  	  FELT DEPRESSED, PAST WEEK 	 C0013987;C1527305;C0344315 	 menp;menp;fndg 
+	phv00021919.v1  	  DOES A HEARING PROBLEM CAUSE YOU TO FEEL  DEPRESSED? 	 C0260662;C0013987;C0344315 	 dsyn;menp;fndg 
+	phv00101680.v1  	  FELT DEPRESSED 	 C0013987;C1527305;C0344315 	 menp;menp;fndg 
+	phv00099005.v1  	  FELT DEPRESSED 	 C0013987;C1527305;C0344315 	 menp;menp;fndg 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+	phv00013730.v1  	  K60. Have you ever felt as if you were outside your body , or as if part of your body did not belong to you? Depression. (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0011570;C0011581;C0344315 	 menp;menp;mobd;mobd;fndg 
+	phv00120419.v2  	  EXPERIENCED >=2 WKS OF DEPRESSION? Q 1 	 C0237607;C0596545;C0011570;C0011581;C0344315 	 menp;menp;mobd;mobd;fndg 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+	phv00082262.v1  	  Depression/Dysphoria -  Caregiver Distress 	 C0011570;C0233477;C0231303;C0011581;C0344315 	 mobd;mobd;menp;mobd;fndg 
+===============
+C1279889
+	phv00017509.v1  	  F19. Did you tend to feel worse in the morning or in the evening or was there no difference? (Participants with European ancestry). DIGS4 	 C0013987;C1279889;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+===============
+C0085631
+	phv00087395.v1  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+	phv00054430.v1  	  When you were worried or anxious, were you also restless? (African American participants) 	 C0233481;C0003467;C0085631 	 fndg;menp;sosy 
+	phv00086344.v2  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+===============
+C0474416
+	phv00011413.v2  	  Parental perceptions of disruptive behaviour - Father's coping 	 C0030971;C0474416;C0009967 	 menp;fndg;inbe 
+	phv00011405.v2  	  Disruptive behaviour - oppositional behaviour PACS section 3.9 - frequency of expressing spitefulness 	 C0474416;C0860661;C1293097 	 fndg;menp;topp 
+===============
+C0011570:C0344315:C0011581
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00013730.v1  	  K60. Have you ever felt as if you were outside your body , or as if part of your body did not belong to you? Depression. (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0011570;C0011581;C0344315 	 menp;menp;mobd;mobd;fndg 
+	phv00120419.v2  	  EXPERIENCED >=2 WKS OF DEPRESSION? Q 1 	 C0237607;C0596545;C0011570;C0011581;C0344315 	 menp;menp;mobd;mobd;fndg 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+	phv00082262.v1  	  Depression/Dysphoria -  Caregiver Distress 	 C0011570;C0233477;C0231303;C0011581;C0344315 	 mobd;mobd;menp;mobd;fndg 
+===============
+C0027769
+	phv00124758.v1  	  11. How often have you felt nervous or tense over the past year? 	 C0013987;C1527305;C0027769;C0235108 	 menp;menp;fndg;sosy 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+	phv00087395.v1  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+	phv00086344.v2  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+===============
+C0233629
+	phv00071624.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+	phv00061692.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00061923.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00061493.v2  	  Thinking Gunk at visit 1 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00061859.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00062051.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00058965.v2  	  Thinking Gunk at visit 1 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00061077.v2  	  Thinking Gunk at visit 1 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00064508.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00060380.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00062652.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059381.v2  	  Thinking Gunk at visit 1 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00060515.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059740.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00063868.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00060476.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00064355.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00064469.v2  	  Thinking Gunk at visit 1 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00064003.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059900.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00060828.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059811.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059715.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00062588.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00059203.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00060060.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00058396.v2  	  Thinking Gunk at visit 2 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00063363.v2  	  Thinking Gunk at visit 3 	 C0039869;C0233629;C1512346 	 menp;mobd;inbe 
+	phv00020398.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+===============
+C0184532:C0011900:C1961839
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+===============
+C1955473
+	phv00013501.v1  	  K18. Have you ever had any other thoughts or beliefs that others did not share or thought were odd, other than those we have just discussed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 C0064197;C0039869;C1955473;C0033975;C0349204 	 aapp,phsu;menp;fndg;mobd;mobd 
+	phv00082438.v1  	  LO-WORD LIST MEMORY: Other - Raw Score 	 C0025260;C1955473;C0700327 	 menp;fndg;fndg 
+	phv00013787.v1  	  K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 	 C0871189;C0233640;C0008892;C0039456;C0013987;C1527305;C1955473;C0459920;C0039869 	 sosy;mobd;menp;menp;menp;menp;fndg;menp;menp 
+===============
+C0011900
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+	phv00017509.v1  	  F19. Did you tend to feel worse in the morning or in the evening or was there no difference? (Participants with European ancestry). DIGS4 	 C0013987;C1279889;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 C0018379;C1821293;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00052595.v1  	  H7 Very moody, (African American participants). DIGS4 	 C0026516;C0554980;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+===============
+C0849912:C0848067
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0701980 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0733624 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+===============
+C0011253:C0459435
+	phv00071384.v1  	  Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530]. Rating 	 C0011253;C0039869;C0459435 	 mobd;menp;fndg 
+	phv00020158.v2  	  Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530] 	 C0011253;C0039869;C0459435 	 mobd;menp;fndg 
+===============
+C0235108
+	phv00124758.v1  	  11. How often have you felt nervous or tense over the past year? 	 C0013987;C1527305;C0027769;C0235108 	 menp;menp;fndg;sosy 
+	phv00034664.v1  	  During that period (when you have felt worried, tense, anxious, or more worried than most people would in your situation), was your worry stronger than in other people? 	 C0013987;C1527305;C0233481;C0235108;C0003467 	 menp;menp;fndg;sosy;menp 
+===============
+C0871189
+	phv00013806.v1  	  K81. During the period of feeling especially good or high when you were also having (psychotic symptoms) were you experiencing racing thoughts? (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0871189;C0237607;C0554978;C0596545 	 menp;menp;sosy;menp;mobd;menp 
+	phv00013787.v1  	  K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 	 C0871189;C0233640;C0008892;C0039456;C0013987;C1527305;C1955473;C0459920;C0039869 	 sosy;mobd;menp;menp;menp;menp;fndg;menp;menp 
+===============
+C0023974
+	phv00005322.v1  	  I FELT LONELY 	 C0013987;C1527305;C0023974 	 menp;menp;fndg 
+	phv00103909.v1  	  FELT LONELY 	 C0013987;C1527305;C0023974 	 menp;menp;fndg 
+	phv00005960.v1  	  ACTIVITIES II - CES-D SCALE I FELT LONELY 	 C0013987;C1527305;C0023974 	 menp;menp;fndg 
+===============
+C1275743:C0011900:C0003469
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+===============
+C1821293
+	phv00013612.v1  	  K40a. Have you ever engaged in any unusual behavior, like digging through garbage, wearing unusual clothes, or collecting things that other people thought were worthless? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 C0425152;C0004927;C2707008;C1321878;C0039869;C1821293;C0033975;C0349204 	 fndg;inbe;clna;neop;menp;fndg;mobd;mobd 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 C0018379;C1821293;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+C0349204:C0033975
+	phv00013619.v1  	  K40b. Have there been times when you did things that other people thought were socially or sexually inappropriate, disorganized or objectionable? For example being too aggressive or doing things that did not make sense? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 C0039869;C0001807;C0033975;C0349204 	 menp;mobd;mobd;mobd 
+	phv00013612.v1  	  K40a. Have you ever engaged in any unusual behavior, like digging through garbage, wearing unusual clothes, or collecting things that other people thought were worthless? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 C0425152;C0004927;C2707008;C1321878;C0039869;C1821293;C0033975;C0349204 	 fndg;inbe;clna;neop;menp;fndg;mobd;mobd 
+	phv00013501.v1  	  K18. Have you ever had any other thoughts or beliefs that others did not share or thought were odd, other than those we have just discussed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 C0064197;C0039869;C1955473;C0033975;C0349204 	 aapp,phsu;menp;fndg;mobd;mobd 
+	phv00013538.v1  	  K27. Have you ever experienced hearing your thoughts repeated or echoed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 C0237607;C0596545;C0018767;C1455844;C0039869;C0058928;C0033975;C0349204 	 menp;menp;phsf;fndg;menp;topp;mobd;mobd 
+===============
+C1455844:C0018767
+	phv00021865.v3  	  DO YOU FEEL THAT ANY DIFFICULTY WITH YOUR HEARING LIMITS OR HAMPERS YOUR PERSONAL OR SOCIAL LIFE ? 	 C0013987;C1299586;C0018767;C1455844 	 menp;fndg;phsf;fndg 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+	phv00013538.v1  	  K27. Have you ever experienced hearing your thoughts repeated or echoed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 C0237607;C0596545;C0018767;C1455844;C0039869;C0058928;C0033975;C0349204 	 menp;menp;phsf;fndg;menp;topp;mobd;mobd 
+===============
+C0700361:C0233629:C1299586
+	phv00071624.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00020398.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+===============
+C0015264
+	phv00109150.v1  	  FELT EVERYTHING DONE WAS EFFORT 	 C0013987;C1527305;C0015264 	 menp;menp;orgf 
+	phv00102332.v1  	  FELT EVERYTHING DONE WAS EFFORT 	 C0013987;C1527305;C0015264 	 menp;menp;orgf 
+===============
+C0003469
+	phv00156255.v1  	  Days enrollment to F33 Treatment for Anxiety 	 C1516879;C0087111;C1533734;C0003467;C0003469 	 hlca;topp;topp;menp;mobd 
+	phv00022537.v3  	  ANXIETY SCALE (1=MOST TENSION) 	 C0003467;C0003469;C0233494 	 menp;mobd;mobd 
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00088955.v1  	  Anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028594.v1  	  Number of questions answered - anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028611.v1  	  Total score - phobic anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+===============
+C0011900:C1961839
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+===============
+C0260662
+	phv00021857.v3  	  DOES A HEARING PROBLEM CAUSE YOU TO FEEL EMBARRASSED WHEN MEETING NEW PEOPLE ? 	 C0260662;C0013987;C0556656 	 dsyn;menp;hlca 
+	phv00021919.v1  	  DOES A HEARING PROBLEM CAUSE YOU TO FEEL  DEPRESSED? 	 C0260662;C0013987;C0344315 	 dsyn;menp;fndg 
+===============
+C0700327
+	phv00024921.v1  	  Logical memory - delayed recall: story 1 (quarterly visit 00) 	 C0025260;C0700327;C0034770;C2361119;C1512346 	 menp;fndg;menp;clna;inbe 
+	phv00082438.v1  	  LO-WORD LIST MEMORY: Other - Raw Score 	 C0025260;C1955473;C0700327 	 menp;fndg;fndg 
+===============
+C0848067
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0701980 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0733624 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+===============
+C1961839
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00011278.v2  	  Fear of animals, insects, snakes 	 C0015726;C1961839 	 menp;fndg 
+	phv00034704.v1  	  Is your fear much stronger than in other people? 	 C0015726;C1961839 	 menp;fndg 
+	phv00011519.v2  	  Has many fears, is easily scared 	 C0015726;C1961839 	 menp;fndg 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+===============
+C1299586
+	phv00071624.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00021865.v3  	  DO YOU FEEL THAT ANY DIFFICULTY WITH YOUR HEARING LIMITS OR HAMPERS YOUR PERSONAL OR SOCIAL LIFE ? 	 C0013987;C1299586;C0018767;C1455844 	 menp;fndg;phsf;fndg 
+	phv00020398.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+===============
+C0700361
+	phv00071624.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00034689.v1  	  Have you ever been very upset with yourself for having any of these fears? 	 C0700361;C0015726 	 mobd;menp 
+	phv00020398.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+===============
+C0849912
+	phv00013284.v1  	  U8. Global rating of affective flattening. This rating should focus on overall severity of symptoms, especially unresponsiveness, inappropriateness and an overall decrease in emotional intensity. (Participants with European ancestry). DIGS2 	 C1457887;C0241526;C0013987;C0849912 	 sosy;fndg;menp;fndg 
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0701980 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0733624 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+===============
+C0338831
+	phv00013738.v1  	  K61. Have things around you ever seemed unreal? As if you were in a dream? Mania. (Participants with European ancestry). DIGS2 	 C0013117;C0338831 	 menp;mobd 
+	phv00013440.v1  	  K9. Have you ever had any religious beliefs or experiences that other people didn't share? (If yes, tell me about that). Mania. (Participants with European ancestry). DIGS2 	 C0596545;C0338831 	 menp;mobd 
+===============
+C0027769:C0085631
+	phv00087395.v1  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+	phv00086344.v2  	  I FEEL NERVOUS AND RESTLESS 	 C0013987;C0027769;C0085631 	 menp;fndg;sosy 
+===============
+C0233481
+	phv00028635.v1  	  Distress caused by: worried about sloppiness or carelessness 	 C0231303;C0233481 	 menp;fndg 
+	phv00034802.v1  	  Do you worry too long after an embarrassing experience? 	 C0233481;C0237607;C0596545 	 fndg;menp;menp 
+	phv00034664.v1  	  During that period (when you have felt worried, tense, anxious, or more worried than most people would in your situation), was your worry stronger than in other people? 	 C0013987;C1527305;C0233481;C0235108;C0003467 	 menp;menp;fndg;sosy;menp 
+	phv00054430.v1  	  When you were worried or anxious, were you also restless? (African American participants) 	 C0233481;C0003467;C0085631 	 fndg;menp;sosy 
+===============
+C0459435
+	phv00071384.v1  	  Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530]. Rating 	 C0011253;C0039869;C0459435 	 mobd;menp;fndg 
+	phv00071414.v1  	  No emotions/flat affect, by the subject's own report or interviewer's observation  (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I13310]. Rating 	 C0013987;C0233471;C0700287;C0302523;C0700325;C1964257;C0459435 	 menp;mobd;hlca;resa;hlca;diap;fndg 
+	phv00020158.v2  	  Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530] 	 C0011253;C0039869;C0459435 	 mobd;menp;fndg 
+===============
+DEMOGRAPHICS CLUSTERS
+computer job
+	phv00114968.v2  	  JOB REQ CREATIVENESS? 	 computer job 
+	phv00022377.v3  	  HOW DO YOU FEEL ABOUT THE FOLLOWING STATEMENT: ON MY JOB, I HAVE VERY LITTLE FREEDOM TO DECIDE HOW I DO MY WORK? [DECISION AUTHORITY SCALE] 	 computer job 
+===============
+gender:ethnic european
+	phv00016513.v1  	  M84. Strength of Sex Drive, (Participants with European ancestry). DIGS3 	 gender;ethnic european 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 gender;ethnic european 
+===============
+age
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 age;african american 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 age;ethnic european 
+	phv00012395.v1  	  H19. How old were you when you first began feeling this way? ONS AGE. (Participants with European ancestry). DIGS2 	 age;ethnic european 
+===============
+age:ethnic european
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 age;ethnic european 
+	phv00012395.v1  	  H19. How old were you when you first began feeling this way? ONS AGE. (Participants with European ancestry). DIGS2 	 age;ethnic european 
+===============
+ethnic european
+	phv00013619.v1  	  K40b. Have there been times when you did things that other people thought were socially or sexually inappropriate, disorganized or objectionable? For example being too aggressive or doing things that did not make sense? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013455.v1  	  K11. Have you ever believed that another person was in love with you when there was no real reason to think so? Alcohol. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00016513.v1  	  M84. Strength of Sex Drive, (Participants with European ancestry). DIGS3 	 gender;ethnic european 
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 ethnic european 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 age;ethnic european 
+	phv00016415.v1  	  M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 	 ethnic european 
+	phv00015717.v1  	  I 31.b. W/D Anxious/Dep Ever, (Participants with European ancestry). DIGS3 	 ethnic european 
+	phv00036165.v1  	  G44.  Beliefs/ideas.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00013730.v1  	  K60. Have you ever felt as if you were outside your body , or as if part of your body did not belong to you? Depression. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 unmarried person;unmarried;ethnic european 
+	phv00019328.v1  	  AA7.  Disliked tasks requiring attention.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00013284.v1  	  U8. Global rating of affective flattening. This rating should focus on overall severity of symptoms, especially unresponsiveness, inappropriateness and an overall decrease in emotional intensity. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013612.v1  	  K40a. Have you ever engaged in any unusual behavior, like digging through garbage, wearing unusual clothes, or collecting things that other people thought were worthless? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 engaged to be married;ethnic european 
+	phv00013658.v1  	  K47. Have you ever been so excited that you moved around without purpose (aside from experiencing mania)? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00017509.v1  	  F19. Did you tend to feel worse in the morning or in the evening or was there no difference? (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 ethnic european 
+	phv00035158.v1  	  Do you have an unreasonably strong fear for or avoid any of the following: traveling alone? (Participants with European ancestry) 	 ethnic european 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00013806.v1  	  K81. During the period of feeling especially good or high when you were also having (psychotic symptoms) were you experiencing racing thoughts? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00012773.v1  	  J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00012395.v1  	  H19. How old were you when you first began feeling this way? ONS AGE. (Participants with European ancestry). DIGS2 	 age;ethnic european 
+	phv00018770.v1  	  K60f.  Feel guilty.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00012919.v1  	  M37. When in public places, people sometimes have the feeling that the people around them are talking about them. Have you ever had a feeling like that? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013738.v1  	  K61. Have things around you ever seemed unreal? As if you were in a dream? Mania. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013501.v1  	  K18. Have you ever had any other thoughts or beliefs that others did not share or thought were odd, other than those we have just discussed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013440.v1  	  K9. Have you ever had any religious beliefs or experiences that other people didn't share? (If yes, tell me about that). Mania. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013475.v1  	  K14. Have you ever had the feeling that people could read your mind or know what you were thinking? Depression. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00012997.v1  	  M72a. When it's quiet, some people have the experience of hearing people's voices whispering or talking to them, even when no one is actually present. Have you ever had such an experience? (IF YES:) How often have you had this experience (of hearing whispers or voices)? Would you say often, sometimes, or rarely? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013538.v1  	  K27. Have you ever experienced hearing your thoughts repeated or echoed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00016383.v1  	  M15. Introversion, (Participants with European ancestry). DIGS3 	 ethnic european 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 gender;ethnic european 
+	phv00011707.v1  	  B3lb. Have you had any of the following conditions: serious head injury? IF YES: did you lose consciousness? IF YES: specify how long: (MINUTES). (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00018074.v1  	  G59a5.  Loss of interest.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00016525.v1  	  N1.a.1. Mood 1st Weeks, (Participants with European ancestry). DIGS3 	 ethnic european 
+	phv00036178.v1  	  G45.2d.  Not own thoughts.  (Participants with European ancestry). DIGS4 	 ethnic european 
+	phv00013787.v1  	  K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00016261.v1  	  K70.e. No/Odd Emotion Residual, (Participants with European ancestry). DIGS3 	 ethnic european 
+	phv00012546.v1  	  I29j. Did you ever have any of the following problems when you stopped or cut down on drinking? INTERVIEWER: code in column I. Did you have the DT's, that is, where you were out of your head, extremely shaky, or felt very frightened or nervous? EVER. (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013641.v1  	  K44. How long did (positive thought disorder) last? Ever (Weeks). (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00013046.v1  	  O2. INTERVIEWER: for the following questions, ask about the most serious suicide attempt: how did you try to kill yourself? Record response. (Participants with European ancestry). DIGS2 	 ethnic european 
+===============
+african american
+	phv00054568.v1  	  Can you usually let yourself go and enjoy yourself at a lively party? (African American participants) 	 african american 
+	phv00054575.v1  	  Do other people think of you as being very lively? (African American participants) 	 african american 
+	phv00053075.v1  	  P1e Recognizes thoughts are from within, (African American participants). DIGS4 	 african american 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 age;african american 
+	phv00053148.v1  	  P31 Always become anxious, (African American participants). DIGS4 	 african american 
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 african american 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 african american 
+	phv00052595.v1  	  H7 Very moody, (African American participants). DIGS4 	 african american 
+	phv00054430.v1  	  When you were worried or anxious, were you also restless? (African American participants) 	 african american 
+===============
+LAB TESTS CLUSTERS
+MEDICATION CLUSTERS
+C0020591:C0036557:C0013227:C0040616
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0701980 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0733624 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+===============
+C1254351:C0013227
+	phv00012773.v1  	  J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0034754;C0876928;C1704632;C2911692 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;dora;menp;fndg;menp 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+===============
+C0702216
+	phv00020673.v1  	  Amsterdamse Biografische Vragenlijst (ABV) somatic complaints item 9: Do you usually get up feeling fit and rested in the morning? 	 C0277786;C0702216;C0013987;C0009951;C0036572;C0424576;C1527305;C0035253 	 fndg;orch,phsu;menp;dsyn;sosy;fndg;menp;dora 
+	phv00020677.v1  	  Amsterdamse Biografische Vragenlijst (ABV) somatic complaints item 13: Do you usually feel weak? 	 C0277786;C0702216;C0013987;C0004093;C1883552 	 fndg;orch,phsu;menp;sosy;sosy 
+===============
+C0013227
+	phv00071603.v1  	  The next questions are about your use of drugs on your own.  By "on your own" we mean either without a doctor's prescription, in larger amounts than prescribed, or for longer than prescribed.  With this definition in mind, did you ever use any of the following drugs on your own? Amphetamines or other stimulants? (Methamphetamine, Preludin, Dexedrine, Ritalin, "Speed") 	 C0013227;C0033080;C0278329;C0229992;C0002667;C0025611;C0304402;C0282302;C0591355;C0728759 	 phsu;hlca;hlca;menp;nsba,orch,phsu;hops,orch;phsu;orch,phsu;orch,phsu;orch,phsu 
+	phv00011978.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0701980 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00011974.v1  	  E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 	 C0013227;C0802604;C2598133;C0013987;C0849912;C0848067;C0036557;C0020591;C0040616;C0733624 	 phsu;clna;clna;menp;fndg;fndg;phsu;phsu;phsu;orch,phsu 
+	phv00012773.v1  	  J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0034754;C0876928;C1704632;C2911692 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;dora;menp;fndg;menp 
+	phv00012796.v1  	  J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0027769 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;fndg 
+===============
+SMOKING CLUSTERS
+Mental or Emotional Finding CLUSTERS
+C0015726
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 C0015726;C0037817;C0234856;C0013470;C0001948;C0684271;C2371283;C0080151;C2584304;C0556656 	 menp;orgf;dora;orgf;inbe;orgf;menp;dsyn;menp;hlca 
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00035158.v1  	  Do you have an unreasonably strong fear for or avoid any of the following: traveling alone? (Participants with European ancestry) 	 C0015726;C1961839;C0040802;C0439044 	 menp;fndg;dora;fndg 
+	phv00120313.v2  	  I FELT FEARFUL. Q 10 	 C0013987;C1527305;C0015726 	 menp;menp;menp 
+	phv00020346.v1  	  If E4 (How long have you had any of these fears?) (being in a crowd or standing in line;  being away from home alone; traveling alone; traveling in a bus, train, or car; being in a public place like a department store) is less than 1 year, please enter # of months 	 C0015726;C0231472;C0439044;C0040802 	 menp;phsf;fndg;dora 
+	phv00034699.v1  	  How long have you had any of these fears (unreasonable strong fears)? 	 C0015726 	 menp 
+	phv00006780.v1  	  CES-D: I FELT FEARFUL 	 C0013987;C1527305;C0015726 	 menp;menp;menp 
+	phv00011278.v2  	  Fear of animals, insects, snakes 	 C0015726;C1961839 	 menp;fndg 
+	phv00034704.v1  	  Is your fear much stronger than in other people? 	 C0015726;C1961839 	 menp;fndg 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00011519.v2  	  Has many fears, is easily scared 	 C0015726;C1961839 	 menp;fndg 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+	phv00034689.v1  	  Have you ever been very upset with yourself for having any of these fears? 	 C0700361;C0015726 	 mobd;menp 
+	phv00012546.v1  	  I29j. Did you ever have any of the following problems when you stopped or cut down on drinking? INTERVIEWER: code in column I. Did you have the DT's, that is, where you were out of your head, extremely shaky, or felt very frightened or nervous? EVER. (Participants with European ancestry). DIGS2 	 C0000925;C0001948;C0684271;C0392703;C0013987;C1527305;C0015726;C1961839;C0027769 	 inpo;inbe;orgf;patf;menp;menp;menp;fndg;fndg 
+===============
+C0860661
+	phv00011161.v2  	  Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 	 C0860661;C0004927;C2707008;C0680095;C0162340 	 menp;inbe;clna;inbe;menp 
+	phv00011405.v2  	  Disruptive behaviour - oppositional behaviour PACS section 3.9 - frequency of expressing spitefulness 	 C0474416;C0860661;C1293097 	 fndg;menp;topp 
+===============
+C0018592
+	phv00054568.v1  	  Can you usually let yourself go and enjoy yourself at a lively party? (African American participants) 	 C0018592 	 menp 
+	phv00072807.v1  	  I am able to enjoy life 	 C1299581;C0018592 	 fndg;menp 
+	phv00116011.v2  	  I AM HAPPY. Q 30 	 C0018592 	 menp 
+	phv00120315.v2  	  I FELT HAPPY. Q 12 	 C0013987;C0018592;C1527305 	 menp;menp;menp 
+	phv00022485.v3  	  DURING THE PAST WEEK, I WAS HAPPY. [DEPRESSION SCALE] 	 C0018592;C0679604 	 menp;diap,inpr 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 C0543488;C1299581;C0018592;C0804628;C2712604;C0679105 	 menp;fndg;menp;clna;dora;menp 
+===============
+C1704726
+	phv00071357.v1  	  Consensus confidence level assigned to the diagnosis (confidence levels) 	 C0237529;C2946261;C1704726;C0011900;C1704656 	 menp;phsu;menp;fndg;resa 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+===============
+C0679062
+	phv00102999.v1  	  REMEMBER WATCH 	 C0679062 	 menp 
+	phv00115317.v2  	  SMOKES, DOESN'T REMEMBER, DOESN'T SMOKE. Q 1 	 C0037366;C0037369;C0679062;C0439994 	 eehu,hops;inbe;menp;hops 
+	phv00010870.v1  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+	phv00072590.v1  	  What are the 3 objects I asked you to remember a few moments ago? 	 C0679062 	 menp 
+	phv00011025.v4  	  What are the 3 objects I asked you to remember a few moments ago? 	 C0679062 	 menp 
+	phv00104528.v1  	  TO REMEMBER 'SHOES' 3MSE Score Component 	 C0679062;C2960235 	 menp;fndg 
+	phv00110574.v1  	  REMEMBER NAMES OF FAMILY AND FRIENDS 	 C0679062 	 menp 
+	phv00072608.v2  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+	phv00102197.v1  	  TO REMEMBER 'BROWN' 3MSE Score Component 	 C0679062;C2960235 	 menp;fndg 
+	phv00088511.v1  	  Forgets to do things/remembers when prompted or too late - Frequency 	 C0598853;C0679062 	 mobd;menp 
+===============
+C0018379
+	phv00089213.v1  	  LOW SELF-ESTEEM/GUILT (Frequency) 	 C0679136;C0018379 	 fndg;menp 
+	phv00018770.v1  	  K60f.  Feel guilty.  (Participants with European ancestry). DIGS4 	 C0016327;C0013987;C0018379;C0011900;C2827447 	 inch,phsu;menp;menp;fndg;resa 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 C0018379;C1821293;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+C0242428
+	phv00124798.v1  	  30. How satisfied have you been w/the quality of health care you have received in the past year? 	 C0242428;C0004083 	 menp;menp 
+	phv00088288.v1  	  Unlikely to get real satisfaction in the future 	 C0242428 	 menp 
+	phv00127590.v1  	  11: Satisfied w/doctor 	 C0242428 	 menp 
+===============
+C0459920
+	phv00071624.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00020398.v1  	  Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 	 C0039869;C0233629;C0459920;C1299586;C0700361 	 menp;mobd;menp;fndg;mobd 
+	phv00089054.v1  	  Idea should be punished for sins 	 C0459920 	 menp 
+	phv00036165.v1  	  G44.  Beliefs/ideas.  (Participants with European ancestry). DIGS4 	 C0459920;C0011900;C2827447 	 menp;fndg;resa 
+	phv00088430.v1  	  Repeats certain actions/gets stuck on certain ideas - Distress 	 C0459920;C0231303 	 menp;menp 
+	phv00013787.v1  	  K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 	 C0871189;C0233640;C0008892;C0039456;C0013987;C1527305;C1955473;C0459920;C0039869 	 sosy;mobd;menp;menp;menp;menp;fndg;menp;menp 
+===============
+C0679063
+	phv00025314.v1  	  Logical memory - immediate recall - story 2 (quarterly visit 28) 	 C0679063;C1512346 	 menp;inbe 
+	phv00024920.v1  	  Logical memory - immediate recall: story 2 (quarterly visit 00) 	 C0679063;C1512346 	 menp;inbe 
+===============
+C0237529
+	phv00071357.v1  	  Consensus confidence level assigned to the diagnosis (confidence levels) 	 C0237529;C2946261;C1704726;C0011900;C1704656 	 menp;phsu;menp;fndg;resa 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+===============
+C0524637
+	phv00051454.v1  	  B3. Recognition event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+	phv00051095.v1  	  B1. Recognition of event. Deidentified date of occurrence 	 C0524637;C2348077 	 menp;food 
+	phv00051420.v1  	  B2b. Recognition of event. Deidentified date clinic learned of the event 	 C0524637;C2348077;C0023185 	 menp;food;menp 
+	phv00051100.v1  	  B3. Recognition of event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+===============
+C0023185
+	phv00051454.v1  	  B3. Recognition event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+	phv00051420.v1  	  B2b. Recognition of event. Deidentified date clinic learned of the event 	 C0524637;C2348077;C0023185 	 menp;food;menp 
+	phv00051100.v1  	  B3. Recognition of event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+===============
+C0231303
+	phv00082262.v1  	  Depression/Dysphoria -  Caregiver Distress 	 C0011570;C0233477;C0231303;C0011581;C0344315 	 mobd;mobd;menp;mobd;fndg 
+	phv00088448.v1  	  Talks out of turn/interrupts - Distress 	 C0600118;C0541749;C0231303 	 fndg;fndg;menp 
+	phv00088430.v1  	  Repeats certain actions/gets stuck on certain ideas - Distress 	 C0459920;C0231303 	 menp;menp 
+	phv00028631.v1  	  Distress caused by: feeling critical of others 	 C0231303;C0013987;C1527305;C1955473 	 menp;menp;menp;fndg 
+	phv00088518.v1  	  Overly silly/childish sense of humor - Distress 	 C0231303;C0597811 	 menp;topp 
+	phv00028635.v1  	  Distress caused by: worried about sloppiness or carelessness 	 C0231303;C0233481 	 menp;fndg 
+===============
+C0229992
+	phv00071603.v1  	  The next questions are about your use of drugs on your own.  By "on your own" we mean either without a doctor's prescription, in larger amounts than prescribed, or for longer than prescribed.  With this definition in mind, did you ever use any of the following drugs on your own? Amphetamines or other stimulants? (Methamphetamine, Preludin, Dexedrine, Ritalin, "Speed") 	 C0013227;C0033080;C0278329;C0229992;C0002667;C0025611;C0304402;C0282302;C0591355;C0728759 	 phsu;hlca;hlca;menp;nsba,orch,phsu;hops,orch;phsu;orch,phsu;orch,phsu;orch,phsu 
+	phv00013475.v1  	  K14. Have you ever had the feeling that people could read your mind or know what you were thinking? Depression. (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0034754;C0229992;C0039869;C0011570;C0011581;C0344315;C0233629 	 menp;menp;dora;menp;menp;mobd;mobd;fndg;mobd 
+	phv00008537.v3  	  FOR HOMEMAKERS: HOUSE WORK OFTEN STAYED ON MIND ALL DAY 	 C0229992 	 menp 
+===============
+C0234421
+	phv00011707.v1  	  B3lb. Have you had any of the following conditions: serious head injury? IF YES: did you lose consciousness? IF YES: specify how long: (MINUTES). (Participants with European ancestry). DIGS2 	 C1710055;C0009791;C0234421 	 inpo;fndg;menp 
+	phv00005710.v1  	  (USUAL) ACTIVITY PRECEDING EVENT/LOSS OF CONSCIOUSNESS 	 C0026606;C0009791;C0234421 	 dora;fndg;menp 
+	phv00006554.v1  	  SYNCOPE HISTORY - HAVE YOU FAINTED OR LOST CONSCIOUSNESS IN THE INTERIM? (IF DUE TO STROKE, SKIP TO FR338 (SCREEN 11)? IF EVENT IMMEDIATELY PRECEDED BY HEAD INJURY OR ACCIDENT CODE 0=NO. 	 C0039070;C0262926;C2004062;C0009791;C0234421;C0038454;C0560435;C0220908;C0430054;C0018674 	 sosy;fndg;fndg;fndg;menp;dsyn;fndg;hlca;lbpr;inpo 
+===============
+C0003467
+	phv00156255.v1  	  Days enrollment to F33 Treatment for Anxiety 	 C1516879;C0087111;C1533734;C0003467;C0003469 	 hlca;topp;topp;menp;mobd 
+	phv00022537.v3  	  ANXIETY SCALE (1=MOST TENSION) 	 C0003467;C0003469;C0233494 	 menp;mobd;mobd 
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00088955.v1  	  Anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028594.v1  	  Number of questions answered - anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028611.v1  	  Total score - phobic anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00016415.v1  	  M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 	 C0003467;C0013987;C2371283 	 menp;menp;menp 
+	phv00053148.v1  	  P31 Always become anxious, (African American participants). DIGS4 	 C0003467;C0011900;C2827447 	 menp;fndg;resa 
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00015717.v1  	  I 31.b. W/D Anxious/Dep Ever, (Participants with European ancestry). DIGS3 	 C0152277;C0003467;C0057472 	 topp;menp;orch,phsu 
+	phv00034664.v1  	  During that period (when you have felt worried, tense, anxious, or more worried than most people would in your situation), was your worry stronger than in other people? 	 C0013987;C1527305;C0233481;C0235108;C0003467 	 menp;menp;fndg;sosy;menp 
+	phv00054430.v1  	  When you were worried or anxious, were you also restless? (African American participants) 	 C0233481;C0003467;C0085631 	 fndg;menp;sosy 
+===============
+C0543488
+	phv00088865.v1  	  Loss of sexual interest/pleasure 	 C0543488;C0679105 	 menp;menp 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 C0543488;C1299581;C0018592;C0804628;C2712604;C0679105 	 menp;fndg;menp;clna;dora;menp 
+	phv00018074.v1  	  G59a5.  Loss of interest.  (Participants with European ancestry). DIGS4 	 C0543488;C0011900;C2827447 	 menp;fndg;resa 
+===============
+C0026516
+	phv00016525.v1  	  N1.a.1. Mood 1st Weeks, (Participants with European ancestry). DIGS3 	 C0441962;C0026516;C2713234 	 fndg;menp;clna 
+	phv00052595.v1  	  H7 Very moody, (African American participants). DIGS4 	 C0026516;C0554980;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+C0679105
+	phv00088865.v1  	  Loss of sexual interest/pleasure 	 C0543488;C0679105 	 menp;menp 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 C0543488;C1299581;C0018592;C0804628;C2712604;C0679105 	 menp;fndg;menp;clna;dora;menp 
+===============
+C0086045
+	phv00011544.v2  	  Is easily distracted, concentration wanders 	 C0086045;C0233569 	 menp;fndg 
+	phv00011527.v2  	  Do you think that your child has difficulties in one or more of the following areas: emotions, concentration, behaviour or being able to get on with other people? Do these difficulties interfere with your child's everyday life in leisure activities? 	 C0039869;C1299586;C0013987;C0086045;C0004927;C2707008;C1299581;C0023292 	 menp;fndg;menp;menp;inbe;clna;fndg;dora 
+===============
+C0162340
+	phv00011161.v2  	  Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 	 C0860661;C0004927;C2707008;C0680095;C0162340 	 menp;inbe;clna;inbe;menp 
+	phv00088896.v1  	  Others don't understand them/unsympathetic 	 C1955473;C0162340 	 fndg;menp 
+===============
+C0392347
+	phv00021279.v4  	  CES-D I FELT HOPEFUL ABOUT THE FUTURE 	 C0013987;C1527305;C0392347 	 menp;menp;menp 
+	phv00010593.v3  	  CESD: I FELT HOPEFUL ABOUT THE FUTURE. SEE NOTE ABOVE 	 C0013987;C1527305;C0392347;C0042789 	 menp;menp;menp;orgf 
+===============
+C0025260
+	phv00024921.v1  	  Logical memory - delayed recall: story 1 (quarterly visit 00) 	 C0025260;C0700327;C0034770;C2361119;C1512346 	 menp;fndg;menp;clna;inbe 
+	phv00082438.v1  	  LO-WORD LIST MEMORY: Other - Raw Score 	 C0025260;C1955473;C0700327 	 menp;fndg;fndg 
+===============
+C2371283
+	phv00016415.v1  	  M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 	 C0003467;C0013987;C2371283 	 menp;menp;menp 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 C0015726;C0037817;C0234856;C0013470;C0001948;C0684271;C2371283;C0080151;C2584304;C0556656 	 menp;orgf;dora;orgf;inbe;orgf;menp;dsyn;menp;hlca 
+===============
+C0002957
+	phv00088752.v1  	  Get angry w/people who mess up your desk, room, area 	 C0002957;C0265215 	 menp;cgab 
+	phv00094638.v1  	  ANGRY AND SAY NASTY THINGS           Q7 	 C0002957 	 menp 
+	phv00022473.v3  	  WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TALK TO A FRIEND OR RELATIVE? [ANGER-DISCUSS SCALE] 	 C0002957;C0037817;C0234856;C0600118 	 menp;orgf;dora;fndg 
+	phv00022467.v3  	  WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TRY TO ACT LIKE NOTHING HAPPENED? [ANGER-IN SCALE] 	 C0002957 	 menp 
+	phv00094629.v1  	  POOR RATING ON GOOD WORK, ANGER   Q10 	 C0002957 	 menp 
+===============
+HEALTHCARE ACTIVITIES FINDING CLUSTERS
+DIAGNOSTICS CLUSTERS
+ Therapeutic or Preventative Procedure CLUSTERS
+DRINKING HISTORY CLUSTERS
+===============
+===============
+Substance Use History CLUSTERS
+===============
+===============
+Daily or Recreational Activity CLUSTERS
+===============
+stand
+	phv00011161.v2  	  Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 
+	phv00088896.v1  	  Others don't understand them/unsympathetic 
+	phv00020346.v1  	  If E4 (How long have you had any of these fears?) (being in a crowd or standing in line;  being away from home alone; traveling alone; traveling in a bus, train, or car; being in a public place like a department store) is less than 1 year, please enter # of months 
+===============
+===============
+C0234856
+	phv00070670.v1  	  BERKMAN: HOW MANY RELATIVES DO YOU HAVE, PEOPLE THAT YOU FEEL AT EASE WITH, CAN TALK TO ABOUT PRIVATE MATTERS? 	 C0013987;C0037817;C0234856;C0600118 	 menp;orgf;dora;fndg 
+	phv00022473.v3  	  WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TALK TO A FRIEND OR RELATIVE? [ANGER-DISCUSS SCALE] 	 C0002957;C0037817;C0234856;C0600118 	 menp;orgf;dora;fndg 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 C0015726;C0037817;C0234856;C0013470;C0001948;C0684271;C2371283;C0080151;C2584304;C0556656 	 menp;orgf;dora;orgf;inbe;orgf;menp;dsyn;menp;hlca 
+	phv00012919.v1  	  M37. When in public places, people sometimes have the feeling that the people around them are talking about them. Have you ever had a feeling like that? (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0037817;C0234856 	 menp;menp;orgf;dora 
+	phv00012997.v1  	  M72a. When it's quiet, some people have the experience of hearing people's voices whispering or talking to them, even when no one is actually present. Have you ever had such an experience? (IF YES:) How often have you had this experience (of hearing whispers or voices)? Would you say often, sometimes, or rarely? (Participants with European ancestry). DIGS2 	 C0237607;C0596545;C0424068;C0234766;C0037817;C0234856;C0018767;C1455844;C0042939;C0080151 	 menp;menp;sosy;fndg;orgf;dora;phsf;fndg;orgf;dsyn 
+===============
+C0034754
+	phv00012773.v1  	  J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0034754;C0876928;C1704632;C2911692 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;dora;menp;fndg;menp 
+	phv00013475.v1  	  K14. Have you ever had the feeling that people could read your mind or know what you were thinking? Depression. (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0034754;C0229992;C0039869;C0011570;C0011581;C0344315;C0233629 	 menp;menp;dora;menp;menp;mobd;mobd;fndg;mobd 
+===============
+C0040802
+	phv00035158.v1  	  Do you have an unreasonably strong fear for or avoid any of the following: traveling alone? (Participants with European ancestry) 	 C0015726;C1961839;C0040802;C0439044 	 menp;fndg;dora;fndg 
+	phv00020346.v1  	  If E4 (How long have you had any of these fears?) (being in a crowd or standing in line;  being away from home alone; traveling alone; traveling in a bus, train, or car; being in a public place like a department store) is less than 1 year, please enter # of months 	 C0015726;C0231472;C0439044;C0040802 	 menp;phsf;fndg;dora 
+===============
+Eating or Nutritional Finding CLUSTERS
+C0475653:C1095830
+	phv00010870.v1  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+	phv00072608.v2  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+===============
+SelfCare CLUSTERS
+eating
+	phv00087419.v1  	  I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 
+===============
+Research Attribute CLUSTERS
+C2827447
+	phv00053075.v1  	  P1e Recognizes thoughts are from within, (African American participants). DIGS4 	 C0039869;C0011900;C2827447 	 menp;fndg;resa 
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053148.v1  	  P31 Always become anxious, (African American participants). DIGS4 	 C0003467;C0011900;C2827447 	 menp;fndg;resa 
+	phv00036165.v1  	  G44.  Beliefs/ideas.  (Participants with European ancestry). DIGS4 	 C0459920;C0011900;C2827447 	 menp;fndg;resa 
+	phv00044547.v1  	  BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 	 C0011570;C0011581;C0344315;C0087136;C0011900;C0237529;C1704726;C2827447 	 mobd;mobd;fndg;fndg;fndg;menp;menp;resa 
+	phv00019328.v1  	  AA7.  Disliked tasks requiring attention.  (Participants with European ancestry). DIGS4 	 C0870431;C0004268;C0011900;C2827447 	 menp;menp;fndg;resa 
+	phv00017509.v1  	  F19. Did you tend to feel worse in the morning or in the evening or was there no difference? (Participants with European ancestry). DIGS4 	 C0013987;C1279889;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+	phv00018770.v1  	  K60f.  Feel guilty.  (Participants with European ancestry). DIGS4 	 C0016327;C0013987;C0018379;C0011900;C2827447 	 inch,phsu;menp;menp;fndg;resa 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 C0018379;C1821293;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00018074.v1  	  G59a5.  Loss of interest.  (Participants with European ancestry). DIGS4 	 C0543488;C0011900;C2827447 	 menp;fndg;resa 
+	phv00036178.v1  	  G45.2d.  Not own thoughts.  (Participants with European ancestry). DIGS4 	 C0039869;C0011900;C2827447 	 menp;fndg;resa 
+	phv00052595.v1  	  H7 Very moody, (African American participants). DIGS4 	 C0026516;C0554980;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+Clinical Attribute CLUSTERS
+Healthcare Encounter CLUSTERS

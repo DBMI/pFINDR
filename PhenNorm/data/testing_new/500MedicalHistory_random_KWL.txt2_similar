@@ -1,0 +1,402 @@
+MEDICAL HISTORY CLUSTERS
+C0038454
+	phv00051155.v1  	 " Ca4. Cerebrovascular accident: carotid arterial system, agnosia " 	 C0038454;C0001816 	 dsyn;mobd 
+	phv00111508.v2  	  Stroke diagnosis based on 	 C0038454;C0011900;C1704656 	 dsyn;fndg;resa 
+	phv00121532.v2  	  STROKE BASED ON POSITIVE LUMBAR PUNCTURE 	 C0038454;C0037943;C0553794;C1548878;C1514241 	 dsyn;diap,topp;diap;hlca;fndg 
+	phv00125266.v1  	 " 8b. Were you hospitalized for this stroke, slight stroke " 	 C0701159;C0038454 	 fndg;dsyn 
+	phv00168289.v1  	  Did you follow a  Weight reduction (low calorie) diet in the year preceding your stroke? 	 C0043096;C1135809;C2930544;C0038454 	 fndg;topp;topp;dsyn 
+	phv00170758.v1  	  Stroke occurred during or resulted from a procedure 	 C0038454;C2825142;C0184661;C1948041 	 dsyn;fndg;diap,topp;topp 
+===============
+C0028754
+	phv00059212.v2  	  Cranial Adipose Cumulation at visit 3 	 C0028754;C1512346 	 dsyn;inbe 
+	phv00059814.v2  	  Cranial Adipose Cumulation at visit 1 	 C0028754;C1512346 	 dsyn;inbe 
+	phv00060044.v2  	  Cranial Adipose Cumulation at visit 3 	 C0028754;C1512346 	 dsyn;inbe 
+	phv00060646.v2  	  Cranial Adipose Cumulation at visit 1 	 C0028754;C1512346 	 dsyn;inbe 
+	phv00062988.v2  	  Cranial Adipose Cumulation at visit 3 	 C0028754;C1512346 	 dsyn;inbe 
+===============
+C0344315
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0042789 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;orgf 
+	phv00013745.v1  	  K63a. (IF YES:) Did these symptoms ever last as long as one week while you were not (depressed/high)? (Participants with European ancestry). DIGS2 	 C1457887;C0344315 	 sosy;fndg 
+===============
+C0006826:C1306459
+	phv00000125.v2  	  NEW DIAGNOSIS OF CANCER (SINCE LAST STUDY VISIT) AT YEAR 3 (PARTICIPANTS WITH A GENETIC SPECIMEN) 	 C1882082;C2585997;C0006826;C1306459;C0008976;C2603343;C1512346 	 diap;fndg;neop;neop;resa;resa;inbe 
+	phv00013449.v1  	 " K10. Have you ever had a change in your body or the way it was working for which the doctor could not find a cause? (Probe with: like incurable cancer, bowels stopped up, insides rotting?) Drugs. (Participants with European ancestry). DIGS2 " 	 C0243095;C1442917;C0006826;C1306459;C0013227 	 fndg;lbpr;neop;neop;phsu 
+	phv00125005.v1  	  7m. What part of the body the cancer was located? 	 C0006826;C1306459 	 neop;neop 
+	phv00111187.v2  	 " Cancer of genital organs, other or unspecified " 	 C0006826;C1306459 	 neop;neop 
+===============
+C2004062:C0262926:C0011849
+	phv00080910.v1  	  HISTORY OF DIABETES MELLITUS (140 mg/dl) AT EXAM 1 	 C0262926;C2004062;C0011849;C0582103 	 fndg;fndg;dsyn;hlca 
+	phv00173387.v1  	  History of diabetes mellitus 	 C0262926;C2004062;C0011849 	 fndg;fndg;dsyn 
+===============
+C0036341
+	phv00081755.v1  	  SCHIZOPHRENIA: Subject history of disease 	 C0036341;C0262926;C2004062;C0012634 	 mobd;fndg;fndg;dsyn 
+	phv00020139.v2  	 " Consensus rating for DSM-IV (Diagnostic and Statistical Manual of Mental Disorders) schizophrenia criterion A2 (hallucinations); (1=present, 0=absent) " 	 C0036341;C0018524;C2699517 	 mobd;mobd;fndg 
+===============
+C0011900:C1955473
+	phv00002004.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: OTHER HEART DISEASE (INCLUDES CONGENITAL) 	 C2973287;C0011900;C1955473;C0018799;C0268059 	 fndg;fndg;fndg;dsyn;dsyn 
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 C0087111;C1533734;C0011900;C0018767;C1455844;C0042939;C1955473;C0080151 	 topp;topp;fndg;phsf;fndg;orgf;fndg;dsyn 
+===============
+C1265875
+	phv00091660.v1  	  Number of Decayed Coronal Surfaces 	 C1265875 	 acab 
+	phv00091666.v1  	  Number of Decayed Coronal Surfaces 	 C1265875 	 acab 
+===============
+C0006277
+	phv00087209.v1  	  BRONCHITIS IN PAST TWO WEEKS 	 C0006277 	 dsyn 
+	phv00108620.v1  	  BRONCHITIS CONFIRMED BY DOCTOR 	 C0006277 	 dsyn 
+===============
+C0027051
+	phv00058509.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 3 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00060551.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 1 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00060871.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 1 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00061325.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 3 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00062061.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 3 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00063853.v2  	 " 1:Myocardial infarction (MI) event, 0:No Myocardial infarction (MI) event at visit 3 " 	 C0027051;C2926063;C1512346 	 dsyn;clna;inbe 
+	phv00092711.v1  	  MD DIAGNOSED MYOCARDIAL INFARCTION 	 C0011900;C0027051;C2926063 	 fndg;dsyn;clna 
+	phv00100817.v1  	  MI  MODIFIED BL STAT 	 C0027051;C2926063;C0019080;C0419358 	 dsyn;clna;patf;diap 
+	phv00160327.v1  	  Age at last follow-up for MI (missing for anyone with a baseline or incident MI) 	 C0589120;C1522577;C0027051;C2926063 	 fndg;hlca;dsyn;clna 
+===============
+C0028643:C0233715:C0020580
+	phv00097242.v1  	  NUMBNESS: SPEECH DISTURBANCE      Q31A 	 C0020580;C0233715;C0028643 	 fndg;mobd;sosy 
+	phv00168440.v1  	 " While you were having your episode of numbness, tingling or loss of sensation, did any of the following occur?  Speech disturbance " 	 C0020580;C0028643;C2242996;C0542538;C0233715 	 fndg;sosy;sosy;fndg;mobd 
+===============
+C0019080
+	phv00100803.v1  	  CHD BL MODIFIED STATUS 	 C0010054;C0019080;C0010068;C0419358 	 dsyn;patf;dsyn;diap 
+	phv00100817.v1  	  MI  MODIFIED BL STAT 	 C0027051;C2926063;C0019080;C0419358 	 dsyn;clna;patf;diap 
+	phv00092275.v1  	  Bleeding on Probing (BL) measure for Lingual (L) of tooth number 23 	 C0019080;C0419358 	 patf;diap 
+===============
+C0020517
+	phv00000700.v1  	 " INTERIM HISTORY OF ALLERGIES: HIVES, EXAM 4 " 	 C0262926;C2004062;C0020517;C0042109;C1314973;C0582103 	 fndg;fndg;patf;dsyn;clna;hlca 
+	phv00081667.v1  	  Drugs causing allergies 	 C0013227;C0020517;C1314973 	 phsu;patf;clna 
+===============
+C1514241
+	phv00054705.v1  	 " IF GLAUCOMA (E016) QUESTIONABLE OR POSITIVE, AGE FIRST DIAGNOSED (YEARS) " 	 C0017601;C1962986;C1514241;C0011900 	 dsyn;fndg;fndg;fndg 
+	phv00121532.v2  	  STROKE BASED ON POSITIVE LUMBAR PUNCTURE 	 C0038454;C0037943;C0553794;C1548878;C1514241 	 dsyn;diap,topp;diap;hlca;fndg 
+===============
+C0085096
+	phv00001710.v1  	  FIRST EXAMINER'S OPINION: ARTERIAL PERIPHERAL VASCULAR DISEASE 	 C0871010;C0852949;C0085096 	 menp;dsyn;dsyn 
+	phv00170205.v1  	  Peripheral Arterial Disease (PAD) 	 C0085096;C0332568;C1704436 	 dsyn;neop;dsyn 
+===============
+C0235029
+	phv00029948.v1  	  Neurologic complications: dizziness or lightheadedness 	 C0235029;C0012833;C0042571;C1963093;C0220870 	 patf;sosy;sosy;fndg;sosy 
+	phv00029949.v1  	  Neurologic complications: fainting spells 	 C0235029;C0039070;C0302539 	 patf;sosy;fndg 
+	phv00031411.v1  	  Neurologic complications: pain/numbness in hands/feet 	 C0235029;C0030193;C0020580;C0028643;C1962977 	 patf;sosy;fndg;sosy;fndg 
+===============
+C0011265:C0497327
+	phv00051651.v1  	 " B1a. Information on transfer to inactive status. Catastrophic injury or illness leading to coma, dementia, or inability to participate in EDIC testing procedure " 	 C0040671;C0175677;C0221423;C0009421;C0543874;C0011265;C0497327;C0699910;C0342257;C0184661;C1948041 	 menp;inpo;fndg;dsyn;cgab;mobd;mobd;hlca;patf;diap,topp;topp 
+	phv00069848.v4  	 " Date of entry into the ""Dementia Moderate Plus Incidence"" cohort " 	 C2348077;C0011265;C0497327 	 food;mobd;mobd 
+	phv00069840.v4  	  Dementia subtype 	 C0011265;C0497327 	 mobd;mobd 
+===============
+C1955473
+	phv00002004.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: OTHER HEART DISEASE (INCLUDES CONGENITAL) 	 C2973287;C0011900;C1955473;C0018799;C0268059 	 fndg;fndg;fndg;dsyn;dsyn 
+	phv00007520.v1  	  NON CARDIOVASCULAR DIAGNOSTIC 1ST EXAMINER OPINIONS - OTHER PULMONARY DISEASE 	 C0679562;C0871010;C1955473;C0024115 	 diap;menp;fndg;dsyn 
+	phv00056455.v3  	  Number of Obstructive Apnea in NREM (Other position) 5% desaturation or arousal 	 C0003578;C1963065;C1955473;C0003808 	 fndg,patf;fndg;fndg;menp 
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 C0087111;C1533734;C0011900;C0018767;C1455844;C0042939;C1955473;C0080151 	 topp;topp;fndg;phsf;fndg;orgf;fndg;dsyn 
+===============
+C0003578:C1963065
+	phv00056455.v3  	  Number of Obstructive Apnea in NREM (Other position) 5% desaturation or arousal 	 C0003578;C1963065;C1955473;C0003808 	 fndg,patf;fndg;fndg;menp 
+	phv00057607.v1  	  Number of Obstructive Apnea in NREM (Back position) 5% desaturation or arousal 	 C0003578;C1963065;C0003808 	 fndg,patf;fndg;menp 
+===============
+C0043144
+	phv00004695.v1  	  TYPE OF WHEEZING OR ASTHMA 	 C0043144;C0004096 	 sosy;dsyn 
+	phv00096383.v1  	  2 OR MORE WHEEZING ATTACKS?       Q19 	 C0043144;C1304680 	 sosy;fndg 
+	phv00122107.v1  	  Wheeze when exposed to dust/fume (AC) 	 C0043144;C0332157 	 sosy;clna 
+	phv00099110.v1  	  CHEST SOUND WHEEZY/WHISTLING HAVING COLD 	 C0425538;C0043144;C0009443;C0234192 	 fndg;sosy;dsyn;phsf 
+===============
+C0020615
+	phv00029911.v1  	  Severe hypoglycemia - symptoms: diaphoresis (sweating) 	 C0436345;C0020615;C0038990;C0700590 	 fndg;dsyn;fndg;sosy 
+	phv00029917.v1  	  Severe hypoglycemia - how many times did patient receive glucagon? 	 C0020615;C0017687;C0876232 	 dsyn;aapp,horm,nsba,phsu;aapp,horm,phsu 
+	phv00030811.v1  	  Indicator of hypoglycemia events resulting in property damage 	 C0020615;C0010957 	 dsyn;inpo 
+===============
+C0028643:C0020580:C2242996
+	phv00168436.v1  	 " During the episode of sudden numbness or tingling, which part or parts of your body were affected?  Right foot or leg " 	 C0020580;C0028643;C2242996 	 fndg;sosy;sosy 
+	phv00168440.v1  	 " While you were having your episode of numbness, tingling or loss of sensation, did any of the following occur?  Speech disturbance " 	 C0020580;C0028643;C2242996;C0542538;C0233715 	 fndg;sosy;sosy;fndg;mobd 
+===============
+C0035436
+	phv00082572.v1  	  HISTORY OF RHEUMATIC FEVER / RHEUMATIC HEART DISEASE: Risk factor - text 	 C0262926;C2004062;C0035439;C0015967;C0035436;C1113667;C0850664;C2926607 	 fndg;fndg;dsyn;fndg;dsyn;fndg;fndg;clna 
+	phv00103272.v1  	  TOLD BY MD YOU HAD RHEUMATIC FEVER 	 C0035436;C2926607 	 dsyn;clna 
+	phv00103482.v1  	  TOLD BY MD YOU HAD RHEUMATIC FEVER 	 C0035436;C2926607 	 dsyn;clna 
+===============
+C0025274
+	phv00163131.v1  	  Age at menarche 	 C0025274 	 orgf 
+	phv00165358.v1  	  Age categories for menarche 	 C0025274 	 orgf 
+===============
+C0003873
+	phv00004069.v1  	  CDI: RHEUMATOID ARTHRITIS 	 C0003873 	 dsyn 
+	phv00004927.v1  	  CDI-RHEUMATOID ARTHRITIS 	 C0003873 	 dsyn 
+===============
+C0018802
+	phv00121519.v2  	  CHF BASED ON PHYSICIAN DIAGNOSIS 	 C0018802;C0011900;C1704656;C0804815 	 dsyn;fndg;resa;clna 
+	phv00170159.v1  	  CHF Dilated ventricle or poor left function 	 C0018802;C0031843 	 dsyn;phsf 
+===============
+C0589120
+	phv00160327.v1  	  Age at last follow-up for MI (missing for anyone with a baseline or incident MI) 	 C0589120;C1522577;C0027051;C2926063 	 fndg;hlca;dsyn;clna 
+	phv00097949.v1  	  Follow-up HEM Strokes (days) 	 C0589120;C0553692;C1522577 	 fndg;patf;hlca 
+===============
+C0442696
+	phv00122092.v1  	  Reason wake at night (A) 	 C0442696 	 phsf 
+	phv00022704.v3  	  WOKEN UP WITH FEELING OF TIGHTNESS IN CHEST IN LAST 12 MONTHS 	 C0442696;C0013987;C1527305 	 phsf;menp;menp 
+===============
+C0020538:C1963138
+	phv00002181.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: UNDER TREATMENT FOR HYPERTENSION 	 C1516635;C0020538;C1963138 	 topp;dsyn;fndg 
+	phv00029211.v1  	  Systolic/diastolic blood pressure indicates hypertension. 	 C0488055;C0012000;C0871470;C1306620;C0428883;C0488052;C1305849;C1444656;C0020538;C1963138 	 clna;clna;clna;diap;clna;clna;diap;fndg;dsyn;fndg 
+===============
+C0004096
+	phv00004695.v1  	  TYPE OF WHEEZING OR ASTHMA 	 C0043144;C0004096 	 sosy;dsyn 
+	phv00022716.v3  	  HAD AN ATTACK OF ASTHMA AT ANY TIME IN THE LAST 12 MONTHS 	 C0277793;C1304680;C0004096 	 fndg;fndg;dsyn 
+	phv00072510.v2  	 " ASTHMA: IF YOU NO LONGER HAVE IT, AT WHAT AGE DID IT STOP? " 	 C0004096 	 dsyn 
+	phv00104144.v1  	  ASTHMA 	 C0004096 	 dsyn 
+	phv00121468.v2  	  DISCHG DIAG - ASTHMA 	 C0004096 	 dsyn 
+===============
+C0011847:C0011849
+	phv00031368.v1  	  Diabetes control- symptoms of hyperglycemia: did patient experience other symptoms of hyperglycemia 	 C0011847;C1274136;C0011849;C0020456;C0237607;C0596545;C1457887 	 dsyn;topp;dsyn;dsyn;menp;menp;sosy 
+	phv00048679.v1  	  F3. Diabetes management: units Ultralente insulin used-lunch 	 C0011847;C0041616;C0376636;C0011849;C1273517 	 dsyn;aapp,horm,phsu;hlca;dsyn;fndg 
+	phv00048695.v1  	  F5b. Diabetes management: units of basal insulin infused daily 	 C0011847;C0376636;C0011849;C0650607 	 dsyn;hlca;dsyn;aapp,phsu 
+	phv00080821.v1  	  CURRENT TREATMENT FOR DIABETES EXAM 4 	 C2827774;C0011847;C0582103;C0011849 	 topp;dsyn;hlca;dsyn 
+===============
+C0011849
+	phv00031368.v1  	  Diabetes control- symptoms of hyperglycemia: did patient experience other symptoms of hyperglycemia 	 C0011847;C1274136;C0011849;C0020456;C0237607;C0596545;C1457887 	 dsyn;topp;dsyn;dsyn;menp;menp;sosy 
+	phv00080910.v1  	  HISTORY OF DIABETES MELLITUS (140 mg/dl) AT EXAM 1 	 C0262926;C2004062;C0011849;C0582103 	 fndg;fndg;dsyn;hlca 
+	phv00173387.v1  	  History of diabetes mellitus 	 C0262926;C2004062;C0011849 	 fndg;fndg;dsyn 
+	phv00048679.v1  	  F3. Diabetes management: units Ultralente insulin used-lunch 	 C0011847;C0041616;C0376636;C0011849;C1273517 	 dsyn;aapp,horm,phsu;hlca;dsyn;fndg 
+	phv00048695.v1  	  F5b. Diabetes management: units of basal insulin infused daily 	 C0011847;C0376636;C0011849;C0650607 	 dsyn;hlca;dsyn;aapp,phsu 
+	phv00080821.v1  	  CURRENT TREATMENT FOR DIABETES EXAM 4 	 C2827774;C0011847;C0582103;C0011849 	 topp;dsyn;hlca;dsyn 
+===============
+C0015264
+	phv00004696.v1  	  DYSPNEA ON EXERTION 	 C0013404;C0015264 	 sosy;orgf 
+	phv00105288.v1  	  FELT EVERYTHING DONE WAS EFFORT 	 C0013987;C1527305;C0015264 	 menp;menp;orgf 
+===============
+C0022650:C1833683
+	phv00080411.v3  	  Days CaD randomization to F33 Kidney Stones 	 C0010054;C0034656;C0010068;C1956346;C0022650;C1833683 	 dsyn;resa;dsyn;dsyn;patf;dsyn 
+	phv00170633.v1  	  F33 Kidney Stones 	 C0022650;C1833683 	 patf;dsyn 
+===============
+C0006142:C0678222
+	phv00080032.v3  	  Breast Cancer 	 C0006142;C0678222 	 neop;neop 
+	phv00169754.v1  	  Days enrollment to Breast Cancer 	 C1516879;C0006142;C0678222 	 hlca;neop;neop 
+===============
+C1455844:C0018767
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0042789 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;orgf 
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 C0087111;C1533734;C0011900;C0018767;C1455844;C0042939;C1955473;C0080151 	 topp;topp;fndg;phsf;fndg;orgf;fndg;dsyn 
+	phv00021974.v1  	 " DURING PAST YEAR-CUT DOWN OR STOP DOING: HEARING ACTIVITIES-RADIO, CONVERSATION " 	 C0000925;C0018767;C1455844 	 inpo;phsf;fndg 
+===============
+C0008677
+	phv00007402.v1  	  RESPIRATORY 1ST OPINIONS: 1ST EXAMINER BELIEVES CHRONIC BRONCHITIS (COUGH THAT PRODUCES SPUTUM AT LEAST 3 MONTHS IN PAST 12 MONTHS) 	 C0871010;C0008677;C0010200;C1961131 	 menp;dsyn;sosy;fndg 
+	phv00009541.v3  	  CDI-CHRONIC BRONCHITIS 	 C0008677 	 dsyn 
+	phv00096394.v1  	  AGE CHRONIC BRONCHITIS STARTED    Q30 	 C0008677 	 dsyn 
+===============
+C1962977:C0030193
+	phv00031411.v1  	  Neurologic complications: pain/numbness in hands/feet 	 C0235029;C0030193;C0020580;C0028643;C1962977 	 patf;sosy;fndg;sosy;fndg 
+	phv00105988.v1  	 " IF YOU STAND STILL, WHAT HAPPENS TO PAIN " 	 C0596013;C0030193;C1962977 	 fndg;sosy;fndg 
+	phv00107105.v1  	  HAD PAIN IN BACK 	 C0030193;C1962977 	 sosy;fndg 
+	phv00108633.v1  	 " EVER HAD PAIN, DISCOMFORT IN CHEST " 	 C0030193;C1962977;C0231218;C0234215 	 sosy;fndg;sosy;sosy 
+	phv00108640.v1  	  PAIN IN LEFT ANTERIOR CHEST 	 C0030193;C1962977 	 sosy;fndg 
+===============
+C0596013
+	phv00026367.v1  	  How soon does chest pain go away if you stand still 	 C0008031;C2926613;C0596013 	 sosy;clna;fndg 
+	phv00105988.v1  	 " IF YOU STAND STILL, WHAT HAPPENS TO PAIN " 	 C0596013;C0030193;C1962977 	 fndg;sosy;fndg 
+===============
+C0010200:C1961131
+	phv00007402.v1  	  RESPIRATORY 1ST OPINIONS: 1ST EXAMINER BELIEVES CHRONIC BRONCHITIS (COUGH THAT PRODUCES SPUTUM AT LEAST 3 MONTHS IN PAST 12 MONTHS) 	 C0871010;C0008677;C0010200;C1961131 	 menp;dsyn;sosy;fndg 
+	phv00079045.v3  	 " Leak urine when cough, laugh " 	 C1608322;C0010200;C1961131 	 fndg;sosy;fndg 
+	phv00096367.v1  	 " COUGH GETTING UP, 1ST THNG IN AM? Q3 " 	 C0010200;C1961131 	 sosy;fndg 
+===============
+C1304680
+	phv00022716.v3  	  HAD AN ATTACK OF ASTHMA AT ANY TIME IN THE LAST 12 MONTHS 	 C0277793;C1304680;C0004096 	 fndg;fndg;dsyn 
+	phv00096383.v1  	  2 OR MORE WHEEZING ATTACKS?       Q19 	 C0043144;C1304680 	 sosy;fndg 
+===============
+C1704436
+	phv00165292.v2  	  BASELINE PERIPHERAL ARTERY DISEASE STATUS 	 C1704436 	 dsyn 
+	phv00170205.v1  	  Peripheral Arterial Disease (PAD) 	 C0085096;C0332568;C1704436 	 dsyn;neop;dsyn 
+===============
+C1457887
+	phv00005115.v1  	  DURATION OF CEREBROVASCULAR SYMPTOM (HOURS) 	 C2926735;C1457887 	 phsu;sosy 
+	phv00013745.v1  	  K63a. (IF YES:) Did these symptoms ever last as long as one week while you were not (depressed/high)? (Participants with European ancestry). DIGS2 	 C1457887;C0344315 	 sosy;fndg 
+	phv00031368.v1  	  Diabetes control- symptoms of hyperglycemia: did patient experience other symptoms of hyperglycemia 	 C0011847;C1274136;C0011849;C0020456;C0237607;C0596545;C1457887 	 dsyn;topp;dsyn;dsyn;menp;menp;sosy 
+	phv00158893.v1  	  Age at symptom onset 	 C1457887 	 sosy 
+===============
+C0000768
+	phv00021146.v4  	  OTHER NEUROLOGICAL ABNORMALITIES ON EXAM 	 C0000768;C2707261;C0582103 	 cgab;clna;hlca 
+	phv00054958.v1  	 " GLAUCOMA SUSPECT RECALL EXAMINATION: SIGNIFICANT ANGLE ABNORMALITIES PRESENT, O.D. " 	 C0702254;C0034770;C0000768;C2361119 	 topp;menp;cgab;clna 
+===============
+C0028643:C0020580
+	phv00031411.v1  	  Neurologic complications: pain/numbness in hands/feet 	 C0235029;C0030193;C0020580;C0028643;C1962977 	 patf;sosy;fndg;sosy;fndg 
+	phv00097242.v1  	  NUMBNESS: SPEECH DISTURBANCE      Q31A 	 C0020580;C0233715;C0028643 	 fndg;mobd;sosy 
+	phv00168436.v1  	 " During the episode of sudden numbness or tingling, which part or parts of your body were affected?  Right foot or leg " 	 C0020580;C0028643;C2242996 	 fndg;sosy;sosy 
+	phv00168440.v1  	 " While you were having your episode of numbness, tingling or loss of sensation, did any of the following occur?  Speech disturbance " 	 C0020580;C0028643;C2242996;C0542538;C0233715 	 fndg;sosy;sosy;fndg;mobd 
+===============
+C0007273
+	phv00121268.v2  	  ENDPT - CAROTID ARTERY DISEASE 	 C0007273 	 dsyn 
+	phv00170732.v1  	  Carotid Artery Disease 	 C0007273 	 dsyn 
+===============
+C0032961
+	phv00000495.v1  	 " TOXEMIA WITH ONE OR MORE PREGNANCIES, EXAM 1 " 	 C0032914;C0040524;C0542241;C0032961;C0552112;C0582103 	 patf;dsyn;fndg;orgf;clna;hlca 
+	phv00100349.v1  	  NUMBER OF PREGNANCIES 	 C0032961;C0552112 	 orgf;clna 
+===============
+C0022658
+	phv00005011.v1  	  KIDNEY DISEASE IN INTERIM - MALE AND FEMALE 	 C0022658;C0024554;C0015780 	 dsyn;fndg;fndg 
+	phv00008696.v3  	  CDI: RENAL DISEASE 	 C0022658 	 dsyn 
+	phv00026734.v1  	 " First occurrence of nephropathy level 5 (0=no,1=yes) " 	 C0022658 	 dsyn 
+===============
+C0011900
+	phv00002004.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: OTHER HEART DISEASE (INCLUDES CONGENITAL) 	 C2973287;C0011900;C1955473;C0018799;C0268059 	 fndg;fndg;fndg;dsyn;dsyn 
+	phv00054705.v1  	 " IF GLAUCOMA (E016) QUESTIONABLE OR POSITIVE, AGE FIRST DIAGNOSED (YEARS) " 	 C0017601;C1962986;C1514241;C0011900 	 dsyn;fndg;fndg;fndg 
+	phv00066343.v1  	  Age of T2DM (Type 2 Diabetes Mellitus) diagnosis 	 C0011860;C0011900;C1704656 	 dsyn;fndg;resa 
+	phv00092711.v1  	  MD DIAGNOSED MYOCARDIAL INFARCTION 	 C0011900;C0027051;C2926063 	 fndg;dsyn;clna 
+	phv00111508.v2  	  Stroke diagnosis based on 	 C0038454;C0011900;C1704656 	 dsyn;fndg;resa 
+	phv00121519.v2  	  CHF BASED ON PHYSICIAN DIAGNOSIS 	 C0018802;C0011900;C1704656;C0804815 	 dsyn;fndg;resa;clna 
+	phv00053686.v1  	  ADHD AAO. (African American participants). DIGS4. Page 1 	 C1263846;C0011900;C2827447 	 mobd;fndg;resa 
+	phv00002840.v1  	 " CLINICAL DIAGNOSTIC IMPRESSION: NON-CVD, OTHER ARTHRITIS " 	 C2973287;C0011900;C0007222;C0494904 	 fndg;fndg;dsyn;dsyn 
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 C0087111;C1533734;C0011900;C0018767;C1455844;C0042939;C1955473;C0080151 	 topp;topp;fndg;phsf;fndg;orgf;fndg;dsyn 
+===============
+C0011065:C1306577
+	phv00122981.v1  	  Reason for death 3 (icd9code) 	 C0011065;C1306577 	 orgf;fndg 
+	phv00141916.v2  	  Age at Death 	 C0011065;C1306577 	 orgf;fndg 
+	phv00159367.v1  	  Death endpoint 	 C0011065;C1306577 	 orgf;fndg 
+	phv00170467.v1  	  F124 Coronary Death Timing 	 C0011065;C1306577 	 orgf;fndg 
+===============
+C0010068:C0010054:C1956346
+	phv00080383.v3  	  Days CaD randomization to F33 Broken Lower Arm 	 C0010054;C0034656;C0010068;C1956346 	 dsyn;resa;dsyn;dsyn 
+	phv00080411.v3  	  Days CaD randomization to F33 Kidney Stones 	 C0010054;C0034656;C0010068;C1956346;C0022650;C1833683 	 dsyn;resa;dsyn;dsyn;patf;dsyn 
+===============
+C0042789
+	phv00006291.v1  	  CEREBROVASCULAR EPISODE - LOSS OF VISION IN ONE EYE IN INTERIM 	 C0042789;C2707266 	 orgf;clna 
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0042789 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;orgf 
+===============
+C0011900:C2973287
+	phv00002004.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: OTHER HEART DISEASE (INCLUDES CONGENITAL) 	 C2973287;C0011900;C1955473;C0018799;C0268059 	 fndg;fndg;fndg;dsyn;dsyn 
+	phv00002840.v1  	 " CLINICAL DIAGNOSTIC IMPRESSION: NON-CVD, OTHER ARTHRITIS " 	 C2973287;C0011900;C0007222;C0494904 	 fndg;fndg;dsyn;dsyn 
+===============
+C0018524
+	phv00013610.v1  	 " K39. During the current/most recent episode, when you were (hallucinating), were you at all confused about where you were, or the time of day? Did you have problems with your memory? (Participants with European ancestry). DIGS2 " 	 C0018524;C0009676;C0025260;C0700327 	 mobd;mobd;menp;fndg 
+	phv00020180.v2  	 " Delusions accompanied by hallucinations, followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I12840] " 	 C0011253;C0018524 	 mobd;mobd 
+	phv00020139.v2  	 " Consensus rating for DSM-IV (Diagnostic and Statistical Manual of Mental Disorders) schizophrenia criterion A2 (hallucinations); (1=present, 0=absent) " 	 C0036341;C0018524;C2699517 	 mobd;mobd;fndg 
+===============
+C2004062:C0262926
+	phv00034217.v1  	  Patient has a history of endocrine disorder 	 C0262926;C2004062;C0014130 	 fndg;fndg;dsyn 
+	phv00034372.v1  	  Patient has a history of: chronic disease of upper urinary tract 	 C0262926;C2004062;C0008679 	 fndg;fndg;dsyn 
+	phv00034377.v1  	  Patient has a history of: kidney or bladder infection(s) w/antibiotics 	 C0262926;C2004062;C0600041 	 fndg;fndg;dsyn 
+	phv00080910.v1  	  HISTORY OF DIABETES MELLITUS (140 mg/dl) AT EXAM 1 	 C0262926;C2004062;C0011849;C0582103 	 fndg;fndg;dsyn;hlca 
+	phv00081755.v1  	  SCHIZOPHRENIA: Subject history of disease 	 C0036341;C0262926;C2004062;C0012634 	 mobd;fndg;fndg;dsyn 
+	phv00082572.v1  	  HISTORY OF RHEUMATIC FEVER / RHEUMATIC HEART DISEASE: Risk factor - text 	 C0262926;C2004062;C0035439;C0015967;C0035436;C1113667;C0850664;C2926607 	 fndg;fndg;dsyn;fndg;dsyn;fndg;fndg;clna 
+	phv00173387.v1  	  History of diabetes mellitus 	 C0262926;C2004062;C0011849 	 fndg;fndg;dsyn 
+	phv00000700.v1  	 " INTERIM HISTORY OF ALLERGIES: HIVES, EXAM 4 " 	 C0262926;C2004062;C0020517;C0042109;C1314973;C0582103 	 fndg;fndg;patf;dsyn;clna;hlca 
+===============
+C0010068:C0010054
+	phv00051765.v1  	  AGE AT HARD CHD EVENT 	 C0010054;C0010068 	 dsyn;dsyn 
+	phv00080383.v3  	  Days CaD randomization to F33 Broken Lower Arm 	 C0010054;C0034656;C0010068;C1956346 	 dsyn;resa;dsyn;dsyn 
+	phv00080411.v3  	  Days CaD randomization to F33 Kidney Stones 	 C0010054;C0034656;C0010068;C1956346;C0022650;C1833683 	 dsyn;resa;dsyn;dsyn;patf;dsyn 
+	phv00100803.v1  	  CHD BL MODIFIED STATUS 	 C0010054;C0019080;C0010068;C0419358 	 dsyn;patf;dsyn;diap 
+===============
+C1444656
+	phv00029211.v1  	  Systolic/diastolic blood pressure indicates hypertension. 	 C0488055;C0012000;C0871470;C1306620;C0428883;C0488052;C1305849;C1444656;C0020538;C1963138 	 clna;clna;clna;diap;clna;clna;diap;fndg;dsyn;fndg 
+	phv00049712.v1  	  F. Ophthalmoscopic examination. Indicate the areas in which vitreous or preretinal hemorrhage obscures one or more disc areas of retina: within 7 standard fields - left eye 	 C0016327;C0029090;C1444656;C0271048 	 inch,phsu;diap;fndg;patf 
+===============
+DEMOGRAPHICS CLUSTERS
+age
+	phv00051765.v1  	  AGE AT HARD CHD EVENT 	 age 
+	phv00066343.v1  	  Age of T2DM (Type 2 Diabetes Mellitus) diagnosis 	 age 
+	phv00072510.v2  	 " ASTHMA: IF YOU NO LONGER HAVE IT, AT WHAT AGE DID IT STOP? " 	 age 
+	phv00096394.v1  	  AGE CHRONIC BRONCHITIS STARTED    Q30 	 age 
+	phv00141916.v2  	  Age at Death 	 age 
+	phv00158893.v1  	  Age at symptom onset 	 age 
+	phv00160327.v1  	  Age at last follow-up for MI (missing for anyone with a baseline or incident MI) 	 age 
+	phv00163131.v1  	  Age at menarche 	 age 
+	phv00016763.v1  	 " Q17. Age First Binge Regularly, (Participants with European ancestry). DIGS3 " 	 age;ethnic european 
+	phv00053686.v1  	  ADHD AAO. (African American participants). DIGS4. Page 1 	 age;african american 
+===============
+african american
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 african american 
+	phv00054448.v1  	  Have you ever been very upset with yourself for having any of these fears? (African American participants) 	 african american 
+	phv00053686.v1  	  ADHD AAO. (African American participants). DIGS4. Page 1 	 age;african american 
+===============
+ethnic european
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 ethnic european 
+	phv00013407.v1  	 " K4. Since you first began experiencing these psychotic symptoms, have you ever returned to your normal self for at least two months? (Participants with European ancestry). DIGS2 " 	 ethnic european 
+	phv00013449.v1  	 " K10. Have you ever had a change in your body or the way it was working for which the doctor could not find a cause? (Probe with: like incurable cancer, bowels stopped up, insides rotting?) Drugs. (Participants with European ancestry). DIGS2 " 	 ethnic european 
+	phv00013745.v1  	  K63a. (IF YES:) Did these symptoms ever last as long as one week while you were not (depressed/high)? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00014776.v1  	 " B 8. Menses Mood Changes, (Participants with European ancestry). DIGS3 " 	 ethnic european 
+	phv00013610.v1  	 " K39. During the current/most recent episode, when you were (hallucinating), were you at all confused about where you were, or the time of day? Did you have problems with your memory? (Participants with European ancestry). DIGS2 " 	 ethnic european 
+	phv00013182.v1  	  P38. Did you ever have this problem at some time other than two months before or after having (depression/psychosis; simple/specific)? (Participants with European ancestry). DIGS2 	 ethnic european 
+	phv00016763.v1  	 " Q17. Age First Binge Regularly, (Participants with European ancestry). DIGS3 " 	 age;ethnic european 
+===============
+LAB TESTS CLUSTERS
+MEDICATION CLUSTERS
+C1254351
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0042789 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;orgf 
+	phv00073676.v4  	  Previous Exposure to Non-Medical Potentially Leukemogenic Agents 	 C0274281;C0332157;C0023418;C1254351 	 inpo;clna;neop;phsu 
+===============
+C0013227
+	phv00012787.v1  	 " J32d. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: hearing, seeing, or smelling things that were not really there? (Participants with European ancestry). DIGS2 " 	 C0013227;C1254351;C0848067;C1279889;C0013987;C1527305;C0344315;C0039869;C0233629;C0018767;C1455844;C0037361;C0233763;C0860604;C0042789 	 phsu;phsu;fndg;fndg;menp;menp;fndg;menp;mobd;phsf;fndg;orgf;sosy;fndg;orgf 
+	phv00013449.v1  	 " K10. Have you ever had a change in your body or the way it was working for which the doctor could not find a cause? (Probe with: like incurable cancer, bowels stopped up, insides rotting?) Drugs. (Participants with European ancestry). DIGS2 " 	 C0243095;C1442917;C0006826;C1306459;C0013227 	 fndg;lbpr;neop;neop;phsu 
+	phv00081667.v1  	  Drugs causing allergies 	 C0013227;C0020517;C1314973 	 phsu;patf;clna 
+===============
+SMOKING CLUSTERS
+Mental or Emotional Finding CLUSTERS
+C0003808
+	phv00056455.v3  	  Number of Obstructive Apnea in NREM (Other position) 5% desaturation or arousal 	 C0003578;C1963065;C1955473;C0003808 	 fndg,patf;fndg;fndg;menp 
+	phv00057607.v1  	  Number of Obstructive Apnea in NREM (Back position) 5% desaturation or arousal 	 C0003578;C1963065;C0003808 	 fndg,patf;fndg;menp 
+===============
+C0871010
+	phv00001710.v1  	  FIRST EXAMINER'S OPINION: ARTERIAL PERIPHERAL VASCULAR DISEASE 	 C0871010;C0852949;C0085096 	 menp;dsyn;dsyn 
+	phv00007402.v1  	  RESPIRATORY 1ST OPINIONS: 1ST EXAMINER BELIEVES CHRONIC BRONCHITIS (COUGH THAT PRODUCES SPUTUM AT LEAST 3 MONTHS IN PAST 12 MONTHS) 	 C0871010;C0008677;C0010200;C1961131 	 menp;dsyn;sosy;fndg 
+	phv00007520.v1  	  NON CARDIOVASCULAR DIAGNOSTIC 1ST EXAMINER OPINIONS - OTHER PULMONARY DISEASE 	 C0679562;C0871010;C1955473;C0024115 	 diap;menp;fndg;dsyn 
+===============
+HEALTHCARE ACTIVITIES FINDING CLUSTERS
+DIAGNOSTICS CLUSTERS
+C0419358
+	phv00100803.v1  	  CHD BL MODIFIED STATUS 	 C0010054;C0019080;C0010068;C0419358 	 dsyn;patf;dsyn;diap 
+	phv00100817.v1  	  MI  MODIFIED BL STAT 	 C0027051;C2926063;C0019080;C0419358 	 dsyn;clna;patf;diap 
+	phv00092275.v1  	  Bleeding on Probing (BL) measure for Lingual (L) of tooth number 23 	 C0019080;C0419358 	 patf;diap 
+===============
+C0184661
+	phv00051651.v1  	 " B1a. Information on transfer to inactive status. Catastrophic injury or illness leading to coma, dementia, or inability to participate in EDIC testing procedure " 	 C0040671;C0175677;C0221423;C0009421;C0543874;C0011265;C0497327;C0699910;C0342257;C0184661;C1948041 	 menp;inpo;fndg;dsyn;cgab;mobd;mobd;hlca;patf;diap,topp;topp 
+	phv00170758.v1  	  Stroke occurred during or resulted from a procedure 	 C0038454;C2825142;C0184661;C1948041 	 dsyn;fndg;diap,topp;topp 
+===============
+ Therapeutic or Preventative Procedure CLUSTERS
+C1948041:C0184661
+	phv00051651.v1  	 " B1a. Information on transfer to inactive status. Catastrophic injury or illness leading to coma, dementia, or inability to participate in EDIC testing procedure " 	 C0040671;C0175677;C0221423;C0009421;C0543874;C0011265;C0497327;C0699910;C0342257;C0184661;C1948041 	 menp;inpo;fndg;dsyn;cgab;mobd;mobd;hlca;patf;diap,topp;topp 
+	phv00170758.v1  	  Stroke occurred during or resulted from a procedure 	 C0038454;C2825142;C0184661;C1948041 	 dsyn;fndg;diap,topp;topp 
+===============
+C0087111
+	phv00033759.v1  	  Quarterly visit number of severe non-proliferative diabetic retinopathy (npdr; ETDRS 53/<53) 	 C1512346;C0730278;C0004606;C0087111 	 inbe;dsyn;dsyn;topp 
+	phv00054551.v1  	 " Have you ever received treatment for, or been diagnosed with, any of the following conditions: hearing voices others could not hear or believing things that others said were not true (such as that people were trying to harm you). (African American participants) " 	 C0087111;C1533734;C0011900;C0018767;C1455844;C0042939;C1955473;C0080151 	 topp;topp;fndg;phsf;fndg;orgf;fndg;dsyn 
+===============
+C0392148
+	phv00033642.v1  	  Presence (1)/absence (0) of clinically significant macular edema (either eye) - quarterly visit 24 	 C0392148;C1689985;C0730284;C1512346 	 topp;anab;dsyn;inbe 
+	phv00159557.v2  	  Presence of pes cavus 	 C0392148;C0039273;C0728829 	 topp;anab;cgab 
+===============
+DRINKING HISTORY CLUSTERS
+Substance Use History CLUSTERS
+pot
+	phv00073676.v4  	  Previous Exposure to Non-Medical Potentially Leukemogenic Agents 
+	phv00090248.v1  	  Total Decayed Teeth without white spots 
+===============
+Daily or Recreational Activity CLUSTERS
+Eating or Nutritional Finding CLUSTERS
+SelfCare CLUSTERS
+Research Attribute CLUSTERS
+C0034656
+	phv00080383.v3  	  Days CaD randomization to F33 Broken Lower Arm 	 C0010054;C0034656;C0010068;C1956346 	 dsyn;resa;dsyn;dsyn 
+	phv00080411.v3  	  Days CaD randomization to F33 Kidney Stones 	 C0010054;C0034656;C0010068;C1956346;C0022650;C1833683 	 dsyn;resa;dsyn;dsyn;patf;dsyn 
+===============
+C1704656
+	phv00066343.v1  	  Age of T2DM (Type 2 Diabetes Mellitus) diagnosis 	 C0011860;C0011900;C1704656 	 dsyn;fndg;resa 
+	phv00111508.v2  	  Stroke diagnosis based on 	 C0038454;C0011900;C1704656 	 dsyn;fndg;resa 
+	phv00121519.v2  	  CHF BASED ON PHYSICIAN DIAGNOSIS 	 C0018802;C0011900;C1704656;C0804815 	 dsyn;fndg;resa;clna 
+===============
+Clinical Attribute CLUSTERS
+blood pressure
+	phv00002180.v1  	  CLINICAL DIAGNOSTIC IMPRESSION: HYPERTENSIVE STATUS (BASED ON TWO BLOOD PRESSURE READINGS TAKEN BY PHYSICIAN) 
+	phv00029211.v1  	  Systolic/diastolic blood pressure indicates hypertension. 
+===============
+===============
+pain
+	phv00026367.v1  	  How soon does chest pain go away if you stand still 
+	phv00031411.v1  	  Neurologic complications: pain/numbness in hands/feet 
+	phv00086471.v2  	  HOW SOON IS LEG PAIN RELIEVED WHEN STILL 
+	phv00105988.v1  	 " IF YOU STAND STILL, WHAT HAPPENS TO PAIN " 
+	phv00107105.v1  	  HAD PAIN IN BACK 
+	phv00108633.v1  	 " EVER HAD PAIN, DISCOMFORT IN CHEST " 
+	phv00108640.v1  	  PAIN IN LEFT ANTERIOR CHEST 
+===============
+Healthcare Encounter CLUSTERS
+===============

@@ -1,0 +1,66 @@
+phv00024955.v1.p1 ::: Tactual performance: memory score (quarterly visit 00)
+phv00082455.v1.p1 ::: MEMORY IMPAIRMENT SCREEN: Other - Interpretation
+phv00082544.v1.p1 ::: Memory: Raw score
+phv00072953.v1.p1 ::: Has your memory problem gotten worse in the last year?
+phv00073122.v1.p1 ::: Subject's history of disease - SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE)
+phv00024311.v1.p1 ::: The presence or absence of memory loss in the subjects themselves as determined by clinician's interview.
+phv00099478.v1.p1 ::: COGNITIVE FUNCTION CATEGORY
+phv00088209.v1.p1 ::: Quartiles of rate of cognitive decline
+phv00081932.v1.p1 ::: Does this participant have cognitive impairment on testing?
+phv00081228.v1.p1 ::: Diagnosed with MCI (Mild Cognitive Impairment)
+phv00071276.v1.p1 ::: Was cognitive testing administered to the subject?
+phv00073299.v1.p1 ::: Intial presentation: Cognitive
+phv00011510.v2.p2 ::: Is easily distracted, concentration wanders
+phv00078995.v3.p2 ::: Difficulty concentrating
+phv00079010.v3.p2 ::: Trouble concentrating on things, reading
+phv00094615.v1.p1 ::: DIFFICULTY CONCENTRATING FOR LONG Q21
+phv00034648.v1.p2 ::: Did you have a lot more trouble concentrating than usual?
+phv00072881.v1.p1 ::: I have trouble concentrating
+phv00003089.v1.p7 ::: WAS THERE ANY TIME DURING THE PAST YEAR NEED HELP PERSONAL GROOMING, SHAVING ETC. (SEE CODING FOR VARIABLE FJ177)
+phv00003293.v1.p7 ::: GROOMING AND BATHING ABILITY
+phv00021980.v1.p7 ::: DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING BATH AND DOING GROOMING ACTIVITIES
+phv00117396.v2.p2 ::: USE VERY FEW GROOMING PRODUCTS. Q 19
+phv00117410.v2.p2 ::: TAKE SPECIAL CARE WHEN GROOMING MY HAIR. Q 33
+phv00081140.v1.p1 ::: Grooming ability
+phv00018677.v1.p1 ::: K47d. Neglect hygiene. (Participants with European ancestry). DIGS4
+phv00016854.v1.p1 ::: U13. Grooming and Hygiene, (Participants with European ancestry). DIGS3
+phv00016345.v1.p1 ::: L5. Poor Hygiene, (Participants with European ancestry). DIGS3
+phv00016259.v1.p1 ::: K70.d. Hygiene Residual, (Participants with European ancestry). DIGS3
+phv00016258.v1.p1 ::: K70.d. Hygiene Prodromal, (Participants with European ancestry). DIGS3
+phv00012846.v1.p1 ::: L5. In general did you not take care of hygiene and grooming? (Participants with European ancestry). DIGS2
+phv00003296.v1.p7 ::: TOILETING ABILITY
+phv00003733.v1.p7 ::: FUNCTIONAL PERFORMANCE: TOILETING ACTIVITIES
+phv00006058.v1.p7 ::: TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) (SEE NOTE ABOVE)
+phv00006707.v1.p7 ::: DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING)
+phv00021981.v1.p7 ::: DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING CARE PERSONAL NEEDS FOR TOILETING
+phv00009144.v3.p7 ::: FUNCTIONAL PERFORMANCE (ADL)-TOILETING ACTIVITES
+phv00165179.v2.p1 ::: Systolic blood pressure at baseline (avg. of 2 measurements), in mm Hg
+phv00099369.v1.p1 ::: PALPATED SYSTOLIC BLOOD PRESSURE
+phv00100401.v1.p1 ::: (STAND READING) BLOOD PRESSURE: SYSTOLIC
+phv00101775.v1.p1 ::: FIRST STANDARD SEATED SYSTOLIC
+phv00105421.v1.p1 ::: PALPATED SYSTOLIC
+phv00055182.v2.p7 ::: SUPINE SBP
+phv00099380.v1.p1 ::: SUPINE READING: 30 SECOND HEART RATE
+phv00099357.v1.p1 ::: HEART RATE (30 SECONDS)
+phv00099427.v1.p1 ::: HEART RATE (30 SEC) PRIOR TO CHAIR STANDS
+phv00100054.v1.p1 ::: HEART RATE
+phv00100247.v1.p1 ::: MINIMUM HEART RATE
+phv00082700.v1.p3 ::: HEART RATE (beats/min)
+phv00099053.v1.p1 ::: DID YOU SEE DOCTOR BECAUSE OF THIS PAIN
+phv00099137.v1.p1 ::: PRESENT CHEST PAIN
+phv00099138.v1.p1 ::: INCREASE CHEST PAIN
+phv00099048.v1.p1 ::: PAIN IN LEFT ANTERIOR CHEST
+phv00099040.v1.p1 ::: EVER HAD PAIN/DISCOMFORT IN YOUR CHEST
+phv00099052.v1.p1 ::: SEVERE PAIN ACROSS THE FRONT OF CHEST
+phv00022939.v1.p1 ::: Final case-control status
+phv00169262.v1.p1 ::: Case/Control status of subject
+phv00100673.v1.p1 ::: Final Case/Control designation
+phv00100684.v1.p1 ::: Case/control group updated
+phv00173162.v1.p1 ::: Case/control status
+phv00024093.v1.p1 ::: Case-control status, Tier2
+phv00056648.v1.p7 ::: Protocol used to measure Blood Pressure
+phv00070503.v1.p7 ::: PROTOCOL MODIFICATION - 2ND BP READING
+phv00007113.v1.p7 ::: PROTOCOL MODIFICATION FOR TECH BLOOD PRESSURE
+phv00021150.v4.p7 ::: PROTOCOL MODIFICATION FOR PHYSICIAN'S SECOND BLOOD PRESSURE READING
+phv00021242.v4.p7 ::: PROTOCOL MODIFICATION FOR TECHNICIAN'S BLOOD PRESSURE READING
+phv00177355.v1.p7 ::: Physical Exam-Blood Pressure: Physician Blood Pressure first reading - Protocol modification

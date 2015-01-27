@@ -1,0 +1,367 @@
+ ==========================================
+ ^^^^^^^^ MEDICAL HISTORY CLUSTERS ^^^^^^^ 
+----------------------
+Medical History
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Has participant ever used opiates?  |  used by;opioid abuse;opiate assay;opiates  |  fndg;mobd;lbpr;hops,phsu 
+Using opiates in larger amounts or over longer period than intended  |  opioid abuse;opiate assay;opiates;long;longest;long variable;intent  |  mobd;lbpr;hops,phsu;qlco;qlco;qlco;qlco 
+----------------------
+Medical History
+HOSPITALIZED FOR MI  |  patient in hospital;myocardial infarction;myocardial infarction:finding:point in time:^patient:ordinal  |  fndg;dsyn;clna 
+NUMBER TIMES HOSPITALIZED FOR MI  |  patient in hospital;myocardial infarction;myocardial infarction:finding:point in time:^patient:ordinal  |  fndg;dsyn;clna 
+NUMBER DAYS IN HOSPITAL FOR MI  |  hospital environment;myocardial infarction;myocardial infarction:finding:point in time:^patient:ordinal  |  qlco;dsyn;clna 
+----------------------
+Medical History
+HAD COUGH IN LAST TWO WEEKS  |  coughing;cough adverse event;last  |  sosy;fndg;qlco 
+HAD FEVER, CHILLS IN LAST TWO WEEKS  |  fever;chills;last  |  fndg;sosy;qlco 
+----------------------
+Medical History
+Quartiles of rate of cognitive decline  |  quartile;impaired cognition  |  qlco;mobd 
+Does this participant have cognitive impairment on testing?  |  impaired cognition  |  mobd 
+----------------------
+Medical History
+Persistent desire or unsuccessful efforts to cut down or control cocaine use  |  desires;unsuccessful;exertion;incised wound;control aspects  |  menp;qlco;orgf;inpo;qlco 
+Persistent desire or unsuccessful efforts to cut down or control marijuana use  |  desires;unsuccessful;exertion;incised wound;marijuana smoking;control aspects  |  menp;qlco;orgf;inpo;inbe;qlco 
+----------------------
+Medical History
+MENOPAUSE: AGE PERIOD STOPPED  |  menopause;age;to be stopped  |  phsf;orga;qlco 
+AGE OF MENOPAUSE  |  age;menopause  |  orga;phsf 
+Age at menopause  |  age;menopause  |  orga;phsf 
+AGE WHEN MENOPAUSE BEGAN Q8  |  age;menopause  |  orga;phsf 
+AGE MENOPAUSE BEGAN Q19  |  age;menopause  |  orga;phsf 
+AGE AT MENOPAUSE  |  age;menopause  |  orga;phsf 
+----------------------
+Medical History
+DO YOU USUALLY HAVE A COUGH  |  coughing;cough adverse event  |  sosy;fndg 
+COUGH AS MUCH AS 4 TO 6 TIMES A DAY  |  coughing;cough adverse event  |  sosy;fndg 
+FOR HOW MANY YRS HAVE YOU HAD THIS COUGH  |  coughing;cough adverse event  |  sosy;fndg 
+HAD COUGH IN LAST TWO WEEKS  |  coughing;cough adverse event;last  |  sosy;fndg;qlco 
+----------------------
+Medical History
+Subject's history of disease - SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE)  |  history of present illness;medical history;history of previous events;disease;severe (severity modifier);amnesia;memory loss;alzheimer disease  |  orga;fndg;fndg;dsyn;qlco;mobd;sosy;dsyn 
+The presence or absence of memory loss in the subjects themselves as determined by clinician's interview.  |  presence;absence (morphologic abnormality);amnesia;memory loss  |  topp;anab;mobd;sosy 
+----------------------
+Medical History
+Number of marijuana symptoms endorsed  |  marihuana;symptoms  |  orch,phsu;sosy 
+Number of opiate symptoms endorsed  |  opiate assay;symptoms;opiates  |  lbpr;sosy;hops,phsu 
+----------------------
+Medical History
+DEMENTIA OR ALZHEIMER'S DISEASE  |  presenile dementia;dementia;alzheimer disease  |  mobd;mobd;dsyn 
+Subject's history of disease - SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE)  |  history of present illness;medical history;history of previous events;disease;severe (severity modifier);amnesia;memory loss;alzheimer disease  |  orga;fndg;fndg;dsyn;qlco;mobd;sosy;dsyn 
+----------------------
+Medical History
+Age onset of DSM4 nicotine dependence  |  age;started;nicotine dependence  |  orga;qlco;mobd 
+Age onset of DSM4 opiate dependence  |  age;started;opiate addiction  |  orga;qlco;mobd 
+Age recency of DSM4 opiate dependence  |  age;opiate addiction  |  orga;mobd 
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Age when first used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+----------------------
+Medical History
+PRESENT CHEST PAIN  |  chest pain;chest pain:finding:point in time:^patient:ordinal  |  sosy;clna 
+INCREASE CHEST PAIN  |  chest pain;chest pain:finding:point in time:^patient:ordinal  |  sosy;clna 
+----------------------
+Medical History
+Tolerance to nicotine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;nicotine  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu 
+Tolerance to cocaine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;cocaine;cocaine measurement  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu;lbpr 
+----------------------
+Medical History
+DSM4 nicotine dependence  |  nicotine dependence  |  mobd 
+Age onset of DSM4 nicotine dependence  |  age;started;nicotine dependence  |  orga;qlco;mobd 
+----------------------
+Medical History
+Withdrawal from nicotine  |  withdrawal (dysfunction);nicotine  |  mobd;hops,orch,phsu 
+Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale  |  overall;nicotine;drug dependence;diazonaphthalenedisulfonic acid  |  qlco;hops,orch,phsu;mobd;orch,phsu 
+Withdrawal from cocaine  |  withdrawal (dysfunction);cocaine;cocaine measurement  |  mobd;hops,orch,phsu;lbpr 
+----------------------
+Medical History
+(2.A) HAS THERE BEEN A DIAGNOSIS OF DEMENTIA OR ALZHEIMER'S DISEASE MADE BY A DOCTOR?  |  diagnosis;diagnosis aspect;diagnosis study;presenile dementia;dementia;alzheimer disease  |  fndg;qlco;resa;mobd;mobd;dsyn 
+Diagnosed with MCI (Mild Cognitive Impairment)  |  diagnosis;mild cognitive disorder  |  fndg;mobd 
+----------------------
+Medical History
+Alzheimer's OR Dementia  |  presenile dementia;dementia  |  mobd;mobd 
+DEMENTIA OR ALZHEIMER'S DISEASE  |  presenile dementia;dementia;alzheimer disease  |  mobd;mobd;dsyn 
+(2.A) HAS THERE BEEN A DIAGNOSIS OF DEMENTIA OR ALZHEIMER'S DISEASE MADE BY A DOCTOR?  |  diagnosis;diagnosis aspect;diagnosis study;presenile dementia;dementia;alzheimer disease  |  fndg;qlco;resa;mobd;mobd;dsyn 
+Diagnosis (DSM-IV) of dementia of Alzheimer's type  |  diagnosis;diagnosis aspect;diagnosis study;presenile dementia;dementia;type - attribute  |  fndg;qlco;resa;mobd;mobd;qlco 
+Alzheimers Disease - cause of Dementia  |  alzheimer disease;presenile dementia;dementia  |  dsyn;mobd;mobd 
+CLINICAL DIAGNOSTIC IMPRESSION: DEMENTIA  |  clinical impression;diagnosis;presenile dementia;dementia;clinical  |  fndg;fndg;mobd;mobd;qlco 
+Dementia With Unknown Cause  |  presenile dementia;dementia;unknown  |  mobd;mobd;qlco 
+NEUROLOGIST 1ST OPINION: DEMENTIA  |  opinion;presenile dementia;dementia  |  menp;mobd;mobd 
+Prevalent dementia, at time of 1st battery  |  presenile dementia;dementia;battery (assault)  |  mobd;mobd;inpo 
+CDI-DEMENTIA  |  presenile dementia;dementia  |  mobd;mobd 
+Medical history: dementia (absent, present)  |  medical history;presenile dementia;absent adverse event;dementia  |  fndg;mobd;fndg;mobd 
+----------------------
+Medical History
+(STAND READING) BLOOD PRESSURE: SYSTOLIC  |  does stand;reading (activity);blood pressure;blood pressure finding;systemic arterial pressure;reading (datum presentation)  |  fndg;dora;orgf;fndg;fndg;fndg 
+Protocol used to measure Blood Pressure  |  used by;blood pressure;blood pressure finding;systemic arterial pressure  |  fndg;orgf;fndg;fndg 
+PROTOCOL MODIFICATION - 2ND BP READING  |  blood pressure;reading (activity);reading (datum presentation);blood pressure finding;systemic arterial pressure;responselevel - modification  |  orgf;dora;fndg;fndg;fndg;qlco 
+PROTOCOL MODIFICATION FOR TECH BLOOD PRESSURE  |  responselevel - modification;blood pressure;blood pressure finding;systemic arterial pressure  |  qlco;orgf;fndg;fndg 
+PROTOCOL MODIFICATION FOR PHYSICIAN'S SECOND BLOOD PRESSURE READING  |  responselevel - modification;blood pressure;reading (activity);reading (datum presentation);blood pressure finding;systemic arterial pressure;second suffix;physician:identifier:point in time:^patient:nominal  |  qlco;orgf;dora;fndg;fndg;fndg;qlco;clna 
+PROTOCOL MODIFICATION FOR TECHNICIAN'S BLOOD PRESSURE READING  |  responselevel - modification;blood pressure;reading (activity);reading (datum presentation);blood pressure finding;systemic arterial pressure  |  qlco;orgf;dora;fndg;fndg;fndg 
+Physical Exam-Blood Pressure: Physician Blood Pressure first reading - Protocol modification  |  physical examination;blood modification;reading (activity);reading (datum presentation);firstly;physician:identifier:point in time:^patient:nominal;pressure (finding);blood pressure;responselevel - modification;blood pressure finding;systemic arterial pressure;physical exam.total:finding:point in time:^patient:narrative  |  hlca;topp;dora;fndg;qlco;clna;fndg;orgf;qlco;fndg;fndg;clna 
+----------------------
+Medical History
+Currently taking high blood pressure medication at Exam 1  |  hypertensive disease;pharmaceutical preparations;ever told by doctor or nurse that you have high blood pressure:finding:point in time:^patient:ordinal;medical examination  |  dsyn;phsu;clna;hlca 
+Taking high blood pressure medication now [at Exam 2]?  |  hypertensive disease;pharmaceutical preparations;ever told by doctor or nurse that you have high blood pressure:finding:point in time:^patient:ordinal;medical examination  |  dsyn;phsu;clna;hlca 
+Hypertension med status (any) at baseline (0/1)  |  hypertensive disease;hypertension adverse event;status  |  dsyn;fndg;qlco 
+----------------------
+Medical History
+Age onset of DSM4 opiate dependence  |  age;started;opiate addiction  |  orga;qlco;mobd 
+DSM4 opiate dependence  |  opiate addiction  |  mobd 
+Opiate Dependence  |  opiate addiction  |  mobd 
+----------------------
+Medical History
+Participant's gender - See also NIDDK - GoKinD phs000088: SEX  |  gender;gender:type:point in time:^patient:nominal;vision  |  orga;clna;orgf 
+WAS THERE ANY TIME DURING THE PAST YEAR NEED HELP PERSONAL GROOMING, SHAVING ETC. (SEE CODING FOR VARIABLE FJ177)  |  needs;personal attribute;grooming;grooming self-care;shaving - surgical procedure;vision;variable (uniformity)  |  qlco;orga;inbe;fndg;topp;orgf;qlco 
+DID YOU SEE DOCTOR BECAUSE OF THIS PAIN  |  vision;pain;pain nos adverse event  |  orgf;sosy;fndg 
+----------------------
+Medical History
+MEMORY IMPAIRMENT SCREEN: Other - Interpretation  |  memory impairment;memory impairment adverse event;screening procedure;toxicology screen, general (procedure);other  |  mobd;fndg;hlca;lbpr;qlco 
+Has your memory problem gotten worse in the last year?  |  memory impairment;worsening pattern;deterioration of status;worse;last  |  mobd;qlco;fndg;qlco;qlco 
+----------------------
+Medical History
+DID YOU SEE DOCTOR BECAUSE OF THIS PAIN  |  vision;pain;pain nos adverse event  |  orgf;sosy;fndg 
+PAIN IN LEFT ANTERIOR CHEST  |  pain;pain nos adverse event  |  sosy;fndg 
+EVER HAD PAIN/DISCOMFORT IN YOUR CHEST  |  pain;malaise;sensory discomfort;pain nos adverse event  |  sosy;sosy;sosy;fndg 
+ ===================================== 
+ ^^^^^^^^ DEMOGRAPHICS CLUSTERS ^^^^^^^ 
+----------------------
+Demographics:
+Race [Caucasian]  |    |   
+Race of participant [Caucasian]  |    |   
+ESP, race [Caucasian]  |    |   
+Race - Caucasian (0=no,1=yes)  |    |   
+Race of subject (Caucasian)  |    |   
+Is the participant Caucasian?  |    |   
+----------------------
+Demographics:
+K47d. Neglect hygiene. (Participants with European ancestry). DIGS4  |  victim of neglect (finding);self care hygiene  |  fndg;fndg 
+U13. Grooming and Hygiene, (Participants with European ancestry). DIGS3  |  grooming;grooming self-care;self care hygiene  |  inbe;fndg;fndg 
+----------------------
+Demographics:
+ALCOHOL: AGE STARTED DRINKING  |  age;alcohols;alcohol measurement;started;alcohol consumption;drinking function  |  orga;orch,phsu;lbpr;qlco;inbe;orgf 
+AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?  |  age;alcohol consumption;drinking function;alcohols;alcohol measurement  |  orga;inbe;orgf;orch,phsu;lbpr 
+Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?  |  medical history;alcohol consumption;age;drinking function;alcohols;alcohol measurement  |  fndg;inbe;orga;orgf;orch,phsu;lbpr 
+----------------------
+Demographics:
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Age when first used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+----------------------
+Demographics:
+Gender [Male or Female]  |  gender;male gender;male gender, self report;male phenotype;male, self-reported;gender:type:point in time:^patient:nominal;female;female, self-report;female phenotype  |  orga;fndg;qlco;qlco;orga;clna;fndg;qlco;qlco 
+Participant's gender - See also NIDDK - GoKinD phs000088: SEX  |  gender;gender:type:point in time:^patient:nominal;vision  |  orga;clna;orgf 
+----------------------
+Demographics:
+Age onset of DSM4 opiate dependence  |  age;started;opiate addiction  |  orga;qlco;mobd 
+Age recency of DSM4 opiate dependence  |  age;opiate addiction  |  orga;mobd 
+----------------------
+Demographics:
+MENOPAUSE: AGE PERIOD STOPPED  |  menopause;age;to be stopped  |  phsf;orga;qlco 
+AGE OF MENOPAUSE  |  age;menopause  |  orga;phsf 
+Age at menopause  |  age;menopause  |  orga;phsf 
+AGE WHEN MENOPAUSE BEGAN Q8  |  age;menopause  |  orga;phsf 
+AGE MENOPAUSE BEGAN Q19  |  age;menopause  |  orga;phsf 
+AGE AT MENOPAUSE  |  age;menopause  |  orga;phsf 
+----------------------
+Demographics:
+L5. Poor Hygiene, (Participants with European ancestry). DIGS3  |  poor hygiene  |  fndg 
+K70.d. Hygiene Residual, (Participants with European ancestry). DIGS3  |  residual;self care hygiene  |  qlco;fndg 
+K70.d. Hygiene Prodromal, (Participants with European ancestry). DIGS3  |  self care hygiene  |  fndg 
+L5. In general did you not take care of hygiene and grooming? (Participants with European ancestry). DIGS2  |  self care hygiene;grooming;grooming self-care  |  fndg;inbe;fndg 
+----------------------
+Demographics:
+Participant's gender  |  gender;gender:type:point in time:^patient:nominal  |  orga;clna 
+Gender  |  gender;gender:type:point in time:^patient:nominal  |  orga;clna 
+GENDER OF PARTICIPANT  |  gender;gender:type:point in time:^patient:nominal  |  orga;clna 
+ ===================================== 
+ ^^^^^^^^ LAB TESTS CLUSTERS ^^^^^^^ 
+----------------------
+Lab Tests:
+Fasting glucose (mg/dl)  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+FASTING GLUCOSE CALIBRATED (mg/dl)  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+FASTING GLUCOSE (VALUE) Q4A  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+----------------------
+Lab Tests:
+ALCOHOL: AGE STARTED DRINKING  |  age;alcohols;alcohol measurement;started;alcohol consumption;drinking function  |  orga;orch,phsu;lbpr;qlco;inbe;orgf 
+IF EVER CONSUMED ALCOHOL: HOW OLD WERE YOU WHEN YOU FIRST STARTED DRINKING ALCOHOLIC BEVERAGE?  |  alcohols;alcohol measurement;firstly;started;alcohol consumption;drinking function;alcoholic beverages  |  orch,phsu;lbpr;qlco;qlco;inbe;orgf;food 
+AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?  |  age;alcohol consumption;drinking function;alcohols;alcohol measurement  |  orga;inbe;orgf;orch,phsu;lbpr 
+Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?  |  medical history;alcohol consumption;age;drinking function;alcohols;alcohol measurement  |  fndg;inbe;orga;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT DRINKERS)  |  alcohol consumption;drinking function;current drinker;alcohols;alcohol measurement  |  inbe;orgf;inbe;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT AND FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Age when first used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+----------------------
+Lab Tests:
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Number of opiate symptoms endorsed  |  opiate assay;symptoms;opiates  |  lbpr;sosy;hops,phsu 
+----------------------
+Lab Tests:
+Tolerance to cocaine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;cocaine;cocaine measurement  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu;lbpr 
+Withdrawal from cocaine  |  withdrawal (dysfunction);cocaine;cocaine measurement  |  mobd;hops,orch,phsu;lbpr 
+Using cocaine in larger amounts or over longer period than intended  |  cocaine;cocaine measurement;long;longest;long variable;intent  |  hops,orch,phsu;lbpr;qlco;qlco;qlco;qlco 
+Has participant ever used cocaine?  |  used by;cocaine;cocaine measurement  |  fndg;hops,orch,phsu;lbpr 
+----------------------
+Lab Tests:
+Has participant ever used cocaine?  |  used by;cocaine;cocaine measurement  |  fndg;hops,orch,phsu;lbpr 
+Has participant ever used opiates?  |  used by;opioid abuse;opiate assay;opiates  |  fndg;mobd;lbpr;hops,phsu 
+----------------------
+Lab Tests:
+MEMORY IMPAIRMENT SCREEN: Other - Interpretation  |  memory impairment;memory impairment adverse event;screening procedure;toxicology screen, general (procedure);other  |  mobd;fndg;hlca;lbpr;qlco 
+OTHER TYPE OF OPIATE USED. Q 9b  |  other;type - attribute;opiate assay;used by;opiates  |  qlco;qlco;lbpr;fndg;hops,phsu 
+----------------------
+Lab Tests:
+Using cocaine in larger amounts or over longer period than intended  |  cocaine;cocaine measurement;long;longest;long variable;intent  |  hops,orch,phsu;lbpr;qlco;qlco;qlco;qlco 
+Using opiates in larger amounts or over longer period than intended  |  opioid abuse;opiate assay;opiates;long;longest;long variable;intent  |  mobd;lbpr;hops,phsu;qlco;qlco;qlco;qlco 
+----------------------
+Lab Tests:
+URINE ALBUMIN (MG/L)  |  urine albumin tests  |  lbpr 
+Albumin (sample type: urine)  |  urine albumin tests;biospecimen type  |  lbpr;qlco 
+URINARY ALBUMIN (mg/dl)  |  urine albumin tests  |  lbpr 
+Urine Albumin (grams/24 hours)  |  urine albumin tests  |  lbpr 
+----------------------
+Lab Tests:
+Platelet count at designated visit (may not be baseline) in x 1000/cubic mm  |  platelet count measurement;health care visit  |  lbpr;inbe 
+PLATELET COUNT (/cc.mm)  |  platelet count measurement  |  lbpr 
+Platelet Count  |  platelet count measurement  |  lbpr 
+Platelet cell count per microliter of whole blood  |  platelet count measurement;cell count;whole blood;whole blood specimen  |  lbpr;lbpr;bdsu;bdsu 
+Platelet count (K/uL)  |  platelet count measurement  |  lbpr 
+ ===================================== 
+ ^^^^^^^^ Medication CLUSTERS ^^^^^^^ 
+----------------------
+Medication:
+Tolerance to nicotine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;nicotine  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu 
+Withdrawal from nicotine  |  withdrawal (dysfunction);nicotine  |  mobd;hops,orch,phsu 
+NICOTINE PATCH: EVER USED Q12E  |  nicotine;plaque (lesion);used by  |  hops,orch,phsu;fndg;fndg 
+Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale  |  overall;nicotine;drug dependence;diazonaphthalenedisulfonic acid  |  qlco;hops,orch,phsu;mobd;orch,phsu 
+Tolerance to cocaine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;cocaine;cocaine measurement  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu;lbpr 
+----------------------
+Medication:
+VITAMIN C (MG) DAILY AVG OVER WHOLE YR  |  ascorbic acid  |  orch,phsu,vita 
+TOOK VITAMIN C  |  ascorbic acid  |  orch,phsu,vita 
+DAYS TOOK VITAMIN C  |  ascorbic acid  |  orch,phsu,vita 
+DID YOU TAKE VITAMIN C  |  ascorbic acid  |  orch,phsu,vita 
+VITAMIN C (MG)  |  ascorbic acid  |  orch,phsu,vita 
+# OF VITAMIN C TABS PER WEEK  |  ascorbic acid  |  orch,phsu,vita 
+----------------------
+Medication:
+Did the patient receive a flu vaccine this past year?  |  receive;influenza virus vaccine  |  qlco;imft,phsu 
+Did the patient receive H1N1 vaccine this year?  |  receive;vaccines  |  qlco;imft,phsu 
+Have you been immunized (received a vaccine shot) in the last month?  |  receive;vaccines;injection of therapeutic agent;shot (injury);last  |  qlco;imft,phsu;topp;inpo;qlco 
+----------------------
+Medication:
+Fasting glucose (mg/dl)  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+FASTING GLUCOSE CALIBRATED (mg/dl)  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+FASTING GLUCOSE (VALUE) Q4A  |  fasting;glucose;plasma glucose measurement  |  fndg;bacs,carb,phsu;lbpr 
+----------------------
+Medication:
+INTERIM HISTORY OF SMOKING: SMOKES PIPE  |  history of present illness;medical history;history of previous events;smoking;smokeless;tobacco smoking behavior;piperine extract (standardized)  |  orga;fndg;fndg;inbe;orch,phsu;inbe;phsu 
+Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?  |  medical history;alcohol consumption;age;drinking function;alcohols;alcohol measurement  |  fndg;inbe;orga;orgf;orch,phsu;lbpr 
+----------------------
+Medication:
+ACETAMINOPHEN (PILLS/DAY) (ALL PARTICIPANTS)  |  acetaminophen  |  orch,phsu 
+CURRENTLY TAKING ACETAMINOPHEN/TYLENOL (ALL PARTICIPANTS)  |  acetaminophen  |  orch,phsu 
+MEDICATIONS: ANALGESIC-NON-NARCOTICS (ACETAMINOPHEN, ETC)  |  pharmaceutical preparations;analgesics, non-narcotic;acetaminophen;medications:presence or identity:duration of the study:^patient:nominal;medications:-:point in time:^patient:-  |  phsu;phsu;orch,phsu;clna;clna 
+Meds: Acetaminophen  |  acetaminophen  |  orch,phsu 
+74 Last month have you used acetaminophen  |  used by;acetaminophen  |  fndg;orch,phsu 
+----------------------
+Medication:
+SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE  |  smoking history;smoke;tobacco smoke;piperine extract (standardized)  |  fndg;eehu,hops;hops;phsu 
+DOES PATIENT NOW SMOKE A PIPE  |  smoke;tobacco smoke;piperine extract (standardized)  |  eehu,hops;hops;phsu 
+IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?  |  smoking pipe (history);smoke;smoking;tobacco smoke;tobacco smoking behavior;piperine extract (standardized);last  |  fndg;eehu,hops;inbe;hops;inbe;phsu;qlco 
+IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?  |  smoking pipe (history);smoke;tobacco smoke;piperine extract (standardized)  |  fndg;eehu,hops;hops;phsu 
+----------------------
+Medication:
+GLASSES OF WATER, NOT COUNT IN COFFEE/TEA  |  water;coffee;tea;coffee flavor  |  inch,phsu;food;food;food 
+Derived field: Water  |  derivation;water  |  qlco;inch,phsu 
+NUTRIENTS: WATER  |  nutrients;water  |  food;inch,phsu 
+How often do you consume Plain water, bottled or tap including mineral water and soda water; 1 c. or glass?  |  water;paracentesis;mineral waters;caffeinated soft drinks  |  inch,phsu;hlca;inch,phsu;food 
+----------------------
+Medication:
+ALCOHOL: AGE STARTED DRINKING  |  age;alcohols;alcohol measurement;started;alcohol consumption;drinking function  |  orga;orch,phsu;lbpr;qlco;inbe;orgf 
+IF EVER CONSUMED ALCOHOL: HOW OLD WERE YOU WHEN YOU FIRST STARTED DRINKING ALCOHOLIC BEVERAGE?  |  alcohols;alcohol measurement;firstly;started;alcohol consumption;drinking function;alcoholic beverages  |  orch,phsu;lbpr;qlco;qlco;inbe;orgf;food 
+AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?  |  age;alcohol consumption;drinking function;alcohols;alcohol measurement  |  orga;inbe;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT DRINKERS)  |  alcohol consumption;drinking function;current drinker;alcohols;alcohol measurement  |  inbe;orgf;inbe;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT AND FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+----------------------
+Medication:
+Age when last used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+Age when first used opiates  |  age;used by;opioid abuse;opiate assay;opiates  |  orga;fndg;mobd;lbpr;hops,phsu 
+OTHER TYPE OF OPIATE USED. Q 9b  |  other;type - attribute;opiate assay;used by;opiates  |  qlco;qlco;lbpr;fndg;hops,phsu 
+Number of opiate symptoms endorsed  |  opiate assay;symptoms;opiates  |  lbpr;sosy;hops,phsu 
+Has participant ever used opiates?  |  used by;opioid abuse;opiate assay;opiates  |  fndg;mobd;lbpr;hops,phsu 
+Using opiates in larger amounts or over longer period than intended  |  opioid abuse;opiate assay;opiates;long;longest;long variable;intent  |  mobd;lbpr;hops,phsu;qlco;qlco;qlco;qlco 
+----------------------
+Medication:
+Number of marijuana symptoms endorsed  |  marihuana;symptoms  |  orch,phsu;sosy 
+Marijuana use despite knowledge of persistent or recurrent physical or psychological problems likely to have been caused or exacerbated by marijuana  |  marijuana smoking;physical examination;physical assessment findings;mental problem;probable diagnosis;symptom aggravating factors;exacerbated;marihuana  |  inbe;hlca;fndg;fndg;qlco;fndg;qlco;orch,phsu 
+ ========================================= 
+ ^^^^^^^^ Smoking History CLUSTERS ^^^^^^^ 
+----------------------
+Smoking History:
+Tolerance to nicotine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;nicotine  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu 
+Withdrawal from nicotine  |  withdrawal (dysfunction);nicotine  |  mobd;hops,orch,phsu 
+DSM4 nicotine dependence  |  nicotine dependence  |  mobd 
+Age onset of DSM4 nicotine dependence  |  age;started;nicotine dependence  |  orga;qlco;mobd 
+NICOTINE PATCH: EVER USED Q12E  |  nicotine;plaque (lesion);used by  |  hops,orch,phsu;fndg;fndg 
+Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale  |  overall;nicotine;drug dependence;diazonaphthalenedisulfonic acid  |  qlco;hops,orch,phsu;mobd;orch,phsu 
+----------------------
+Smoking History:
+INTERIM HISTORY OF SMOKING: SMOKES PIPE  |  history of present illness;medical history;history of previous events;smoking;smokeless;tobacco smoking behavior;piperine extract (standardized)  |  orga;fndg;fndg;inbe;orch,phsu;inbe;phsu 
+RECODED PIPE SMK STAT OF EXAM 1  |  piperine extract (standardized);medical examination  |  phsu;hlca 
+----------------------
+Smoking History:
+HOW MANY DID YOU SMOKE PER DAY ON AVER (99=UNKNOWN)  |  smoke;tobacco smoke;unknown  |  eehu,hops;hops;qlco 
+SMOKE DURING THE PAST HOUR  |  smoke;tobacco smoke  |  eehu,hops;hops 
+SMOKE AMOUNT  |  smoke;tobacco smoke  |  eehu,hops;hops 
+RESPIRATORY: HOW MANY YEARS HAVE YOU SMOKED/DID YOU SMOKE?  |  smoke;smoking;tobacco smoke;tobacco smoking behavior  |  eehu,hops;inbe;hops;inbe 
+IF NO LONGER SMOKE, WHEN QUIT  |  long;smoke;tobacco smoke;longest;long variable  |  qlco;eehu,hops;hops;qlco;qlco 
+INTERIM HISTORY OF SMOKING: SMOKES PIPE  |  history of present illness;medical history;history of previous events;smoking;smokeless;tobacco smoking behavior;piperine extract (standardized)  |  orga;fndg;fndg;inbe;orch,phsu;inbe;phsu 
+SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE  |  smoking history;smoke;tobacco smoke;piperine extract (standardized)  |  fndg;eehu,hops;hops;phsu 
+DOES PATIENT NOW SMOKE A PIPE  |  smoke;tobacco smoke;piperine extract (standardized)  |  eehu,hops;hops;phsu 
+IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?  |  smoking pipe (history);smoke;smoking;tobacco smoke;tobacco smoking behavior;piperine extract (standardized);last  |  fndg;eehu,hops;inbe;hops;inbe;phsu;qlco 
+IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?  |  smoking pipe (history);smoke;tobacco smoke;piperine extract (standardized)  |  fndg;eehu,hops;hops;phsu 
+ ===================================== 
+ ^^^^^^^^ Mental or Emotional Finding CLUSTERS ^^^^^^^ 
+----------------------
+Mental or Emotional Finding:
+Persistent desire or unsuccessful efforts to cut down or control cocaine use  |  desires;unsuccessful;exertion;incised wound;control aspects  |  menp;qlco;orgf;inpo;qlco 
+Persistent desire or unsuccessful efforts to cut down or control marijuana use  |  desires;unsuccessful;exertion;incised wound;marijuana smoking;control aspects  |  menp;qlco;orgf;inpo;inbe;qlco 
+----------------------
+Mental or Emotional Finding:
+Difficulty concentrating  |  difficulty concentrating  |  menp 
+DIFFICULTY CONCENTRATING FOR LONG Q21  |  difficulty concentrating;long;long variable  |  menp;qlco;qlco 
+----------------------
+Mental or Emotional Finding:
+Do you currently drive a car?  |  intrinsic drive  |  menp 
+Ever driven a car  |  automobile driving;intrinsic drive  |  dora;menp 
+----------------------
+Mental or Emotional Finding:
+PALPATED SYSTOLIC BLOOD PRESSURE  |  emotions;intravascular systolic:pressure:point in time:arterial system:quantitative;systolic pressure;systolic blood pressure measurement;feelings  |  menp;clna;clna;diap;menp 
+PALPATED SYSTOLIC  |  emotions;feelings  |  menp;menp 
+----------------------
+Mental or Emotional Finding:
+Tolerance to nicotine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;nicotine  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu 
+Tolerance to cocaine  |  drug tolerance;immune tolerance;mental tolerance;physiologic tolerance;tolerance;cocaine;cocaine measurement  |  fndg;patf;menp;phsf;qlco;hops,orch,phsu;lbpr 
+ ===================================== 
+ ^^^^^^^^ Drinking History CLUSTERS ^^^^^^^ 
+----------------------
+Drinking History:
+INTERIM HISTORY OF ALCOHOL DRINKING, EXAM 4  |  history of present illness;medical history;history of previous events;alcohol consumption;current drinker;medical examination  |  orga;fndg;fndg;inbe;inbe;hlca 
+Alcohol drinking in the past 12 month (Y/N)  |  alcohol consumption;current drinker  |  inbe;inbe 
+Alcohol drinking per day  |  alcohol consumption;current drinker  |  inbe;inbe 
+Alcohol drinking classification I  |  alcohol consumption;blood group antibody i;current drinker  |  inbe;aapp,imft;inbe 
+Current Drinking Consumption at Baseline  |  alcohol consumption;consumption-archaic term for tb;biologic consumption;drinking function  |  inbe;dsyn;phsf;orgf 
+Drinking History at Baseline  |  alcohol consumption;history of present illness;medical history;history of previous events;drinking function  |  inbe;orga;fndg;fndg;orgf 
+AGE FIRST STARTED DRINKING ALCOHOLIC BEVERAGES  |  age;firstly;started;alcohol consumption;drinking function;alcoholic beverages  |  orga;qlco;qlco;inbe;orgf;food 
+ALCOHOL: AGE STARTED DRINKING  |  age;alcohols;alcohol measurement;started;alcohol consumption;drinking function  |  orga;orch,phsu;lbpr;qlco;inbe;orgf 
+Age onset of regular drinking (drinking once a month for 6 months or more)  |  age;started;regular;alcohol consumption;drinking function  |  orga;qlco;qlco;inbe;orgf 
+IF EVER CONSUMED ALCOHOL: HOW OLD WERE YOU WHEN YOU FIRST STARTED DRINKING ALCOHOLIC BEVERAGE?  |  alcohols;alcohol measurement;firstly;started;alcohol consumption;drinking function;alcoholic beverages  |  orch,phsu;lbpr;qlco;qlco;inbe;orgf;food 
+AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?  |  age;alcohol consumption;drinking function;alcohols;alcohol measurement  |  orga;inbe;orgf;orch,phsu;lbpr 
+Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?  |  medical history;alcohol consumption;age;drinking function;alcohols;alcohol measurement  |  fndg;inbe;orga;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT DRINKERS)  |  alcohol consumption;drinking function;current drinker;alcohols;alcohol measurement  |  inbe;orgf;inbe;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (CURRENT AND FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+# YEARS DRINKING ALCOHOL (FORMER DRINKERS)  |  alcohol consumption;drinking function;alcohols;alcohol measurement  |  inbe;orgf;orch,phsu;lbpr 
+# DRINKS PER WEEK WHEN DRINKING (FORMER DRINKERS)  |  drink (dietary substance);alcohol consumption;drinking function  |  food;inbe;orgf 
+FORMER DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES  |  alcohol consumption;drinking function;alcoholic beverages  |  inbe;orgf;food 
+CURRENT DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES  |  current drinker;alcohol consumption;drinking function;alcoholic beverages  |  inbe;inbe;orgf;food 

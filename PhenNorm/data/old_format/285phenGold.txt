@@ -1,0 +1,286 @@
+Test Category	Test  ID	Variable ID	Notes	Variable Description
+1. Demographics	1_1_1	phv00167536.v1.p1	Race	Race [Caucasian]
+	1_1_2	phv00164877.v1.p1	Race	Race of participant [Caucasian]
+	1_1_3	phv00160387.v1.p1	Race	ESP, race [Caucasian]
+	1_1_4	phv00122972.v1.p1	Race	Race - Caucasian (0=no,1=yes)
+	1_1_5	phv00023940.v3.p2	Race	Race of subject (Caucasian)
+	1_1_6	phv00081939.v1.p1	Race	Is the participant Caucasian?
+	1_2_1	phv00022888.v1.p1	Gender	Participant's gender
+	1_2_2	phv00169062.v3.p1	Gender	Gender
+	1_2_3	phv00174111.v1.p1	Gender	GENDER OF PARTICIPANT
+	1_2_4	phv00167790.v1.p1	Gender	Gender [Male or Female]
+	1_2_5	phv00019965.v1.p1	Gender	Participant's gender - See also NIDDK - GoKinD phs000088: SEX
+	1_2_6	phv00125546.v1.p1	Gender	GENDER OF PARTICIPANT (M,F) Q18
+	1_3_1	phv00008423.v3.p7	age	MENOPAUSE: AGE PERIOD STOPPED
+	1_3_2	phv00087184.v1.p3	age	AGE OF MENOPAUSE
+	1_3_3	phv00172024.v1.p1	age	Age at menopause
+	1_3_4	phv00094046.v1.p1	age	AGE WHEN MENOPAUSE BEGAN Q8
+	1_3_5	phv00094332.v1.p1	age	AGE MENOPAUSE BEGAN Q19
+	1_3_6	phv00100351.v1.p1	age	AGE AT MENOPAUSE
+2. Medication	2_1_1	phv00054331.v2.p1		ACETAMINOPHEN (PILLS/DAY) (ALL PARTICIPANTS)
+	2_1_2	phv00053985.v2.p1		CURRENTLY TAKING ACETAMINOPHEN/TYLENOL (ALL PARTICIPANTS)
+	2_1_3	phv00009715.v3.p7		MEDICATIONS: ANALGESIC-NON-NARCOTICS (ACETAMINOPHEN, ETC)
+	2_1_4	phv00054336.v2.p1		ACETAMINOPHEN (500 MG) (ALL PARTICIPANTS)
+	2_1_5	phv00122908.v1.p1		Meds: Acetaminophen
+	2_1_6	phv00123179.v1.p1		74 Last month have you used acetaminophen
+	2_2_1	phv00161400.v3.p2		BASELINE HYPERTENSION MEDICATION
+	2_2_2	phv00176833.v1.p3		ANY HYPERTENSION MEDICATION
+	2_2_3	phv00083163.v1.p3		HYPERTENSION MEDICATION
+	2_2_4	phv00129500.v2.p2		Currently taking high blood pressure medication at Exam 1
+	2_2_5	phv00129501.v2.p2		Taking high blood pressure medication now [at Exam 2]?
+	2_2_6	phv00165182.v2.p1		Hypertension med status (any) at baseline (0/1)
+	2_3_1	phv00099333.v1.p1		TYPE OF BETA BLOCKER
+	2_3_2	phv00099455.v1.p1		ANY BETA BLOCKER
+	2_3_3	phv00002955.v1.p7		INTERIM HISTORY OF MEDICINE USED: BETA BLOCKER
+	2_3_4	phv00006125.v1.p7		MEDICATION USE - BETA BLOCKER GROUP
+	2_3_5	phv00006126.v1.p7		MEDICATION USE - DOSE OF BETA BLOCKER
+	2_3_6	phv00006855.v1.p7		BETA BLOCKER GROUP
+3. Lab Test	3_1_1	phv00001039.v1.p7		URINALYSIS: ALBUMIN
+	3_1_2	phv00036493.v4.p7		URINE ALBUMIN (MG/L)
+	3_1_3	phv00071895.v2.p7		Albumin, urine
+	3_1_4	phv00172161.v1.p7		Albumin (sample type: urine)
+	3_1_5	phv00083436.v1.p3		URINARY ALBUMIN (mg/dl)
+	3_1_6	phv00173267.v1.p1		Urine Albumin (grams/24 hours)
+	3_2_1	phv00165195.v2.p1		Blood fasting glucose at baseline in mg/dL
+	3_2_2	phv00110485.v1.p1		Fasting glucose (mg/dl)
+	3_2_3	phv00172173.v1.p7		Fasting glucose (sample type: plasma)
+	3_2_4	phv00082953.v1.p3		FASTING GLUCOSE CALIBRATED (mg/dl)
+	3_2_5	phv00178062.v1.p3		Blood fasting glucose at baseline in mg/dL
+	3_2_6	phv00094137.v1.p1		FASTING GLUCOSE (VALUE) Q4A
+	3_3_1	phv00165219.v2.p1		Platelet count at designated visit (may not be baseline) in x 1000/cubic mm
+	3_3_2	phv00099861.v1.p1		PLATELET COUNT (/cc.mm)
+	3_3_3	phv00081034.v1.p7		Platelet Count
+	3_3_4	phv00159460.v1.p1		Platelets (10^9/L)
+	3_3_5	phv00124421.v1.p1		Platelet cell count per microliter of whole blood
+	3_3_6	phv00080452.v1.p1		Platelet count (K/uL)
+4. Medical History	4_1_1	phv00123445.v1.p1	SOI	83 Any biological relative had Breast Cancer
+	4_1_2	phv00078700.v3.p2	SOI	Female relative had breast cancer
+	4_2_1	phv00128114.v1.p1	SOI	17: Do mother have/had Cancer?
+	4_2_2	phv00091362.v1.p1	SOI	MOTHER HAVE CANCER Q25
+	4_2_3	phv00094477.v1.p1	SOI	NATURAL MOTHER HAVE CANCER? Q15A
+	4_3_1	phv00169125.v3.p1		Alzheimer's OR Dementia
+	4_3_2	phv00104167.v1.p1		DEMENTIA OR ALZHEIMER'S DISEASE
+	4_3_3	phv00023654.v6.p7		(2.A) HAS THERE BEEN A DIAGNOSIS OF DEMENTIA OR ALZHEIMER'S DISEASE MADE BY A DOCTOR?
+	4_3_4	phv00081074.v1.p1		Diagnosis (DSM-IV) of dementia of Alzheimer's type
+	4_3_5	phv00081257.v1.p1		Alzheimers Disease - cause of Dementia
+	4_4_1	phv00004479.v1.p7		CLINICAL DIAGNOSTIC IMPRESSION: DEMENTIA
+	4_4_2	phv00169144.v3.p1		Dementia With Unknown Cause
+	4_4_3	phv00007445.v1.p7		NEUROLOGIST 1ST OPINION: DEMENTIA
+	4_4_4	phv00089339.v1.p7		Prevalent dementia, at time of 1st battery
+	4_4_5	phv00009534.v3.p7		CDI-DEMENTIA
+	4_4_6	phv00023978.v3.p2		Medical history: dementia (absent, present)
+	4_5_1	phv00169141.v3.p1		Unexplained Cough
+	4_5_2	phv00099098.v1.p1		DO YOU USUALLY HAVE A COUGH
+	4_5_3	phv00099099.v1.p1		COUGH AS MUCH AS 4 TO 6 TIMES A DAY
+	4_5_4	phv00099101.v1.p1		COUGH DURING THE REST OF THE DAY/NIGHT
+	4_5_5	phv00099103.v1.p1		FOR HOW MANY YRS HAVE YOU HAD THIS COUGH
+	4_5_6	phv00102756.v1.p1		HAD COUGH IN LAST TWO WEEKS
+	4_6_1	phv00010088.v3.p7	SOI	DID YOUR MOTHER EVER HAVE DIABETES MELLITUS
+	4_6_2	phv00128115.v1.p1	SOI	18: Do mother have/had Diabetes?
+	4_6_3	phv00091360.v1.p1	SOI	MOTHER HAD DIABETES Q24
+	4_6_4	phv00094478.v1.p1	SOI	NATURAL MOTHER HAVE DIABETES? Q15B
+	4_6_5	phv00113229.v2.p2	SOI	DOES PT'S MOTHER HAVE DIABETES? Q 1
+	4_6_6	phv00160189.v1.p1	SOI	Mother diagnosed with insulin dependent diabetes mellitus.
+	4_7_1	phv00174189.v1.p1		Diagnosis criteria - fever
+	4_7_2	phv00117251.v2.p2		HAVE A FEVER TODAY. Q 1
+	4_7_3	phv00098419.v1.p1		Active Fever or no fever
+	4_7_4	phv00169151.v3.p1		High Unexplained Fever
+	4_7_5	phv00099141.v1.p1		PRESENT FEVER
+	4_7_6	phv00108033.v1.p1		HAD FEVER, CHILLS IN LAST TWO WEEKS
+5. Mental or Emotional Finding	5_1_1	phv00024955.v1.p1		Tactual performance: memory score (quarterly visit 00)
+	5_1_2	phv00082455.v1.p1		MEMORY IMPAIRMENT SCREEN: Other - Interpretation
+	5_1_3	phv00082544.v1.p1		Memory: Raw score
+	5_1_4	phv00072953.v1.p1		Has your memory problem gotten worse in the last year?
+	5_1_5	phv00073122.v1.p1		Subject's history of disease - SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE)
+	5_1_6	phv00024311.v1.p1		The presence or absence of memory loss in the subjects themselves as determined by clinician's interview.
+	5_2_1	phv00099478.v1.p1		COGNITIVE FUNCTION CATEGORY
+	5_2_2	phv00088209.v1.p1		Quartiles of rate of cognitive decline
+	5_2_3	phv00081932.v1.p1		Does this participant have cognitive impairment on testing?
+	5_2_4	phv00081228.v1.p1		Diagnosed with MCI (Mild Cognitive Impairment)
+	5_2_5	phv00071276.v1.p1		Was cognitive testing administered to the subject?
+	5_2_6	phv00073299.v1.p1		Intial presentation: Cognitive
+	5_3_1	phv00011510.v2.p2		Is easily distracted, concentration wanders
+	5_3_2	phv00078995.v3.p2		Difficulty concentrating
+	5_3_3	phv00079010.v3.p2		Trouble concentrating on things, reading
+	5_3_4	phv00094615.v1.p1		DIFFICULTY CONCENTRATING FOR LONG Q21
+	5_3_5	phv00034648.v1.p2		Did you have a lot more trouble concentrating than usual?
+	5_3_6	phv00072881.v1.p1		I have trouble concentrating
+6. Smoking History	6_1_1	phv00099159.v1.p1		HOW MANY DID YOU SMOKE PER DAY ON AVER (99=UNKNOWN)
+	6_1_2	phv00099334.v1.p1		SMOKE DURING THE PAST HOUR
+	6_1_3	phv00099445.v1.p1		SMOKING STATUS
+	6_1_4	phv00099477.v1.p1		SMOKE AMOUNT
+	6_1_5	phv00010667.v3.p7		RESPIRATORY: HOW MANY YEARS HAVE YOU SMOKED/DID YOU SMOKE?
+	6_1_6	phv00022723.v3.p7		IF NO LONGER SMOKE, WHEN QUIT
+	6_2_1	phv00001257.v1.p7		INTERIM HISTORY OF SMOKING: SMOKES PIPE
+	6_2_2	phv00003385.v1.p7		SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE
+	6_2_3	phv00003839.v1.p7		DOES PATIENT NOW SMOKE A PIPE
+	6_2_4	phv00020935.v4.p7		IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?
+	6_2_5	phv00020936.v4.p7		IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?
+	6_2_6	phv00083618.v1.p3		RECODED PIPE SMK STAT OF EXAM 1
+	6_3_1	phv00066362.v1.p1		Tolerance to nicotine
+	6_3_2	phv00066363.v1.p1		Withdrawal from nicotine
+	6_3_3	phv00066380.v1.p1		DSM4 nicotine dependence
+	6_3_4	phv00066381.v1.p1		Age onset of DSM4 nicotine dependence
+	6_3_5	phv00095928.v1.p1		NICOTINE PATCH: EVER USED Q12E
+	6_3_6	phv00162786.v1.p1		Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale
+7. Drinking History	7_1_1	phv00000708.v1.p7		INTERIM HISTORY OF ALCOHOL DRINKING, EXAM 4
+	7_1_2	phv00126105.v1.p1		Alcohol drinking in the past 12 month (Y/N)
+	7_1_3	phv00126107.v1.p1		Alcohol drinking per day
+	7_1_4	phv00126110.v1.p1		Alcohol drinking classification I
+	7_1_5	phv00071832.v1.p1		Current Drinking Consumption at Baseline
+	7_1_6	phv00071831.v1.p1		Drinking History at Baseline
+	7_2_1	phv00087280.v1.p3		AGE FIRST STARTED DRINKING ALCOHOLIC BEVERAGES
+	7_2_2	phv00083281.v1.p3		ALCOHOL: AGE STARTED DRINKING
+	7_2_3	phv00022918.v1.p1		Age onset of regular drinking (drinking once a month for 6 months or more)
+	7_2_4	phv00020968.v4.p7		IF EVER CONSUMED ALCOHOL: HOW OLD WERE YOU WHEN YOU FIRST STARTED DRINKING ALCOHOLIC BEVERAGE?
+	7_2_5	phv00072108.v2.p7		AT WHAT AGE DID YOU STOP DRINKING ALCOHOL?
+	7_2_6	phv00177318.v1.p7		Medical History-Alcohol Consumption: At what age did you stop drinking alcohol?
+	7_3_1	phv00083289.v1.p3		# YEARS DRINKING ALCOHOL (CURRENT DRINKERS)
+	7_3_2	phv00083278.v1.p3		# YEARS DRINKING ALCOHOL (CURRENT AND FORMER DRINKERS)
+	7_3_3	phv00083283.v1.p3		# YEARS DRINKING ALCOHOL (FORMER DRINKERS)
+	7_3_4	phv00083288.v1.p3		# DRINKS PER WEEK WHEN DRINKING (FORMER DRINKERS)
+	7_3_5	phv00087282.v1.p3		FORMER DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES
+	7_3_6	phv00087289.v1.p3		CURRENT DRINKERS: NUMBER OF YEARS DRINKING ALCOHOLIC BEVERAGES
+8. Substance Use History	8_1_1	phv00066425.v1.p1		Tolerance to cocaine
+	8_1_2	phv00066426.v1.p1		Withdrawal from cocaine
+	8_1_3	phv00066427.v1.p1		Using cocaine in larger amounts or over longer period than intended
+	8_1_4	phv00066428.v1.p1		Persistent desire or unsuccessful efforts to cut down or control cocaine use
+	8_1_5	phv00066439.v1.p1		Has participant ever used cocaine?
+	8_1_6	phv00066444.v1.p1		DSM4 cocaine dependence
+	8_2_1	phv00162862.v1.p1		Ever used marijuana
+	8_2_2	phv00162865.v1.p1		Number of marijuana symptoms endorsed
+	8_2_3	phv00162861.v1.p1		Marijuana use despite knowledge of persistent or recurrent physical or psychological problems likely to have been caused or exacerbated by marijuana
+	8_2_4	phv00162858.v1.p1		Persistent desire or unsuccessful efforts to cut down or control marijuana use
+	8_2_5	phv00164993.v1.p1		Marijuana Dependence
+	8_2_6	phv00113562.v2.p2		HOW MANY TIMES USED MARIJUANA IN LIFE. Q 1
+	8_3_1	phv00066451.v1.p1		Age onset of DSM4 opiate dependence
+	8_3_2	phv00066452.v1.p1		Age recency of DSM4 opiate dependence
+	8_3_3	phv00066448.v1.p1		Age when last used opiates
+	8_3_4	phv00066447.v1.p1		Age when first used opiates
+	8_4_1	phv00120113.v2.p2		OTHER TYPE OF OPIATE USED. Q 9b
+	8_4_2	phv00066449.v1.p1		Number of opiate symptoms endorsed
+	8_4_3	phv00066450.v1.p1		DSM4 opiate dependence
+	8_4_4	phv00164995.v1.p1		Opiate Dependence
+	8_4_5	phv00066440.v1.p1		Has participant ever used opiates?
+	8_4_6	phv00066434.v1.p1		Using opiates in larger amounts or over longer period than intended
+9.Daily or Recreational Activity	9_1_1	phv00100712.v1.p1		How many hours of sleep do you usually get at night (or your main sleep period) on weekdays or workdays?
+	9_1_2	phv00100721.v1.p1		How often do you not get enough sleep?
+	9_1_3	phv00003752.v1.p7		ACTIVITIES - HRS SLEEP PER DAY
+	9_1_4	phv00003098.v1.p7		AMOUNT OF SLEEP NEEDED EACH NIGHT (IF YES IN COLUMN 222)
+	9_1_5	phv00001902.v1.p7		REST AND ACTIVITY (AVERAGE HOURS PER DAY) SLEEP
+	9_1_6	phv00082282.v1.p1		Sleep and nighttime behaviour - Severity
+	9_2_1	phv00098886.v1.p1		WALKING FOR EXERCISE IN LAST 2 WEEKS
+	9_2_2	phv00098887.v1.p1		FREQUENCY IN PAST 2 WEEKS - WALK
+	9_2_3	phv00098888.v1.p1		TIME (MIN.) - WALK
+	9_2_4	phv00098889.v1.p1		MONTHS PER YEAR - WALK
+	9_2_5	phv00070692.v1.p7		DURING THE PAST YEAR, HOW OFTEN HAVE YOU PARTICIPATED IN THE FOLLOWING LEISURE TIME ACTIVITIES? --WALKING FOR EXERCISE
+	9_2_6	phv00072376.v2.p7		DURING THE PAST YEAR - WALKING FOR EXERCISE
+	9_3_1	phv00101838.v1.p1		Difficulty driving during the day
+	9_3_2	phv00101839.v1.p1		Difficulty driving at night
+	9_3_3	phv00101837.v1.p1		Do you currently drive a car?
+	9_3_4	phv00101840.v1.p1		Ever driven a car
+	9_3_5	phv00056704.v1.p7		# years driving
+	9_3_6	phv00101842.v1.p1		Why did you stop driving a car
+10. Eating or Nutritional Finding	10_1_1	phv00099877.v1.p1		HOW OFTEN DO YOU USE LOW-SALT BREAD
+	10_1_2	phv00099878.v1.p1		HOW OFTEN DO YOU USE LOW-CALORIE BREAD
+	10_1_3	phv00157504.v1.p7		FFQ: WHITE BREAD (SLICE), INCLUDING PITA
+	10_1_4	phv00157505.v1.p7		FFQ: DARK BREAD (SLICE)
+	10_1_5	phv00157677.v1.p7		DERIVED FIELD: SERVINGS PER WEEK - WHITE BREAD
+	10_1_6	phv00112731.v2.p2		LOAF-TYPE BREAD AND PLAIN ROLLS - WHOLE GRAIN
+	10_2_1	phv00100137.v1.p1		VITAMIN C (MG) DAILY AVG OVER WHOLE YR
+	10_2_2	phv00101605.v1.p1		TOOK VITAMIN C
+	10_2_3	phv00101606.v1.p1		DAYS TOOK VITAMIN C
+	10_2_4	phv00104894.v1.p1		DID YOU TAKE VITAMIN C
+	10_2_5	phv00109527.v1.p1		VITAMIN C (MG)
+	10_2_6	phv00003808.v1.p7		# OF VITAMIN C TABS PER WEEK
+	10_3_1	phv00100241.v1.p1		GLASSES OF WATER, NOT COUNT IN COFFEE/TEA
+	10_3_2	phv00172591.v1.p7		FFQ: Water - bottled, sparkling or tap
+	10_3_3	phv00173046.v1.p7		Derived field: Water
+	10_3_4	phv00150487.v2.p3		NUTRIENTS: WATER
+	10_3_5	phv00168232.v1.p1		How often do you consume Plain water, bottled or tap including mineral water and soda water; 1 c. or glass?
+	10_3_6	phv00077547.v3.p2		Past 3 months frequency drank tap water
+11. Self-care status	11_1_1	phv00003089.v1.p7		WAS THERE ANY TIME DURING THE PAST YEAR NEED HELP PERSONAL GROOMING, SHAVING ETC. (SEE CODING FOR VARIABLE FJ177)
+	11_1_2	phv00003293.v1.p7		GROOMING AND BATHING ABILITY
+	11_1_3	phv00021980.v1.p7		DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING BATH AND DOING GROOMING ACTIVITIES
+	11_1_4	phv00117396.v2.p2		USE VERY FEW GROOMING PRODUCTS. Q 19
+	11_1_5	phv00117410.v2.p2		TAKE SPECIAL CARE WHEN GROOMING MY HAIR. Q 33
+	11_1_6	phv00081140.v1.p1		Grooming ability
+	11_2_1	phv00018677.v1.p1		K47d. Neglect hygiene. (Participants with European ancestry). DIGS4
+	11_2_2	phv00016854.v1.p1		U13. Grooming and Hygiene, (Participants with European ancestry). DIGS3
+	11_2_3	phv00016345.v1.p1		L5. Poor Hygiene, (Participants with European ancestry). DIGS3
+	11_2_4	phv00016259.v1.p1		K70.d. Hygiene Residual, (Participants with European ancestry). DIGS3
+	11_2_5	phv00016258.v1.p1		K70.d. Hygiene Prodromal, (Participants with European ancestry). DIGS3
+	11_2_6	phv00012846.v1.p1		L5. In general did you not take care of hygiene and grooming? (Participants with European ancestry). DIGS2
+	11_3_1	phv00003296.v1.p7		TOILETING ABILITY
+	11_3_2	phv00003733.v1.p7		FUNCTIONAL PERFORMANCE: TOILETING ACTIVITIES
+	11_3_3	phv00006058.v1.p7		TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) (SEE NOTE ABOVE)
+	11_3_4	phv00006707.v1.p7		DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING)
+	11_3_5	phv00021981.v1.p7		DURING PAST YEAR-CUT DOWN OR STOP DOING: TAKING CARE PERSONAL NEEDS FOR TOILETING
+	11_3_6	phv00009144.v3.p7		FUNCTIONAL PERFORMANCE (ADL)-TOILETING ACTIVITES
+12. Health Activity Finding	12_1_1	phv00107004.v1.p1		HOSPITALIZED FOR MI
+	12_1_2	phv00107005.v1.p1		NUMBER TIMES HOSPITALIZED FOR MI
+	12_1_3	phv00107006.v1.p1		NUMBER DAYS IN HOSPITAL FOR MI
+	12_2_1	phv00001240.v1.p7		INTERIM HISTORY OF HOSPITALIZATION
+	12_2_2	phv00107036.v1.p1		LENGTH OF SECOND HOSPITAL STAY (DAYS)
+	12_2_3	phv00107035.v1.p1		REASON FOR SECOND HOSPITAL STAY
+	12_2_4	phv00005559.v1.p7		HOSPITALIZATION IN INTERIM
+	12_2_5	phv00125009.v1.p1		10. Have you stayed (did [name] stay) overnight as a patient in a hospital ?
+	12_2_6	phv00125010.v1.p1		37a. Hospitalization reason
+	12_3_1	phv00006841.v1.p7		E.R. VISIT IN INTERIM
+	12_3_2	phv00020869.v4.p7		E.R. VISIT EVER
+	12_3_3	phv00072046.v2.p7		E.R. VISIT SINCE YOUR LAST EXAM
+	12_3_4	phv00177240.v1.p7		Health Care: Since your last exam or medical history update: E.R. Visits
+13.Diagnostic Procedure	13_1_1	phv00101137.v1.p1		ORIG BASELINE P WAVE, LEFT SIDE
+	13_1_2	phv00073813.v1.p7		Mean VTI A Wave - Mitral Doppler
+	13_1_3	phv00023266.v3.p7		LEAD I, Q WAVE VOLTAGE
+	13_1_4	phv00023268.v3.p7		LEAD I, S WAVE VOLTAGE
+	13_1_5	phv00023274.v3.p7		LEAD I, QRS AREA WAVE VOLTAGE
+	13_1_6	phv00023295.v3.p7		LEAD III, R WAVE NTCH WAVE VOLTAGE
+	13_2_1	phv00000653.v1.p7		ECG: NON-SPECIFIC T-WAVE, EXAM 3
+	13_2_2	phv00002177.v1.p7		ECG: NONSPECIFIC T-WAVE ABNORMALITY
+	13_2_3	phv00002607.v1.p7		ECG: U-WAVE
+	13_2_4	phv00066243.v1.p1		E. Are ECG tracings attached?
+	13_2_5	phv00080495.v1.p1		P-R interval (visit 1) [electrocardiography related variable]
+	13_2_6	phv00080690.v1.p1		Q-T interval (visit 1) [electrocardiography related variable]
+	13_3_1	phv00089392.v1.p7		Lateral Ventricular Volume, 1st MRI
+	13_3_2	phv00089391.v1.p7		Hippocampal Volume, 1st MRI
+	13_3_3	phv00089394.v1.p7		Parietal Brain Volume, 1st MRI
+14. Therapeutic or Preventive Procedure	14_1_1	phv00169133.v3.p1		Received Blood Transfusion In Another Country
+	14_1_2	phv00094282.v1.p1		EVER RECEIVED BLOOD TRANSFUSION Q11
+	14_1_3	phv00094283.v1.p1		REASON FOR FIRST TRANSFUSION Q14
+	14_1_4	phv00094297.v1.p1		HOW MANY TIMES BLOOD TRANSFUSION Q12
+	14_2_1	phv00091099.v1.p1		Did the patient receive a flu vaccine this past year?
+	14_2_2	phv00091100.v1.p1		Did the patient receive H1N1 vaccine this year?
+	14_2_3	phv00124362.v1.p1		Have you been immunized (received a vaccine shot) in the last month?
+	14_3_1	phv00123282.v1.p1	SOI	77 Dad diagnosed - Angioplasty or By-pass Surgery
+	14_3_2	phv00010083.v3.p7	SOI	DID YOUR FATHER HAVE HEART BYPASS SURGERY BEFORE AGE 55
+15. Clinical Attributes	15_1_1	phv00165179.v2.p1		Systolic blood pressure at baseline (avg. of 2 measurements), in mm Hg
+	15_1_2	phv00099369.v1.p1		PALPATED SYSTOLIC BLOOD PRESSURE
+	15_1_3	phv00100401.v1.p1		(STAND READING) BLOOD PRESSURE: SYSTOLIC
+	15_1_4	phv00101775.v1.p1		FIRST STANDARD SEATED SYSTOLIC
+	15_1_5	phv00105421.v1.p1		PALPATED SYSTOLIC
+	15_1_6	phv00055182.v2.p7		SUPINE SBP
+	15_2_1	phv00099380.v1.p1		SUPINE READING: 30 SECOND HEART RATE
+	15_2_2	phv00099357.v1.p1		HEART RATE (30 SECONDS)
+	15_2_3	phv00099427.v1.p1		HEART RATE (30 SEC) PRIOR TO CHAIR STANDS
+	15_2_4	phv00100054.v1.p1		HEART RATE
+	15_2_5	phv00100247.v1.p1		MINIMUM HEART RATE
+	15_2_6	phv00082700.v1.p3		HEART RATE (beats/min)
+	15_3_1	phv00099053.v1.p1		DID YOU SEE DOCTOR BECAUSE OF THIS PAIN
+	15_3_2	phv00099137.v1.p1		PRESENT CHEST PAIN
+	15_3_3	phv00099138.v1.p1		INCREASE CHEST PAIN
+	15_3_4	phv00099048.v1.p1		PAIN IN LEFT ANTERIOR CHEST
+	15_3_5	phv00099040.v1.p1		EVER HAD PAIN/DISCOMFORT IN YOUR CHEST
+	15_3_6	phv00099052.v1.p1		SEVERE PAIN ACROSS THE FRONT OF CHEST
+16. Research Attributes	16_1_1	phv00022939.v1.p1		Final case-control status
+	16_1_2	phv00169262.v1.p1		Case/Control status of subject
+	16_1_3	phv00100673.v1.p1		Final Case/Control designation
+	16_1_4	phv00100684.v1.p1		Case/control group updated
+	16_1_5	phv00173162.v1.p1		Case/control status
+	16_1_6	phv00024093.v1.p1		Case-control status, Tier2
+	16_2_1	phv00056648.v1.p7		Protocol used to measure Blood Pressure
+	16_2_2	phv00070503.v1.p7		PROTOCOL MODIFICATION - 2ND BP READING
+	16_2_3	phv00007113.v1.p7		PROTOCOL MODIFICATION FOR TECH BLOOD PRESSURE
+	16_2_4	phv00021150.v4.p7		PROTOCOL MODIFICATION FOR PHYSICIAN'S SECOND BLOOD PRESSURE READING
+	16_2_5	phv00021242.v4.p7		PROTOCOL MODIFICATION FOR TECHNICIAN'S BLOOD PRESSURE READING
+	16_2_6	phv00177355.v1.p7		Physical Exam-Blood Pressure: Physician Blood Pressure first reading - Protocol modification

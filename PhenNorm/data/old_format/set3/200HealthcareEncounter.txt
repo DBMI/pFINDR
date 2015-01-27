@@ -1,0 +1,200 @@
+phv00128593.v1 	 2b: Appointment time (hh:mm) 24 hour clock 
+phv00032890.v1 	 Blood glucose profile 8 - mg/dl (quarterly visit 10) 
+phv00033035.v1 	 Post-lunch blood glucose at OD 340 (quarterly visit 17) 
+phv00027604.v1 	 LDL cholesterol (mg/dl): quarterly visit 24 
+phv00032670.v1 	 Blood glucose profile 8 - mg/dl (quarterly visit 01) 
+phv00025135.v1 	 Object assembly: age-corrected scaled score (WAIS for adults; WISC-R for adolescents) (quarterly visit 20) 
+phv00025813.v1 	 Standard treatment group - since last visit: there have been other modifications to therapy 
+phv00033350.v1 	 3:00 a.m. blood glucose mg/dl (quarterly visit 31) 
+phv00025459.v1 	 Pegboard - dominant hand - time to remove (quarterly visit 36) 
+phv00033460.v1 	 3:00 a.m. blood glucose mg/dl (quarterly visit 36) 
+phv00027863.v1 	 Triglycerides => 200 mg/dl: quarterly visit 32 
+phv00033315.v1 	 Pre-breakfast blood glucose at OD 340 (quarterly visit 30) 
+phv00029391.v1 	 Median nerve - sensory - conduction abnormality: quarterly visit 04 
+phv00171749.v1 	 Waist circumference at the second study visit 
+phv00027836.v1 	 Overweight (National Health and Nutrition Examination Survey [NHANES] definition): quarterly visit 36 
+phv00171626.v1 	 Fasting glucose concentration at the fifth study visit 
+phv00033059.v1 	 Pre-supper blood glucose at OD 340 (quarterly visit 18) 
+phv00033777.v1 	 Quarterly visit number of recovery from severe non-proliferative diabetic retinopathy (snpdr; 53/<53) 
+phv00027567.v1 	 Percent of ideal body weight: quarterly visit 35 
+phv00032781.v1 	 Blood glucose profile 8 at OD 340 (quarterly visit 05) 
+phv00032785.v1 	 Blood glucose profile analysis date (quarterly visit 06) 
+phv00026826.v1 	 Standard deviation of HbA1c up to quarterly visit 10 
+phv00027731.v1 	 Cumulative Packs-years smoked: quarterly visit 12 
+phv00025067.v1 	 Trailmaking - trail B - time (quarterly visit 20) 
+phv00029606.v1 	 Status change - 1 or more reduced conduction velocities: quarterly visit 08 
+phv00031310.v1 	 Reason for change in insulin regimen since last visit: hemoglobin A1c above limit 
+phv00154624.v2 	 Accept Annual Visit5 Post  Max FVC 
+phv00029446.v1 	 Peroneal nerve - post-test temperature (celsius): quarterly visit 08 - Note: There may be instances of errors in recording some body temperatures values.  Body temperature values outside reasonable ranges (e.g., 30-40 degrees celsius) might be treated as recording or measurement errors. 
+phv00029609.v1 	 Status change - 1 or more prolonged F-waves: quarterly visit 04 
+phv00026765.v1 	 Quarterly HbA1c values (at quarterly visit 21) 
+phv00033449.v1 	 Post-breakfast blood glucose at OD 340 (quarterly visit 36) 
+phv00030290.v1 	 Quarterly visit of nephropathy level 1b 
+phv00027459.v1 	 Mean blood pressure (mmhg): quarterly visit 08 
+phv00025328.v1 	 Visual reproduction - copy - design a score (quarterly visit 28) 
+phv00027767.v1 	 Polyunsaturated fat (% calories): quarterly visit 08 
+phv00167795.v1 	 Mean triglyceride level in blood collected at screening and enrollment visits, mg/dL 
+phv00010628.v3 	 IN THE INTERIM HAVE YOU HAD A BLOOD TEST FOR PROSTATE CANCER? (PROSTATE SPECIFIC ANTIGEN) (MEN ONLY, IN THE INTERIM DENOTES SINCE LAST CLINIC VISIT) 
+phv00027857.v1 	 Triglycerides => 200 mg/dl: quarterly visit 08 
+phv00033654.v1 	 Grade on ETDRS scale (patient) - quarterly visit 10 
+phv00033146.v1 	 Pre-supper blood glucose mg/dl (quarterly visit 22) 
+phv00027850.v1 	 LDL cholesterol => 130 mg/dl: quarterly visit 36 
+phv00027663.v1 	 Smoking (current/former/never): quarterly visit 16 
+phv00032724.v1 	 Pre-lunch blood glucose mg/dl (quarterly visit 03) 
+phv00025506.v1 	 Age at year 9 follow - up (quarterly visit 36) 
+phv00033251.v1 	 Post-breakfast blood glucose at OD 340 (quarterly visit 27) 
+phv00033478.v1 	 Post-supper blood glucose mg/dl (quarterly visit 37) 
+phv00026855.v1 	 Slope of HbA1c up to quarterly visit 03 
+phv00027569.v1 	 Systolic blood pressure (mmhg): quarterly visit 36 
+phv00033326.v1 	 Bedtime blood glucose mg/dl (quarterly visit 30) 
+phv00033586.v1 	 Occurrence of 3-step change in ETDRS level compared to baseline - quarterly visit 26 
+phv00032641.v1 	 Pre-supper blood glucose at OD 340 (quarterly visit 00) 
+phv00029640.v1 	 Change in sural nerve - conduction velocity: quarterly visit 08 - Note: As reported in the NeuropathyCodebook (phd000387) the original data show three coding options (.G, .B, .L) which were not properly translated from the original SAS file; instead each of these coded values appears as '.' value in the dataset available through dbGaP. 
+phv00171599.v1 	 Diabetes age at diagnosis (if affected) at the first study visit 
+phv00029627.v1 	 Change in peroneal nerve proximal response amplitude: quarterly visit 08 
+phv00033400.v1 	 Blood glucose profile collection date (quarterly visit 34) 
+phv00027715.v1 	 Pipe or cigar smoker: quarterly visit 24 
+phv00033459.v1 	 Bedtime blood glucose at OD 340 (quarterly visit 36) 
+phv00026933.v1 	 Log of AER at quarterly visit 32 (8 years) 
+phv00029482.v1 	 Neuropathy (clinical diagnosis): quarterly visit 20 
+phv00171701.v1 	 Year of the most recent study visit for which we have Calculated LDL cholesterol 
+phv00027788.v1 	 Dietary phosphorous (mg): quarterly visit 08 
+phv00025476.v1 	 Digit symbol substitution test - incidental recall (quarterly visit 36) 
+phv00029433.v1 	 Median nerve - motor - test distance (mm): quarterly visit 08 
+phv00032843.v1 	 Bedtime blood glucose at OD 340 (quarterly visit 08) 
+phv00033002.v1 	 Repeat visit (quarterly visit 16) 
+phv00033137.v1 	 Blood glucose profile analysis date (quarterly visit 22) 
+phv00025145.v1 	 Pegboard - dominant/non-dominant summary insert (quarterly visit 20) 
+phv00027472.v1 	 HbA1c (percent of hemoglobin): quarterly visit 12 
+phv00154614.v2 	 Accept Annual Visit4 Pre  Max FEV1 
+phv00024994.v1 	 Verbal fluency - total number of words (quarterly visit 08) 
+phv00167799.v1 	 Mean low-density lipoprotein cholesterol level in blood collected at screening and enrollment visits, mg/dL 
+phv00033762.v1 	 Quarterly visit number of scatter laser surgery in either eye 
+phv00171740.v1 	 Hip circumference at the second study visit 
+phv00025333.v1 	 WISC-R digit span - age-corrected score (quarterly visit 28) 
+phv00032897.v1 	 Pre-breakfast blood glucose at OD 340 (quarterly visit 11) 
+phv00026913.v1 	 Log of ETDRS score at quarterly visit 14 ( 42 months) 
+phv00022816.v1 	 Current cigarette smoker at visit 1 
+phv00033248.v1 	 Pre-breakfast blood glucose mg/dl (quarterly visit 27) 
+phv00033282.v1 	 Bedtime blood glucose mg/dl (quarterly visit 28) 
+phv00026764.v1 	 Quarterly HbA1c values (at quarterly visit 20) 
+phv00171723.v1 	 Weight at the third study visit 
+phv00032991.v1 	 Post-lunch blood glucose at OD 340 (quarterly visit 15) 
+phv00029323.v1 	 R-R variation (x 1000): quarterly visit 32 
+phv00026792.v1 	 Mean HbA1c values up to quarterly visit 12 
+phv00125708.v1 	 HEART SURGERY SINCE LAST VISIT    Q12B 
+phv00026735.v1 	 Quarterly visit of first occurrence of nephropathy level 5 
+phv00033081.v1 	 Pre-supper blood glucose at OD 340 (quarterly visit 19) 
+phv00025028.v1 	 Symbol - digit paired - assoc - delayed recall (quarterly visit 08) 
+phv00033330.v1 	 Blood glucose profile 8 - mg/dl (quarterly visit 30) 
+phv00033458.v1 	 Bedtime blood glucose mg/dl (quarterly visit 36) 
+phv00027670.v1 	 Total insulin dose (units/kg): quarterly visit 20 
+phv00025907.v1 	 Neurologic complications: patient will be sent to neurologist - special visit 
+phv00033058.v1 	 Pre-supper blood glucose mg/dl (quarterly visit 18) 
+phv00032984.v1 	 Pre-breakfast blood glucose mg/dl (quarterly visit 15) 
+phv00171760.v1 	 Waist / hip ratio at the fourth study visit 
+phv00032795.v1 	 Pre-supper blood glucose at OD 340 (quarterly visit 06) 
+phv00102006.v1 	 Age at visit 
+phv00033396.v1 	 Blood glucose profile 8 - mg/dl (quarterly visit 33) 
+phv00158839.v1 	 Number of in-person encounters the patient has had with a clinician as recorded in the EMR, as evidenced by problem or medication list or history entries/updates, or other evidence specific to each site's EMR 
+phv00030867.v1 	 Number of emergency room visits 
+phv00030874.v1 	 Indicator of emergency room visits 
+phv00020869.v4 	 E.R. VISIT EVER 
+phv00023679.v6 	 (4.D) IF YES (TO HU35):  "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+phv00097948.v1 	 Follow-up ISC Strokes (days) 
+phv00124503.v1 	 Length of follow-up 
+phv00087878.v4 	 TIME TO STROKE OR LAST FOLLOW-UP (DAYS) 
+phv00087867.v4 	 TIME TO CBG OR LAST FOLLOW-UP (DAYS) 
+phv00097942.v1 	 Follow up time for IN_BY04P (days) 
+phv00071140.v2 	 Total IgE at Follow-up 
+phv00087861.v4 	 TIME TO ANGINA OR LAST FOLLOW-UP (DAYS) 
+phv00071137.v2 	 Bronchodilator percent change at Follow-up. The calculation is: (POSFEV - PREFEV)/PREFEV. 
+phv00114056.v2 	 DATE OF FOLLOW-UP - MONTH 6 
+phv00071004.v1 	 Tanner Stage at follow-up visit 
+phv00081994.v1 	 Has this participant given informed consent or consent by proxy to take part in this follow-up visit? 
+phv00071001.v1 	 Weight at follow-up visit 
+phv00071019.v1 	 FEV1 at follow-up visit 
+phv00071023.v1 	 FVC percent predicted at follow-up visit 
+phv00071022.v1 	 FEV1 percent predicted at follow-up visit 
+phv00031320.v1 	 Since last visit: any time on modified follow-up schedule 
+phv00066145.v1 	 F2a. Access to health care services. Did not think condition serious 
+phv00066031.v1 	 C9e1. Health care providers and sources of care. Psychiatrist: number of visits 
+phv00050858.v1 	 C10l1. Health care provider: nephrologist -number of visits 
+phv00066019.v1 	 C7. Health care providers and sources of care. Have you visited EDIC clinic unrelated 
+phv00066157.v1 	 F2m. Access to health care services. Felt problem could be home remedied 
+phv00050962.v1 	 F2e. Access to health care services. Did not have time 
+phv00066172.v1 	 F4k. Access to health care services. Did not feel provider cared 
+phv00066163.v1 	 F4b. Access to health care services. Problem not covered by insurance 
+phv00050456.v1 	 B8hc3. Health care delivery. During the past 6 months have you had laboratory test: C. other major tests, number of visits paid for by other insurance 
+phv00050725.v1 	 C2j. Reimbursement: mental health service 
+phv00066156.v1 	 F2l. Access to health care services. Afraid of finding out what is wrong 
+phv00050415.v1 	 B8b2. Health care delivery. During the past 6 months have you had laboratory test: other blood tests, number of visits paid for by insurance 
+phv00050836.v1 	 C10a1. Health care provider: generalist visit - number of visits 
+phv00050447.v1 	 B8ha4. Health care delivery. During the past 6 months have you had laboratory test: A. other major tests, number of visits paid for by self 
+phv00050422.v1 	 B8c4. Health care delivery. During the past 6 months have you had laboratory test: ECG, number of visits paid for by self 
+phv00050541.v1 	 B3i1. Health care delivery. Deidentified other doctor: date most recent visit 
+phv00050318.v1 	 B2a. Health care delivery: total number of times stay in hospital 
+phv00001114.v1 	 UNDER MEDICAL CARE BUT NOT HOSPITALIZED SINCE LAST EXAM FOR PEPTIC ULCER 
+phv00050346.v1 	 B6b4. Health care delivery. Have you ever seen this type of doctor: endocrinologist, number of visits paid for by self 
+phv00050336.v1 	 B5. Health care delivery. Have you ever seen this type of doctor: past 2 weeks total visits to doctors 
+phv00050404.v1 	 B6n2. Health care delivery. Have you ever seen this type of doctor: other provider, number of visits paid for by insurance 
+phv00050389.v1 	 B6k2. Health care delivery. Have you ever seen this type of doctor: podiatrist, number of visits paid for by insurance 
+phv00066177.v1 	 F4o1. Access to health care services. Specify: why delayed to see doctor 
+phv00050974.v1 	 F3. Access to health care services. Delayed seeing doctor 
+phv00111084.v2 	 F126 DVT based on hospital discharge summary 
+phv00120283.v2 	 DATE OF ADMISSION - 3RD HOSPITALIZATION. Q 1a 
+phv00117978.v2 	 HOSPITALIZATION 1, CODE 2 - MON 108 
+phv00003318.v1 	 HOSPITALIZATION 
+phv00117298.v2 	 CARE DAY   - 3RD HOSP 
+phv00117960.v2 	 HOSPITALIZATION 3, CODE 2 - MON 96 
+phv00002949.v1 	 INTERIM HISTORY OF HOSPITALIZATION 
+phv00021021.v4 	 HAVE YOU BEEN HOSPITALIZED FOR HEART FAILURE? 
+phv00117983.v2 	 HOSPITALIZATION 3, CODE 1 - MON 108 
+phv00117328.v2 	 EVENT DAY   - 6TH HOSP 
+phv00052560.v1 	 G65a Day hospital for mania, (African American participants). DIGS4 
+phv00117299.v2 	 DATE OF EVENT - 3RD HOSPITALIZATION. Q 1A 
+phv00001107.v1 	 HOSPITALIZED SINCE LAST EXAM FOR HYSTERECTOMY OR OOPHERECTOMY 
+phv00125372.v1 	 17b. Hospitalized for a blood clot in your lungs or pulmonary embolus at that time? 
+phv00008920.v3 	 CEREBROVASCULAR - NUMBER OF DAYS STAYED (IN HOSPITAL) 
+phv00119208.v2 	 ADMISSION ILLNESS - 6TH HOSPITALIZATION 
+phv00119178.v2 	 REASON FOR HOSPITALIZATION 3 - CODE 2. Q 1A 
+phv00051531.v1 	 C4b. Nature of event. Where was patient treated? Hospital in-patient ward 
+phv00120264.v2 	 REASON FOR HOSPITALIZATION 2 - CODE 3. Q 1a 
+phv00008380.v3 	 HOSPITALIZATION IN INTERIM 
+phv00117297.v2 	 CARE MONTH - 3RD HOSP 
+phv00125391.v1 	 22b. Were you hospitalized for this stroke, slight stroke? 
+phv00027088.v1 	 NON-MVA: major accident occurred (hospitalization) 
+phv00116426.v2 	 DATE (YY) OF HOSPITALIZATION - MON 72(B) 
+phv00017315.v1 	 E4. Hospitalizations. Have you ever been admitted to a hospital or day hospital because of problems with your mood, emotions, or how you were acting? (Participants with European ancestry). DIGS4 
+phv00015417.v1 	 G21.b. Sev Mania Day Hosp Days, (Participants with European ancestry). DIGS3 
+phv00117955.v2 	 HOSPITALIZATION 1, CODE 3 - MON 96 
+phv00120286.v2 	 DATE OF ADMISSION - 6TH HOSPITALIZATION. Q 1a 
+phv00020868.v4 	 HOSPITALIZATION (NOT JUST E.R.) 
+phv00109375.v1 	 OVERNIGHT PATIENT IN HOSP. OTHER REASON 
+phv00115176.v2 	 DATE (YY) OF HOSPITALIZATION - MON 48(A) 
+phv00027048.v1 	 Symptoms of hypoglycemia: injury to the patient requiring hospitalization 
+phv00119193.v2 	 REASON FOR HOSPITALIZATION 5 - CODE 1 
+phv00052395.v1 	 F75 Day hospitalizations, (African American participants). DIGS4 
+phv00125400.v1 	 28a. Hospitalization reason 
+phv00119205.v2 	 ADMISSION YEAR - 6TH HOSPITALIZATION 
+phv00117975.v2 	 HOSP PT OVERNIGHT IN PAST YR - MON 108 
+phv00125181.v1 	 37a. Hospitalization reason 
+phv00125343.v1 	 8e. Hospitalized for heart failure at that time? 
+phv00001101.v1 	 HOSPITALIZED SINCE LAST EXAM FOR BRONCHITIS 
+phv00120285.v2 	 DATE OF ADMISSION - 5TH HOSPITALIZATION. Q 1a 
+phv00111092.v2 	 F126 PE based on hospital discharge summary 
+phv00050904.v1 	 D3bb2. Hospitalization and other health care services used. Number of nights, nursing home stay 2 
+phv00023676.v6 	 (4.B) IF YES (TO HU35):  "REASON" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+phv00023672.v6 	 SINCE THE DATE OF YOUR LAST FRAMINGHAM HEART STUDY EXAM OR UPDATE (LHUDATE), HAVE YOU BEEN ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN FOR OTHER THAN A ROUTINE EXAMINATION? 
+phv00023689.v6 	 (4.I) IF YES (TO HU35): "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+phv00066180.v1 	 D1. Hospitalization and other health care services used. Deidentified date of admission (first date) 
+phv00050922.v1 	 D4i. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: eye photographs 
+phv00050910.v1 	 D4c. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: blood glucose 
+phv00066086.v1 	 D2a. Hospitalization and other health care services used. How many times in hospital emergency room? 
+phv00066091.v1 	 D3bb2. Hospitalization and other health care services used. During the past 12 months, were you a patient in a nursing home or convalescent facility? Number of nights 
+phv00051000.v1 	 D3. Hospitalization and other health care services used. Deidentified date of admission, nursing home stay 2 
+phv00001120.v1 	 UNDER MEDICAL CARE BUT NOT HOSPITALIZED SINCE LAST EXAM FOR EMPHYSEMA OR FIBROSIS 
+phv00006721.v1 	 IN THE PAST TWO YEARS, HAVE YOU BEEN VISITED BY A NURSING SERVICE, OR USED HOME, COMMUNITY, OR OUTPATIENT PROGRAMS? 
+phv00006383.v1 	 IN PAST TWO YEARS HAVE YOU BEEN VISITED BY A NURSING SERVICE, OR USED HOME, COMMUNITY, OR OUTPATIENT PROGRAMS - USED REHABILITATION SERVICES (SUCH AS PHYSICAL THERAPY, OCCUPATIONAL THERAPY, SPEECH THERAPY) IN THE PAST MONTH ONLY 
+phv00079904.v3 	 Referral made for follow-up 
+phv00010559.v3 	 REHABILITATION SERVICES (SUCH AS PHYSICAL THERAPY, OCCUPATIONAL THERAPY, SPEECH THERAPY) (PAST TWO YEARS) 

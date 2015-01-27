@@ -1,0 +1,209 @@
+Clinical Attribute CLUSTERS
+heartbeat
+	phv00055247.v2  	  TARGET HEART RATE - BPM 
+	phv00009015.v3  	  RIGHT DORSALIS PEDIS PULSE 
+	phv00083401.v1  	  HEART RATE 1ST READING 
+	phv00072703.v2  	  Heart rate of segment 180 to 210 
+	phv00004854.v1  	  POST TIBIAL PULSE - LEFT 
+	phv00086227.v2  	  HEART RATE, SEATED BP, MEAN OF 2ND AND 3RD READINGS 
+	phv00055222.v2  	  RECOVERY IMMEDIATE HEART RATE 
+	phv00096837.v1  	  HEART RATE (30 SECONDS)           Q8 
+	phv00117840.v2  	  GXT STAGE 3: HEART RATE 
+	phv00031461.v1  	  Feet: pulse dorsalis pedia - right 
+	phv00101754.v1  	  HEART RATE (60 SECONDS) 
+	phv00100247.v1  	  MINIMUM HEART RATE 
+	phv00086725.v2  	  HEART RATE 3RD READING 
+	phv00048557.v1  	  Q11a. Physical examination, peripheral pulse: grade of left popliteal pulse 
+	phv00048550.v1  	  Q11a. Physical examination, peripheral pulse: grade of right carotid pulse 
+	phv00024894.v1  	  AUTO BLOOD PRESSURE AND PULSE: DIASTOLIC (FIRST IF EVEN ID#) (MMHG) 
+	phv00085742.v2  	  SEATED PULSE PRESSURE (mmHg) 
+	phv00024782.v3  	  CAROTID-RADIAL PULSE WAVE VELOCITY (M/S)  (OLD NAME: MCRPWV) 
+	phv00004857.v1  	  DORASLIS PEDIS PULSE - RIGHT 
+===============
+blood pressure
+	phv00055247.v2  	  TARGET HEART RATE - BPM 
+	phv00066515.v1  	  Systolic blood pressure 
+	phv00055269.v2  	  Diastolic blood pressure > 120 (and not on BP meds)? 
+	phv00106790.v1  	  SECOND STANDARD SEATED DIASTOLIC 
+	phv00004548.v1  	  BLOOD PRESSURE: SYSTOLIC - 2ND MD READING 
+	phv00096792.v1  	  2ND AND 3RD DIASTOLIC BP AVERAGE  Q22 
+	phv00115342.v2  	  THIRD READING SBP. Q 17 
+	phv00056855.v1  	  Systolic pressure, second seated bp reading 
+	phv00031167.v1  	  Systolic blood pressure - standing - time 3 
+	phv00091512.v1  	  FIRST ARM SYSTOLIC BP 
+	phv00034541.v1  	  2/3 DBP(diastolic blood pressure) + 1/3 SBP (systolic blood pressure) 
+	phv00124563.v1  	  8: First right posterior tibial BP (mm Hg) 
+	phv00116232.v2  	  SYSTOLIC Y-TUBED BP -2ND READING 
+	phv00086227.v2  	  HEART RATE, SEATED BP, MEAN OF 2ND AND 3RD READINGS 
+	phv00008184.v3  	  SYSTOLIC-0, 1.7/0 
+	phv00006251.v1  	  DIASTOLIC BLOOD PRESSURE-2ND EXAMINER (FIRST READING) TO NEAREST 2 MM HG 
+	phv00129501.v2  	  Taking high blood pressure medication now [at Exam 2]? 
+	phv00096819.v1  	  3RD SYSTOLIC BP MEASUREMENT       Q18 
+	phv00116566.v2  	  THIRD READING DBP. Q 17 
+	phv00168553.v1  	  Is there a history of hypertension (high blood pressure) prior to this event? 
+	phv00164583.v1  	  Systolic blood pressure at baseline (avg. of 2 measurements), in mm Hg 
+	phv00001374.v1  	  BLOOD PRESSURE, SYSTOLIC, SECOND READING TAKEN BY PHYSICIAN (MM HG) 
+	phv00103426.v1  	  TOLD BY MD YOU HAD HIGH BLOOD PRESSURE 
+	phv00125871.v1  	  9a: Sphygmomanometer (SBP) 
+	phv00082670.v1  	  LEFT BRACHIAL BP (mmHg) 
+	phv00034420.v1  	  Second blood pressure reading exceeds upper limits 
+	phv00128370.v1  	  13: Systolic (first BP) 
+	phv00119703.v2  	  FIRST READING SBP. Q 11 
+	phv00114037.v2  	  GXT STAGE 8: SBP 
+	phv00007572.v3  	  NURSE SYSTOLIC BLOOD PRESSURE 
+	phv00001567.v1  	  BLOOD PRESSURE, SYSTOLIC, TAKEN BY NURSE 
+	phv00171777.v1  	  Diastolic blood pressure at the third study visit 
+	phv00079865.v3  	  Diastolic BP 
+	phv00024479.v3  	  BRACHIAL SYSTOLIC PRESSURE (MMHG)(FROM TONOMETRY DATA) 
+	phv00027554.v1  	  Diastolic blood pressure (mmhg): quarterly visit 32 
+	phv00107755.v1  	  FIRST STANDARD SEATED SYSTOLIC 
+	phv00119705.v2  	  RZ1 SBP. Q 12 
+	phv00056856.v1  	  Diastolic pressure, second seated bp reading 
+	phv00173313.v1  	  Systolic blood pressure 
+	phv00051715.v1  	  DIASTOLIC BLOOD PRESSURE mmHg EXAM 1 
+	phv00024375.v4  	  CUFF INFLATION PRESSURE (BASELINE SBP + 50 OR 250) 
+	phv00117846.v2  	  GXT STAGE 4: DBP 
+	phv00118279.v2  	  RZ1 DBP. Q 12 
+	phv00085738.v2  	  SEATED BP: DIASTOLIC 3RD READING (mmHg) 
+	phv00171772.v1  	  Age of the participant at the most recent study visit for which we have Systolic blood pressure 
+	phv00005934.v1  	  SYSTOLIC BLOOD PRESSURE - NURSE 
+	phv00116241.v2  	  DIASTOLIC Y-TUBED BP 4TH READING 
+	phv00099363.v1  	  SECOND SYSTOLIC READING 
+	phv00110266.v1  	  PALPATED SYSTOLIC 
+	phv00002675.v1  	  BLOOD PRESSURE, SYSTOLIC, FIRST TAKEN BY PHYSICIAN (MM HG) 
+	phv00087041.v2  	  SEATED BP: DIASTOLIC 2ND READING (mmhg) 
+	phv00085708.v2  	  SYSTOLIC BLOOD PRESSURE (FROM WAVEFORM ANALYSIS), (mmHg) 
+	phv00114017.v2  	  GXT STAGE 3: SBP 
+	phv00021092.v4  	  SYSTOLIC BLOOD PRESSURE: PHYSICIAN'S FIRST READING (TO NEAREST 2MM HG) 
+	phv00098089.v1  	  DIASTOLIC BP 2 
+	phv00002028.v1  	  BLOOD PRESSURE, SYSTOLIC, SECOND READING TAKEN BY PHYSICIAN 
+	phv00086238.v2  	  ROOM TEMPERATURE (FAHRENHEIT), SEATED BP 
+	phv00165346.v1  	  Systolic blood pressure at baseline (avg. of 2 measurements), in mm Hg 
+	phv00008305.v3  	  SYSTOLIC - 3 MIN. 
+	phv00024820.v4  	  SYSTOLIC PRESSURE-TIME INTEGRAL (MMHG/SEC) 
+	phv00024894.v1  	  AUTO BLOOD PRESSURE AND PULSE: DIASTOLIC (FIRST IF EVEN ID#) (MMHG) 
+	phv00122647.v1  	  Mean systolic - two readings 
+	phv00104054.v1  	  TREATED FOR HIGH BP SINCE LAST YEAR 
+	phv00070502.v1  	  BP CUFF SIZE - 2ND BP READING 
+	phv00128377.v1  	  20: Diastolic (computed net average) 
+	phv00053994.v2  	  HISTORY OF HIGH BLOOD PRESSURE (ALL PARTICIPANTS) 
+===============
+body mass index
+	phv00079575.v3  	  Lost weight due to depression 
+	phv00096649.v1  	  WEIGHT FOR RBIART45 
+	phv00090819.v1  	  Patient's maximum weight at adult height 
+	phv00117231.v2  	  SUBJECT'S WEIGHT (LBS). Q 2a 
+	phv00031025.v1  	  CBL9: Renal test - 18: patient's weight in kg 
+	phv00027817.v1  	  Major weight gain: quarterly visit 08 
+	phv00163953.v1  	  Weight in kg. at baseline 
+	phv00118595.v2  	  PREG 3-WEIGHT GAIN (LBS). Q 45c 
+	phv00171737.v1  	  Year of the most recent study visit for which we have Body mass index 
+	phv00028540.v1  	  CBL7: 24-hr urine: weight 
+	phv00124506.v1  	  Weight 
+	phv00025688.v1  	  Desired weight 
+	phv00085249.v2  	  WEIGHT AT AGE 20 (LBS) 
+	phv00079411.v3  	  Max weight (age 40-49) 
+	phv00001563.v1  	  BODY WEIGHT (TO NEAREST POUND) 
+	phv00099468.v1  	  BODY MASS INDEX 
+	phv00034641.v1  	  Did you gain or lose weight without trying, or did you stay about the same weight? 
+	phv00051809.v1  	  WEIGHT IN POUNDS EXAM 5 
+	phv00034422.v1  	  Patient's weight is > 130% ideal body weight 
+	phv00096673.v1  	  Weight for RIN: < 1 implies Imputed 
+	phv00085807.v2  	  WEIGHT, PROTOCOL MODIFICATION? 
+	phv00082611.v1  	  Weight 
+	phv00022913.v1  	  Participant's weight in pounds 
+	phv00065504.v1  	  Bone mineral density at lumbar spine (L2-L4); residual from regression on weight, baseline age 
+	phv00021623.v3  	  YOUR ESTIMATED WEIGHT AT AGE 18, IN POUNDS 
+	phv00027827.v1  	  Overweight (National Health and Nutrition Examination Survey [NHANES] definition): baseline 
+	phv00079567.v3  	  Lost weight by increasing exercise 
+	phv00012045.v1  	  F6b. Did you have a loss of appetite or did your appetite greatly increase? IF YES: what was your weight before the loss/gain? CURRENT EPISODE (PAST MONTH) (POUNDS). (Participants with European ancestry). DIGS2 
+	phv00096525.v1  	  WEIGHT FOR RINART45 
+	phv00102772.v1  	  EXERCISE MAJOR FACTOR IN WEIGHT CHANGE 
+	phv00098473.v1  	  Baby's mean birth weight 
+	phv00003244.v1  	  WEIGHT (TO NEAREST POUND) 
+	phv00034789.v1  	  Please enter below your current weight in pounds 
+	phv00109452.v1  	  DIET MAJOR FACTOR IN WEIGHT CHANGE 
+===============
+===============
+===============
+diameter
+	phv00161271.v1  	  Inner diameter of largest airway in lower third of lung 
+	phv00002405.v1  	  TRANS-CARDIAC DIAMETER 
+	phv00123772.v1  	  BracReac: Percent Change diameter 
+	phv00118171.v2  	  LV DIAMETER (SD) - DIASTOLE 
+	phv00097677.v1  	  AVG ARTERY DIAMETER(RT BIF) 
+	phv00161272.v1  	  Wall thickness (outer diameter - inner diameter) of largest airway in lower third of lung 
+	phv00160595.v1  	  Area of wall as a percent of area of airway (from outer diameter) 
+	phv00064696.v2  	  AORTIC HORIZONTAL DIAMETER SLICE 21, MM 
+	phv00167222.v1  	  2-D MEASUREMENT  Short Axis Left Ventricular Mean Internal Diameter systole - standard deviation (TwoD_SAX_LVIDmns_std) 
+	phv00076342.v3  	  The antero-posterior diameter of the abdominal aorta 5 cm above the aorto-common iliac bifurcation. 
+	phv00024404.v4  	  BASELINE BRACHIAL ARTERY DIAMETER CAUTION: MAY CONTAIN BASELINE VALUES WHERE BRACHIAL=0 MM 
+===============
+pain
+	phv00168753.v1  	  How long ago did you start getting this pain? 
+	phv00099060.v1  	  DO YOU GET PAIN IN EITHER LEG ON WALKING 
+	phv00049171.v1  	  J2. Verification of event, chest pain: if patient has complained of pain 
+	phv00005468.v1  	  ARTHRITIS C - IF YES (TO FO645), PLEASE POINT TO THE CIRCLE WHERE YOU HAVE PAIN, ACHING OR STIFFNESS ON MOST DAYS (SHOW PICTURE): RIGHT WRIST 
+	phv00107083.v1  	  WHAT DO YOU DO IF FEEL PAIN WALKING 
+	phv00107972.v1  	  PAIN INCREASE IN SEVERITY PAST 2 WEEKS 
+	phv00110075.v1  	  HAD PAIN IN SHOULDERS 
+	phv00107081.v1  	  FEEL PAIN AT ORDINARY PACE ON LEVEL 
+	phv00086902.v2  	  PAIN OCCURS IN WHAT PORTION OF LEG 
+	phv00107105.v1  	  HAD PAIN IN BACK 
+	phv00087192.v1  	  PAIN BEGINS STANDING STILL OR SITTING 
+	phv00011828.v1  	  D3k. Who did you see about this pain? What did they say you had? Other pain (excluding headaches) , specify. What told. (Participants with European ancestry). DIGS2 
+	phv00168535.v1  	  Was there an acute episode(s) of pain or discomfort anywhere in the chest, left arm or shoulder or jaw either just before death or within 72 hours of death? 
+	phv00049190.v1  	  J2e. Verification of event, chest pain: were any diagnostic tests performed on this patient? 
+	phv00049175.v1  	  J2a1d. Verification of event, chest pain: complained of pain in sternum upper or middle 
+	phv00106099.v1  	  PAIN IN OTHER BONES, JOINTS, SPECIFY 
+	phv00107803.v1  	  WAKE UP WITH CHEST TIGHTNESS OR PAIN 
+	phv00099049.v1  	  PAIN IN LEFT ARM 
+	phv00091117.v3  	  Number of Pain Episodes over 14 day period (Diary A) 
+	phv00094795.v1  	  CHEST PAIN IN LFT ANTERIOR CHEST? Q10C 
+	phv00083046.v1  	  LEG PAIN IF WALK AT ORDINARY PACE ON THE LEVEL 
+	phv00127716.v1  	  40: Pain when walking uphill or hurry? 
+	phv00025913.v1  	  Vascular complications: chest pain 
+	phv00056573.v3  	  Raw SF36 - Bodily Pain Index (0-100) 
+	phv00090556.v2  	  Participant has had pain or burning during urination in the last week 
+	phv00102728.v1  	  HAD PAIN IN HIPS 
+	phv00005485.v1  	  ARTHRITIS C - IF YES (TO FO645), PLEASE POINT TO THE CIRCLE WHERE YOU HAVE PAIN, ACHING OR STIFFNESS ON MOST DAYS (SHOW PICTURE): RIGHT HAND RING MID 
+	phv00105996.v1  	  NUMBER OF TIMES HAD PAIN IN PAST 2 WKS 
+	phv00051053.v1  	  C1bii. Pain involve: the shoulder 
+	phv00051057.v1  	  C2b. Non-cardiac cause for the pain 
+	phv00107063.v1  	  SEVERE PAIN ACROSS FRONT OF CHEST 
+	phv00097273.v1  	  PARALYSIS:PAIN IN WEAK ARM/LEG/FACE Q39H 
+	phv00095196.v1  	  WALKING LEG PAIN MED PAST 2 WKS?  Q24I 
+	phv00049184.v1  	  J2c. Verification of event, chest pain: feeling of press. or heaviness in chest 
+	phv00005438.v1  	  ARTHRITIS A - HANDS - ON MOST DAYS DO YOU HAVE PAIN, ACHING OR STIFFNESS IN THE JOINTS OF YOUR HANDS OR WRISTS? 
+	phv00107974.v1  	  SEVERE PAIN ACROSS FRONT OF CHEST 
+	phv00095757.v1  	  LOCATION OF PAIN                  Q2 
+	phv00108637.v1  	  IF YOU STAND STILL, WHAT HAPPENS TO PAIN 
+	phv00124742.v1  	  1a. Chest pain or angina 
+	phv00110072.v1  	  HAD PAIN IN HIPS 
+===============
+visual acuity
+	phv00049772.v1  	  C1. Visual acuity measurements: distance between patient and chart (m) 
+	phv00049690.v1  	  C4. Visual acuity measurements. Letters correct at one meter distance, 20/40, left eye 
+	phv00055115.v2  	  BEST CORRECTED VISUAL ACUITY (AFTER REFRACTION), O.S.  SECOND PART OF FORMULA: OS_BCVA1/OS_BCVA2 + OS_BCVA3, FINGER COUNTING = 9/400+0, HAND MOTION = 8/400+0, LIGHT PERCEPTION = 7/400+0, NO LIGHT PERCEPTION = 2/400+0 
+	phv00049633.v1  	  C2. Visual acuity measurements. Letters correct at four meters distance, 20/80, right eye 
+	phv00055042.v1  	  BEST CORRECTED VISUAL ACUITY (AFTER REFRACTION), O.D. FIRST PART OF FORMULA: BESTVAR1/BESTVAR2 + BESTVAR3, FINGER COUNTING = 9/400+0, HAND MOTION = 8/400+0, LIGHT PERCEPTION = 7/400+0, NO LIGHT PERCEPTION = 2/400+0 
+	phv00055031.v1  	  VISUAL ACUITY WITH "WALK-IN" CORRECTION, BY REFRACTOMETER IF POSSIBLE THIRD PART OF FORMULA: VA_OS1/VA_OS2 + VA_0S3, FINGER COUNTING = 9/400+0, HAND MOTION = 8/400+0, LIGHT PERCEPTION = 7/400+0, NO LIGHT PERCEPTION = 2/400+0 
+===============
+height
+	phv00090819.v1  	  Patient's maximum weight at adult height 
+	phv00073446.v1  	  Height 
+	phv00124505.v1  	  Height 
+	phv00092573.v1  	  STANDING HEIGHT TO NEAREST CM     Q1 
+	phv00090799.v1  	  Height b - cm 
+	phv00073447.v1  	  Height - units 
+	phv00002023.v1  	  HEIGHT, TO NEXT LOWER QUARTER INCH 
+	phv00090804.v1  	  Height d (Average) - inches 
+	phv00129528.v2  	  Subject's height standing [in CM] at Exam 4 
+	phv00020422.v1  	  (Inches): please enter your current height in feet and inches 
+	phv00025690.v1  	  Current height 
+===============
+waist circumference
+	phv00171754.v1  	  Age of the participant at the most recent study visit for which we have Waist circumference 
+	phv00090521.v2  	  Waist circumference of participant at first collection 
+	phv00048927.v1  	  Q4d. Physical examination, waist circumference (cm) -natural: 4th measurement 
+===============

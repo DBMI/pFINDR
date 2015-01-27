@@ -1,0 +1,74 @@
+RESPIRATORY: HOW MANY YEARS HAVE YOU SMOKED/DID YOU SMOKE?
+IF NO LONGER SMOKE, WHEN QUIT
+HOW MANY DID YOU SMOKE PER DAY ON AVER (99=UNKNOWN)
+SMOKE DURING THE PAST HOUR
+SMOKING STATUS
+SMOKE AMOUNT
+INTERIM HISTORY OF SMOKING: SMOKES PIPE
+INTERIM HISTORY OF SMOKING: SMOKES PIPE
+SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE
+SMOKING HISTORY: DOES PATIENT NOW SMOKE A PIPE
+DOES PATIENT NOW SMOKE A PIPE
+DOES PATIENT NOW SMOKE A PIPE
+IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?
+IF EVER SMOKED PIPES REGULARLY: HAVE YOU SMOKED A PIPE REGULARLY IN THE LAST YEAR?
+IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?
+IF EVER SMOKED PIPES REGULARLY: DO YOU NOW SMOKE A PIPE (AS OF 1 MONTH AGO)?
+RECODED PIPE SMK STAT OF EXAM 1
+RECODED PIPE SMK STAT OF EXAM 1
+Tolerance to nicotine
+Withdrawal from nicotine
+DSM4 nicotine dependence
+Age onset of DSM4 nicotine dependence
+NICOTINE PATCH: EVER USED Q12E
+Total Overall Score on the Nicotine Dependence Syndrome (NDSS) Scale
+HOSPITALIZED FOR MI
+INTERIM HISTORY OF HOSPITALIZATION
+REASON FOR SECOND HOSPITAL STAY
+LENGTH OF SECOND HOSPITAL STAY (DAYS)
+10. Have you stayed (did [name] stay) overnight as a patient in a hospital ?
+37a. Hospitalization reason
+E.R. VISIT IN INTERIM
+ILLINESS AND/OR DOCTOR VISIT
+E.R. VISIT EVER
+E.R. VISIT SINCE YOUR LAST EXAM
+5: Last doctor visit for rt. physical
+Health Care: Since your last exam or medical history update: E.R. Visits
+E1. Setting of usual health care. Where you most often receive medical care
+O1b Attempts with medical care, (African American participants). DIGS4
+WHERE DO YOU GO FOR MEDICAL CARE
+MEDICAL CARE
+SOURCE OF MEDICAL CARE. Q 13A
+MINUTES FROM HOME TO MEDICAL CARE
+LEAD III, Q WAVE VOLTAGE
+DIAGNOSTIC Q-WAVE PRESENT
+Minor Q-wave w S or ST & no 711/74
+Q Wave Amplitude, Lead AVL (uV)
+Q Wave Area, Lead V6 (uVmSec)
+Q-wave pattern: Posterior
+ECG: NON-SPECIFIC T-WAVE, EXAM 3
+ECG: NONSPECIFIC T-WAVE ABNORMALITY
+ECG: U-WAVE
+E. Are ECG tracings attached?
+P-R interval (visit 1) [electrocardiography related variable]
+Q-T interval (visit 1) [electrocardiography related variable]
+B4c. Have you ever had any of the following tests: head MRI? (Participants with European ancestry). DIGS2
+B 4c. Head MRI Reason & Results, (Participants with European ancestry). DIGS3
+B5c MRI, (African American participants). DIGS4
+Hippocampal Volume, 1st MRI
+Lateral Ventricular Volume, 1st MRI
+Parietal Brain Volume, 1st MRI
+EVER RECEIVED BLOOD TRANSFUSION Q11
+REASON FOR FIRST TRANSFUSION Q14
+HOW MANY TIMES BLOOD TRANSFUSION Q12
+Received Blood Transfusion In Another Country
+Have you received the HPV vaccination (gardasil, Cervarix)
+Did the patient receive a flu vaccine this past year?
+Did the patient receive H1N1 vaccine this year?
+Have you been immunized (received a vaccine shot) in the last month?
+HISTORY OF CORONARY BYPASS SURGERY
+CORONARY BYPASS SURGERY
+CORONARY BYPASS SURGERY - INTERIM
+CORONARY BYPASS SURGERY SEE NOTE BELOW
+Coronary bypass surgery ever
+Have you ever had any of the following? Coronary (or heart) bypass surgery

@@ -1,0 +1,82 @@
+SMOKING CLUSTERS
+start
+	phv00035228.v1  	  During this time when you smoked the most, how soon after waking did you smoke your first cigarette? (Participants with European ancestry) 
+	phv00080505.v1  	  Age 1st regularly smoked cigarettes (visit 1) 
+	phv00083579.v1  	  HOURS BEFORE 1ST CIGARETTE 
+	phv00094520.v1  	  AGE 1ST REGULARLY SMOKED CIGARETS Q29 
+===============
+stop
+	phv00054544.v1  	  (Months): how long has it been since you quit smoking? Years and months. (African American participants) 
+	phv00078778.v3  	  Quit smoking because of health problems 
+	phv00080703.v1  	  When smoked last cigarette (visit 2) 
+	phv00087261.v1  	  AGE QUIT SMOKING CIGARS 
+	phv00092589.v1  	  WHEN DID YOU SMOKE LAST CIGARETTE    Q9 
+	phv00114103.v2  	  TIME SUBJECT LAST SMOKED. Q 1 
+	phv00116542.v2  	  DATE SUBJECT LAST SMOKED. Q 1 
+	phv00118758.v2  	  HOW INTERESTED IN QUITTING SMOKING. Q 2.08 
+===============
+amount
+	phv00000781.v1  	  HISTORY OF SMOKING: NUMBER OF CIGARETTES/DAY SMOKED NOW, EXAM 5 
+	phv00000782.v1  	  HISTORY OF SMOKING: NUMBER OF PIPES/DAY SMOKED NOW, EXAM 5 
+	phv00001841.v1  	  INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+	phv00002058.v1  	  INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: CIGARS/DAY 
+	phv00002061.v1  	  CIGARETTE SMOKING ONLY: STOPPED SMOKING CIGARETTES FOR LAST YEAR OR LONGER 
+	phv00002241.v1  	  INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+	phv00002462.v1  	  INTERIM HISTORY OF SMOKING: AMOUNT SMOKED: PIPES/DAY 
+	phv00002981.v1  	  SMOKING HISTORY: EVER SMOKED CIGARETTES REGULARLY 
+	phv00008863.v3  	  HOW MANY CIGARETTES DO/DID YOU SMOKE PER DAY 
+	phv00010259.v3  	  SMOKED CIGARETTES REGULARLY IN LAST YEAR 
+	phv00010666.v3  	  RESPIRATORY: HAVE YOU EVER SMOKED CIGARETTES FOR AS LONG AS A YEAR? 
+	phv00011752.v1  	  B7a. Have you ever smoked cigarettes on a daily basis? IF YES: are you currently smoking? IF YES AND EVER A CIGARETTE SMOKER: estimate number of pack-years Record: #YRS. (Participants with European ancestry). DIGS2 
+	phv00015788.v1  	  J2.a.1. # of Years Smoked, (Participants with European ancestry). DIGS3 
+	phv00018297.v1  	  J9.  Chain smoke.  (Participants with European ancestry). DIGS4 
+	phv00020937.v4  	  IF EVER SMOKED PIPES REGULARLY: HOW MUCH PIPE TOBACCO DO YOU SMOKE PER DAY NOW? (OZ. PER WEEK) 
+	phv00025724.v1  	  Patient smoked cigarettes/cigarillos in past year 
+	phv00034783.v1  	  How many cigarettes do you smoke in a typical day? 
+	phv00035227.v1  	  How many cigarettes did you smoke on a typical day? (Participants with European ancestry) 
+	phv00035234.v1  	  How many cigarettes do you smoke in a typical day? (Participants with European ancestry) 
+	phv00053865.v2  	  HOW MANY CIGARETTES A DAY SMOKE (ALL PARTICIPANTS) 
+	phv00053992.v2  	  HOW MANY CIGARETTES PER DAY SMOKE (ALL PARTICIPANTS) 
+	phv00054533.v1  	  How many cigarettes have you smoked in your lifetime? (African American participants) 
+	phv00054544.v1  	  (Months): how long has it been since you quit smoking? Years and months. (African American participants) 
+	phv00055315.v2  	  Have you ever smoked cigarettes ('ever' = at least 20 packs in lifetime)? 
+	phv00065622.v1  	  C1. Smoking status: smoke cigarettes/cigars in past year 
+	phv00066377.v1  	  Has participant ever smoked cigarettes daily for a month or more? 
+	phv00071636.v1  	  How many cigarettes did you smoke on a typical day? 
+	phv00071830.v1  	  Pack-years Exposure to Cigarettes 
+	phv00072092.v2  	  ON AVERAGE, SINCE YOUR LAST EXAM, HOW MANY CIGARETTES DID YOU SMOKE PER DAY? 
+	phv00080505.v1  	  Age 1st regularly smoked cigarettes (visit 1) 
+	phv00080506.v1  	  Overall number of cigarettes per day (visit 1) 
+	phv00080692.v1  	  Number of cigarettes per day (visit 1) 
+	phv00080726.v1  	  Cigarettes smoked per day now (visit 4) 
+	phv00083252.v1  	  CIGARS: SMOKED IN LAST 30 DAYS 
+	phv00083788.v2  	  HOW MANY YEARS WITH ADULT SMOKER 
+	phv00085596.v2  	  EXPOSURE TO SECOND-HAND SMOKE, HOURS PER WEEK 
+	phv00086113.v2  	  PIPE:  SMOKED IN LAST 30 DAYS 
+	phv00086115.v2  	  CHEWED TOBACCO:  USED IN LAST 30 DAYS 
+	phv00087083.v1  	  PACK-YEARS OF CIGARETTE SMOKING 
+	phv00087254.v1  	  SMOKED CIGARETTES IN THE LAST 30 DAYS 
+	phv00087842.v1  	  CIGAR-YEARS OF EXAM 1 
+	phv00087843.v1  	  CIGAR-YEARS OF SPIROMETRY EXAM 
+	phv00092678.v1  	  CIGARETTE YEARS OF SMOKING 
+	phv00094520.v1  	  AGE 1ST REGULARLY SMOKED CIGARETS Q29 
+	phv00100341.v1  	  CIGS SMOKED/DAY 
+	phv00100373.v1  	  SMOKE AMOUNT 
+	phv00105890.v1  	  SMOKE AMOUNT 
+	phv00108098.v1  	  LIVE WITH REGULAR SMOKER 
+	phv00108730.v1  	  SMOKED CIGARETTES DURING LAST 30 DAYS 
+	phv00109463.v1  	  NUMBER CIGARETTES SMOKED PER DAY 
+	phv00110129.v1  	  SMOKED CIGARETTES DURING LAST 30 DAYS 
+	phv00111939.v1  	  For current smokers, the average number of packs smoked per day (1 pack=20 cigarettes) 
+	phv00113221.v2  	  HRS/WK PT IS EXPOSED TO SMOKE IN SM AREA. Q 10 
+	phv00114548.v2  	  HOW OFTEN SMOKE INHALED? Q 2.08 
+	phv00114554.v2  	  PIPEFULS, # SMOKED/WEEK. Q 4.02 
+	phv00117531.v2  	  CIGARETTES, # SMOKED/DAY. Q 2.03 
+	phv00120074.v2  	  HRS/WK EXPOSED TO SMOKE IN HOME. Q 10 
+	phv00120700.v2  	  NUMBER OF CIGARETTES 
+	phv00121175.v2  	  Lifetime pack-years of cigarettes smoked @year 2 
+	phv00123026.v1  	  Smoking: Years smoked 
+	phv00142516.v1  	  NHS/HPFS: Cigarette smoking (pack years) as of index date. For NHS/HPFS only. 
+	phv00162832.v1  	  Using tobacco in larger amounts or over longer period than intended 
+===============
+===============

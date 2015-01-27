@@ -1,0 +1,11 @@
+Variable ID	Variable Description
+phv00071681.v1.p1	First, please check all the ethnic backgrounds that apply to your paternal grandfather (that is, your father's father). East European, Slavic
+phv00071692.v1.p1	First, please check all the ethnic backgrounds that apply to your paternal grandfather (that is, your father's father). African American, not of Hispanic Origin
+phv00078677.v4.p3	Age natural mother died
+phv00091423.v1.p1	AGE FIRST DIAGNOSED - BROTHER Q29N
+phv00094557.v1.p1	AGE OF NATURAL FATHER Q25
+phv00023691.v7.p8	WHAT IS YOUR CURRENT MARITAL STATUS? CHECK ONE - MARRIED
+phv00072531.v3.p8	WHICH OF THE FOLLOWING BEST DESCRIBES YOU - RACE AFRICAN AMERICAN OR BLACK
+phv00161302.v2.p2	European ancestry
+phv00164567.v2.p8	Age in years at baseline
+phv00201613.v1.p1	Subject age when sample collected

@@ -1,0 +1,2001 @@
+PhenID:::PhenDescription
+phv00124017.v1 ::: STAR  D-Dimer AM  (ug/mL) 
+phv00154661.v2 ::: F061. Breath shortness 
+phv00024370.v3 ::: DATE SAMPLE OBTAINED - NUMBER OF DAYS SINCE EXAM 1 
+phv00113492.v2 :::" FOR HELP WHEN SICK, FRIEND. Q 3 "
+phv00025530.v1 ::: Object assembly: age-corrected scaled score (quarterly visit 36) 
+phv00079379.v3 ::: Ever used powder on a sanitary napkin 
+phv00106544.v1 ::: OBSOLETE VARIABLE - N0W NTCA06 
+phv00004146.v1 ::: # MONTHS - STAYED IN HOUSE ALL OR MOST OF TIME 
+phv00126174.v1 ::: Alcohol (g) 
+phv00127563.v1 ::: 25n: Help scientists more than your people 
+phv00112543.v2 ::: PARENTS LIVE WITH YOU. Q 15a 
+phv00083199.v1 ::: SEE OTHER PEOPLE EXERCISE IN NEIGHBORHOOD 
+phv00028419.v1 ::: Event rate while on standard 
+phv00142709.v3 ::: BOTH LUNGS: NUMBER VOXELS BELOW OR EQUAL TO -810 HOUNSFIELD UNITS 
+phv00168679.v1 ::: Date of death 
+phv00174496.v1 ::: Use of subject's samples 
+phv00011668.v1 ::: B3c3. Have you had any of the following conditions: ulcers or other bowel diseases? If yes: ulcerative colitis. (Participants with European ancestry). DIGS2 
+phv00077439.v3 ::: Minor ventricular conduction aberrations 
+phv00080824.v1 ::: CURRENT TREATMENT FOR DIABETES EXAM 7 
+phv00054815.v1 :::" DEFINITIVE EXAM: CATARACT SUSPECTS: LENS EXAMINATION, O.D., BLANK = DOES NOT MEET REFERRAL CRITERIA FOR CATARACT (1036) "
+phv00022696.v3 ::: FORCED EXPIRATORY FLOW AT 50% OF FVC (LIT./SEC.) - BEST EFFORT 
+phv00015477.v1 :::" G44. Oth Mania Delusions, (Participants with European ancestry). DIGS3 "
+phv00170776.v1 ::: Specimen Draw Visit Year 
+phv00044686.v1 ::: What is your birth year?  - Note: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00026899.v1 :::" HDL cholesterol (serum, mg/dl, form 023c) "
+phv00011775.v1 :::" C5c. Now I am going to ask you to perform some quick tasks. Language. Ask the subject to follow a three- stage command. (E.g., Take a paper in your right hand, fold it in half, and put it on the floor.) Score three points. MAXIMUM SCORE=3; SUBJECT SCORE. (Participants with European ancestry). DIGS2 "
+phv00167114.v2 ::: LV (Left Ventricular) REGIONAL WMA (Wall Motion Abnormality): Anterior 
+phv00003299.v1 ::: NEGOTIATING ONE FLIGHT OF STAIRS 
+phv00121622.v2 ::: SAH BASED ON SACCULAR ANEURISM AND LUMBAR PUNCTURE NOT DONE 
+phv00023866.v2 :::" Femoral trochanteric BMD, Exam 24 "
+phv00173822.v1 ::: Status at last follow-up 
+phv00003044.v1 ::: CVA SINCE LAST EXAM: LOSS OF VISION 
+phv00018599.v1 ::: K27.  Olfactory.  (Participants with European ancestry). DIGS4 
+phv00160955.v1 :::" R' Intrisicoid (Time from Q Onset to Peak of R'), Lead V4 (mSec) "
+phv00121144.v2 ::: RACE DISCRIMINATED AT WORK? Q 4d 
+phv00050013.v1 ::: A5b. Date of event uncertain 
+phv00122987.v1 ::: Reason for death 6 (icd9code) 
+phv00118026.v2 ::: CALCIFICATION USING 5-PIXEL CUTPOINT 
+phv00030274.v1 :::" Any occurrence of persistent nephropathy level 2 (0=no,1=yes) "
+phv00143469.v3 ::: RIGHT LUNG: AVERAGE PIXEL VALUES WITHIN LUNG REGION (HU) 
+phv00143021.v3 :::" LEFT LUNG, LOWER CORE: VARIANCE OF PIXEL VALUES WITHIN LUNG REGION "
+phv00127366.v1 ::: T_xAVF - T-+ in lead AVF 
+phv00026546.v1 ::: Gastroparesis: vomiting 
+phv00016000.v1 :::" J46.k. Misc W/D Muscle Aches, (Participants with European ancestry). DIGS3 "
+phv00052694.v1 :::" J33c Longest daily use, (African American participants). DIGS4 "
+phv00104475.v1 ::: TODAY'S DATE MONTH 3MSE Score Component 
+phv00025138.v1 ::: Finger tapping -  dominant/non-dominant hand - summary mean rates (quarterly visit 00) 
+phv00013441.v1 :::" K9. Have you ever had any religious beliefs or experiences that other people didn't share? (If yes, tell me about that). Alcohol. (Participants with European ancestry). DIGS2 "
+phv00165492.v1 ::: Total Primary Filled Surfaces. 
+phv00053481.v1 :::" B6 Duration (row 0), (African American participants). DIGS4 "
+phv00127157.v1 :::" M9X3 - Low QRS amplitude (93X codes, the preceding 9 and 3 are not shown when a code is present) "
+phv00005883.v1 :::" ECG: LEFT VENTRICULAR HYPERTROPHY CRITERIA R OR S>=30MM, (R IN V5 OR V6) OR (S IN V1 OR V2) "
+phv00031146.v1 ::: RR variation x 1000 
+phv00144349.v3 :::" RIGHT LUNG, CORE 850: DEFINITION OF HIGHEST NON-HOLE HOUNSFIELD UNIT VALUE "
+phv00091206.v2 ::: Year of diagnosis of non-GI lymphoproliferative disorder 
+phv00051129.v1 ::: C5. Diagnostic tests performed. Result of test 2 
+phv00057382.v1 ::: Average desaturation in NREM (Other position) 3% desaturation or arousal 
+phv00057265.v1 ::: Minimum SaO2 in NREM (Back position) 2% desaturation or arousal 
+phv00158578.v1 ::: Failed skin scrn 
+phv00100485.v1 ::: New cohort k44 adjusted for drift (mMol/--incomplete) 
+phv00169388.v1 ::: Duration of smoking [yrs] 
+phv00115012.v2 ::: TIMES DUI PAST 4 WEEKS. Q 4 
+phv00118162.v2 ::: POST WALL THICK - SYSTOLE - 1 
+phv00000899.v1 :::" MOTHER LIVING, EXAM 6 "
+phv00031487.v1 ::: Elbow - wrist: latency (msec) 
+phv00051012.v1 ::: C1bii. Pain involve: the shoulder 
+phv00034702.v1 ::: Have you ever been very upset with yourself for having any of these fears (unreasonable strong fears)? 
+phv00065822.v1 ::: L11. Ophthalmic complication: will be sent to ophthalmologist special visit 
+phv00078627.v3 ::: How many tubal pregnancies 
+phv00118410.v2 ::: TIME PULMONARY FUNCTION TEST COMPLETED. Q 20 
+phv00123171.v1 ::: 73 Thyroid medicines in last yr (L) 
+phv00161033.v1 :::" S' Wave Area, Lead I (uVmSec) "
+phv00030100.v1 ::: Patient's age (years) at baseline 
+phv00085741.v2 ::: SEATED DIASTOLIC BLOOD PRESSURE (mmHg) 
+phv00118346.v2 ::: PAY OUT OF POCKET. Q 15B 
+phv00104280.v1 ::: HIGH FIBER 
+phv00156515.v2 :::" Dietary Trans Fatty Acid, 182T (g) "
+phv00072081.v2 ::: NAME OF MOST RECENT PROGESTERONE PREPARATION 
+phv00003232.v1 ::: NON-CARDIOVASCULAR DIAGNOSIS: URINARY TRACT DISEASE 
+phv00141963.v2 :::" Area 19: Subcortical Deep White Matter: Senile Plaques (neuritic), right "
+phv00120752.v2 ::: URINARY NOREPINEPHRINE (pmol/ml) 
+phv00014953.v1 :::" D9.c. Gas - Impair Code, (Participants with European ancestry). DIGS3 "
+phv00161200.v1 :::" Maximum of STJ,STM, STE Amplitudes, Lead AVF (uV) "
+phv00122435.v1 ::: Reason for removing adenoids (C) 
+phv00127690.v1 ::: 14f: Specify other pain location 
+phv00100686.v1 :::" Sample prob weight, excluding death grp "
+phv00029242.v1 ::: Profilset not sent because: patient forgot to do collection 
+phv00127236.v1 ::: R11AMPV2 - R'' Amplitude in lead V2 
+phv00106270.v1 ::: NAME7 HAVE HEART ATTACK 
+phv00006628.v1 ::: ECG - LVH - R>20MM IN ANY LIMB LEAD 
+phv00104681.v1 ::: Other symptoms 
+phv00172209.v1 ::: Unique study participant identification number 
+phv00158726.v1 ::: Blood lymphatic - coded fields 
+phv00049997.v1 :::" J7a. Potential contributing factors, patient menstruating at time of episode "
+phv00071491.v1 :::" Now, please check all the ethnic backgrounds that apply to your maternal grandfather (that is, your mother's father).  - If response 17 = Other, Specify "
+phv00161749.v1 ::: Aspartate 
+phv00029165.v1 ::: Ophthalmic complications: retinal abnormality - left eye 
+phv00050741.v1 ::: D1. Health care scheduling. Eye care: could not get appointment 
+phv00100694.v1 ::: Age = StdyDtqa - DOB 
+phv00006525.v1 ::: SMOKING HISTORY SMOKED CIGARETTES REGULARLY IN THE LAST YEAR? 
+phv00172239.v1 ::: Monocyte Chemotactic Protein 1 
+phv00118555.v2 ::: HEADACHE MADE YOU NAUSEOUS. Q 29 
+phv00046014.v1 :::" Source of RDC BEFD CODE FOR BEFD1, (Participants with European ancestry). DIGS2 and 3 "
+phv00101055.v1 :::" INFARCT #2, SIZE - AP "
+phv00035215.v1 :::" Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? (Participants with European ancestry) "
+phv00123358.v1 ::: 81 How many brothers with Diabetes 
+phv00162445.v2 ::: Derived field: Nutrient value: Alanine 
+phv00108032.v1 :::" HAD COLD, FLU, INFECTION IN LAST WEEK "
+phv00054458.v1 ::: How long have you had any of these fears (unreasonable strong fears)? (African American participants) 
+phv00052190.v1 :::" E6 Trileptal, (African American participants). DIGS4 "
+phv00070844.v2 ::: FRENCH FRIED POTATOES (20) 
+phv00029514.v1 :::" Sural nerve - conduction velocity (m/sec): close-out - Note: As reported in the NeuropathyCodebook (phd000387) the original data show three coding options (.G, .B, .L) which were not properly translated from the original SAS file; instead each of these coded values appears as '.' value in the dataset available through dbGaP. "
+phv00113402.v2 ::: MAXIMUM FVC 
+phv00127927.v1 ::: 30f: Took medications for blood thinning? 
+phv00095359.v1 ::: Vitamin D (IU) 
+phv00117537.v2 ::: HOW MANY ATTEMPTS TO QUIT >= 48 HRS. Q 2.05 
+phv00094324.v1 ::: GENDER OF PARTICIPANT               Q10 
+phv00017102.v1 :::" B6. Duration, weeks (row 2).  (Participants with European ancestry). DIGS4 "
+phv00091355.v1 ::: RELATIVE HAD CANCER BOTH BREASTS  Q19 
+phv00102816.v1 ::: SPECIFY OTHER OCCUPATIONAL STATUS 
+phv00100493.v1 ::: Clinical disease at bl by self-report (Kulle--incomplete) 
+phv00051711.v1 ::: SYSTOLIC BLOOD PRESSURE mmHg EXAM 1 
+phv00014878.v1 :::" D3.c. Hearing Lose - Impair Cd, (Participants with European ancestry). DIGS3 "
+phv00012805.v1 :::" J33. Have you often been under the effects of (drug) in a situation where it increased your chances of getting hurt--for instance, when driving, using knives or machinery or guns, crossing against traffic, climbing, or swimming? D OP. (Participants with European ancestry). DIGS2 "
+phv00092207.v1 ::: Bleeding on Probing (BL) measure for Distobuccal (DB) of tooth number 19 
+phv00033787.v1 ::: Quarterly visit number of persistent 3-step change from 18 months (ETDRS) 
+phv00035992.v1 ::: F53.  Describe.  (Participants with European ancestry). DIGS4 
+phv00099601.v1 ::: Immediate-release dihydropyridines other 
+phv00013836.v1 ::: K96. Presence of mood-congruent psychotic symptoms with affective clearing: did the (hallucinations/delusions) ever continue after your mood returned to normal? (Participants with European ancestry). DIGS2 
+phv00163819.v2 ::: Immunophenotype & Cytochemistry: CD3 % Positive 
+phv00020897.v4 ::: IF EVER BEEN PREGNANT: HOW OLD WERE YOU AT THE END OF YOUR LAST TERM PREGNANCY? 
+phv00053691.v1 ::: Other Anxiety/comorbid condition. Code (row 1). (African American participants). DIGS4. Page 1 
+phv00065912.v1 :::" Q10. Physical examination, abnormality of lungs "
+phv00089391.v1 :::" Hippocampal Volume, 1st MRI "
+phv00091847.v1 ::: Pocket Depth (PD) measure for Mesiolingual (ML) of tooth number 11 
+phv00055194.v2 ::: STANDING ST DEPRESSION (V1 - V4) 
+phv00169218.v2 ::: Tattoos Done In 12m 
+phv00083882.v2 ::: FREQ27:PEANUTS 
+phv00001098.v1 ::: HOSPITALIZED SINCE LAST EXAM FOR PNEUMONIA 
+phv00023243.v3 ::: AORTA CALCIUM SCORE - SCORE:  PROX DESCENDING 
+phv00171626.v1 ::: Fasting glucose concentration at the fifth study visit 
+phv00122834.v1 ::: CHQ-PF50 single item Behavior 
+phv00165520.v1 ::: Total Decayed Teeth with white spots. 
+phv00049684.v1 :::" C4. Visual acuity measurements. Letters correct at one meter distance, 20/160, left eye "
+phv00023968.v3 ::: Family history: stroke 
+phv00033586.v1 ::: Occurrence of 3-step change in ETDRS level compared to baseline - quarterly visit 26 
+phv00034347.v1 ::: Patient will be excluded due to respiratory pathology 
+phv00160387.v1 :::" ESP, race [Caucasian] "
+phv00128099.v1 ::: 8a: Had doctor told you had Cancer? 
+phv00071270.v1 ::: The subject's last known vital status was: alive or dead? 
+phv00080173.v3 ::: Days CaD randomization to Angina 
+phv00168829.v1 ::: Rose Questionnaire for Angina Form completed 
+phv00119958.v2 ::: HYSTERECTOMY-PROLAPSE? Q 38a 
+phv00085889.v2 ::: I GET TO DO A VARIETY FO DIFFERENT THINGS ON MY JOB 
+phv00023880.v5 ::: Spine L2-L4 bone mineral density 
+phv00052001.v1 :::" B6 Medication (row 15), (African American participants). DIGS4 "
+phv00142677.v3 ::: BREATH ARTIFACTS IN FIRST QC RECORD 
+phv00097025.v1 ::: SPEECH DISTURBANCE-DOUBLE VISION   Q22A 
+phv00161595.v1 ::: Number of pregnancies of female subject. 
+phv00033110.v1 ::: Blood glucose profile 8 - mg/dl (quarterly visit 20) 
+phv00165268.v2 ::: BASELINE WEIGHT IN KG 
+phv00050398.v1 :::" B6m1. Health care delivery. Have you ever seen this type of doctor: dietitian, number of visits "
+phv00048484.v1 ::: GFR (glomerular filtration rate) raw count: urine-t4 
+phv00022146.v3 ::: ACTIVITY IN PAST WEEK USING NEW ACTIVITY 
+phv00092606.v1 ::: SPECIMEN APPEARANCE                 Q4 
+phv00021624.v3 :::" IF YOU ARE A WOMAN, HOW MANY LIVE BIRTHS HAVE YOU HAD? "
+phv00029392.v1 ::: Peroneal nerve - conduction abnormality: quarterly visit 04 
+phv00027533.v1 ::: Body weight (kg): quarterly visit 27 
+phv00034138.v1 ::: Supine diastolic blood pressure reading (mmhg) 
+phv00022382.v3 ::: HOW DO YOU FEEL ABOUT THE FOLLOWING STATEMENT: MY JOB REQUIRES WORKING VERY HARD? [PSYCHOLOGICAL JOB DEMANDS SCALE] 
+phv00049651.v1 :::" C2. Visual acuity measurements. Letters correct at four meters distance, 20/40, left eye "
+phv00070307.v2 ::: DERIVED FIELD: NUTRIENT VALUE - VITAMIN E (TE) 
+phv00015090.v1 :::" E6. Antipsychitics Stelazine, (Participants with European ancestry). DIGS3 "
+phv00013663.v1 ::: K47. Have you ever been so excited that you moved around without purpose (aside from experiencing mania)? Other medications. (Participants with European ancestry). DIGS2 
+phv00053453.v1 :::" E9 Age (row 7), (African American participants). DIGS4 "
+phv00020931.v4 :::" IF EVER SMOKED CIGS REGULARLY AND THEN STOPPED SMOKING CIGARETTES COMPLETELY, HOW OLD WERE YOU WHEN YOU STOPPED? "
+phv00024469.v3 ::: WHAT WAS THE QUALITY OF THE SCAN (SONOGRAPHER PERCEPTION)? 
+phv00081606.v1 ::: COLON CANCER: Number of family members with history of disease 
+phv00072342.v2 :::" WAIST GIRT AT ILIAC CREST (INCHES, TO NEXT LOWER 1/4 INCH "
+phv00070870.v2 ::: TBSP. OF MAYONNAISE OR CREAMY SALAD DRESSING 
+phv00106344.v1 ::: HOW MANY OVARIES WERE REMOVED 
+phv00002522.v1 :::" WORKING PERSONS: FELT UNCERTAIN, DISSATISFIED WITH WORK "
+phv00028481.v1 ::: (ts%) social functioning status 
+phv00002356.v1 ::: ECG: MAGNITUDE OF QRS VALUE 
+phv00169891.v1 ::: Lower End of Humerus Fracture 
+phv00126868.v1 ::: RECALL: galactose 
+phv00122212.v1 ::: List ages of living sons (A) 
+phv00007215.v1 ::: NAGI: LIFTING OR CARRYING WEIGHTS UNDER 10 POUNDS (LIKE A BAG OF POTATOES) 
+phv00025036.v1 ::: Age at year 2 follow - up (quarterly visit 08) 
+phv00108857.v1 ::: DOCTOR RECOMMENDED I EAT LESS 
+phv00171714.v1 ::: Height at the third study visit 
+phv00128064.v1 ::: 27b: Receive income from Social security in past year? 
+phv00052097.v1 :::" E2a Psychotherapy, (African American participants). DIGS4 "
+phv00001846.v1 ::: CIGARETTE SMOKING ONLY: REASON FOR STOPPING 
+phv00119357.v2 ::: # TIMES LOST 20-49 LBS SINCE LAST EXAM. Q 6c 
+phv00078882.v3 ::: Live with children 
+phv00108912.v1 ::: LENGTH OF TAPE (HOURS) 
+phv00100610.v1 ::: Right Leg BMD 
+phv00164010.v1 ::: Lymphocytes in absolute numbers at designated visit (may not be baseline). 
+phv00051655.v1 ::: B1e. Information on transfer to inactive status.  Information on transfer to inactive status: other 
+phv00031681.v1 :::" Patient's performance rating: task 4 - test urine glucose -Testape, trial 2 "
+phv00007428.v1 ::: SUDDEN SPEECH DIFFICULTY IN INTERIM 
+phv00096704.v1 :::" DERIVED AVG FAR WALL THICKNESS, LT BIF "
+phv00099502.v1 ::: WHAT IS THIS ADDRESS/NAME OF THIS PLACE 
+phv00124203.v1 ::: Calculated - arousal index non-rem 
+phv00056489.v2 ::: EEG-1 signal quality (hours of signal most free from artifact) 
+phv00115879.v2 ::: C31MAT RESULT OF INJURY? Q 2 
+phv00024637.v1 ::: LEFT: KELLGREN & LAWRENCE GRADE 
+phv00118424.v2 ::: EXAM DATE - FORM 7 
+phv00120029.v2 ::: WHAT WAS REMOVED DURING SURGERY. Q 3 
+phv00032759.v1 ::: Blood glucose profile 8 at OD 340 (quarterly visit 04) 
+phv00093754.v1 :::" COND 22- LEAD 3, EV1 "
+phv00162873.v1 :::" Great amount of time spent in activities necessary to obtain, use or recover from the effects of cocaine "
+phv00073430.v1 ::: Date of onset/relapse 
+phv00079328.v3 ::: Guamanian or Chamorro 
+phv00050460.v1 :::" B8hd2. Health care delivery. During the past 6 months have you had laboratory test: D. other major tests, number of visits paid for by insurance "
+phv00057573.v1 ::: Minimum Hypopnea duration in REM (Other position) 5% desaturation or arousal 
+phv00181959.v1 :::" If OD epithelium is abnormal, edema? "
+phv00121132.v2 ::: SES DISCRIMINATION IN PUBLIC. Q 5g 
+phv00126083.v1 ::: Private/public health insurance 
+phv00029636.v1 :::" Change in median nerve - motor - F-wave latency: quarterly visit 08 - Note: As reported in the NeuropathyCodebook (phd000387) the original data show three coding options (.G, .B, .L) which were not properly translated from the original SAS file; instead each of these coded values appears as '.' value in the dataset available through dbGaP. "
+phv00015310.v1 :::" F57. Oth Medication, (Participants with European ancestry). DIGS3 "
+phv00086255.v2 ::: I NAP DUE TO AN ILLNESS OR MEDICAL REASONS 
+phv00112941.v2 ::: SALT ADDED TO POULTRY AT TABLE. Q 13 
+phv00035016.v1 :::" Interviewer rating of presence/absence of DSM4 (Diagnostic and Statistical Manual of Mental Disorders) criterion A item for  Definite Bizarre Del, followed by the raw repository SAS database field name in brackets for cross-reference to repository database [A60b] "
+phv00120233.v2 ::: TOTAL INTENSITY SCORE - YR 0 
+phv00121907.v1 ::: Child's race/ethnicity 
+phv00169223.v2 ::: Unexplained Weakness 
+phv00142759.v3 :::" BOTH LUNGS, CORE: NUMBER VOXELS BELOW OR EQUAL TO -810 HOUNSFIELD UNITS "
+phv00142439.v1 ::: Vertebral Thoracic Level 7 Reading for Baseline X-ray 
+phv00092746.v1 ::: Plaque/shadowing in left bifurcation 
+phv00090604.v1 ::: ATG16L1 genotype rs2241880 
+phv00125942.v1 ::: Homocysteine: the concentration of homocysteine in umol/L 
+phv00086852.v2 ::: TRAUMATIC: HEMATOMA 
+phv00057924.v1 ::: Overall RDI at 4% desat 
+phv00114512.v2 :::" AGE AT DX, NERVOUS DISORDER. Q 1.10A "
+phv00079360.v3 ::: Smoker - husband/partner 
+phv00091068.v1 ::: Birds - # of pets 
+phv00143648.v3 :::" RIGHT LUNG, LOWER PEEL: NUMBER VOXELS BELOW OR EQUAL TO -960 HOUNSFIELD UNITS "
+phv00004593.v1 ::: TAKING ANY CARDIOVASCULAR MEDS BELOW? 
+phv00054856.v1 :::" DEFINITIVE EXAM: GLAUCOMA SUSPECTS: CUP/DISC RATIO (IN TENTHS), HORIZONTAL, O.S., BLANK = DOES NOT MEET REFERRAL CRITERIA FOR GLAUCOMA (917) "
+phv00124019.v1 ::: D-dimer star am - data flag 
+phv00017152.v1 :::" B6. Duration, weeks (row 12).  (Participants with European ancestry). DIGS4 "
+phv00127703.v1 :::" 27: In the past 2 months, has the pain required more nitroglycerin "
+phv00101067.v1 :::" INFARCT #3, SIZE - RL "
+phv00087625.v1 ::: TOTAL CONDITIONING MET-MIN/WK M-SU 
+phv00122691.v1 ::: ESS: Q2 
+phv00124626.v1 ::: BP data line number for end of test 
+phv00026249.v1 ::: Non-adherence to treatment plan - experimental treatment group: on how many days has patient failed to follow prescribed algorithm for delivery 
+phv00081204.v1 ::: ABRUPT ONSET: HISS response 
+phv00021640.v3 ::: LIVE-BIRTH PREGNANCY #2: YOUR AGE AT THE BIRTH OF  THIS CHILD - YEARS 
+phv00122642.v1 ::: TNA minus TNB 
+phv00034167.v1 ::: How many years in graduate school? 
+phv00018126.v1 ::: G71.  Mood switching.  (Participants with European ancestry). DIGS4 
+phv00127395.v1 ::: RPKDV5 - R Peak Duration in lead V5 
+phv00054782.v1 :::" OPHTHALMOSCOPE USED, O.D. "
+phv00169704.v1 ::: PAD ascertainment source 
+phv00159488.v2 ::: Estrone (sample: serum) 
+phv00032233.v1 ::: Star drawing - dominant hand: direction 
+phv00064744.v2 :::" SECOND LARGEST AORTIC PLAQUE THICKNESS FOR SLICE 2, MM "
+phv00049407.v1 ::: B5c. Current medication. Use of antihypsarrythmic medications: DPH (diphenylhydantoin) 
+phv00094823.v1 ::: AREA OF LEG PAIN                  Q35 
+phv00084827.v2 ::: RIGHT ANTERIOR OBLIQUE NEAR WALL STD DEV (mm) 
+phv00052587.v1 :::" H4g Concentration/decisions, (African American participants). DIGS4 "
+phv00156519.v2 ::: Dietary Coumestrol (mg) 
+phv00022045.v3 ::: ACTIVITIES IN PAST YEAR (LINE 9):  NUMBER OF WEEKS PARTICIPATED 
+phv00114878.v2 ::: PRE-INSTRUCTION BASELINE SBP #4 
+phv00069992.v2 ::: FFQ: DOUGHNUTS (1) 
+phv00018690.v1 ::: K47a.  Socially isolated.  (Participants with European ancestry). DIGS4 
+phv00027503.v1 ::: Percent of ideal body weight: quarterly visit 19 
+phv00126111.v1 ::: Alcohol drinking classification II 
+phv00026785.v1 ::: Mean HbA1c values up to quarterly visit 05 
+phv00004832.v1 ::: STEM VARICOSITIES - LEFT 
+phv00053932.v2 ::: CATARACT SURGERY - LEFT  EYE (ALL PARTICIPANTS) 
+phv00077526.v3 ::: Canola oil added after cooking 
+phv00160111.v1 ::: Placenta previa. 
+phv00119515.v2 ::: WINE IN PAST 24 HRS 
+phv00094468.v1 ::: HEART ATTACK EVER DIAGNOSED?      Q10C 
+phv00155242.v2 :::" P wave area (includes P and P'), lead par_v1 "
+phv00113038.v2 ::: HAS/HAD VALVULAR HEART DISEASE? 
+phv00012543.v1 ::: I29h. Did you ever have any of the following problems when you stopped or cut down on drinking? INTERVIEWER: code in column I. Did you have the shakes (hands trembling)? OCCUR TOGETHER. (Participants with European ancestry). DIGS2 
+phv00162196.v2 ::: FFQ: PEAS OR LIMA BEANS 
+phv00092011.v1 ::: Cemento-enamel Junction (CEJ) also known as recession measure for Distobuccal (DB) of tooth number 15 
+phv00002976.v1 ::: INTERIM HISTORY OF MEDICINE USED: SEDATIVE/HYPNOTIC 
+phv00008205.v3 :::" ST MINN CODE-RESTING, SIT "
+phv00049823.v1 :::" C4. Visual activity measurements. Number of letters correct at 1 meters, 5/125, left eye "
+phv00025908.v1 ::: Renal complications: edema 
+phv00014715.v1 :::" B 3h. MS Notes, (Participants with European ancestry). DIGS3 "
+phv00007139.v1 ::: MMSE: APHASIA (FACTORS POTENTIALLY AFFECTING MENTAL STATUS) 
+phv00031194.v1 ::: Standard group - date of return to 1 or 2 daily injections 
+phv00168650.v1 ::: Size of lesions: Lesion #3 
+phv00155325.v2 :::" QRS balance (maximum of R or R') - (maximum of QAMP, SAMP, or S'AMP), lead qrsa_v5 "
+phv00127533.v1 ::: 22a: A friend or relative told you about it 
+phv00078028.v3 ::: Months used progesterone cream 
+phv00049649.v1 :::" C2. Visual acuity measurements. Letters correct at four meters distance, 20/63, left eye "
+phv00118466.v2 ::: OTHER LIVER DISEASE? Q 6 
+phv00057492.v1 ::: Average Obstructive Apnea duration in NREM (Other position) 4% desaturation or arousal 
+phv00071127.v2 ::: FEV1 at Follow-up 
+phv00057467.v1 ::: Number of Central Apneas during REM (Other Position) 4% desaturation or arousal 
+phv00158949.v2 ::: Diabetes medications at 20 year Exam 
+phv00142803.v3 :::" BOTH LUNGS, PEEL: NUMBER VOXELS BELOW OR EQUAL TO -910 HOUNSFIELD UNITS "
+phv00144657.v3 :::" RIGHT LUNG, UPPER: DIFFERENCE IN NUMBER VOXELS ABOVE OR EQUAL TO -200 D "
+phv00053319.v1 :::" AA22 Symptom count, (African American participants). DIGS4 "
+phv00029645.v1 ::: Date rated 
+phv00143481.v3 ::: RIGHT LUNG: THE INTERCEPT OF THE LINE AT THE ANKLE 
+phv00016659.v1 :::" P13.k. Panic Most Nausea, (Participants with European ancestry). DIGS3 "
+phv00003592.v1 ::: BLOOD PRESSURE: DIASTOLIC - 2ND PHYSICIAN 
+phv00005465.v1 :::" ARTHRITIS C - IF YES (TO FO645), PLEASE POINT TO THE CIRCLE WHERE YOU HAVE PAIN, ACHING OR STIFFNESS ON MOST DAYS (SHOW PICTURE): RIGHT HIP "
+phv00022818.v1 ::: Ever smoked cigarettes at visit 1 
+phv00070150.v2 ::: DERIVED FIELD: SERVINGS PER WEEK - BEER 
+phv00008507.v3 ::: LEG ULCERS IN LEFT LEG 
+phv00076058.v1 :::" Participant's score determined by examiner for rigidity in passive movement of upper right extremity with participant relaxed in sitting position while participant is in ""on"" or ""off"" state. "
+phv00125495.v1 ::: 54. Will your center(still) be able to get his/her records via community surveillance? 
+phv00073108.v1 ::: Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 
+phv00013435.v1 :::" K8. Have you ever felt  you had special powers, talents, or abilities much more than other people? (Probe with: having a special purpose, mission, or identity?) Drugs. (Participants with European ancestry). DIGS2 "
+phv00159573.v2 ::: Your ethnic background 
+phv00024934.v1 ::: Visual reproduction - copy - design A: score (quarterly visit 00) 
+phv00128283.v1 ::: 22a: How long used this hormone (years) 
+phv00020719.v1 :::" Young Adult Self Report (YASR) anxious depression measurement 1997 item 11: I am unhappy, sad or depressed. "
+phv00015146.v1 :::" E8. Episode 3 - Duration Wks, (Participants with European ancestry). DIGS3 "
+phv00036290.v2 :::" METACARPAL SECTION MODULUS, MM3 = P (1/2(D_OUTER)  4 - 1/2(D_ENDO)  4) / (D_OUTER) [M2-METACARPAL 2] "
+phv00172886.v1 :::" Derived field: Nutrient value - Gamma tocopherol, USDA "
+phv00001963.v1 ::: ARTHRITIS: HIP JOINT: INTERNAL ROTATION IN FLEXION - RIGHT 
+phv00092510.v1 ::: Number of Dental Implants 
+phv00155463.v2 :::" S' wave duration, lead spdu_iii "
+phv00100344.v1 ::: ANYONE COMPLAINED ABOUT YOUR SNORING 
+phv00032420.v1 ::: Sfa (saturated fatty acids) 13:0 (gm) - Note: In a number of instances fairly large values were recorded.  Data users should be aware that these values are likely to  represent measurement or data recoding errors. 
+phv00052025.v1 :::" B6 Medication (row 21), (African American participants). DIGS4 "
+phv00115435.v2 ::: MITRAL VALVE PROLAPSE. Q 3 
+phv00076065.v1 :::" Participant's score determined by examiner for opening and closing left hand in rapid succession with widest amplitude possible while participant is in ""on"" or ""off"" state. "
+phv00010123.v3 ::: DIASTOLIC BLOOD PRESSURE - NURSE (TO NEAREST 2MM HG) 
+phv00124768.v1 ::: 33e. OTHER 
+phv00011986.v1 ::: E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Antipsychotics: Haldol. (Participants with European ancestry). DIGS2 
+phv00124535.v1 ::: Time to start of ticlopine use 
+phv00092358.v1 ::: Attachment Loss (AL) measure for Buccal (B) of tooth number 10 
+phv00107196.v1 ::: OFF LOW FIBER DIET 
+phv00120764.v2 ::: EBCT MACHINE MODEL NAME 
+phv00003573.v1 ::: 2ND EXAMINER-CVI WITH STEM VARICOSE VEINS 
+phv00125654.v1 ::: SMOKE CIGARRETES                  Q30 
+phv00057078.v1 ::: Maximum desaturation in NREM (Other position) overall 
+phv00033310.v1 ::: Repeat visit (quarterly visit 30) 
+phv00004752.v1 ::: LEFT PHLEBITIS IN INTERIM 
+phv00118384.v2 ::: PARTICIPANT FAST FOR AT LEAST 8 HOURS? Q 13 
+phv00030312.v1 ::: Ideal body weight (%) at year 2 
+phv00051635.v1 :::" B3c. Arrangement for patient transfer or move. Deidentified temporary move: date patients which stop visits, move to the new follow-up center "
+phv00019527.v1 ::: E9. Duration (row 8).  (Participants with European ancestry). DIGS4 
+phv00065676.v1 ::: F3. Diabetes management: units Lente insulin used - supper 
+phv00104719.v1 ::: CAN PARTICIPANT LIFT RIGHT ARM 
+phv00076367.v2 ::: Mean of the mean internal carotid IMT far wall both sides 
+phv00102934.v1 ::: Hair loss on lower legs 
+phv00120023.v2 ::: DATE OF EXAM-FORM 9 
+phv00120534.v2 ::: PAST MONTH AVG SLEEPING HOURS. Q 7 
+phv00026464.v1 ::: CBL00: Renal test - 13: creatinine (serum) (mg/dl) 
+phv00091176.v2 :::" If smoker or ex-smoker, year stopped smoking "
+phv00053794.v2 ::: LYCOPENE (MCG) (ALL PARTICIPANTS) 
+phv00093087.v1 ::: CONSUMED REGULAR SOFT DRINKS      Q64 
+phv00094123.v1 ::: Diabetes ever diagnosed? Q8K (V3) 
+phv00112667.v2 :::" 15ML PURPLE TUBE, BS VIAL (RED) "
+phv00117295.v2 ::: EVENT DAY   - 3RD HOSP 
+phv00013533.v1 ::: K26. Have you ever heard two or more voices talking with each other? Depression. (Participants with European ancestry). DIGS2 
+phv00128007.v1 ::: 18: Past year: time spent major home decor 
+phv00017540.v1 ::: F21d. INTERVIEWER:  does this total more than 14 days? (Participants with European ancestry). DIGS4 
+phv00120893.v2 ::: SCAN 2 ADJUSTED VOLUME 
+phv00053362.v1 :::" V5 Olfactory hallucinations, (African American participants). DIGS4 "
+phv00066127.v1 :::" D5. Hospitalization and other health care services used. During the past 12 months, have you had any of the following laboratory tests: had any other laboratory tests or evaluations "
+phv00124582.v1 ::: 18c: First Lt ankle unable to locate artery 
+phv00111665.v3 ::: Q3.1: Leanness of ground meat 
+phv00143695.v3 :::" RIGHT LUNG, LOWER PEEL: VALUE OF THE PIXEL THAT IS AT THE 15TH PERCENTILE OF PIXEL VALUES "
+phv00013755.v1 :::" K69b. During the current/most recent episode, have you also been experiencing a high/manic episode? (Participants with European ancestry). DIGS2 "
+phv00025016.v1 ::: Visual reproduction - copy - design C2: score (quarterly visit 08) 
+phv00044559.v1 :::" Mood disorder/medical condition, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 "
+phv00057065.v1 ::: Minimum Obstructive Apnea duration in REM (Other position) overall 
+phv00076308.v1 :::" Subject was recruited as a control (some have since converted; see ""Dx_Level"" variable) "
+phv00011113.v2 ::: DNA barcode at local database/ also sent to Perlegen 
+phv00124352.v1 ::: Participant gender 
+phv00087563.v1 ::: RIGHT LATERAL OBLIQUE FAR WALL STD DEV (mm) 
+phv00076436.v1 :::" Principal component 4: a mathematical tool commonly used in statistical analysis. It seeks to identify an orthogonal coordinate system that transforms a number of possibly correlated variables into a smaller number of uncorrelated variables called principal components (PC). This method allows for the separation of individuals on the basis of differences in their properties and can also be used to evaluate the properties that contribute the most to these separations. The principal components are ordered in terms of the amount of variation in the dataset that they explain such that the first PC explains the largest fraction of the total variance, and so on. There exist a number of methods to determine the number of PC to be retained for a specific analysis. However, none of them uniformly dominates the others. Following a practice largely adopted in the field, we present the first 10 PC computed on this dataset. "
+phv00113612.v2 ::: TOTAL INTENSITY SCORE (HEAVY + MODERATE) 
+phv00162859.v1 :::" Great amount of time spent in activities necessary to obtain, use or recover from the effects of marijuana "
+phv00106220.v1 ::: NAME1 STILL ALIVE 
+phv00033618.v1 ::: Total number of microaneurysms (right and left eyes) - quarterly visit 14 
+phv00054336.v2 ::: ACETAMINOPHEN (500 MG) (ALL PARTICIPANTS) 
+phv00116693.v2 ::: HOW OFTEN SALT ADDED TO TABLE FOOD. Q 11 
+phv00081408.v1 ::: HIGH BLOOD CHOLESTEROL: Subject History of disease 
+phv00128551.v1 ::: Left common lateral average near wall in millimeters 
+phv00033311.v1 ::: Form date (quarterly visit 30) 
+phv00015006.v1 :::" E4.a. # of Psych Inpatient Hosp, (Participants with European ancestry). DIGS3 "
+phv00118690.v2 ::: NAME OF HBP MEDICATION 
+phv00076072.v1 :::" Participant's score determined by examiner for gait while participant is in ""on"" or ""off"" state. "
+phv00027393.v1 ::: CBL2: Lipid test - 22: triglyceride (serum) value  (mg/dl) 
+phv00085663.v2 ::: 14: MODERATE CONDITIONING min/wk M-Su 
+phv00024938.v1 ::: WAIS digit span - age-corrected score (quarterly visit 00) 
+phv00029265.v1 ::: Standard Group - Modification(s)  since last visit: currently using more than two injections/day 
+phv00026118.v1 ::: Family history: renal disease in diabetic grandparents 
+phv00064715.v2 :::" AORTIC VERTICAL AP DIAMETER SLICE 31, MM "
+phv00098128.v1 ::: SDDC10 
+phv00073821.v3 ::: Left hippocampal volume 
+phv00094753.v1 ::: EVER HAD PAIN/ACHING/STIFF KNEES  Q20A 
+phv00018336.v1 ::: J25.  Wanted/tried to cut down.  (Participants with European ancestry). DIGS4 
+phv00125861.v1 ::: 2: Weight to nearest kilogram 
+phv00123020.v1 ::: CVD: self report of MD dx of cvd 
+phv00116022.v2 ::: TRAIT-ANXIETY SCORE 
+phv00050572.v1 :::" B6b. Health care delivery. Doctor who usually taken care of your diabetes, diabetes specialist or endocrinologist: seen past 6 months "
+phv00029619.v1 ::: Change in median nerve - sensory - response amplitude: quarterly visit 04 
+phv00109920.v1 ::: TIME (MIN.) - RAKE LAWN 
+phv00127889.v1 ::: MSRA19X 
+phv00143053.v3 :::" LEFT LUNG, LOWER PEEL: NUMBER VOXELS BELOW OR EQUAL TO -910 HOUNSFIELD UNITS "
+phv00171891.v1 ::: Skewness of the lung density histogram (first scan) 
+phv00010482.v3 ::: CDI: ADULT SEIZURE DISORDER 
+phv00006600.v1 :::" CARDIOVASCULAR PROCEDURES (IN THE INTERIM ONLY, NOT LIFETIME) CORONARY BYPASS SURGERY (IF YES, FILL IN FR346) "
+phv00031916.v1 ::: Status change number 2 is current 
+phv00027279.v1 ::: CBL1: GFR serum glucose - t2 value (mg/dl) 
+phv00004226.v1 ::: MEDICINE USE: ORAL ESTROGEN 
+phv00154728.v2 ::: F261. Asthma confirmed by MD 
+phv00126058.v1 ::: Medication accountability 
+phv00032533.v1 ::: Visit number recorded on form 
+phv00078042.v3 ::: Pancreatitis 
+phv00115425.v2 ::: AGE HIGH BP DIAGNOSED. Q 1 
+phv00023796.v3 ::: INTERLEUKIN-6 FROM SERUM (PG/ML) 
+phv00126991.v1 ::: SFFQ: total carbohydrate (gm) 
+phv00032923.v1 ::: Pre-lunch blood glucose at OD 340 (quarterly visit 12) 
+phv00100667.v1 ::: FU lean mass (kg) w/o BMC for women 
+phv00000649.v1 :::" ECG: MYOCARDIAL INFARCTION, EXAM 3 "
+phv00050249.v1 ::: B25. How often do you find that your parents worry too much about your diabetes? 
+phv00053548.v1 ::: Bipolar I DSMIV AAO. (African American participants). DIGS4. Page 1 
+phv00170913.v1 ::: Center subfield has soft distinct drusen: Right eye 
+phv00114201.v2 ::: LIVE WITH AUNT/UNCLE 
+phv00154999.v2 :::" Q intrisicoid (time from Q onset to peak of Q), lead bqi_v2 "
+phv00023645.v6 ::: (1.C) HOW LONG HAVE YOU KNOWN THE PARTICIPANT? - MONTHS 
+phv00010254.v3 ::: RED WINE: NUMBER DAYS DRINK PER WEEK - GLASS (4 OZ) THERE ARE KNOWN INCONSISTENCIES. (E.G. AVERAGE NUMBER OF DRINKS PER WEEK AND NUMBER OF DAYS DRINK PER WEEK IS NOT ALWAYS CONSISTENT WITH THE AVERAGE LIMIT OF DRINKS AT ONE TIME). 
+phv00081933.v1 ::: ** Question deleted on updated CRF ** 
+phv00090350.v2 ::: Thoracic Aortic Fat Volume 
+phv00034364.v1 ::: Patient will be excluded due to other co-condition 
+phv00008482.v3 ::: LONGEST DURATION OF CHEST DISCOMFORT IN MINUTES 
+phv00030039.v1 ::: Other modification(s) - specify 
+phv00094542.v1 ::: USE OR USED CHEWING TOBACCO?      Q51A 
+phv00144295.v3 :::" LEFT LUNG, UPPER CORE 850: DEFINITION OF HIGHEST NON-HOLE HOUNSFIELD UNIT VALUE "
+phv00116067.v2 ::: HOW WAS THIS FORM COMPLETED? Q 12 
+phv00050301.v1 ::: 31. Health status: past month-feel tired 
+phv00128552.v1 ::: Left common anterior average near wall in millimeters 
+phv00052400.v1 :::" G1a Extremely good/high, (African American participants). DIGS4 "
+phv00124601.v1 ::: 24d: Specify 
+phv00012120.v1 ::: F26a. During this episode were you hospitalized for depression? IF YES: for how long? (DAYS) MOST SEVERE EPISODE. (Participants with European ancestry). DIGS2 
+phv00080830.v1 ::: DIABETES MELLITUS STATUS (200 mg/dl) AT EXAM 2 
+phv00064807.v2 ::: THIRD LARGEST AORTIC PLAQUE NUMBER FOR SLICE 7 
+phv00124301.v1 ::: Days from visit date - Diagnosed Osteoporosis 
+phv00066604.v2 ::: Country for Maternal Grandfather 
+phv00071364.v1 :::" Consensus rating for presence of bizarre delusions as defined in DSM-IV (implausible, impossible, including Schneiderian delusions) "
+phv00010629.v3 ::: HOW MANY TIMES WAS A BLOOD TEST FOR PROSTATE CANCER DONE DURING THE PAST FIVE YEARS? (MEN ONLY) 
+phv00100852.v1 ::: Tenth listed Discharge Diagnosis Code 
+phv00094981.v1 ::: Sulci                               Q9 
+phv00159672.v2 ::: Had an attack of wheezing/whistling in chest 
+phv00122627.v1 ::: Took sedatives on day of study (AC) 
+phv00025142.v1 ::: Pegboard - dominant/non-dominant hand - summary insert (quarterly visit 08) 
+phv00119393.v2 ::: EXERCISE WHEN HAVE SOCIAL OBLIGATIONS. Q 31 
+phv00024575.v3 :::" DATE BLOOD DRAWN, NUMBER OF DAYS SINCE EXAM 1 "
+phv00050917.v1 :::" D4f1. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: EKG - number of times "
+phv00071379.v1 :::" Guilt Sin Delusions (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11180]. Rating "
+phv00146569.v1 ::: APICAL BASILAR RATIO IN ALPHA AT BE_910 
+phv00071505.v1 ::: (Lost): About how much weight did you gain and lose? 
+phv00029690.v1 ::: Infusion  pump: bedtime - number of self blood glucose monitorings that should have been done 
+phv00014800.v1 :::" B 3.b. Migraine, (Participants with European ancestry). DIGS3 "
+phv00016692.v1 :::" P31.c. Ever Simple Phobia, (Participants with European ancestry). DIGS3 "
+phv00015670.v1 :::" I 6.a. Typical Sun Beer Mins, (Participants with European ancestry). DIGS3 "
+phv00081941.v1 ::: Has the participant consented to visit 1 of the GENADA-LONG study as control ? 
+phv00014866.v1 :::" D2.i. Pain - Menstruation, (Participants with European ancestry). DIGS3 "
+phv00120102.v2 ::: DAYS USED COCAINE: PAST 30 DAYS. Q 6 
+phv00071568.v1 :::" Do you have an unreasonably strong fear for or avoid any of the following: traveling in a bus, train, or car? "
+phv00023735.v1 ::: W22 SCORE @ 70 DB - RIGHT EAR 
+phv00015131.v1 :::" E6. Other medications or herbal preparations Other Medications 4 Spec, (Participants with European ancestry). DIGS3 "
+phv00123775.v1 ::: BracReac: Percent Change in flow volume 
+phv00097772.v1 ::: AVG ARTERY DIAMETER(RT COM CAR :OPT ANG) 
+phv00143408.v3 ::: LEFT LUNG UPPER PEEL: NUMBER VOXELS BELOW OR EQUAL TO -830 HOUNSFIELD UNITS 
+phv00048795.v1 :::" J5f. Verification of event, intermittent claudication (peripheral ischemia): does pain ever disappear while the patient is walking "
+phv00053000.v1 :::" K66 Other psychosis affect mood, (African American participants). DIGS4 "
+phv00071324.v1 ::: Location of sample 
+phv00108925.v1 ::: TOTAL NUM HEART BEATS 
+phv00098235.v1 ::: MINUTE PUT IN FREEZER             Q11 
+phv00160910.v1 :::" R' Wave Duration, Lead AVL (mSec) "
+phv00093027.v1 ::: CONSUMED ICE CREAM                Q4 
+phv00056609.v3 ::: Lifetime cigarette smoking Date 
+phv00127548.v1 ::: 23: Most important in your decision 
+phv00022899.v1 ::: Experienced non-assaultive trauma 
+phv00111326.v2 ::: CHF MD diagnosis & treatment this admit 
+phv00045134.v1 ::: Have you used alcohol 3 or more times while taking medication or drugs you knew were dangerous to mix with alcohol: How old were you the first time?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00089326.v1 ::: Estrogen - Exam 20 
+phv00080408.v3 ::: F33 Intestinal Polyps 
+phv00015852.v1 :::" J17.a. Tob Psych Probs Fxn Spec, (Participants with European ancestry). DIGS3 "
+phv00104863.v1 ::: SHORT OF BREATH/MOD PHYSICAL EXERCISE 
+phv00048489.v1 ::: GFR (glomerular filtration rate) raw count: serum-t2 
+phv00172508.v1 ::: FFQ: Peaches or plums (1 fresh or 1/2 cup canned) 
+phv00071599.v1 :::" During that year, how often did you drink more or longer than you intended to? "
+phv00126263.v1 ::: Glycine (g) 
+phv00168316.v1 :::" Not including multi-vitamins, prior to your stroke, did you ever take folate?  (DSF)  Not including multi-vitamins or the VISP vitamin, have you regularly taken folate or folic acid during the past year?  (FDS) "
+phv00065177.v2 :::" AORTIC AREA SLICE 3, CM2 "
+phv00008210.v3 :::" HEART RATE-1, 1.7/10% "
+phv00112836.v2 :::" SAUCES, SWEET - REDUCED FAT/REDUCED CALORIE/FAT FREE "
+phv00070824.v2 ::: HOMEMADE PIES (SLICE) 
+phv00022450.v3 ::: IT MAKES ME FURIOUS WHEN I AM CRITICIZED IN FRONT OF OTHERS. [RAGE SCALE] 
+phv00019162.v1 ::: Q14.  Food binges.  (Participants with European ancestry). DIGS4 
+phv00014783.v1 :::" B 2. # Medical Admissions, (Participants with European ancestry). DIGS3 "
+phv00051728.v1 ::: HDL CHOLESTEROL mg/dl EXAM 4 
+phv00072936.v1 :::" During the past 30 days, on how many days did you have at least one alcohol drink? "
+phv00077936.v3 ::: Moderate/ how long 
+phv00057729.v1 ::: Central Apnea RDI in REM (Back position) associated with arousal 
+phv00084655.v2 ::: MINNESOTA CODE 1 SCORE: F LEADGROUP 
+phv00077570.v3 ::: Current job status - Disabled 
+phv00056878.v1 :::" Does your health now limit you in these activities? If so, how much? (Lifting or carrying groceries) "
+phv00011167.v2 ::: Does not get invited over to friends' houses 
+phv00065868.v1 ::: O8. Female/reproductive: any difficulties with sexual function? 
+phv00092882.v1 ::: Drinker status 
+phv00150352.v2 ::: RIGHT LOBE LIVER SD 2 
+phv00084432.v2 ::: FOOD GROUP 39:FATS OILS 
+phv00121075.v2 :::" SALIVARY CORTISOL (nm/l), AWAKENING SAMPLE "
+phv00172396.v1 ::: FFQ: Multivitamins per week 
+phv00055297.v2 ::: Prevalent disease data collected today at home visit or before at clinic? 
+phv00118435.v2 ::: AGE DIAGNOSED-HEART ATTACK. Q 8 
+phv00093718.v1 :::" COND 16- LEAD 2, EV7 "
+phv00004170.v1 :::" AMOUNT OF DIFFICULTY SITTING FOR LONG PERIODS, SAY 1 HOUR "
+phv00006064.v1 ::: TAKES OWN MEDICATIONS (SEE NOTE ABOVE) 
+phv00156291.v1 ::: F33 Any Fracture 
+phv00093405.v1 ::: LV SEPTUM THICKNESS - DIASTOLE 2-D    49 
+phv00053363.v1 :::" V6 Visual hallucinations, (African American participants). DIGS4 "
+phv00081918.v1 ::: Ongoing 
+phv00116562.v2 ::: RZ2 DBP. Q 15 
+phv00167019.v2 ::: 2-D MEASUREMENT  Basal Anterior Septum Wall Motion Score - resting  (TwoD_WMResting_BasAntSep_Score) 
+phv00032105.v1 ::: Pregnancy complications: premature rupture of membranes 
+phv00087075.v1 ::: FIELD CENTER WHERE EXAMINED 
+phv00121054.v2 ::: LOG OF MEAN HF POWER (FRSHFPAVG) 
+phv00093726.v1 :::" COND 19- LEAD 1, EV5 "
+phv00092300.v1 ::: Bleeding on Probing (BL) measure for Distolingual (DL) of tooth number 16 
+phv00002313.v1 ::: BREAST EXAMINATION: ABNORMAL 
+phv00086863.v2 ::: HEPARIN 10 ML: FILLED 
+phv00097495.v1 ::: PHYSICIAN WAS THIS A TIA-STROKE?    Q15 
+phv00117310.v2 ::: DATE OF EVENT - 4TH HOSPITALIZATION 
+phv00082220.v1 ::: Neurological examination: Frontal gait 
+phv00030990.v1 ::: CBL9: GFR serum glucose - t5 value (mg/dl) 
+phv00027309.v1 ::: CBL1: Repeat evaluation for 24-hr urine tests 
+phv00073363.v1 ::: Other - specify 
+phv00112170.v1 ::: Source subject id 
+phv00084158.v2 ::: SERVINGS PER DAY 63:ENCHILADAS 
+phv00144156.v2 :::" LEFT LUNG, LOWER 850: 1-D ARRAY OF HOLE AREAS SORTED BY INCREASING SIZE "
+phv00025317.v1 ::: Finger tapping - dominant hand - mean rate (quarterly visit 28) 
+phv00005956.v1 ::: ACTIVITIES II - CES-D SCALE I FELT FEARFUL 
+phv00100340.v1 ::: PASSIVE SMOKING 
+phv00171752.v1 ::: Waist circumference at the fifth study visit 
+phv00119784.v2 ::: TIME BLOOD WAS SPUN. Q 7 
+phv00098149.v1 ::: SDAC7 
+phv00044595.v1 :::" Opiate Abuse/Dependence, age last dep., (Participants with European ancestry). DIGS4. Page1 "
+phv00096898.v1 ::: NATURAL MOTHERS EDUCATION         Q11A 
+phv00101843.v1 ::: Completely blind in one or both eyes 
+phv00125667.v1 ::: MONTH OF STATUS                   Q1 
+phv00104712.v1 ::: DOES PTT USE A RIGHT ARM PROTHESIS 
+phv00158823.v1 ::: Last known Smoking status 
+phv00168599.v1 ::: Site: Is it cerebellum? Lesion #2 
+phv00126803.v1 ::: LFFQ: tryptophan (gm) 
+phv00025966.v1 ::: Date of last completed visit 
+phv00094634.v1 ::: HOTHEADED PERSON                     Q3 
+phv00055181.v2 ::: ARRHYTHMIA NOTED 
+phv00022398.v3 ::: HOW LIKELY IS IT THAT DURING THE NEXT COUPLE YEARS YOU WILL LOSE YOUR PRESENT JOB WITH YOUR EMPLOYER? [JOB INSECURITY SCALE] 
+phv00126290.v1 ::: Genistein (mg) 
+phv00098100.v1 ::: COMPLIANCE 
+phv00125485.v1 ::: 48o. Medication name 
+phv00048498.v1 ::: Serum glucose-t 4 (mg/dl) 
+phv00032982.v1 ::: Blood glucose profile collection date (quarterly visit 15) 
+phv00168466.v1 :::" While you were having your episode of paralysis or weakness, did any of the following occur?  {INCLUDE ALL THAT APPLY}  Seizures or convulsions "
+phv00127298.v1 ::: PRDURV4 - PR Duration in lead V4 
+phv00065271.v1 ::: GLOBAL WALL MOTION SCORE 
+phv00020403.v1 :::" Please think about the time in your life when having to do these things was bothering you the most (doing or counting or checking something over and over, or in the same order). Did you think that these actions were unnecessary or that you overdid it? "
+phv00018191.v1 ::: H10b.  At least two symptoms.  (Participants with European ancestry). DIGS4 
+phv00087648.v1 ::: 26: MODERATE VOLUNTEER MET-MIN/WK M-SU 
+phv00086916.v2 :::" GOUT FLARE-UP, PAST TWO WEEKS "
+phv00035193.v1 :::" The next questions are about your use of drugs on your own.  By ""on your own"" we mean either without a doctor's prescription, in larger amounts than prescribed, or for longer than prescribed.  With this definition in mind, did you ever use any of the following drugs on your own? Tranquilizers or ""nerve pills""? (Librium, Valium, Ativan, Meprobamate, Xanax, etc.). (Participants with European ancestry) "
+phv00004101.v1 ::: LONGEST DURATION (MINUTES) OF CHEST DISCOMFORT (RESPONSES EXCEEDING 3 DIGITS WERE TRUNCATED TO 998) 
+phv00009874.v3 ::: PHLEBITIS IN RIGHT LEG 
+phv00026099.v1 ::: Family history: myocardial infarct in diabetic siblings before age 40 
+phv00095133.v1 ::: TAKE PAIN MEDS IN PAST 2 WEEKS?   Q26 
+phv00015245.v1 :::" F35.a. Sev Dep Decr Alcohol, (Participants with European ancestry). DIGS3 "
+phv00092125.v1 ::: Bleeding on Probing (BL) measure for Mesiobuccal (MB) of tooth number 1 
+phv00025092.v1 ::: WAIS digit span - age-corrected score (quarterly visit 20) 
+phv00155201.v2 :::" Minimum of STJ, STM, STE amplitudes, lead mnst_iii "
+phv00052500.v1 :::" G44d More than 14 days, (African American participants). DIGS4 "
+phv00164848.v1 ::: Gender of participant. 
+phv00057647.v1 ::: Maximum BPM in NREM (Back position) associated with arousal 
+phv00087097.v1 ::: INDICATOR OF RENAL INSUFFICIENCY (GFR<60) 
+phv00097273.v1 ::: PARALYSIS:PAIN IN WEAK ARM/LEG/FACE Q39H 
+phv00127434.v1 ::: QSPTII - QS Pattern in lead II 
+phv00052879.v1 :::" K23 Running commentary, (African American participants). DIGS4 "
+phv00160797.v1 :::" P' Intrisicoid (Time from P Onset to Peak of P'), Lead V2 (mSec) "
+phv00052419.v1 :::" G10b Number hours usually, (African American participants). DIGS4 "
+phv00127406.v1 ::: MXRDV4 - Maximum R Duration in lead V4 
+phv00034017.v1 ::: HbA1c collection date (month 100) 
+phv00123373.v1 ::: 81 How many brothers with Tourette's Syndrome 
+phv00114470.v2 ::: TIME SINCE LAST USED HBP MED 
+phv00029504.v1 ::: Median nerve - sensory - post-test temperature: close-out 
+phv00015529.v1 :::" G59.a.10. Oth Mania Mixed Weeks, (Participants with European ancestry). DIGS3 "
+phv00143376.v3 ::: LEFT LUNG UPPER CORE: TOTAL VOLUME OF AIR IN THIS LUNG REGION (ml) 
+phv00057720.v1 ::: Central Apnea RDI in NREM (Other position) overall 
+phv00020872.v4 ::: CHECK UP BY DOCTOR IN PAST 5 YEARS 
+phv00128351.v1 ::: 22: Stop for breath after walking 100yds? 
+phv00158587.v1 ::: Failed scrn other - coded fields 
+phv00032853.v1 ::: Pre-breakfast blood glucose at OD 340 (quarterly visit 09) 
+phv00105262.v1 ::: HAS HOUSEHOLD CHORES CHANGED 
+phv00171879.v1 ::: Full or partial scan 
+phv00017558.v1 ::: F27.  Specify other.  (Participants with European ancestry). DIGS4 
+phv00078713.v3 ::: Age sister (2) had colorectal cancer 
+phv00097279.v1 ::: DIZZINESS: PARALYSIS OR WEAKNESS  Q42B 
+phv00031607.v1 ::: CBL4: Lipid test - 22: triglyceride (serum) value  (mg/dl) 
+phv00095134.v1 ::: MEDICATION CODE NO. -- REPLACES   Q04B 
+phv00011554.v2 :::" Shows good attention span, sees chores or homework through to the end "
+phv00127963.v1 ::: 38c: For what purpose did you used lemon/lemon juice? 
+phv00077712.v3 ::: Olestra/past year 
+phv00034153.v1 ::: Patient unemployed or retired 
+phv00033463.v1 ::: Blood glucose profile 8 at OD 340 (quarterly visit 36) 
+phv00119696.v2 ::: ROOM TEMPERATURE IN DEGREES CENTIGRADE. Q 4 
+phv00056485.v2 ::: HR/ECG signal quality (hours of signal most free from artifact) 
+phv00160192.v1 ::: Number of fetuses. 
+phv00072626.v2 :::" If ""yes"" to PCAFFEIN: How many cups? "
+phv00077727.v3 ::: Natural/Phytoestrogen pills 
+phv00003954.v1 ::: BREAST HAS AXILLARY NODES 
+phv00076057.v1 :::" Participant's score determined by examiner for rigidity in passive movement of neck with participant relaxed in sitting position while participant is in ""on"" or ""off"" state. "
+phv00120385.v2 ::: ANY CHANGES IN DIET SINCE LAST EXAM? Q3 
+phv00101818.v1 ::: How much difficulty with large print 
+phv00126861.v1 ::: RECALL: alcohol 
+phv00065737.v1 ::: I4h2g. Diabetes control - answer for all patients: reason for hypoglycemia; unexplained 
+phv00071974.v1 ::: Ventricular rate for first sleep study 
+phv00055360.v2 ::: Thiazide diuretics with k-sparing 
+phv00169681.v1 ::: Congestive Heart Failure (CHF) 
+phv00055033.v1 :::" ""WALK-IN"" CORRECTION, O.D. "
+phv00056568.v2 ::: Other reason why hookup not completed (no observations) 
+phv00111853.v3 :::" Item #110: Cookies, med serv/day "
+phv00112416.v2 ::: COTININE (NG/ML) 
+phv00057684.v1 ::: Maximum SaO2% in NREM sleep 
+phv00128666.v1 ::: 62: Was without privacy 
+phv00167186.v1 ::: 2-D MEASUREMENT  Parasternal Short Axis Ice Pick Left Ventricular Percentage Fractional Shortening - average (TwoD_PLA_LVpcntfs_avg) 
+phv00087507.v1 ::: 1ST READING: SEATED PULSE (BEATS PER MIN) 
+phv00036654.v1 :::" First degree with unipolar (Family), (Participants with European ancestry). DIGS4. Page2 "
+phv00057868.v1 ::: QS - Signal Quality Issues 
+phv00027788.v1 ::: Dietary phosphorous (mg): quarterly visit 08 
+phv00014822.v1 :::" B 3.f. Meningitis Year Onset, (Participants with European ancestry). DIGS3 "
+phv00003861.v1 ::: DYSPNEA INCREASED IN PAST TWO YEARS 
+phv00124798.v1 ::: 30. How satisfied have you been w/the quality of health care you have received in the past year? 
+phv00000816.v1 :::" ECG: GENERAL IMPRESSION, EXAM 5 "
+phv00056520.v2 ::: # of  times electrode replaced for right EOG 
+phv00110464.v1 ::: LOCATION OF CHILD 08 
+phv00057417.v1 ::: Minimum Central Apnea duration in NREM (Other position) 4% desaturation 
+phv00017347.v1 ::: E6. Remeron. Antidepressants. (Participants with European ancestry). DIGS4 
+phv00054699.v1 ::: AGE AT LAST BIRTHDAY 
+phv00087872.v4 ::: TIME TO CHF OR LAST FOLLOW-UP (DAYS) 
+phv00077721.v3 ::: Sweet N Low dessert/20 years ago 
+phv00113083.v2 ::: STATUS OF GASTRIC ULCER 
+phv00070913.v1 ::: Bipolar subject case or other. Pedigree of DIGS2 and DIGS3 subjects with European Ancestry 
+phv00057162.v1 ::: Maximum Hypopnea duration in NREM (Other position) 2% desaturation 
+phv00000783.v1 :::" HISTORY OF SMOKING: NUMBER OF CIGARS/DAY SMOKED NOW, EXAM 5 "
+phv00117077.v2 ::: MOST YOU EVER WEIGHED. Q 28a 
+phv00123033.v1 ::: Specify other regular medicine 
+phv00006821.v1 ::: TANDEM STAND: NUMBER OF SECONDS HELD IF LESS THAN 10 (SECONDS) 
+phv00050253.v1 ::: C2. How often do you worry about whether you will have children? 
+phv00122824.v1 ::: CHQ-PF50: Q11Q3C 
+phv00056744.v1 ::: Are you currently still smoking? 
+phv00154617.v2 ::: Accept Annual Visit4 Post  Max FEV1 
+phv00154851.v2 ::: F561. Chest 
+phv00106947.v1 ::: 1ST GRIP STRENGTH (2)  KG 
+phv00099948.v1 ::: LV ratio of actual to expected fraction 
+phv00053901.v2 ::: CURRENTLY TAKING DIURETICS (ALL PARTICIPANTS) 
+phv00091336.v1 ::: REGULAR ASPIRIN USE - 1ST VISIT   Q7 
+phv00143953.v3 :::" RIGHT LUNG, UPPER CORE: NUMBER VOXELS BELOW OR EQUAL TO -910 HOUNSFIELD UNITS "
+phv00081226.v1 ::: Date of diagnosis 
+phv00127471.v1 :::" Aortic leaflets (0=Normal, 1=Sclerosis, 2,3,4=Mild/Mod/Severe stenosis, 9=Can't assess) "
+phv00034121.v1 ::: Patient's current diet includes a daily caloric prescription (yes/no).  If yes what is the caloric prescription? 
+phv00114356.v2 ::: AGE MENSTRUATION BEGAN. Q 6 
+phv00080881.v1 ::: HISTORY OF DIABETES MELLITUS (200 mg/dl) AT EXAM 26 
+phv00094982.v1 ::: White matter grade                 Q10 
+phv00094582.v1 ::: NUM RELATIVES YOU FEEL CLOSE TO?  Q21 
+phv00032942.v1 ::: Post-breakfast blood glucose mg/dl (quarterly visit 13) 
+phv00028457.v1 ::: During past month: felt full of pep 
+phv00122183.v1 ::: List age/cause of sister(s) death (A) 
+phv00034384.v1 ::: Patient has a history of: impotence 
+phv00044970.v1 ::: Has there ever been a period of several days or more when you spent so much time drinking or recovering from the effects of alcohol that you had little time for anything else?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00045146.v1 ::: Did you talk with: another medical doctor?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00118395.v2 :::" 3ML GRAY TUBE, 1ML SERUM(2 HR GLUCOSE). Q 27 "
+phv00044951.v1 ::: How long ago did you take a drink just after you had gotten up: Did this happen 3 or more times?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00158581.v1 ::: Failed physical scrn - coded fields 
+phv00122109.v1 ::: Wheeze only during nights (AC) 
+phv00027731.v1 ::: Cumulative Packs-years smoked: quarterly visit 12 
+phv00168346.v1 ::: What was the dose of Selenium?  (DSF)  What was the dose of Selenium?  (FDS) 
+phv00142021.v2 ::: Total Subcortical Acute Microinfarcts (summary count) 
+phv00127139.v1 :::" AR88X - Arrhythmias (88X codes, the preceding 8 and 8 are not shown when a code is present). "
+phv00011935.v1 ::: D14h. Have you ever been bothered by any general problems such as: frequent crying?  IMPAIRMENT CODE. (Participants with European ancestry). DIGS2 
+phv00158776.v1 ::: Puerto Rican 
+phv00166830.v2 ::: Adenosine 
+phv00008582.v3 ::: HEART: NECK VEIN DISTENTION AT 45 DEGREES 
+phv00107148.v1 ::: FOLLOWING DIET FOR DIVERTICULITIS 
+phv00155432.v2 :::" S wave duration, lead sdu_avl "
+phv00070734.v1 :::" LAB VALUES: CREATININE, MG/DL "
+phv00096338.v1 ::: Branch Vein Occlusion 
+phv00171985.v1 ::: ICD9 code representing phenotype of participant: Gastrointestinal - Upper Dx 
+phv00095338.v1 ::: Iron (mg) 
+phv00125599.v1 ::: DOCTOR - HIGH BP                  Q7C 
+phv00053340.v1 :::" U8 Global rating,  affective flattening, (African American participants). DIGS4 "
+phv00032800.v1 ::: 3:00 a.m. blood glucose mg/dl (quarterly visit 06) 
+phv00112906.v2 ::: DOES NOT EAT OUT:EGGS. Q 6 
+phv00023532.v3 ::: LV REGIONAL WMA 
+phv00121873.v2 ::: Weight at current appt date 
+phv00010671.v3 :::" RESPIRATORY: IF YES TO G679, BY WHAT ROUTE - ORAL (CHECK ALL THAT APPLY) "
+phv00079505.v3 :::" Supplemental Vitamin B2 (Riboflavin), mg "
+phv00088696.v1 ::: Marital reconciliation  - Severity 
+phv00016741.v1 :::" P44. Social If Child >6 Mths, (Participants with European ancestry). DIGS3 "
+phv00091959.v1 ::: Cemento-enamel Junction (CEJ) also known as recession measure for  Mesiobuccal (MB) of tooth number 27 
+phv00087619.v1 ::: TOTAL DANCE/SPORT MET-MIN/WK M-SU 
+phv00036072.v1 ::: G3.  Onset month.  (Participants with European ancestry). DIGS4 
+phv00073502.v1 ::: Frequency of any alcoholic drink - during maximum drinking period 
+phv00120367.v2 ::: NUMBER TAKEN (NIACIN). Q 2 
+phv00071430.v1 :::" Interviewer rating of presence/absence of DSM4 criterion A item for  2+Voices Commented, followed by the raw repository SAS database field name in brackets for cross-reference to repository database [A60d]. Rating "
+phv00098695.v1 ::: OFTEN ADD CATSUP AND SAUCES Q88 
+phv00006222.v1 ::: ECG - IV BLOCK PATTERN 
+phv00078746.v3 ::: Male/Female relative had colorectal cancer 
+phv00035118.v1 ::: Did you find it difficult to stop worrying? (Participants with European ancestry) 
+phv00023879.v5 ::: Femur total bone mineral density 
+phv00021123.v4 ::: DIASTOLIC MURMUR: VALVE OF ORIGIN 
+phv00080895.v1 ::: DIABETES MELLITUS STATUS (140 mg/dl) AT EXAM 13 
+phv00015331.v1 :::" F65. Oth Dep During/After Ill, (Participants with European ancestry). DIGS3 "
+phv00003467.v1 ::: ARTHRITIS HISTORY: FRACTURED OR INJURED KNEE REQUIRES CRUTCHES 
+phv00052709.v1 :::" J34b PCP, (African American participants). DIGS4 "
+phv00008935.v3 ::: TIME FOR LOWER LIMB DISCOMFORT TO BE RELIEVED BY STOPPING (MINUTES) 
+phv00014690.v1 ::: A 5. Ethnicity Paternal 4 Code. DIGS3 
+phv00028839.v1 ::: Retinal thickening: cystoid changes are present - left eye 
+phv00162765.v1 ::: Total Percent Recovery - Sucralose 
+phv00113262.v2 :::" FVC, TRIAL 1 "
+phv00057195.v1 ::: Maximum desaturation in REM (Back position) 2% desaturation 
+phv00115210.v2 ::: ARTERIAL STIFFNESS INDEX 
+phv00003496.v1 ::: DEPRESSION SCALE: PEOPLE WERE UNFRIENDLY 
+phv00048580.v1 :::" Q12. Physical examination, extremities and skin examinations: charcot joint - right side "
+phv00172175.v1 ::: Creatinine (sample type: serum) 
+phv00090306.v4 ::: ATRIAL FIBRILLATION CODE DESCRIPTION 
+phv00127962.v1 ::: 38b: How many days during the past 2 weeks did you use lemon/juice? 
+phv00025500.v1 ::: Trailmaking - trail B - errors (quarterly visit 36) 
+phv00122568.v1 :::" Tonsillar size, Dr. Rosen scale (%) "
+phv00007746.v3 ::: SMOKING TIME PATTERN 
+phv00066754.v4 :::" HEART RATE OF SEGMENT 120 TO 150, BPM "
+phv00084757.v2 ::: UNFAIRLY NOT HIRED FOR A JOB 
+phv00052426.v1 :::" G16 Beliefs/ideas, (African American participants). DIGS4 "
+phv00050800.v1 ::: B5e. Does your health insurance provide coverage for: blood glucose testing strips 
+phv00121960.v2 ::: Vertebral Thoracic Level 7 Reading 
+phv00160498.v1 ::: LARGE HDL 9.4-14 nm (umol/L) FROM NMR LIPOPROFILE-3 SPECTRAL ANALYSIS 
+phv00002890.v1 ::: ECHO: ESTIMATED-LVED-VOL 
+phv00080958.v1 ::: DIABETES MELLLITUS STATUS (150 mg/dl) AT EXAM 22 
+phv00010043.v3 ::: CDI: FUNCTIONAL CLASS (NY HEART ASSOC. CLASSIFICATION) 
+phv00036443.v4 ::: Current estrogen user at exam 7 
+phv00126239.v1 ::: PUFA 18:3 (linolenic acid) (g) 
+phv00144024.v3 :::" RIGHT LUNG, UPPER PEEL: KURTOSIS OF PIXEL VALUES IN THIS LUNG REGION "
+phv00065561.v1 ::: Initial presentation 
+phv00120970.v2 ::: PAY OUT OF POCKET. Q 17b 
+phv00163850.v2 ::: Differential Count (Peripheral Blood): Lymphocytes 
+phv00005536.v1 ::: OSTEOARTHRITIS - CREPITUS CODE RIGHT KNEE 
+phv00115142.v2 ::: DATE OF RESPONSE - MON 54 
+phv00088054.v1 ::: Mother's Cleft 
+phv00094752.v1 ::: DURATION MORNING STIFFNESS        Q19C 
+phv00080790.v1 ::: BLOOD GLUCOSE AT EXAM 9 
+phv00030134.v1 ::: Albumin excretion rate (mg/24hr) at year 1 
+phv00070540.v1 ::: NON CARDIOVASCULAR DIAGNOSTIC 1ST EXAMINER OPINIONS: PROSTATE DISEASE 
+phv00080210.v3 ::: Days CaD randomization to Esophagus Cancer 
+phv00115127.v2 ::: DATE OF RESPONSE - MON 36 
+phv00114729.v2 :::" FOR PERSONAL PROBLEMS, FRIEND. Q 5 "
+phv00113298.v2 :::" FEV3, TRIAL 4 "
+phv00098839.v1 ::: CHRONIC LEUKEMIA 
+phv00030739.v1 ::: T-score for depression 
+phv00112139.v2 ::: HARD EXUDATE RIGHT EYE 
+phv00018768.v1 ::: K60e.  Loss of interest.  (Participants with European ancestry). DIGS4 
+phv00073588.v1 ::: Median BMI at HDL results 
+phv00163073.v1 ::: Indicates the tumor/normal status of a sample 
+phv00029274.v1 ::: Experimental Group - Modification(s) since last visit: record frequency of  urine glucose monitoring/day 
+phv00114312.v2 ::: NUMBER OF DAYS HAD B07NUMDR 
+phv00000744.v1 :::" HEIGHT: FULL INCHES, EXAM 5 "
+phv00032564.v1 ::: CBL10: 24-hr: urine creatinine coefficient (mg/kg/spec) 
+phv00044822.v1 ::: How many drinks of beer did you have on Sunday?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00089004.v1 ::: Other people aware/their private thoughts 
+phv00124144.v1 ::: TIGF (ng/mL) 
+phv00003214.v1 :::" ECG: S-T DEPRESSION ""STRAIN PATTERN""-WITH DOWN-SLOPING ST "
+phv00115660.v2 :::" RATIO FEV3/FVC, TRIAL #4 "
+phv00114243.v2 ::: ACCUSSED OF IMPRISONABLE OFFENSE. Q A 
+phv00049726.v1 ::: F. Ophthalmoscopic examination: are there new vessels (NVE) outside 7 standard fields? Left eye 
+phv00096379.v1 :::" CHEST WHEEZE, WHISTLE ALOT?       Q15 "
+phv00094651.v1 ::: MORE THAN 1 EPISODE ARTHRITIS 10 YRS Q3B 
+phv00052401.v1 :::" G1b Unusual irritability, (African American participants). DIGS4 "
+phv00019140.v1 ::: Q5.  Age.  (Participants with European ancestry). DIGS4 
+phv00008533.v3 ::: AT JOB: WORK OFTEN STRETCHED YOU TO YOUR LIMITS OF ENERGY AND CAPACITY 
+phv00011677.v1 ::: B3f. Have you had any of the following conditions: meningitis/other brain disorders? (Participants with European ancestry). DIGS2 
+phv00065339.v2 ::: WHOLEBODY PELVIS BMC EX23 (GRAMS) 
+phv00079444.v3 ::: Age last used OC 
+phv00124291.v1 ::: Days from visit date - Diagnosed Other Heart Disease 
+phv00160054.v1 ::: Number of term deliveries the mother has had. 
+phv00167124.v2 ::: RIGHT HEART/PERICARDIUM: RV (Right Ventricular) hypertrophy 
+phv00126884.v1 ::: RECALL: vitamin E (total alpha-tocopherol) 
+phv00002230.v1 ::: INTERIM HISTORY OF MEDICINE USED: ORAL HYPOGLYCEMIC AGENTS 
+phv00122622.v1 ::: % of time in artifacts 
+phv00000596.v1 :::" FINAL DIAGNOSTIC IMPRESSION: AORTIC REGURGITATION OR STENOSIS, EXAM 2 "
+phv00097233.v1 ::: HOW LONG UNTIL NUMBNESS WORST?    Q28A 
+phv00161085.v1 :::" T Intrisicoid (Time from STE Onset to Peak of T), Lead V2 (mSec) "
+phv00094316.v1 ::: DATE CANCER DIAGNOSED - YEAR        Q5IY 
+phv00081836.v1 ::: Subject History of disease - teenager (2) 
+phv00036101.v1 ::: G17.2a. Voices within.  (Participants with European ancestry). DIGS4 
+phv00171753.v1 ::: Number of study visits for which we have Waist circumference 
+phv00098237.v1 ::: COMMENTS ON BLOOD DRAWING         Q13 
+phv00001159.v1 ::: SIGNS OF CVA:  APHASIA 
+phv00077960.v3 ::: Why did you make change to drinking 
+phv00105150.v1 ::: WALK A 1/2 MILE W/O DIFFICULTY 
+phv00013147.v1 ::: P29c. Did you go out of your way to avoid: simple/specific fear(s)? (Participants with European ancestry). DIGS2 
+phv00049967.v1 :::" J2a3. Potential contributing factors, diet four-hours before hypoglycemic event: missed-unknown "
+phv00081637.v1 ::: PAIN DUE TO VIRUS (POST HERPETIC NEURALGIA): Subject History of disease 
+phv00026524.v1 ::: CBL00: Mean unadjusted GFR (ml/min) 
+phv00121718.v1 ::: PERSONAL PHYSCICIAN EXPLANATION 
+phv00052376.v1 :::" F69b Year of death, (African American participants). DIGS4 "
+phv00070960.v1 ::: Number of months from Baseline to second prednisone burst.  See description of pre_bursts_event1_month variable.  The assignment is done in the same manner using the second prednisone bursts. 
+phv00004654.v1 ::: PROGESTERONE USE IN INTERIM 
+phv00094885.v1 ::: Num.small basal ganglia infarcts   Q24 
+phv00011369.v2 :::" Coping and consistency for hyperactivity, impulsiveness and inattentiveness - school behaviours "
+phv00172454.v1 ::: Derived field: Cold cereal - Total 
+phv00014696.v1 :::" A 9. Domicile Type, (Participants with European ancestry). DIGS3 "
+phv00029035.v1 ::: MDI  3  - previous day: injection - A.M. or P.M. 
+phv00064899.v2 ::: SECOND LARGEST AORTIC PLAQUE NUMBER FOR SLICE 15 
+phv00018933.v1 ::: O18f.  Specify.  (Participants with European ancestry). DIGS4 
+phv00020659.v1 ::: Amsterdamse Biografische Vragenlijst (ABV) neuroticism item 26: Do you find it difficult to get over disappointments? 
+phv00160936.v1 ::: R' Amplitude in Lead AVF (uV) 
+phv00159761.v2 ::: Age when completely stopped smoking pipe [years old] 
+phv00070792.v2 ::: HALF CUP OF DATES OR FIGS 
+phv00169752.v1 ::: Brain Cancer ascertainment source 
+phv00089148.v1 ::: MAXIMAL CHOREA (FACE) 
+phv00165531.v1 ::: Total Surfaces missing due to decay. 
+phv00092215.v1 ::: Bleeding on Probing (BL) measure for Distobuccal (DB) of tooth number 27 
+phv00155364.v2 ::: QRS Interval Duration (ms) 
+phv00007998.v3 ::: CURRENT SMOKING-REG LAST 2 YRS 
+phv00168335.v1 :::" Not counting multi-vitamins, have you ever regularly taken Beta Carotene?  (DSF)  Not counting multi-vitamins or the VISP vitamin, have you regularly taken Beta Carotene during the past year?  (FDS) "
+phv00071345.v1 :::" Was at least 1 record obtained from a hospital, clinic or clinician about the subject's psychiatric history? "
+phv00003405.v1 ::: RECENT ORTHOPNEA 
+phv00078508.v3 ::: Hospitalized overnight last two years 
+phv00125043.v1 ::: 23. Are you able to do heavy work around the house without help? 
+phv00069976.v2 :::" FFQ: COKE, PEPSI, OTHER COLA W/SUGAR "
+phv00094558.v1 ::: CURRENT OCCUPATIONAL STATUS       Q55 
+phv00100179.v1 :::" HAMBURGERS, CHEESEBURGERS, MEAT LOAF "
+phv00116496.v2 ::: HIP: NECK BMD 
+phv00127947.v1 :::" 34c: Pills taking per week, on average? "
+phv00007427.v1 ::: SUDDEN MUSCULAR WEAKNESS IN INTERIM 
+phv00051173.v1 ::: C5. Cerebrovascular accident. Diagnostic tests performed: test 1 
+phv00094153.v1 ::: Visit 4 urine albumin-to-creatinine ratio 
+phv00156661.v2 ::: Osteoprotegerin baseline corrected OD reading for second well 
+phv00162425.v2 ::: Derived field: Nutrient value - Pantothenic Acid without supplements 
+phv00122703.v1 ::: SF-36 Role-Physical (0-100) (rp) 
+phv00098133.v1 ::: DCDC3 
+phv00023139.v1 ::: REPEAT SYSTOLIC BLOOD PRESSURE MEASUREMENT BY DOPPLER IN RIGHT ANKLE 
+phv00093111.v1 ::: BRAND OF BREAKFAST CEREAL         Q80A 
+phv00036316.v2 :::" CORTICAL AREA, % = [((D_OUTER)  2-(D_ENDO)  2)/(D_OUTER)  2] 100% [M4-METACARPAL 4] "
+phv00165538.v1 ::: Tooth brushing frequency. 
+phv00142934.v3 :::" LEFT LUNG, CORE: THE INTERCEPT OF THE LINE AT THE KNEE "
+phv00127665.v1 ::: Msragpicode 
+phv00154876.v2 ::: A5. Methacholine Abs chg in FEV1 vs. log10(conc+1) 
+phv00057621.v1 ::: Average desaturation in NREM (Back position) 5% desaturation or arousal 
+phv00123367.v1 ::: 81 How many brothers with Restless Legs 
+phv00017047.v1 ::: B1. Overweight Yes/No.  (Participants with European ancestry). DIGS4 
+phv00015175.v1 :::" F5. Current Dep Most Severe, (Participants with European ancestry). DIGS3 "
+phv00111838.v3 :::" Item #95: Milk on cereal (cold and cooked), med serv/day "
+phv00011314.v2 ::: Activity level and inattentive behaviour - reading - usual talkativeness - PACS section 2.2 
+phv00143505.v3 :::" RIGHT LUNG, CORE: NUMBER VOXELS BELOW OR EQUAL TO -890 HOUNSFIELD UNITS "
+phv00049658.v1 ::: C2. Total numbers of letters read correctly at 4 meters - left eye 
+phv00065988.v1 :::" B5e. Health insurance coverage. If you currently have health insurance, does it provide coverage for blood glucose testing strips "
+phv00170900.v1 ::: Diabetic Retinopathy Level: Right eye 
+phv00066339.v1 ::: Age at recruitment 
+phv00082218.v1 ::: Neurological examination: Limb rigidity - Other 
+phv00029209.v1 ::: Blood pressure meets definition of hypertension. 
+phv00052183.v1 :::" E6 Dexedrine, (African American participants). DIGS4 "
+phv00165286.v2 ::: BASELINE ANGIOPLASTY STATUS 
+phv00077341.v3 ::: Whole body scan days from randomization/enrollment 
+phv00014992.v1 :::" D15.b. Palpitations - What, (Participants with European ancestry). DIGS3 "
+phv00118581.v2 ::: CURRENTLY TAKING HORMONES EXCLUDING BCP? Q 44 
+phv00020614.v1 ::: Beck Anxiety Inventory (BAI) anxiety item 4: Unable to relax 
+phv00102242.v1 ::: Hygiene/personal care 
+phv00052298.v1 :::" F38a Current episode, (African American participants). DIGS4 "
+phv00010287.v3 ::: CHEST DISCOMFORT: RADIATION OF CHEST DISCOMFORT 
+phv00048887.v1 :::" N1d. Infection, major surgery, minor outpatient surgery, endocrinological, or skin complication: mononucleosis, epididymitis "
+phv00082445.v1 :::" M, N SEQUENCE: Other - Test date "
+phv00096386.v1 :::" BREATH SHORT WHEN HURRY, HILL?    Q22 "
+phv00096011.v1 ::: AGE WHEN MENSTRUATION BEGAN       Q1 
+phv00161194.v1 :::" Minimum of STJ,STM, STE Amplitudes, Lead V3 (uV) "
+phv00034962.v1 :::" Delusions - ever (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I10940] "
+phv00064771.v2 ::: THIRD LARGEST AORTIC PLAQUE NUMBER FOR SLICE 4 
+phv00111815.v3 :::" Item #72: Other lunch meat (bologna/salami/spam), med serv/day "
+phv00072276.v2 ::: ECG: ANTERIOR 
+phv00016549.v1 :::" O9. Lethality of Attempt #1, (Participants with European ancestry). DIGS3 "
+phv00029869.v1 ::: Standard treatment group: on how many days has patient failed to perform two urine and one blood test? 
+phv00000938.v1 :::" X-RAY: (BEFORE) ATRIAL HYPERTROPHY, EXAM 7 "
+phv00156732.v2 ::: Shaft bone mineral density 
+phv00105563.v1 ::: BLACKOUTS OR FAINTING 
+phv00002809.v1 ::: ECG: ATRIOVENTRICULAR BLOCK- WOLFF-PARKINSON-WHITE (WPW) SYNDROME 
+phv00167443.v1 ::: Tumor/Normal Status 
+phv00031173.v1 ::: Systolic blood pressure - standing - time 5 
+phv00160710.v1 ::: P Duration in Lead II (msec) 
+phv00101927.v1 ::: HYPERPIGMENTATION 
+phv00121734.v1 ::: OTHER CVD CAUSE 
+phv00154847.v2 ::: F561. Breath stop 
+phv00090461.v2 ::: Days since most recent use of nitrofurantoin 
+phv00079170.v3 ::: Close friend/family have a divorce 
+phv00053953.v2 ::: CAPSULOTOMY - LEFT  EYE (ALL PARTICIPANTS) 
+phv00072470.v2 ::: HAND GRIP TEST (MEASURED TO NEAREST KILOGRAM) RIGHT HAND: TRIAL 1 
+phv00031935.v1 ::: Duration of status change number 1 
+phv00101221.v1 :::" FAR WALL STANDARD DEV, L ANT OBLIQ "
+phv00010555.v3 ::: HOMEMAKER VISITS (PAST TWO YEARS) 
+phv00004736.v1 ::: SUDDEN MUSCULAR WEAKNESS 
+phv00003557.v1 ::: PERIPHERAL VESSELS: RETICULAR VISIBLE VARICOSITIES 
+phv00069922.v2 ::: FFQ: TOMATOES (1) 
+phv00084487.v2 :::" GIRTH, PROTOCOL MODIFICATION "
+phv00019334.v1 ::: AA10.  Accidentally leave things.  (Participants with European ancestry). DIGS4 
+phv00088673.v1 ::: Death of close friend  - Severity 
+phv00104979.v1 ::: CARDIAC INJURY SCORE 
+phv00097153.v1 ::: WHERE PARALYZED-DBL VISION        Q22E 
+phv00031821.v1 :::" Z-score, domain 5: spatial information "
+phv00080151.v3 ::: Pulmonary Embolism 
+phv00066213.v1 ::: C2. Did pain last more than 20 minutes 
+phv00072569.v2 :::" WHAT IS THE CHANCE THAT YOU WOULD DOZE OFF OR FALL ASLEEP (NOT JUST ""FEEL TIRED"") SITTING AND TALKING TO SOMEONE? "
+phv00172266.v1 ::: Urate 
+phv00171116.v1 ::: Text term to signify if a subject is still receiving radiation therapy.(public CDE id 2842745) 
+phv00101912.v1 ::: BRANCH VEIN OCCLUSION+ 
+phv00057202.v1 ::: Average desaturation in NREM (Other position) 2% desaturation 
+phv00142005.v2 ::: Cortical Biel Neurofibrillary Tangles (summary count) 
+phv00126761.v1 ::: LFFQ: thiamin (mg) 
+phv00122887.v1 ::: Chokes for breath at night (Bed Partner) 
+phv00162254.v2 ::: FFQ: COFFEE 
+phv00122093.v1 ::: Time of day function best (A) 
+phv00003985.v1 ::: LEFT DORSALIS PEDIS PULSE 
+phv00033849.v1 ::: HbA1c (month 049) 
+phv00121800.v1 ::: Mother's one hour OGTT glucose 
+phv00065090.v2 :::" LARGEST AORTIC PLAQUE PERIMETER FOR SLICE 31, MM "
+phv00100462.v1 :::" % STENOSIS,  RIGHT "
+phv00036233.v4 ::: HSA MEASUREMENT - INTERTROCHANTERIC BONE MINERAL DENSITY (G/CM2) 
+phv00054972.v1 ::: GLAUCOMA SUSPECT RECALL EXAMINATION: MEETS REFERRAL CRITERIA FOR GLAUCOMA EVALUATION 
+phv00122070.v1 ::: Number of accidents on job (A) 
+phv00090539.v2 ::: Participant was born in the United States 
+phv00101943.v1 ::: Central retinal venous equivalent 
+phv00011996.v1 ::: E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Antipsychotics: Thorazine. (Participants with European ancestry). DIGS2 
+phv00019499.v1 ::: E9. Duration (row 1).  (Participants with European ancestry). DIGS4 
+phv00092467.v1 ::: Attachment Loss (AL) measure for Lingual (L) of tooth number 23 
+phv00115214.v2 ::: MEAN INTIMA-MEDIA THICKNESS OF RCO (mm) 
+phv00017190.v1 ::: B6. Medication (row 20).  (Participants with European ancestry). DIGS4 
+phv00050140.v1 ::: B15. Neurological history: have you ever had an amputation 
+phv00000125.v2 ::: NEW DIAGNOSIS OF CANCER (SINCE LAST STUDY VISIT) AT YEAR 3 (PARTICIPANTS WITH A GENETIC SPECIMEN) 
+phv00018455.v1 ::: J46. Opiates.  (Participants with European ancestry). DIGS4 
+phv00009596.v3 ::: ARE YOU WORKING NOW 
+phv00081750.v1 ::: PARKINSON'S DISEASE: Family history of disease 
+phv00029196.v1 ::: Infections: infection(s) at the insertion side 
+phv00120409.v2 ::: 2ML QC URINE ALIQUOT? Q 5 
+phv00122689.v1 ::: MOS: Q11D gh5 
+phv00121016.v2 ::: PHYS HLTH AFFECT SOC ACT - LAST 4 WKS. Q 12 
+phv00007292.v1 ::: BETA BLOCKER GROUP 
+phv00154807.v2 ::: F461. Chest phlegm 
+phv00052749.v1 :::" J40 Stimulants, (African American participants). DIGS4 "
+phv00052262.v1 :::" F22a Preoccupied, (African American participants). DIGS4 "
+phv00144252.v2 :::" LEFT LUNG, PEEL 950: 1-D ARRAY OF HOLE AREAS SORTED BY INCREASING SIZE "
+phv00028601.v1 ::: Number of questions answered - psychoticism 
+phv00034071.v1 :::" DCCT: Patient's diet at estimated on-set time of hypoglycemic event (4 hours, see variable ibd1a): delayed meal "
+phv00065387.v2 ::: COMMENT1: METAL OBJECTS EX23 
+phv00169091.v2 ::: First Underlying Cause Of Death 
+phv00028698.v1 ::: Distress caused by: feeling uncomfortable about eating or drinking in public 
+phv00142707.v3 ::: BOTH LUNGS: NUMBER VOXELS BELOW OR EQUAL TO -850 HOUNSFIELD UNITS 
+phv00143070.v3 :::" LEFT LUNG, LOWER PEEL: MEDIAN PIXEL VALUES WITHIN LUNG REGION (HU) "
+phv00077625.v3 ::: Estrogen skin patch - dosage 
+phv00093454.v1 ::: TR                                Q17 
+phv00078912.v3 ::: After anger bothered for a long time 
+phv00033312.v1 ::: Blood glucose profile collection date (quarterly visit 30) 
+phv00031834.v1 ::: Score at baseline: finger-tapping - non-dominant hand 
+phv00025986.v1 ::: Number of pipefuls/cigars per week patient smoked (on average) in past year 
+phv00077322.v3 ::: BMC of the Total Hip (grams) 
+phv00069940.v2 ::: FFQ: ROMAINE OR LEAF LETTUCE (SERVING) 
+phv00143351.v3 ::: LEFT LUNG UPPER CORE: NUMBER VOXELS BELOW OR EQUAL TO -930 HOUNSFIELD UNITS 
+phv00051100.v1 ::: B3. Recognition of event. How did clinic learn of the event 
+phv00120715.v2 ::: 5) ANY MEDS OVER COUNTER 
+phv00002412.v1 ::: OTHER AORTIC ABNORMALITY 
+phv00087178.v1 ::: NUMBER OF YEARS BIRTH CONTROL TAKEN 
+phv00102631.v1 ::: YOUR HEALTH IN GENERAL 
+phv00104755.v1 ::: CAN PARTICIPANT BUTTON SHIRT 
+phv00032973.v1 ::: Post-supper blood glucose at OD 340 (quarterly visit 14) 
+phv00120882.v2 ::: SCAN 1 UNADJUSTED AGATSTON SCORE 
+phv00032165.v1 ::: Pegboard - non-dominant hand: time to insert pegs 
+phv00050244.v1 ::: B20. How often do you hide from other the fact that you are having an insulin reaction? 
+phv00051245.v1 ::: C3r. Intermittent claudication(peripheral ischemia). In what part of your (right) leg does the pain occur? 
+phv00090849.v1 :::" Ibuprofen (Advil, Motrin, Nuprin) "
+phv00101793.v1 ::: Dr said you had diabetes 
+phv00150525.v1 ::: Scanner model 
+phv00002332.v1 ::: PERIPHERAL VESSEL EXAMINATION: FEMORAL 
+phv00057814.v1 ::: Central Apnea RDI in REM (Other position) 5% desaturation 
+phv00077672.v3 ::: F144 Days since enrollment 
+phv00142450.v1 ::: Vertebral Thoracic Level 12 Reading for Follow-up X-ray 
+phv00172629.v1 ::: FFQ: Low-fat or fat-free mayonnaise 
+phv00057143.v1 ::: Minimum SaO2 in REM (Back position) associated with arousal 
+phv00056706.v1 ::: Hours participant drives each day 
+phv00112861.v2 ::: NON-ALCOHOLIC LIGHT BEER 
+phv00108761.v1 ::: TREATED IN EMERGENCY ROOM FOR CHF 
+phv00033945.v1 ::: HbA1c collection date (month 028) 
+phv00080498.v1 ::: R-R (M.M.) (visit 1) 
+phv00069988.v2 ::: FFQ: CANDY W/OUT CHOCOLATE (1 OZ) 
+phv00026982.v1 :::" T4 - cholesterol value (serum, pre-injection) mg/dl "
+phv00023741.v1 ::: SSI-ICM TEST - PRESENTATION LEVEL - LEFT EAR 
+phv00123884.v1 ::: Nurses notes: Use recreational drugs 
+phv00085565.v2 ::: MEDICARE 
+phv00106249.v1 ::: THE AGE AT FIRST STROKE FOR NAME4 
+phv00030018.v1 ::: Profilset not mailed to laboratory: of other or unknown reason 
+phv00163922.v1 ::: The staus of Hepatitis B virus infection 
+phv00117965.v2 ::: # OF DR/CLNC VISITS IN PAST YR - MON 108 
+phv00141994.v2 :::" Amygdala: Senile Plaques at 100X (diffuse), left "
+phv00120499.v2 ::: EXAM DATE - FORM 63 
+phv00032200.v1 ::: WISC-R Picture completion: total number of correct completions 
+phv00129423.v2 ::: Draw time 
+phv00112168.v1 ::: Myocardial Infarction (MI) status 
+phv00082695.v1 ::: CHEST-SQUARE READING: O-V6 MEASUREMENT 
+phv00009836.v3 ::: FAINTED/L.O.C. - ER/HOSPITALIZED OR SAW MD 
+phv00025384.v1 ::: Test r5: difference between year 7  and baseline scores 
+phv00169571.v1 ::: Barrier-friends discouraged me from taking 
+phv00158650.v1 ::: Sub plaq spec collected 
+phv00079538.v3 ::: F45 Taking biotin from single sup 
+phv00009497.v3 ::: ECG: IV BLOCK-COMPLETE 
+phv00084223.v2 ::: PEEL OF FRESH FRUITS 
+phv00098644.v1 ::: CONSUMED DANISH OR PASTRY Q45 
+phv00120173.v2 ::: MARITAL STATUS - YR 7 EXAM. Q 7 
+phv00025550.v1 ::: Test r16: difference between year 9  and baseline scores 
+phv00104221.v1 ::: WAS EXERCISE A MAJOR FACTOR 
+phv00096473.v1 ::: COMPARE YOUR WORK WITH OTHERS:    Q7 
+phv00117356.v2 ::: SES  DISCR - IN PUBLIC. Q 5g 
+phv00155271.v2 :::" P' wave amplitude, lead ppam_v5 "
+phv00017582.v1 ::: F35. Did this episode follow increased use of alcohol? (Participants with European ancestry). DIGS4 
+phv00057835.v1 ::: % Sleep time in Apnea+Hypopnea with Arousal 
+phv00098431.v1 ::: Has the participant traveled past month 
+phv00017434.v1 :::" F1. Depressed. Have you ever had a period of at least one week when you were bothered most of the day, nearly every day, by feeling depressed, sad, down, low? (Participants with European ancestry). DIGS4 "
+phv00088637.v1 ::: Having an abortion 
+phv00085591.v2 ::: USED SNUFF AT LEAST 20 TIMES IN LIFETIME 
+phv00159705.v2 ::: Asthma: do you still have asthma 
+phv00162520.v2 :::" Derived field: Nutrient value - Petunidin, anthocyanidin USDA 2003 "
+phv00050448.v1 :::" B8hb. Health care delivery. During the past 6 months have you had laboratory test: B. other major tests, in past 6 months "
+phv00024654.v3 ::: RIBOFLAVIN (NMOL/L) 
+phv00120247.v2 ::: F65EXDAT 
+phv00104150.v1 ::: CHEST SOUND WHEEZY APART FROM AFTER COLD 
+phv00066265.v1 ::: C3d. Nature of event. Where was the patient treated? Specify 
+phv00032355.v1 ::: Short-term memory: number of extra-list intrusion errors 
+phv00122308.v1 ::: Age when drug addiction noted (A) 
+phv00087410.v1 ::: ONGOING DIFFICULTIES WITH YOUR JOB OR ABILITY TO WORK: HAS THIS BEEN A PROBLEM FOR 6+ MONTHS? 
+phv00026097.v1 ::: Family history: myocardial infarct in diabetic parents before age 40 
+phv00104246.v1 ::: HIGH CARBOHYDRATE 
+phv00084742.v2 :::" PEOPLE WERE UNFRIENDLY, PAST WEEK "
+phv00057447.v1 ::: Number of Hypopnea in REM (Back position) 4% desaturation or arousal 
+phv00124571.v1 ::: 14c: First arm-other 
+phv00083465.v1 :::" INDICATOR THAT FVC IS NOT IN EXPECTED RANGE [500, 7500] "
+phv00119661.v2 ::: DISTANCE MOVED FROM CLINIC - MON 144 
+phv00097659.v1 ::: MIN LUMEN DIAMETER(RT POPLITEAL) 
+phv00070413.v1 :::" PHLEGM: DURING THE PAST 12 MONTHS, HAVE YOU BROUGHT UP PHLEGM FROM YOUR CHEST UPON GETTING UP OR FIRST THING IN THE MORNING?) "
+phv00017390.v1 ::: E6. Haldol. Antipsychotics. (Participants with European ancestry). DIGS4 
+phv00026909.v1 ::: Log of ETDRS score at quarterly visit 06 ( 18 months) 
+phv00167034.v2 ::: 2-D MEASUREMENT  Two Chamber View Left Ventricular End Systole Volume - average  (TwoD_2CH_LVESV_avg) 
+phv00065337.v2 ::: WHOLEBODY PELVIS FAT/ROI EX22 (GRAMS) 
+phv00010791.v3 ::: DIABETES MELLITUS STATUS AT EXAM 1 (SOURCE: CALCULATED) 
+phv00027405.v1 ::: CBL2: GFR coefficient of variation (percent) 
+phv00089435.v3 ::: Indication 
+phv00094569.v1 :::" IF NEED HELP, TROUBLE GETTING IT? Q8 "
+phv00094733.v1 ::: EVER TOLD HAD GOUT                Q6A 
+phv00010752.v3 ::: Age at Offspring Exam 2 
+phv00006436.v1 ::: BERKMAN - HOW MANY OF THESE CLOSE FRIENDS DO YOU SEE AT LEAST ONCE A MONTH? PLEASE CIRCLE THE RESPONSE THAT MOST CLOSELY DESCRIBES YOUR CURRENT SITUATION. 
+phv00090817.v1 ::: Weight d (Average) - kg 
+phv00032998.v1 ::: 3:00 a.m. blood glucose mg/dl (quarterly visit 15) 
+phv00165187.v1 :::" Family history (first degree relatives) of stroke at baseline [0=No, 1=Yes] "
+phv00035331.v1 :::" Now, please check all the ethnic backgrounds that apply to your maternal grandmother (that is, your mother's mother). Asian. "
+phv00071778.v1 ::: QA result of SNP 
+phv00089221.v1 ::: DISRUPTIVE or AGGRESSIVE BEHAVIOR (Frequency) 
+phv00049635.v1 :::" C2. Visual acuity measurements. Letters correct at four meters distance, 20/50, right eye "
+phv00015003.v1 :::" E2.c. Employed When Tx'd, (Participants with European ancestry). DIGS3 "
+phv00170983.v2 ::: TCGA study abbreviation 
+phv00122187.v1 ::: Any siblings have narcolepsy (A) 
+phv00142706.v3 ::: BOTH LUNGS: NUMBER VOXELS BELOW OR EQUAL TO -870 HOUNSFIELD UNITS 
+phv00092113.v1 ::: Cemento-enamel Junction (CEJ) also known as recession measure for Distolingual (DL) of tooth number 21 
+phv00032882.v1 ::: Pre-supper blood glucose mg/dl (quarterly visit 10) 
+phv00097243.v1 ::: NUMBNESS: PARALYSIS               Q31B 
+phv00001271.v1 ::: INTERIM HISTORY OF RESPIRATORY SYMPTOMS: DYSPNEA OR EXERTION 
+phv00089158.v1 ::: WEIGHT (kg) 
+phv00162167.v2 ::: FFQ: RAISINS OR GRAPES 
+phv00013113.v1 :::" P13l. During the attacks, did you experience any of the following symptoms: feeling that you or the world around you was strange or unreal? Most attacks. (Participants with European ancestry). DIGS2 "
+phv00128571.v1 ::: Weight representing the precision with which SUM45_1 is estimated for each individual 
+phv00169239.v2 :::" Tissue Type, area from which the tissue sample was taken. This is a parent value to SMTSD. "
+phv00029460.v1 :::" Median nerve - motor - post-test temperature (celsius): quarterly visit 20 - Note: There may be instances of errors in recording some body temperatures values.  Body temperature values outside reasonable ranges (e.g., 30-40 degrees celsius) might be treated as recording or measurement errors. "
+phv00125940.v1 ::: Character results for Hscrp 
+phv00050322.v1 ::: B2dii. Health care delivery: total number of nights in hospital not paid for 
+phv00127042.v1 ::: SFFQ: SFA 8:0 (caprylic acid) (gm) 
+phv00052281.v1 :::" F33 Taking medication, (African American participants). DIGS4 "
+phv00128357.v1 ::: 1: Room temp(degrees centigrade) 
+phv00143694.v3 :::" RIGHT LUNG, LOWER PEEL: VALUE OF THE PIXEL THAT IS AT THE 10TH PERCENTILE OF PIXEL VALUES "
+phv00142539.v1 ::: NHS/HPFS/GEP: Cases: Zone of VF loss OS on earliest VF indicates peripheral loss (nasal step. nasal depression. temporal wedge). For cases only. 
+phv00048738.v1 ::: I3h2c. Diabetes control - answer for all patients: reason hypoglycemia; delayed meal or snack 
+phv00056560.v2 ::: From recorder: Start test - hour 
+phv00091223.v2 ::: Currently taking anti-TNF alpha inhibitor 
+phv00049744.v1 ::: F. Ophthalmoscopic examination: why do you not plan photocoagulation in the eye(s) with high risk characteristics? Unable to laser left eye - other reason 
+phv00105006.v1 ::: SHORT PR 
+phv00124160.v1 ::: In cystatin c dataset 
+phv00102642.v1 ::: NUMBER DAYS IN HOSPITAL FOR ANGINA 
+phv00015528.v1 :::" G59.a.10. Oth Mania Mixed Days, (Participants with European ancestry). DIGS3 "
+phv00169912.v1 ::: Shaft of Femur Fracture 
+phv00127713.v1 ::: 37: Pain in either leg on walking? 
+phv00127890.v1 ::: MSRA19Y 
+phv00121087.v2 ::: FLHSCOR2 - FLHSCOR1 
+phv00026107.v1 ::: Family history: eye disease in sibling 
+phv00128606.v1 ::: 2: Bothered with red tape 
+phv00030897.v1 ::: Intra-ocular pressure (mmhg) - left eye 
+phv00066037.v1 ::: C9h1. Health care providers and sources of care. Ophthalmologist: number of visits 
+phv00023484.v3 :::" LEAD V5, T IND "
+phv00113638.v2 :::" MEAS. 3: TRICEPS SKINFOLD, MM. Q 3 "
+phv00120570.v2 :::" USED BC TO CONTROL ACNE, PAST 12 MOS. Q 16 "
+phv00071003.v1 ::: BMIZ at follow-up visit 
+phv00048567.v1 :::" Q11b. Physical examination, peripheral pulse: left other bruit "
+phv00162937.v1 ::: WISDM Craving Subscale (Mean) 
+phv00110517.v1 ::: Doctor told have high bp 
+phv00119984.v2 :::" SPECIFY, OTHER MAJOR DISEASE/HEALTH PROB. Q 26 "
+phv00080181.v3 ::: Days CaD randomization to Breast Cancer 
+phv00036096.v1 ::: G16c. How long after.  (Participants with European ancestry). DIGS4 
+phv00021993.v3 ::: ACTIVITIES IN PAST WEEK (LINE1 ):  TIME IN HOURS FOR EACH ACTIVITY 
+phv00044623.v1 :::" Bulimia nervosa Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 "
+phv00033504.v1 ::: 3:00 a.m. blood glucose mg/dl (quarterly visit 38) 
+phv00106597.v1 ::: TIME (MIN.)  - JOG 
+phv00100609.v1 ::: Left Leg BMD 
+phv00105588.v1 ::: SEIZURES OR CONVULSIONS 
+phv00171144.v1 :::" The current weight, in grams, of the tissue sample(public CDE id 2673870) "
+phv00028452.v1 ::: Due to emotional problems: accomplished less (in past 4 weeks) 
+phv00027316.v1 ::: CBL1: Renal test - 17: patient's height in cm 
+phv00071740.v1 :::" Now, please check all the ethnic backgrounds that apply to your maternal grandmother (that is, your mother's mother). Asian "
+phv00173020.v1 ::: Derived field: Other cooked breakfast cereal 
+phv00011687.v1 ::: B3i. Have you had any of the following conditions: Huntington's disease? YEAR OF ONSET. (Participants with European ancestry). DIGS2 
+phv00012240.v1 :::" G13. Would you say your behavior was provocative, obnoxious, arrogant, or manipulative enough to cause problems for your family, friends, or co-workers? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 "
+phv00032231.v1 ::: Star drawing - dominant hand: total time 
+phv00016013.v1 :::" J47. Misc W/D 2 Sx's, (Participants with European ancestry). DIGS3 "
+phv00122157.v1 ::: Mom has narcolepsy (AC) 
+phv00090534.v2 ::: Participant identified with other race not listed 
+phv00015244.v1 :::" F35. Sev Dep Incr Alcohol Spec, (Participants with European ancestry). DIGS3 "
+phv00077281.v1 ::: QRS Duration from first normal electrocardiogram 
+phv00085453.v2 :::" WALL MOTION, REGION 2 "
+phv00027016.v1 ::: Cardiovascular intercurrent event: congestive heart failure 
+phv00170940.v1 ::: New Vessels in Field 3: Right eye 
+phv00018436.v1 ::: J42. Other.  (Participants with European ancestry). DIGS4 
+phv00104689.v1 ::: SECOND STANDARD SEATED SYSTOLIC 
+phv00077372.v3 ::: Core Days since randomization/enrollment 
+phv00005331.v1 ::: ACTIVITIES A - LIVING WITH YOU-CHILDREN 
+phv00026836.v1 ::: Standard deviation of HbA1c up to quarterly visit 20 
+phv00143047.v3 :::" LEFT LUNG, LOWER PEEL: TOTAL NUMBER OF VOXELS IN LUNG REGION "
+phv00006402.v1 :::" NAGI QUESTIONS - FOR EACH ACTIVITY THAT SUBJECT HAD A LOT OF DIFFICULTY DOING OR WAS UNABLE TO DO (CODES 3 OR 4), ASK FOR REASON(S) -REACHING OR EXTENDING ARMS BELOW SHOULDER LEVEL "
+phv00011899.v1 ::: D13c. Have you ever been bothered by problems such as: having sexual difficulties? IF YES: IF FEMALE: painful menstruation? What told. (Participants with European ancestry). DIGS2 
+phv00016869.v1 :::" V7. Hallucinations, (Participants with European ancestry). DIGS3 "
+phv00031596.v1 ::: CBL4: Renal test - 16: creatinine (urine) value  (mg/dl) 
+phv00097447.v1 ::: PARALYZED IN OTHER PART           Q37G 
+phv00143916.v3 :::" RIGHT LUNG, UPPER: NUMBER VOXELS ABOVE OR EQUAL TO -150 HOUNSFIELD UNITS "
+phv00104706.v1 ::: IS PTT MISSING LEFT ARM 
+phv00077383.v3 ::: Core Fibrinogen (mg/dl) 
+phv00107841.v1 ::: WHEEZING FROM EXERCISE 
+phv00083917.v2 ::: FREQ62:BURRITOS_WMEAT 
+phv00163447.v2 :::" If your periods were regular, at about age 25, about how many days on average were there between the first day of one period and the first day of your next period? "
+phv00076027.v1 ::: Mini Mental State Exam score administered by telephone. 
+phv00120135.v2 :::" HOME ACT(SHOVEL SNOW) PAST YR,1 HR/12 MO. Q G1 "
+phv00019964 ::: RASS proband (Y/N) 
+phv00162910.v1 :::" Age recency of DSM4 dependence on drugs other than marijuana, cocaine or opiates "
+phv00123841.v1 ::: PostSleep: Rate the overall quality of your sleep last night? 
+phv00031814.v1 ::: Time-dependent HbA1c average to date 
+phv00011361.v2 ::: Parental perceptions of inattentiveness - perceived severity 
+phv00098347.v1 ::: Animal Protein gm 
+phv00048830.v1 ::: L2. Ophthalmic complications: floaters or flashing lights-left 
+phv00011308.v2 ::: Activity level and inattentive behaviour - watching TV - usual fidgeting - PACS section 2.1 
+phv00155017.v2 :::" R intrisicoid (time from Q onset to peak of R), lead bri_avf "
+phv00129606.v1 ::: Medication for diabetes 
+phv00088246.v1 ::: Past Failure 
+phv00155394.v2 :::" R' wave amplitude, lead rpam_avf "
+phv00076232.v1 ::: Bronchodilator percent change at Follow-up. The calculation is: (MAXPOSFEV - PREFEV)/PREFEV. 
+phv00011791.v1 ::: D2h. Have you ever been bothered by problems with pains in your during urination? (Participants with European ancestry). DIGS2 
+phv00034086.v1 ::: DCCT: Any alteration of insulin dose during 4 hours (see variable ibd1a) of estimated on-set time of hypoglycemic event 
+phv00025512.v1 ::: Short term memory: total retention (quarterly visit 36) 
+phv00022521.v3 ::: HAS YOUR WIFE'S WORKING BEEN DISRUPTIVE IN THE FOLLOWING WAY:  WORRY ABOUT THE HEALTH OR SAFETY ASPECTS OF HER JOB? 
+phv00066246.v1 ::: G. Outcome of event: cardiology follow-up 
+phv00015890.v1 :::" J34. MJ High at Work/School, (Participants with European ancestry). DIGS3 "
+phv00058042.v1 ::: Surgery for dysplasia/cancer (UC/IC only) 
+phv00033871.v1 ::: HbA1c (month 071) 
+phv00119441.v2 ::: SUBJECTS BODY BUILD AT 9-10 YRS OLD. Q 23.A. 
+phv00120015.v2 ::: MEDICATION NUMBER. Q 1 
+phv00053254.v1 :::" S1a2 Age first time, (African American participants). DIGS4 "
+phv00025346.v1 ::: Short-term memory - number of words after 5 seconds (quarterly visit 28) 
+phv00016793.v1 :::" R15. # of Gambling Symptoms, (Participants with European ancestry). DIGS3 "
+phv00084397.v2 ::: FOOD GROUP 4: WHOLE GRAIN 
+phv00122154.v1 ::: Age at menopause (A) 
+phv00113119.v2 ::: AGE AT VASECTOMY 
+phv00151286.v3 ::: LEFT LUNG UPPER PEEL: ON A PLOT OF NUMBER OF VOXELS VERSUS HU THIS IS THE HU WHERE THE 2ND DERIVATIVE IS MOST NEGITIVE (2ND INFLECTION POINT) 
+phv00095369.v1 ::: Tryptophan (mg) 
+phv00154990.v2 :::" Q wave area, lead bqa_v5 "
+phv00008570.v3 ::: HEART: GRADE OF LEFT STERNUM SYSTOLIC MURMUR 
+phv00027828.v1 ::: Overweight (National Health and Nutrition Examination Survey [NHANES] definition): quarterly visit 04 
+phv00027171.v1 ::: Effect of exams and procedures on your participation: eye photos 
+phv00144165.v3 :::" LEFT LUNG, LOWER CORE 910: C1 IN FIT EQ: log( 100*Na / Nt) = -(alpha)log(A) + c1 "
+phv00097502.v1 ::: MED REV NON-CVD CAUSE NUMBNESS    Q4 
+phv00009232.v3 ::: AGE AT TUBAL LIGATION - FEMALE 
+phv00093648.v1 ::: ST SEG DEPR (4XX) V1-V5      - FUP ECG 
+phv00077529.v3 ::: Non-fat or low-fat sour cream added after cooking 
+phv00085571.v2 ::: CIGARETTES:  AGE STARTED SMOKING 
+phv00115613.v2 ::: # OF PT'S SISTERS  WITH DIABETES. Q 4a 
+phv00070275.v2 :::" DERIVED FIELD: NUTRIENT VALUE - TOTAL OMEGA 3 (F183S+F205+F225+F226), (GM) "
+phv00066167.v1 ::: F4f. Access to health care services. Could not get appointment 
+phv00070398.v1 ::: WHITE WINE: AVERAGE NUMBER OF WHITE WINE (4 OZ GLASS). WHAT IS YOUR AVERAGE NUMBER OF SERVINGS IN A TYPICAL WEEK SINCE YOUR LAST EXAM 
+phv00057475.v1 ::: Number of Central Apneas during NREM (Other Position) 4% desaturation or arousal 
+phv00084596.v2 ::: NOVACODE PREVALENT CODE 9: SOFTWARE 
+phv00151786.v3 :::" RIGHT LUNG, UPPER: ON A PLOT OF NUMBER OF VOXELS VERSUS HU THIS IS THE HU WHERE THE 2ND DERIVATIVE IS MOST NEGITIVE (2ND INFLECTION POINT) "
+phv00127768.v1 ::: MSRA5E 
+phv00048791.v1 :::" J5cr. Verification of event, intermittent claudication (peripheral ischemia): pain in part of right leg "
+phv00122758.v1 ::: CHQ-PF50: Q3Q1B 
+phv00057011.v1 ::: Quality of life form present 
+phv00114743.v2 ::: WEIGHTED INSTRUMENTAL SUPPORT 
+phv00102221.v1 :::" BENTON VISUAL RETENTION TEST, DESIGN NUMBER OF8 "
+phv00048598.v1 :::" Q10. Physical examination, cardiovascular examination: other cardiac abnormality "
+phv00128448.v1 ::: 17f: Numbness in right side of face 
+phv00128415.v1 ::: 8: Did the episode come on suddenly 
+phv00155516.v2 :::" J (end of QRS) point amplitude, lead stj_v5 "
+phv00031070.v1 ::: CBL8: GFR gamma count serum - t5 
+phv00161238.v1 :::" QRS Balance (Maximum of R or R') - (Maximum of QAMP, SAMP, or S'AMP), Lead II (uV) "
+phv00095149.v1 ::: MEDICATION CODE NO. -- REPLACES   Q19B 
+phv00078790.v3 ::: Low-fat or low cholesterol diet 
+phv00054517.v1 :::" Was there ever a time when you had to use more of any of these substances than you used to, to get the same effect you wanted? (African American participants) "
+phv00112092.v1 ::: LEFT LATERAL OBLIQUE NEAR WALL MIN 
+phv00081611.v1 ::: DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 
+phv00105760.v1 ::: HOW OFTEN DO YOU USE FROZEN ENTREES 
+phv00049775.v1 :::" C2. Visual activity measurements. Number of letters correct at 4 meters, 20/125, right eye "
+phv00125867.v1 ::: 2: Did tech explain procedure? 
+phv00084120.v2 ::: SERVINGS PER DAY 25:NUTS 
+phv00118582.v2 ::: EVER BEEN PREGNANT. Q 45 
+phv00012748.v1 ::: J28a. Did using (drug) cause you to have any other physical health problems (other than withdrawal)? Did you continue to use (drug) after you knew it caused this problem? C SED. (Participants with European ancestry). DIGS2 
+phv00092406.v1 ::: Attachment Loss (AL) measure for Distobuccal (DB) of tooth number 26 
+phv00127525.v1 ::: 6: Plans to move outside tri-county? 
+phv00048879.v1 ::: M9. Neurologic complications: seizure (not due to hypoglycemia) 
+phv00089970.v2 ::: EXAM 1: AORTIC VALVE CALCIUM (VOLUME) 
+phv00108028.v1 ::: AGE OF FIRST WHEEZING ATTACK 
+phv00103712.v1 ::: Light housework: How much difficulty 
+phv00169105.v2 ::: Place Of Death 
+phv00115650.v2 :::" MMEF, TRIAL #3 "
+phv00017140.v1 ::: B6. Medication (row 10).  (Participants with European ancestry). DIGS4 
+phv00010445.v3 ::: ECG: IV BLOCK INCOMPLETE (QRS INTERVAL = .10 OR .11 SEC) 
+phv00016715.v1 :::" P37. Social Chg in Functioning, (Participants with European ancestry). DIGS3 "
+phv00123799.v1 ::: PreSleep: Quantity caffeinated beverage 3 (number of 8oz cups) 
+phv00078403.v3 ::: Partner currently retired 
+phv00163398.v1 ::: Subject diagnosed with peripherial artery disease? 
+phv00016971.v1 ::: A7. Marital status. What is your current marital status? (Participants with European ancestry). DIGS4 
+phv00011979.v1 ::: E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Restoril. (Participants with European ancestry). DIGS2 
+phv00158713.v1 ::: GI 
+phv00090963.v1 ::: Has the patient ever been told by a healthcare provider that they have: type 1 diabetes - ever had 
+phv00168932.v1 :::" While you were having your episode of dizziness, loss of balance or spinning sensation, did any of the following occur? {INCLUDE ALL THAT APPLY} Headache "
+phv00053087.v1 :::" P7b Interfere with work, school, (African American participants). DIGS4 "
+phv00048918.v1 :::" Q3a. Physical examination, height: 1st measurement "
+phv00020870.v4 ::: DAY SURGERY 
+phv00065757.v1 :::" J4d. Verification of events, affective disorder "
+phv00006285.v1 ::: SECOND EXAMINER OPINION - OTHER SYNCOPE 
+phv00086636.v2 ::: 03: MODERATE YARD WORK MET-min/wk M-Su 
+phv00003974.v1 ::: RIGHT RADIAL PULSE 
+phv00150886.v3 :::" LEFT LUNG, LOWER CORE: ON A PLOT OF NUMBER OF VOXELS VERSUS HU THIS IS THE HU WHERE THE 2ND DERIVATIVE IS MOST NEGITIVE (2ND INFLECTION POINT) "
+phv00167123.v2 ::: RIGHT HEART/PERICARDIUM: RV (Right Ventricular) enlargement 
+phv00071642.v1 ::: Do you currently smoke cigarettes? 
+phv00079913.v3 ::: Depth of uterus (cm) 
+phv00016473.v1 :::" M59.g. Dead Affect the Living, (Participants with European ancestry). DIGS3 "
+phv00106590.v1 ::: MONTHS PER YEAR - GARDEN 
+phv00015043.v1 :::" E6. MAOI's Other MAOI 2 Specify, (Participants with European ancestry). DIGS3 "
+phv00118719.v2 ::: SOURCE OF OTHER PRESCRIPTION MED NAME. Q 27c 
+phv00033441.v1 ::: Blood glucose profile 8 at OD 340 (quarterly visit 35) 
+phv00123123.v1 ::: Ankle-Arm: Flag =1 if less than 6 measurements in calculations 
+phv00015176.v1 :::" F6. Sev Appetite Change, (Participants with European ancestry). DIGS3 "
+phv00123495.v1 ::: 95 Stroke (CVA) 
+phv00033432.v1 ::: Pre-supper blood glucose mg/dl (quarterly visit 35) 
+phv00007086.v1 ::: 1ST EXAMINER OPINIONS: OTHER PULMONARY DISEASE 
+phv00096995.v1 ::: LIGHTHEADED OR DIZZY-SPEECH LOSS   Q9E 
+phv00072405.v2 :::" DURING THE PAST YEAR - IN A TYPICAL 2 WEEK PERIOD OF TIME HOW OFTEN DO YOU WEIGHT TRAIN (FREE WEIGHTS, MACHINES)? "
+phv00071965.v1 ::: Intraventricular block pattern indeterminate for first sleep study 
+phv00072700.v2 ::: Heart rate of segment 90 to 120 
+phv00104557.v1 ::: HOW MANY OF THESE YOU SEE ONCE A MONTH 
+phv00084456.v2 ::: EXAM 1 DIABETES MELLITUS BY 2003 ADA FASTING CRITERIA ALGORITHM 
+phv00010004.v3 ::: P-R INTERVAL (HUNDREDTHS OF A SECOND) 
+phv00071968.v1 ::: Inferior myocardial infarction (MI) for first sleep study 
+phv00125396.v1 ::: 26c1. Month 
+phv00102893.v1 ::: I would like the work of a teacher 
+phv00073151.v1 ::: Family history of disease - PROSTATE CANCER 
+phv00009067.v3 ::: ECG: MAXIMUM T-WAVE AMPLITUDE < -5 MM (DISREGARD AVR) 
+phv00080756.v1 ::: Urine cortisol 24 hour total 
+phv00054918.v1 :::" GLAUCOMA SUSPECT RECALL EXAMINATION: BLIND SPOT ENLARGEMENT, O.D. "
+phv00029937.v1 ::: Ophthalmic complications: floaters or flashing lights - left 
+phv00078516.v3 ::: Stomach of duodenal ulcer ever 
+phv00154621.v2 ::: Accept Annual Visit5 Pre  Max FVC 
+phv00121848.v1 ::: Ever had a stroke 
+phv00156659.v2 ::: ELISA Plate Number 
+phv00120734.v2 ::: EXAM 6 EDUCATION 
+phv00092718.v1 ::: MEDS THAT SECONDARILY LWER CHOLESTEROL 
+phv00154929.v2 ::: Acceptable Number of RR Intervals (n) 
+phv00092796.v1 ::: V2 body mass index in kg/m2 
+phv00056674.v1 ::: Frequency of breathing stopage during sleep 
+phv00018266.v1 ::: I22e. Other.  (Participants with European ancestry). DIGS4 
+phv00164061.v3 ::: ALTER TREIMAN OCCUPATIONAL PRESTIGE SCORE - WAVE 4 
+phv00010695.v1 ::: SEX 
+phv00049484.v1 ::: B9. Current medication:  if the patient uses no other prescription or non-prescription medication check here and STOP. 
+phv00019960 :::" SITEJORG Joslin or GW or qc (j, g, q) "
+phv00087663.v1 :::" D-DIMER, (ug/mL) "
+phv00027837.v1 ::: Indicator: sustained LDL => 130 observed 
+phv00001109.v1 ::: UNDER MEDICAL CARE BUT NOT HOSPITALIZED SINCE LAST EXAM FOR PERIPHERAL VASCULAR DISEASE 
+phv00116116.v2 ::: URINARY SODIUM (UNADJUSTED):DAY 3 
+phv00082376.v1 ::: CLOCK: Other - Test date 
+phv00160122.v1 ::: Duration of membrane rupture before delivery in days. 
+phv00027940.v1 ::: Q-S axis (degrees) 
+phv00119922.v2 ::: AGE DIAGNOSED-EMPHYSEMA. Q 20 
+phv00049829.v1 :::" C4. Visual activity measurements. Number of letters correct at 1 meters, 20/125, left eye "
+phv00128125.v1 ::: 24b: Specify cause of father's death 
+phv00090562.v2 :::" How much participant thought about his symptoms, over the last week "
+phv00068117.v2 ::: FFQ: PIZZA (2 SLICES) 
+phv00078048.v3 ::: Parkinson's disease 
+phv00014729.v1 :::" B 3.1. Head Injury, (Participants with European ancestry). DIGS3 "
+phv00055701.v3 ::: Number of seconds in stage 1 sleep 
+phv00088850.v1 ::: Angered because things happened outside your control 
+phv00160745.v1 :::" P Intrisicoid (Time from P Onset to Peak of P), Lead I (mSec) "
+phv00052717.v1 :::" J34c Opiates, (African American participants). DIGS4 "
+phv00091005.v1 ::: Has the patient ever been told by a healthcare provider that they have: Irritable Bowel Syndrome - year of diagnosis 
+phv00029800.v1 ::: MDI1  - previous day: units of regular or semi-lente insulin 
+phv00127254.v1 ::: RSRATII - RS Ratio in lead II 
+phv00094615.v1 ::: DIFFICULTY CONCENTRATING FOR LONG Q21 
+phv00011604.v1 ::: A9. Are you living alone or with others? Specify. (Participants with European ancestry). DIGS2 
+phv00045054.v1 :::" Have you ever had black-outs during which you didn't pass out while drinking that is, you drank enough so that the next day you couldn't remember things you had said or done: How long ago was the first time?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. "
+phv00111078.v3 ::: Years in WHI at start of WHI Extension 1 
+phv00085464.v2 :::" WALL MOTION, REGION 13 "
+phv00071895.v2 :::" Albumin, urine "
+phv00032053.v1 ::: Medicine used to stop labor: Terbitaline 
+phv00000525.v1 :::" FINAL DIAGNOSTIC IMPRESSION: VARICOSE VEINS OR CHRONIC PHLEBITIS, EXAM 1 "
+phv00018352.v1 ::: J32.  Used to prevent symptoms.  (Participants with European ancestry). DIGS4 
+phv00115643.v2 :::" ASTERISK (EXTRAP VOL >0.1*FVC), TRIAL #3 "
+phv00099958.v1 ::: RATIO AREA MIT RG JET TO AREA L. ATRIUM 
+phv00124747.v1 ::: 3d. CT/MRI head 
+phv00003156.v1 ::: FIRST EXAMINER'S OPINION: ARTERIAL PERIPHERAL VAS. DIS. 
+phv00103041.v1 ::: REMEMBER WHERE THINGS USUALLY ARE 
+phv00114977.v2 ::: JOB DOESN'T REQ EXCESSIVE WORK 
+phv00026369.v1 ::: Location of pain: sternum (low) 
+phv00101904.v1 :::" -DRLSE577 ""Diabetic Retinal Level Suppat "
+phv00094924.v1 ::: Large infarct T1 signal     (2nd)  Q74 
+phv00127843.v1 ::: MSRA16E 
+phv00012715.v1 :::" J25i. Has stopping, cutting down on, or quitting (drug) ever caused you any of these problems? Have diarrhea or stomach aches? C SED. (Participants with European ancestry). DIGS2 "
+phv00033675.v1 ::: Presence (1) or absence (0) of new vessels on disc (either eye) - quarterly visit 12 
+phv00100356.v1 ::: TEENAGE WT CATEGORY 
+phv00021876.v1 :::" IF HEARING PROBLEM, WHICH EAR "
+phv00078615.v3 ::: Hot flashes or night sweats 
+phv00090961.v1 ::: Has the patient ever been told by a healthcare provider that they have: chronic pancreatitis - ever had 
+phv00128300.v1 ::: 30d: Second hormone (mg or mcg) 
+phv00104879.v1 ::: EVER USE SNUFF/SMOKELESS TOBACCO 
+phv00118196.v2 ::: QUALITY SCORE 1 
+phv00052849.v1 :::" K1d Unusual behavior, mixed speech, (African American participants). DIGS4 "
+phv00104538.v1 ::: TEST ITEMS 
+phv00006318.v1 :::" OTHER NON CARDIOVASCULAR DIAGNOSIS IN INTERIM (FOR CANCER, SEE SPECIAL SCREEN, FQ241-FQ259) "
+phv00101015.v1 ::: OTHER DIAGNOSES 
+phv00035299.v1 :::" Second, please check all the ethnic backgrounds that apply to your paternal grandmother (that is, your father's mother). Native American/Alaskan Native. "
+phv00025868.v1 ::: Diabetes control - hypoglycemia: how many times has patient lost conscious with seizure 
+phv00034367.v1 ::: Patient has a history of: pancreatitis 
+phv00116211.v2 ::: 2ND CONDITION CODE 
+phv00121103.v2 ::: SAMPLE 1 TIME SINCE WAKING (MIN) 
+phv00071749.v1 :::" Genotyping set (in this cases nonGAIN, as opposed to previous GAIN_EA and GAIN_AA done in the same collection study on different samples) "
+phv00144463.v3 :::" RIGHT LUNG, PEEL 950: DEFINITION OF HIGHEST NON-HOLE HOUNSFIELD UNIT VALUE "
+phv00106535.v1 :::" ANTIHISTAMINES (COLD PILLS, ALLERGY PILLS) "
+phv00020244.v1 ::: Household head 
+phv00090269.v1 ::: Source of water 
+phv00057395.v1 ::: Number of Hypopnea in NREM (Back position) 4% desaturation 
+phv00155228.v2 :::" P wave amplitude, lead pam_ii "
+phv00150424.v2 ::: NUTRIENTS: NIACIN 
+phv00009174.v3 ::: CURRENTLY RECEIVING MEDICATION FOR THE TREATMENT OF HYPERTENSION 
+phv00033815.v1 ::: HbA1c (month 015) 
+phv00032933.v1 ::: 3:00 a.m. blood glucose at OD 340 (quarterly visit 12) 
+phv00016769.v1 :::" Q19.e. Exercising a Lot, (Participants with European ancestry). DIGS3 "
+phv00127564.v1 ::: 25o: Other reasons 
+phv00090204.v1 ::: Edentulous 
+phv00161574.v1 ::: ANA Pattern - Anti Mitochondrial (M2) antibody. 
+phv00035049.v1 ::: EA = self-identified European Ancestry. (Participants with European ancestry) 
+phv00101939.v1 ::: NUMBER OF ARTERIOLES BRANCH PAIRS MEAS 
+phv00087187.v1 ::: CURRENT USER: AGE BEGINNING HORMONE REPLACEMENT THERAPY 
+phv00018597.v1 ::: K26.  Somatic or tactile.  (Participants with European ancestry). DIGS4 
+phv00085690.v2 ::: 26: MODERATE VOLUNTEER min/wk M-Su 
+phv00012661.v1 ::: J21. Did you ever find you could not stop or cut down? A COC. (Participants with European ancestry). DIGS2 
+phv00104592.v1 ::: FELT HOPEFUL ABOUT FUTURE 
+phv00119157.v2 ::: NUMBER OF TIMES DENTIST SEEN. Q 4A 
+phv00032181.v1 ::: Verbal I.Q. score 
+phv00013222.v1 ::: Q19. (IF YES TO Q.16) How old were you when you first binged regularly? ONS AGE. (Participants with European ancestry). DIGS2 
+phv00172297.v1 ::: Guanosine diphosphate (GDP) 
+phv00033047.v1 ::: Form date (quarterly visit 18) 
+phv00014825.v1 :::" C1.1.1.a. MMSE - Orient Time, (Participants with European ancestry). DIGS3 "
+phv00119489.v2 ::: DATE STARTED CALTRAC 
+phv00006346.v1 ::: FACTORS POTENTIALLY AFFECTING MENTAL STATUS TESTING: OTHER 
+phv00011399.v2 ::: Disruptive behaviour - disobedience 3.8 - usual severity 
+phv00081495.v1 ::: BIOLOGICAL FATHER: Ethnic Origin 
+phv00096198.v1 ::: ARTERIOLE 14 
+phv00155459.v2 :::" S' wave duration, lead spdu_avl "
+phv00048468.v1 ::: Four hours ren-serum albumin (g/dl) 
+phv00057773.v1 ::: Hypopnea RDI in REM (Back position) 3% desaturation or arousal 
+phv00000849.v1 :::" LUNG FUNCTION: FLOW RATE, EXAM 6 "
+phv00064778.v2 :::" LARGEST AORTIC PLAQUE PERIMETER FOR SLICE 5, MM "
+phv00167164.v1 ::: 2-D MEASUREMENT Two Chamber View Left Ventricular End Diastole Volume - average (TwoD_2CH_LVEDV_avg) 
+phv00122787.v1 ::: CHQ-PF50: Q9Q1A 
+phv00020896.v4 ::: IF EVER BEEN PREGNANT: HOW OLD WERE YOU AT THE END OF YOUR FIRST TERM PREGNANCY? 
+phv00049312.v1 :::" N3d. Infection, major surgery, minor outpatient surgery, endocrinological, or skin complication: autoimmune endocrine event; premature ovarian failure "
+phv00049673.v1 :::" C3. Visual acuity measurements. Letters correct at one meter distance, 20/40, right eye "
+phv00017268.v1 :::" C2.11. I am going to give you a word and I want you to give me the opposite. For example, the opposite of hot is cold. What is the opposite of west? (Participants with European ancestry). DIGS4 "
+phv00124035.v1 ::: Creatinine (mg/dL) 
+phv00072431.v2 :::" DURING THE PAST YEAR -  BIKING - ""MINUTES"" PART OF AVERAGE TIME/SESSION "
+phv00054039.v2 ::: RPE DEPIGMENTATION AREA C/SUB+INNERS LT EYE (ALL PARTICIPANTS) 
+phv00097051.v1 ::: PARALYSIS-NUMBNESS                 Q31B 
+phv00081621.v1 ::: SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE): Number of family members with history of disease 
+phv00008260.v3 :::" ST INTEGRAL- 5, 5.0/18% "
+phv00181890.v1 ::: Adiponectin concentration at the first study visit 
+phv00065044.v2 :::" SECOND LARGEST AORTIC PLAQUE THICKNESS FOR SLICE 27, MM "
+phv00057411.v1 ::: Number of Central Apneas during NREM (Back Position) 4% desaturation 
+phv00119685.v2 ::: ADDRESS STATUS - MON 174 
+phv00119400.v2 ::: EXAM DATE - FORM 50 
+phv00164853.v1 ::: Race of participant's mother. 
+phv00116972.v2 ::: AGE AT DIABETES. Q 4 
+phv00012508.v1 :::" I18c. Did your drinking cause you to: hear objections about your drinking from your family, friends, doctor, or clergyman? (Participants with European ancestry). DIGS2 "
+phv00123489.v1 ::: 95 Age Diagnosed - Elevated Cholesterol 
+phv00116699.v2 ::: SALT POULTRY? Q 12f 
+phv00009620.v3 ::: MEALS ON WHEELS IN PAST TWO YEARS 
+phv00029078.v1 ::: How often has patient claimed to follow meal plan? 
+phv00127257.v1 ::: RSRATAVL - RS Ratio in lead AVL 
+phv00143564.v3 :::" RIGHT LUNG, LOWER: NUMBER VOXELS ABOVE OR EQUAL TO -50 HOUNSFIELD UNITS "
+phv00016105.v1 :::" J55.b. Misc Age Last 3 Sx's, (Participants with European ancestry). DIGS3 "
+phv00112708.v2 ::: BEHAVIOR FOOD SUB-GROUP 
+phv00045997.v1 :::" DSM-IV BEFD CODE FOR BEFD9, (Participants with European ancestry). DIGS2 and 3 "
+phv00087096.v1 ::: ESTIMATED GLOMERULAR FILTRATION RATE BY SIMPLIFIED MDRD EQUATION 
+phv00126144.v1 ::: Hopelessness score 
+phv00119341.v2 ::: ANY CHANGES IN DIET SINCE LAST EXAM? Q 5A 
+phv00003928.v1 ::: HEART GALLOP 
+phv00028849.v1 ::: Unable to laser left eye - other reason 
+phv00049589.v1 ::: B14e. Current medication: Hydralazine 
+phv00026842.v1 ::: Standard deviation of HbA1c up to quarterly visit 26 
+phv00114012.v2 ::: GXT STAGE 2: HEART RATE 
+phv00057677.v1 ::: Number of desaturations (>= 4%) 
+phv00018693.v1 ::: K47d.  Neglect hygiene.  (Participants with European ancestry). DIGS4 
+phv00154978.v2 :::" P' intrisicoid (time from P onset to peak of P'), lead bppi_v5 "
+phv00064808.v2 :::" THIRD LARGEST AORTIC PLAQUE THICKNESS FOR SLICE 7, MM "
+phv00085720.v2 ::: ESTIMATED STROKE VOLUME INDEX 
+phv00027584.v1 ::: Total cholesterol (mg/dl): quarterly visit 24 
+phv00031592.v1 ::: CBL4: Renal test - 12: albumin (serum) value  (mg/dl) 
+phv00014941.v1 :::" D6.k. Other Pain - What, (Participants with European ancestry). DIGS3 "
+phv00027897.v1 ::: Unconfirmed hypertension: quarterly visit 16 
+phv00090361.v1 ::: Estrone 
+phv00023365.v3 :::" LEAD V4, R WAVE NTCH WV VOLTAGE "
+phv00027129.v1 ::: To which extent did the following staff influence your participation: mental health professional 
+phv00028693.v1 ::: Distress caused by: having ideas or believes that others do not share 
+phv00028545.v1 ::: CBL7: Renal test - 12: albumin (serum) value  (mg/dl) 
+phv00124013.v1 ::: D-dimer pm - data flag 
+phv00015413.v1 :::" G20. Sev Mania Rx Meds, (Participants with European ancestry). DIGS3 "
+phv00065805.v1 ::: L5. Ophthalmic complication: other treatment of left eye 
+phv00078690.v3 ::: Age brother (1) had MI 
+phv00034541.v1 ::: 2/3 DBP(diastolic blood pressure) + 1/3 SBP (systolic blood pressure) 
+phv00066338.v1 :::" Race, ethnicity of participant "
+phv00050987.v1 ::: F4m. Access to health care services. Felt problem could be remedied at home 
+phv00008461.v3 ::: WINE: GLASSES PER WEEK 
+phv00123953.v1 ::: Cholesterol (mg/dL) 
+phv00080110.v3 ::: Foot fracture 
+phv00112600.v2 ::: FIRED FROM A JOB 
+phv00095828.v1 ::: STILL HAVE ASTHMA                    Q8N 
+phv00033650.v1 ::: Grade on ETDRS scale (patient) - quarterly visit 02 
+phv00084061.v2 ::: SERV86:ROASTEDCHICKEN 
+phv00005082.v1 ::: USUAL DURATION OF DIZZINESS/VERTIGO OR LIGHTHEADEDNESS/UNSTABLE FROM ONSET TO RECOVERY 
+phv00164968.v1 ::: Alcohol Dependence according to DSMIV 
+phv00087026.v2 ::: TOTAL YEARS LIVED WITH SMOKER 
+phv00117990.v2 ::: HOSPITALIZATION DATE (YYMMDD) 
+phv00026387.v1 ::: Hypertension has been previously documented 
+phv00120727.v2 ::: TIME PLANNED FLUSH/URINE SAMPLE 
+phv00024423.v4 ::: DOPPLER ANGLE - DEFLATION (DEG) 
+phv00000666.v1 ::: BLOOD ANALYSIS: STANDARD S 0-12 LIPOPROTEINS 
+phv00079354.v3 ::: Drinks of alcohol (age 50) 
+phv00029110.v1 ::: On how many days did patient have moderate or large ketonuria? 
+phv00015256.v1 :::" F37.a.6. Sev Dep Distractable, (Participants with European ancestry). DIGS3 "
+phv00143519.v3 :::" RIGHT LUNG, CORE: AVERAGE PIXEL VALUES WITHIN LUNG REGION (HU) "
+phv00162547.v2 ::: DERIVED FIELD:ICE CREAM 
+phv00165057.v1 ::: PENTRAXIN-3 
+phv00008733.v3 ::: LDL 
+phv00085488.v2 ::: HEAVY TRAFFIC OR SPEEDING CARS IN NEIGHBORHOOD 
+phv00160891.v1 :::" R Wave Area, Lead III (uVmSec) "
+phv00124279.v1 ::: Days from visit date - Diagnosed Irregular Heart Beat 
+phv00057176.v1 ::: Average Central Apnea duration in NREM (Other position) 2% desaturation 
+phv00159345.v1 ::: Alcohol consumption prior year visit 1 
+phv00117321.v2 ::: DATE OF EVENT - 5TH HOSPITALIZATION 
+phv00168292.v1 ::: Did you follow a Diabetic diet in the year preceding your stroke? 
+phv00171455.v1 ::: Molecular analyte 
+phv00098126.v1 ::: SDDC8 
+phv00030414.v1 ::: CBL3: Form date for renal function tests 
+phv00099993.v1 :::" ST DEPRESSION GE 100, CH 1 (DURATION) "
+phv00117917.v2 ::: ADDRESS STATUS - MON 108 
+phv00094349.v1 ::: AGE STARTED TAKING HORMONE 2        Q32 
+phv00033420.v1 ::: Repeat visit (quarterly visit 35) 
+phv00173896.v1 ::: Number of CAG repeats in smaller allele at the HD locus 
+phv00169471.v1 ::: Months used Progesterone vaginal cream 
+phv00097011.v1 ::: WHERE NUMB-VISION LOSS             Q16C 
+phv00000991.v1 :::" CHEST EXAMINATION: SCOLIOSIS, EXAM 7 "
+phv00014732.v1 :::" B 3.1. # of Head Injuries, (Participants with European ancestry). DIGS3 "
+phv00071578.v1 ::: Did any of these attacks occur when you were in a life-threatening situation? 
+phv00087334.v1 :::" ESTROGENS, EXCLUDING VAGINAL CREAMS "
+phv00090073.v1 ::: QUALITY CONTROL: NOISE LEVEL 
+phv00080630.v1 ::: Field Center at visit 2 
+phv00115636.v2 :::" RATIO FEV3/FVC, TRIAL #2 "
+phv00010796.v3 ::: DIABETES MELLITUS STATUS AT EXAM 6 (SOURCE: CALCULATED) 
+phv00113478.v2 ::: COOK MEDLEY SCORE FOR FIRST 50 Q'S 
+phv00110460.v1 ::: GENDER OF CHILD 07 
+phv00050677.v1 ::: B8h4. Health care delivery. Urine tests: paid by self 
+phv00095408.v1 ::: AOAC fiber (g) 
+phv00085231.v2 :::" HEPATITIS, UNKNOWN TYPE "
+phv00052259.v1 :::" F21c How long after, (African American participants). DIGS4 "
+phv00031952.v1 ::: Last status change as percent of total duration 
+phv00083866.v2 ::: FREQ11:EGGS_ETC 
+phv00023416.v3 :::" LEAD AVR, RP WAVE DURATION "
+phv00162172.v2 ::: FFQ: FRESH APPLES OR PEARS 
+phv00173138.v1 ::: Sample use. SNP_Array: SNP genotypes obtained using standard or custom microarrays; WES_SRA: Whole exome sequencing data available through SRA; WGS_SRA: Whole genome sequencing data available through SRA 
+phv00034414.v1 ::: Patient has a history of: treated hypothyroidism 
+phv00112677.v2 :::" 10ML RED TUBE, 3.5ML WHEATON (GREEN) "
+phv00142692.v3 ::: OUT OF RANGE LOW 
+phv00033133.v1 ::: Blood glucose profile 8 at OD 340 (quarterly visit 21) 
+phv00029053.v1 ::: Standard treatment 1 - previous day: insulin injection - A.M. or P.M. 
+phv00000544.v1 :::" DURATION OF TOBACCO USE (WHEN SMOKING ""NOW"") "
+phv00079887.v3 ::: Vagina - Abnormal discoloration 
+phv00117949.v2 ::: DOPPLER SINCE LST CARDIA XM - MON 96 
+phv00123167.v1 ::: 73 Sleeping pills in last yr (L) 
+phv00000808.v1 :::" X-RAY: ABNORMAL POSITION OF HEART, EXAM 5 "
+phv00124573.v1 ::: 15: First right ankle BP obtained? 
+phv00049542.v1 ::: B3a1. Current medication: last month how many days medication taken? 
+phv00053919.v2 ::: REFRACTIVE ERROR RT EYE - RANDOMIZATION VISIT (ALL PARTICIPANTS) 
+phv00051580.v1 ::: B3. Visit information: annual medical history and physical examination 
+phv00119459.v2 :::" IF YES, HOW MANY DROPS NAOH? Q 6 "
+phv00168873.v1 :::" While you were having your double vision, did any of the following occur? Speech disturbances "
+phv00170931.v1 ::: Venous Loops: Right eye 
+phv00022607.v1 ::: FORCED EXPIRATORY FLOW AFTER 75% OF THE FEV  HAS BEEN EXPIRED - TRIAL 2 
+phv00031775.v1 ::: CBL5: Body surface area (current) 
+phv00029399.v1 ::: Median nerve - motor - test distance (mm): quarterly visit 04 
+phv00071937.v1 ::: Test date of pulmonary 
+phv00031885.v1 ::: Change in score (baseline to current): finger-tapping - dominant hand 
+phv00019115.v1 ::: P37.  Specify.  (Participants with European ancestry). DIGS4 
+phv00165501.v1 ::: Total Permanent Decayed Teeth. 
+phv00114282.v2 ::: ANY BLOOD DRAWN? Q 5 
+phv00084203.v2 ::: SERVINGS PER DAY 108:SODA 
+phv00084226.v2 ::: CALCIUM-FORTIFIED JUICE 
+phv00057433.v1 ::: Minimum Obstructive Apnea duration in NREM (Other position) 4% desaturation 
+phv00108862.v1 ::: APPETITE DECREASED FOR OTHER REASON(S) 
+phv00123628.v1 ::: ECG: V5: PA 
+phv00128353.v1 ::: 15: What age did your asthma start? 
+phv00078095.v3 ::: Minutes of recreational phys activity per week 
+phv00172514.v1 :::" FFQ: Salsa, picante or taco sauce "
+phv00027003.v1 :::" Diabetic intercurrent event: hyperglycemic, hyperosmolar, non-ketotic coma "
+phv00083415.v1 ::: SNORE WHILE YOU ARE SLEEPING (PAST 12 MONTHS) 
+phv00165463.v1 ::: Subject's sample use. 
+phv00008064.v3 ::: ECHO: ESTIMATED-LVED-VOL (ML) 
+phv00077703.v3 ::: Usual sunscreen SPF 
+phv00098174.v1 ::: HRT8 
+phv00170823.v1 ::: Center subfield has hard distinct drusen: Left eye 
+phv00024912.v1 ::: Pegboard - non-dominant hand: time to remove (quarterly visit 00) 
+phv00017223.v1 ::: C14. Ask the subject to name the three objects repeated above.  Score one point for each correct. (Participants with European ancestry). DIGS4 
+phv00020355.v1 ::: How long ago did you have the most recent attack? - # months ago (enter 0 if you had one in the past month) 
+phv00115969.v2 ::: READ INFO ON VITAMINS/MINERALS. Q 5e 
+phv00080636.v1 ::: Self-reported diabetic medicines at visit 1 
+phv00079562.v3 ::: Lost weight using low calorie diet 
+phv00122668.v1 ::: MOS: Q4C 
+phv00052293.v1 :::" F37a5 Less sleep, (African American participants). DIGS4 "
+phv00044862.v1 ::: How many drinks of beer would you have on Wednesday in a typical drinking week?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00087603.v1 ::: TOTAL TRANSPORTATION MET-MIN/WK M-SU 
+phv00051666.v1 ::: B2. Attempt to contact. Did the clinic talk to the patient 
+phv00052420.v1 :::" G11 Concentration, (African American participants). DIGS4 "
+phv00169522.v1 ::: F153 Barrier: Friends discouraged me 
+phv00052387.v1 :::" F72 Number clean episodes, (African American participants). DIGS4 "
+phv00105786.v1 ::: HOW MANY CANS DO YOU DRINK ON 1 OCCASION 
+phv00172248.v1 ::: Adipate 
+phv00065303.v2 ::: WHOLEBODY ARM BMC EX22 (GRAMS) 
+phv00032346.v1 ::: WISC-R block design: time needed to complete design  5 
+phv00003937.v1 ::: APEX VALSALVA 
+phv00080064.v3 ::: Days enrollment to Stomach Cancer 
+phv00099681.v1 ::: COMPUTER-SELECTED BEST MANEUVER 
+phv00005963.v1 ::: ACTIVITIES II - CES-D SCALE I HAD CRYING SPELLS 
+phv00159354.v1 ::: Mode of number of days from randomization to visit 4 (6-month visit) 
+phv00079896.v3 ::: Polyp 
+phv00155215.v2 :::" Maximum of STJ, STM, STE amplitudes, lead mxst_v1 "
+phv00065198.v2 :::" AORTIC AREA SLICE 24, CM2 "
+phv00085315.v2 ::: FAMILY HISTORY OF HEART ATTACK: SIBLING 
+phv00064961.v2 :::" SECOND LARGEST AORTIC PLAQUE AREA FOR SLICE 20, MM "
+phv00116201.v2 ::: CHEST PAIN LASTING AT LEAST 30 MIN? 
+phv00051935.v1 :::" B1 Head injury, age, (African American participants). DIGS4 "
+phv00159657.v2 ::: Do you usually cough during rest of day or night 
+phv00098378.v1 ::: Riboflavin B2 without vitamin pills mg 
+phv00015802.v1 :::" J9.a. Chain Smoked - Hours, (Participants with European ancestry). DIGS3 "
+phv00112740.v2 ::: PASTA - WHOLE GRAIN 
+phv00073574.v1 ::: Diabetes status 
+phv00034449.v1 ::: Examine for: diastolic murmur 
+phv00088745.v1 :::" Feel something used/touched, now spoiled for you - Severity of time wasted "
+phv00066606.v2 ::: Country for Mother 
+phv00029731.v1 ::: First blood pressure - systolic 
+phv00028441.v1 ::: Patient's health limits: climbing one flight 
+phv00089111.v1 ::: Painkillers/last 6 months 
+phv00082712.v1 ::: CLINIC-CART NUMBER 
+phv00027168.v1 ::: Effect of the following blood and urine tests on your participation: 4-hr urine collection (annually) 
+phv00112611.v2 ::: WENT ON WELFARE 
+phv00009528.v3 ::: CDI-ARRHYTHMIA 
+phv00050553.v1 ::: B2c. Health care delivery.  Ophthalmologist: ever seen for reason other than diabetes (cataracts) 
+phv00053376.v1 :::" V19 Thought withdrawal, (African American participants). DIGS4 "
+phv00165469.v1 ::: Sex of Individual. 
+phv00014969.v1 :::" D12.b.1. Male Impotent - What, (Participants with European ancestry). DIGS3 "
+phv00127287.v1 ::: PxAMPV5 - P+ Amplitude in lead V5 
+phv00114594.v2 ::: AGE FIRST ATTACK. Q 4B 
+phv00055300.v2 ::: MD said pt had sleep apnea? 
+phv00052181.v1 :::" E6 Concerta, (African American participants). DIGS4 "
+phv00122090.v1 ::: How long to fall asleep 
+phv00073378.v1 ::: Pyramidal score 
+phv00095638.v1 ::: Acceptability code detail-best testQ08 
+phv00012010.v1 :::" E5. Have you ever received electro-convulsive treatment (ECT, shock treatments)? IF YES: how many courses of ECT have you received? (# OF COURSES). (Participants with European ancestry). DIGS2 "
+phv00172964.v1 ::: Derived field: Grapefruit or juice 
+phv00168534.v1 :::" Within 3 days of death or just before death, did any of the following symptoms begin for the first time?  Other "
+phv00106834.v1 ::: MEAN OF 1ST AND 2ND BRACH BP 
+phv00097777.v1 ::: AVG ARTERY DIAMETER(QC SCAN 01) 
+phv00106238.v1 ::: NAME3 HAVE HEART ATTACK 
+phv00079550.v3 ::: F45 Taking pantothenic acid from single sup 
+phv00156523.v2 ::: Dietary Glycitein (mg) 
+phv00024699.v3 :::" WEIGHTED AVERAGE FOR LDL SIZE BASED ON MEASUREMENTS OF LDLP1 THROUGH LDLP6, EXAM 4 "
+phv00144354.v2 :::" RIGHT LUNG, CORE 850: 1-D ARRAY OF HOLE AREAS SORTED BY INCREASING SIZE "
+phv00168161.v1 ::: How often do you consume String beans;  1/2 c.? 
+phv00027325.v1 ::: CBL1: Lipid test - 21: cholesterol (serum) value  (mg/dl) 
+phv00103057.v1 ::: HANDLE EVERYDAY ARITHMETIC PROBLEMS 
+phv00090000.v2 ::: EXAM 3: AORTIC VALVE CALCIUM (AGATSTON) 
+phv00122597.v1 ::: Hours of sleep 
+phv00116439.v2 ::: Q6: APPT. MADE FOR RETURN? 
+phv00172654.v1 ::: FFQ: Kind of fat usually used for baking at home - lard 
+phv00033857.v1 ::: HbA1c (month 057) 
+phv00127414.v1 ::: MXSDAVF - Maximum S Duration in lead AVF 
+phv00065525.v1 ::: Platelet count 
+phv00080678.v1 ::: Drink others 
+phv00032302.v1 ::: Category test: subtest 6 number of errors 
+phv00167021.v2 ::: 2-D MEASUREMENT  Mid Anterior Lateral Wall Motion Score - resting  (TwoD_WMResting_MidAntLat_Score) 
+phv00015760.v1 :::" I35.b. ETOH AA/Self Help, (Participants with European ancestry). DIGS3 "
+phv00079232.v3 ::: F39 Birth month answer code 
+phv00080335.v3 ::: Days enrollment to F33 Broken Elbow 
+phv00128083.v1 ::: 32: Financial self-ranking of those w/ most money 
+phv00052661.v1 :::" J9 Continue to dependence, (African American participants). DIGS4 "
+phv00124516.v1 ::: Fluoxetine use after entry 
+phv00120894.v2 ::: SCAN 1 MASS 
+phv00108964.v1 ::: DURATION FIFTH ISCHEMIC EVENT 
+phv00066675.v2 :::" EPC COLONY FORMING UNITS, WELL 8 "
+phv00161176.v1 ::: STJ Amplitude in Lead AVF (uV) 
+phv00077461.v3 ::: Surgery to lose weight 
+phv00032363.v1 ::: Verbal fluency: number of A-words in 2nd quarter (15-30sec.) 
+phv00065914.v1 :::" Q10. Physical examination, abnormality of abdomen "
+phv00098661.v1 ::: CONSUMED HOT OR ICED TEA Q62 
+phv00050632.v1 ::: B6n. Health care delivery. Other provider: seen past 6 months 
+phv00086759.v2 :::" WEIGHT, PROTOCOL MODIFICATION? "
+phv00165468.v1 ::: Dental exam completed. 
+phv00161078.v1 :::" T Intrisicoid (Time from STE Onset to Peak of T), Lead AVL (mSec) "
+phv00094491.v1 ::: NATURAL MOTHER HAVE HEART ATTACK? Q18E 
+phv00127000.v1 ::: SFFQ: total trans-fatty acids (TRANS) (gm) 
+phv00050721.v1 ::: C2f. Reimbursement: infusion pump supplies 
+phv00057169.v1 ::: Minimum Central Apnea duration in REM (Other position) 2% desaturation 
+phv00017264.v1 ::: C2.9. Who is the President of the United States right now? (Participants with European ancestry). DIGS4 
+phv00070158.v2 :::" DERIVED FIELD: SERVINGS PER WEEK - COOKIES, READY MADE "
+phv00057734.v1 ::: Obstructive Apnea RDI in REM (Other position) associated with arousal 
+phv00031034.v1 ::: CBL9: Lipid test - 22: triglyceride (serum) value  (mg/dl) 
+phv00024650.v3 ::: CYSTEINE  (UMOL/L) 
+phv00118835.v2 :::" SOB, STOP WHILE WALKING AT OWN PACE. Q 4C "
+phv00124188.v1 ::: Total Sleep Time (minutes) 
+phv00115792.v2 ::: BICYCLE FASTER THAN 10/MPH/PAST 12 MO. Q C1 
+phv00162820.v1 ::: Persistent desire or unsuccessful efforts to cut down or control alcohol use 
+phv00120911.v2 ::: POSITIVE SCAN AGATSTON ADJUSTED SCORE 
+phv00142322.v2 :::" RNA LEVELS: CDKN2BAS, S, Run4, Platelet(AssaySequences:[forward primer: GGACTACAGATGCACCACCAT;reverse primer: TCACCCAGCTTCGTAGGAAATTC; probe: TAGCTCCGTAATCATCCATGC]) "
+phv00030865.v1 ::: Number of HbA1c (standard treatment patient) alerts 
+phv00095814.v1 ::: SOURCE OF HEALTH CARE                Q6 
+phv00115388.v2 ::: ANY BLOOD DRAWN?. Q 4 
+phv00025573.v1 ::: Test r39: difference between year 9  and baseline scores 
+phv00049403.v1 ::: B4. Current medication: use of digitalis 
+phv00079352.v3 ::: Drinks of alcohol (age 23-29) 
+phv00065461.v4 ::: PERCENT OF PREDICTED DIFFUSION CAPACITY 
+phv00027116.v1 ::: Cohort of DCCT proband (primary/secondary cohort) 
+phv00160563.v2 ::: Calcium volume score (isovol): Main descending aortic 
+phv00048834.v1 ::: L3.  Ophthalmic complications: left eye enucleated since last visit 
+phv00112517.v2 ::: MONTHS MARRIED. Q 12a 
+phv00105084.v1 ::: Uricosurics 
+phv00125353.v1 ::: 10a. What is the name of the doctor you saw? 
+phv00117694.v2 ::: TYROSINE (GM) 
+phv00100360.v1 ::: SEE ENOUGH TO READ NEWSPAPERS 
+phv00083431.v1 ::: SLEEP APNEA DIAGNOSIS BY DOCTOR 
+phv00028533.v1 ::: CBL7: 24-hr urine: creatinine/urine: value (mg/dl) 
+phv00009299.v3 ::: 1ST EXAMINER BELIEVES CHF 
+phv00163572.v1 ::: HDL particles (total) 
+phv00095172.v1 ::: TAKE MEDICATION A IN PAST 24 HRS? Q4D 
+phv00144662.v3 ::: EMPHYSEMA PCT ABOVE OR EQUAL TO -150 (PERCENT) 
+phv00100606.v1 ::: Thor Spine BMD 
+phv00012192.v1 :::" F39e. Did you have at least one other episode when you were depressed for at least one week and had several of the symptoms you described? Was there a difference in the way you managed your work, school, or household tasks?. (Participants with European ancestry). DIGS2 "
+phv00066227.v1 ::: C5. What tests were performed? Test 3 
+phv00079324.v3 ::: Korean 
+phv00142804.v3 :::" BOTH LUNGS, PEEL: NUMBER VOXELS BELOW OR EQUAL TO -900 HOUNSFIELD UNITS "
+phv00071307.v1 ::: Category Fluency - Fruits and Vegetables Score 
+phv00016110.v1 :::" J56. Misc 2 Sx's >= 1 Mth, (Participants with European ancestry). DIGS3 "
+phv00072484.v2 ::: SECOND WALK: WALK TIME (IN SECONDS) 
+phv00018567.v1 ::: K14.  Thought broadcasting.  (Participants with European ancestry). DIGS4 
+phv00088407.v1 :::" Neurologic Comorbid Condition, other than HD "
+phv00049998.v1 :::" J7b. Potential contributing factors, oral contraceptive used at time of hypoglycemic event "
+phv00116212.v2 ::: 3RD CONDITION CODE 
+phv00085036.v2 ::: HEPATITIS A VIRUS ANTIBODIES 
+phv00090333.v2 ::: Cell type of sample 
+phv00155029.v2 :::" R' wave area, lead brpa_avf "
+phv00088304.v1 ::: Extensive experience w/video games 
+phv00163975.v1 :::" Atrial fibrillation at baseline [ 0=No, 1=Yes] "
+phv00027409.v1 ::: Mean blood glucose value taken from BG profile: quarterly visit 04 
+phv00079243.v3 ::: 2nd number 
+phv00099527.v1 ::: REPEAT 'APPLE' AGAIN 
+phv00089222.v1 ::: DISRUPTIVE or AGGRESSIVE BEHAVIOR (Severity) 
+phv00045106.v1 ::: SPECIFY - 2: medication/drug taken to avoid these (withdrawal) symptoms or to make them go away  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00108874.v1 ::: VENTRICULAR SEPTAL THICKNESS IN DIASTOLE 
+phv00172191.v1 ::: Eosinophil percent (sample type: whole blood) 
+phv00083894.v2 ::: FREQ39:AVOCADO 
+phv00079586.v3 :::" Eat after dinner, times/wk "
+phv00036311.v2 :::" LENGTH OF THE METACARPAL BONE, MM [M4-METACARPAL 4] "
+phv00167024.v2 ::: 2-D MEASUREMENT  Mid Inferior Septum Wall Motion Score - resting  (TwoD_WMResting_MidInfSep_Score) 
+phv00004709.v1 ::: CHEST DISCOMFORT RELIEF WITH REST IN < 15 MIN 
+phv00106839.v1 ::: MIN OF LTAAI AND RTAAI (%) 
+phv00015345.v1 :::" F70.a.1. Oth Dep Overactive, (Participants with European ancestry). DIGS3 "
+phv00127079.v1 ::: SFFQ: aspartic acid (gm) 
+phv00031421.v1 ::: Neurologic complications: other neurological problem 
+phv00144516.v2 :::" RIGHT LUNG, UPPER CORE 850: 1-D ARRAY OF HOLE AREAS SORTED BY INCREASING SIZE "
+phv00000866.v1 :::" INTERIM HISTORY OF DRUGS TAKEN: HYPOTENSIVE, EXAM 6 "
+phv00124237.v1 ::: DNA: 1=Has active regular DNA sample 
+phv00120908.v2 ::: MASS PRESENCE 
+phv00053331.v1 :::" T2 GAS current episode, (African American participants). DIGS4 "
+phv00046026.v1 :::" Diagnostic confidence in DSM-III-R BEFD4, (Participants with European ancestry). DIGS2 and 3 "
+phv00128700.v1 ::: BASOPHIL COUNT  x10^3/ul 
+phv00163391.v1 ::: Gender of subject. 
+phv00119815.v2 ::: AGE DIAGNOSED-ANGINA. Q 3 
+phv00036363.v6 :::" QRS INTERVAL CYCLE 1 LEAD V2 (MS) (INTERVAL FROM QRS ONSET TO QRS OFFSET), DONE ON GEN 3 ONLY "
+phv00004536.v1 ::: INSULIN/TOTAL UNITS PER DAY 
+phv00120979.v2 ::: SELF INSURED? Q 22b 
+phv00028572.v1 ::: CBL7: GFR coefficient of variation (percent) 
+phv00158573.v1 ::: Failed screening 
+phv00105647.v1 ::: SUDDEN LOSS OF VISION 
+phv00033406.v1 ::: Pre-lunch blood glucose mg/dl (quarterly visit 34) 
+phv00035057.v1 ::: Dual income HH (household head). (Participants with European ancestry) 
+phv00030195.v1 ::: GFR mean at year 2 
+phv00124406.v1 ::: Do you often feel like sneezing or sneeze upon walking out into bright sunlight? 
+phv00029304.v1 ::: Reduced RR - variation at any time 
+phv00173075.v1 ::: Derived field: Other nuts 
+phv00162177.v2 ::: FFQ: GRAPEFRUIT JUICE 
+phv00034111.v1 ::: Date of second blood pressure reading 
+phv00026873.v1 ::: Slope of HbA1c up to quarterly visit 21 
+phv00122710.v1 ::: SF-36 raw - Pain Index (raw -bp) 
+phv00171179.v1 ::: Numeric value to represent the total cumulative dose administered to a patient.(public CDE id 1515) 
+phv00116024.v2 ::: HANDLE ANGER: ACT AS IF NOTHING HAPPENED 
+phv00007956.v3 ::: BLOOD ANALYSIS: APO A1 
+phv00049582.v1 ::: B14a2. Current medication: specify - other thiazide diuretic 
+phv00095076.v1 ::: MEDICATION CODE NO. -- REPLACES   Q04LB 
+phv00032993.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 15) 
+phv00031305.v1 ::: Any technical problems with insulin infusion pump 
+phv00050259.v1 ::: C8. How often do you worry about whether you will able to take a vacation or trip? 
+phv00050103.v1 ::: J5a. Potential contributing factors. Alcohol/drug during 4 hours before hypoglycemic event 
+phv00006015.v1 :::" ARTHRITIS - KNEE - IN THE PAST MONTH HAVE YOU HAD ANY PAIN, ACHING OR STIFFNESS IN YOUR LEFT KNEE? "
+phv00095997.v1 ::: WHAT WAS CONDITION? (OTHER LASER)    Q8B 
+phv00051314.v1 ::: C3r. Intermittent claudication (peripheral ischemia). In what part of your (right) leg does the  pain occur? 
+phv00159704.v2 ::: Asthma: diagnosed by doctor or other health professional 
+phv00123360.v1 ::: 81 Any siblings with Asthma 
+phv00093356.v1 ::: MINNESOTA CODE C95 
+phv00002863.v1 ::: ECHO: PROSTHETIC VALVE 
+phv00000504.v1 :::" X-RAY: GENERALIZED HYPERTROPHY, EXAM 1 "
+phv00095309.v1 ::: STRENGTH OF ASPIRIN               Q29A 
+phv00095908.v1 ::: PAYS WITH MEDICARE                   Q2B 
+phv00023653.v6 ::: HAVE YOU NOTICE THAT HE/SHE HAD ANY MEMORY PROBLEMS OR CHANGE IN PERSONALITY? 
+phv00014932.v1 :::" D6.h. Urination - Impair Code, (Participants with European ancestry). DIGS3 "
+phv00020273.v1 :::" Please think of the two-week period in your life when your feelings of depression or loss of interest were worst: did you feel this way? ( every day, almost every day, less often) "
+phv00027649.v1 ::: Typical level of exercise: baseline 
+phv00091797.v1 ::: Pocket Depth (PD) measure for Buccal (B) of tooth number 25 
+phv00010295.v3 ::: CHEST DISCOMFORT: NEW YORK HEART ASSOCIATION CLASSIFICATION 
+phv00025481.v1 ::: Star drawing - non-dominant hand - total time (quarterly visit 36) 
+phv00032707.v1 ::: Pre-supper blood glucose at OD 340 (quarterly visit 02) 
+phv00100190.v1 :::" SPAGHETTI, LASAGNA, PASTA W TOMATO SAUCE "
+phv00011514.v2 ::: Is picked on or bullied by other children 
+phv00029468.v1 :::" Peroneal nerve - conduction velocity (m/sec): quarterly visit 20 - Note: As reported in the NeuropathyCodebook (phd000387) the original data show three coding options (.G, .B, .L) which were not properly translated from the original SAS file; instead each of these coded values appears as '.' value in the dataset available through dbGaP. "
+phv00121738.v1 ::: ADJUCICATION RESOLUTION 
+phv00115664.v2 :::" FEF50, TRIAL #4 "
+phv00080891.v1 ::: DIABETES MELLITUS STATUS (140 mg/dl) AT EXAM 9 
+phv00159284.v1 ::: 2h insulin from OGTT 
+phv00100729.v1 ::: Are there times when you stop breathing during your sleep? 
+phv00073180.v1 ::: Subject's history of disease - Other illness #3 
+phv00018162.v1 ::: H4f.  Inadequate/worthless.  (Participants with European ancestry). DIGS4 
+phv00053075.v1 :::" P1e Recognizes thoughts are from within, (African American participants). DIGS4 "
+phv00125432.v1 ::: 35d. Linkage status 
+phv00007344.v1 ::: NONCARDIOVASCULAR MEDICATIONS: SLEEPING PILLS 
+phv00010443.v3 ::: ECG: IV BLOCK PATTERN 
+phv00025547.v1 ::: Test r13: difference between year 9  and baseline scores 
+phv00159823.v2 ::: Percent gas trapping total lung: CT Slicer 
+phv00077655.v3 ::: Episodes moderate-strenuous activity >=20 min/wk (categorical) 
+phv00044604.v1 :::" Panic disorder with ag Code, (Participants with European ancestry). DIGS4. Page1 "
+phv00113568.v2 ::: PHYS ACTY PRIOR TO HIGH SCHOOL. Q 1 
+phv00122501.v1 ::: Difficulties playing w/ others 
+phv00114711.v2 :::" FOR HELP WITH HOUSE REPAIRS, FAMILY. Q 1 "
+phv00010320.v3 ::: CEREBROVASCULAR EVENT: 24 HOUR MILITARY TIME EXACT/APPROXIMATE MINUTE EVENT TOOK PLACE 
+phv00016675.v1 :::" P19. Seek Help for Panic, (Participants with European ancestry). DIGS3 "
+phv00085773.v2 ::: AGE AT EXAM 2 
+phv00026934.v1 ::: Log of AER at quarterly visit 36 (9 years) 
+phv00045086.v1 ::: How old were you the first time you had the shakes (trembling hands)?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00035020.v1 :::" Interviewer rating of presence/absence of DSM4 (Diagnostic and Statistical Manual of Mental Disorders) criterion A item for  Gross Disorganization, followed by the raw repository SAS database field name in brackets for cross-reference to repository database [A60f] "
+phv00096887.v1 ::: MARITAL STATUS                    Q1 
+phv00030653.v1 ::: Waist circumference - iliac: lipoatrophy present 
+phv00031260.v1 ::: Type of insulin: pork lente 
+phv00102234.v1 ::: FRUSTRATION BEFORE BENTON VISUAL (1 to 10) 
+phv00044813.v1 ::: How many drinks of other (specify) did you have on Thursday?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00056959.v1 ::: Thiazide diuretics without k-sparing agents 
+phv00056732.v1 ::: Have you ever snored (now or at any time in the past)? 
+phv00029287.v1 ::: R-R variation below 15: quarterly visit 16 
+phv00070707.v1 :::" PHYSICAL FUNCTION TEST, SEMI-TANDEM, HELD FOR 10 SECONDS: WAS THIS TEST COMPLETED? "
+phv00065020.v2 :::" SECOND LARGEST AORTIC PLAQUE THICKNESS FOR SLICE 25, MM "
+phv00003832.v1 ::: DOES PATIENT INHALE 
+phv00163770.v1 ::: Height of subject. 
+phv00088700.v1 ::: Change in usual type/amount of recreation  - Severity 
+phv00057890.v1 ::: Abnormal Awake EEG 
+phv00000503.v1 :::" CHEST EXAMINATION: IRREGULAR CARDIAC RHYTHM, EXAM 1 "
+phv00006625.v1 ::: ECG - MI - ANTERIOR 
+phv00053799.v2 ::: SOLUBLE DIETARY FIBER (G) (ALL PARTICIPANTS) 
+phv00048686.v1 ::: F3. Diabetes management: units 70/30 insulin used-bedtime 
+phv00056901.v1 :::" During the past four weeks, how much of the time did you feel tired? "
+phv00015132.v1 :::" E6. Other medications or herbal preparations Other Medications 5, (Participants with European ancestry). DIGS3 "
+phv00118494.v2 ::: BRAIN CANCER? Q 10 
+phv00159021.v1 :::" Pre-study Protein from 24 hr urine collection - required is dipstick is &ge;1+. This variable indicates the total protein from a 24 hour urine collection.  The test is administered prior to protocol therapy, but is only required for patients who had p "
+phv00002318.v1 ::: ABDOMINAL EXAMINATION: ABDOMINAL ANEURYSM 
+phv00033682.v1 ::: Presence (1) or absence (0) of new vessels on disc (either eye) - quarterly visit 26 
+phv00181887.v1 ::: Age of the participant at the most recent study visit for which we have GAD Ab concentration 
+phv00142920.v3 :::" LEFT LUNG, CORE: MEDIAN PIXEL VALUES WITHIN LUNG REGION (HU) "
+phv00000513.v1 :::" ECG: GENERAL DIAGNOSIS, EXAM 1 "
+phv00032793.v1 ::: Post-lunch blood glucose at OD 340 (quarterly visit 06) 
+phv00162596.v2 ::: DERIVED FIELD:GARLIC 
+phv00124249.v1 ::: BP: 7 AM Diastolic 
+phv00003514.v1 ::: EYES: XANTHELASMA 
+phv00162862.v1 ::: Ever used marijuana 
+phv00033914.v1 ::: HbA1c (month 114) 
+phv00144322.v3 ::: RIGHT LUNG 950: LINEAR FIT CORRELATION COEFFICENT 
+phv00036209.v1 ::: B6. Weeks/Months (row 27).  (Participants with European ancestry). DIGS4 
+phv00027379.v1 ::: CBL2: Renal test - 13: creatinine (serum) value  (mg/dl) 
+phv00078987.v3 ::: Restless and fidgety 
+phv00022536.v3 ::: TENSION SCALE (1=MOST TENSION) 
+phv00101243.v1 :::" BL REREAD VESSEL MAX, R. LATERAL "
+phv00127939.v1 ::: 31i: No money to purchase medication 
+phv00171987.v1 ::: ICD9 code representing phenotype of participant: Genitourinary Dx 
+phv00107170.v1 ::: YEARS FOLLOWING THIS DIET 
+phv00007287.v1 ::: CARDIOVASCULAR MEDICATIONS: CALCIUM CHANNEL BLOCKERS 
+phv00024719.v1 ::: SUM: ANTERIOR & POSTERIOR LAC 
+phv00007570.v3 ::: BODY HEIGHT 
+phv00066077.v1 ::: D1a. Hospitalization and other health care services used. How many times were you admitted to a hospital in past 12 months? 
+phv00106237.v1 :::" IF NO, TELL ME NAME3'S AGE AT DEATH "
+phv00115961.v2 ::: MOST IMPT CAUSES OF HEART ATTK - RESP #5. Q 1 
+phv00128663.v1 ::: 59: Unable to express self clearly 
+phv00031039.v1 ::: CBL9: Repeat evaluation for lipid tests 
+phv00163137.v1 ::: Whether subject should be kept or dropped from analysis 
+phv00087640.v1 ::: 23: VIGOROUS WORK MIN/WK M-SU 
+phv00161427.v1 ::: For values that fall below the threshold of detection 
+phv00021948.v1 ::: 7TH CONTRIBUTING CAUSE OF DEATH 
+phv00126742.v1 ::: LFFQ: maltose (gm) 
+phv00030035.v1 ::: Since last visit: record frequency of self blood glucose monitoring/day 
+phv00052663.v1 :::" J10 Give up/shorten activities, (African American participants). DIGS4 "
+phv00143666.v3 :::" RIGHT LUNG, LOWER PEEL: NUMBER VOXELS ABOVE OR EQUAL TO -150 HOUNSFIELD UNITS "
+phv00051044.v1 ::: B4c. Recognition of event.  Was the patient treated within a health care facility for this event? Deidentified EDIC clinic 
+phv00036151.v1 ::: G33.  Irritable/Elated.  (Participants with European ancestry). DIGS4 
+phv00171215.v1 ::: Numeric value to represent the year of an individual's initial pathologic diagnosis of cancer.(public CDE id 2896960) 
+phv00095356.v1 ::: Fatty acid 18:2 (g) 
+phv00085249.v2 ::: WEIGHT AT AGE 20 (LBS) 
+phv00027039.v1 ::: Notification of pre-proliferative (retinopathy) characteristics 
+phv00078053.v3 ::: Alzheimer's brother 
+phv00094472.v1 ::: CHRONIC LUNG DIS EVER DIAGNOSED?  Q10G 
+phv00123451.v1 ::: 83 Age Parent with colon cancer 
+phv00088205.v1 ::: Age last known dementia free (DSMiv) 
+phv00011762.v1 ::: B10a. Have you gone through menopause? IF YES: have you ever had any severe emotional problems associated with menopause? (Participants with European ancestry). DIGS2 
+phv00101118.v1 :::" HEMATOMA #2, PREDOMINANT MR SIGNAL - T2 "
+phv00052659.v1 :::" J7 Which cigarette given up, (African American participants). DIGS4 "
+phv00011806.v1 ::: D3d. Who did you see about this pain? What did they say you had? Pain in the arms/legs: what told. (Participants with European ancestry). DIGS2 
+phv00111639.v3 ::: Limited climbing several flights of stairs 
+phv00088684.v1 ::: Sister Illness  - Severity 
+phv00021363.v4 :::" DURING THE PAST YEAR, WHAT WAS YOUR AVERAGE TIME PER WEEK SPENT DOING OTHER VIGOROUS EXERCISE (LAWN MOWING)? "
+phv00006588.v1 ::: VASCULAR SYMPTOMS - DISCOMFORT IN LEFT LOWER EXTREMITY (NOT CALF) WHILE WALKING 
+phv00122064.v1 :::" Snoring disturbs others, past month (AC) "
+phv00162503.v2 ::: Derived field: Nutrient value - total USDA flavanone (2007) 
+phv00085859.v2 ::: TYPE OF FAMILY HX OF DIABETES 
+phv00154843.v2 ::: F561. Wheezing medicine 
+phv00005716.v1 ::: SYMPTOMS NOTED AFTER L.O.C./EVENT URINARY/FECAL INCONTINENCE 
+phv00162385.v2 ::: Derived field: Nutrient value - Docosahexaenoic fatty acid (DHA) 
+phv00004487.v1 ::: CLINICAL DIAGNOSTIC IMPRESSION: ASTHMA 
+phv00171667.v1 ::: Creatinine concentration at the first study visit 
+phv00055663.v2 :::" Number of unsure events in NREM (Back position), with >= 3% desat (no observations) "
+phv00121801.v1 ::: Mother's highest urine dipstick result 
+phv00023283.v3 :::" LEAD II, T  WAVE VOLTAGE "
+phv00117277.v2 ::: DATE OF EVENT - 1ST HOSPITALIZATION. Q 1A 
+phv00106296.v1 ::: NAME10 HAVE STROKE 
+phv00052052.v1 :::" C14 Recall three objects, (African American participants). DIGS4 "
+phv00092272.v1 ::: Bleeding on Probing (BL) measure for Lingual (L) of tooth number 20 
+phv00094855.v1 ::: Large infarct location 4    (4th) Q107 
+phv00114441.v2 :::" AGE AT DX, CIRRHOSIS. Q 2 "
+phv00114950.v2 ::: SCORE GAME #1 
+phv00173431.v1 ::: Apolipoprotein-A1 (sample type: plasma) 
+phv00018451.v1 ::: J45. Other.  (Participants with European ancestry). DIGS4 
+phv00171784.v1 ::: Diabetes medication? (1=yes; 0=no) at the first study visit 
+phv00054828.v1 :::" DEFINITIVE EXAM: CATARACT SUSPECTS: LOCATION OF LENS CHANGES: PERIPHERAL, O.S., BLANK = DOES NOT MEET REFERRAL CRITERIA FOR CATARACT (1036) "
+phv00085072.v2 ::: CHOLESTEROL ESTER TRANSFER PROTEIN - TAQ1B GENOTYPE 
+phv00077995.v3 ::: Natural/Don't know 
+phv00124830.v1 ::: 61C. Age of Death 
+phv00033403.v1 ::: Pre-breakfast blood glucose at OD 340 (quarterly visit 34) 
+phv00007696.v3 ::: NO. OF BROTHERS ALIVE 
+phv00010711.v1 ::: AGE AT ORIGINAL COHORT EXAM 15 
+phv00128360.v1 ::: 3b: Last use of tobacco/smoke/snuff (Mins) 
+phv00029737.v1 ::: Day of Profilset receipt: results of self blood glucose monitoring (mg/dl) - pre-lunch 
+phv00123935.v1 ::: Skin fold: calf circumference 2 (cm) 
+phv00000652.v1 :::" ECG: ATRIOVENTRICULAR BLOCK, EXAM 3 "
+phv00142666.v2 ::: INTERLEUKIN-10 
+phv00030115.v1 :::" Family history of nephropathy (0=no,1=yes) "
+phv00054820.v1 :::" DEFINITIVE EXAM: CATARACT SUSPECTS: LOCATION OF LENS CHANGES: CAPSULAR, O.S., BLANK = DOES NOT MEET REFERRAL CRITERIA FOR CATARACT (1036) "
+phv00052066.v1 :::" C25 List of words, (African American participants). DIGS4 "
+phv00036606.v1 :::" Bipolar I DSMIIIR, (Participants with European ancestry). DIGS4. Page1 "
+phv00104274.v1 ::: HIGH FAT 
+phv00052024.v1 :::" B6 Weeks/Months (row 20), (African American participants). DIGS4 "
+phv00044929.v1 ::: Start year of (non-drinking) period 2 occurred?  -  NOTE: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00026055.v1 ::: Father's job status changed 
+phv00057535.v1 ::: Number of Central Apneas during NREM (Other Position) 5% desaturation 
+phv00173389.v1 ::: History of myocardial infarction 
+phv00095624.v1 ::: Time of last calibration 
+phv00078886.v3 ::: Live with other than listed 
+phv00154826.v2 ::: F561. Days to exam 
+phv00127036.v1 ::: SFFQ: copper (mg) 
+phv00030120.v1 ::: AER (mg/24 hours) at baseline (0=equal to or <40mg/24 hours 
+phv00002310.v1 ::: HEART EXAMINATION: FOR SYSTOLIC MURMURS EXAMINER'S OPINION OF VALVE ORIGIN 
+phv00013812.v1 :::" K82. INTERVIEWER: enter number of definite symptoms (recorded in question K81.). If euphoric, criterion = 3; if irritable only, criterion = 4. (Participants with European ancestry). DIGS2 "
+phv00097287.v1 ::: DIZZINESS: TYPE VISUAL DISTURBANCE Q42J 
+phv00003237.v1 ::: NON-CARDIOVASCULAR DIAGNOSIS: CHRONIC BRONCHITIS 
+phv00127679.v1 ::: 8: Ever had any pain/discomfort in chest? 
+phv00151136.v3 :::" LEFT LUNG, PEEL: ON A PLOT OF NUMBER OF VOXELS VERSUS HU THIS IS THE HU WHERE THE 2ND DERIVATIVE IS MOST NEGITIVE (2ND INFLECTION POINT) "
+phv00073059.v1 ::: Number of family members - EMPHYSEMA OR CHRONIC BRONCHITIS 
+phv00150347.v2 ::: RIGHT LOBE LIVER MEAN 1 
+phv00108891.v1 ::: LV INFLOW DOP. QUALITY SCORE 
+phv00051145.v1 ::: B0a. Recognition of event: TIA (transient ischemic attack) 
+phv00070105.v2 ::: DERIVED FIELD: SERVINGS PER WEEK - CELERY 
+phv00119809.v2 ::: HEART ATTACK? Q 3 
+phv00170838.v1 ::: Inner subfields have soft distinct drusen: Left eye 
+phv00019461.v1 ::: X11.  ADHD.  (Participants with European ancestry). DIGS4 
+phv00117835.v2 ::: GXT STAGE 1: RPE 
+phv00031016.v1 ::: CBL9: Form date for 24-hr urine tests 
+phv00070827.v2 ::: READY MADE CAKES (SLICE) 
+phv00032975.v1 ::: Bedtime blood glucose at OD 340 (quarterly visit 14) 
+phv00160321.v1 ::: Age in years at baseline LDL 
+phv00072702.v2 ::: Heart rate of segment 150 to 180 
+phv00022402.v3 ::: HAS YOUR WORK OFTEN AFFECTED YOUR DIGESTION OR SLEEP OR UPSET YOUR HEALTH IN ANY WAY? 
+phv00031736.v1 ::: CBL5: Repeat evaluation for GFR tests 
+phv00098282.v1 ::: VIT E:HOW MANY YEARS?               Q5B 
+phv00046008.v1 :::" Source of DSM-IV CODE FOR BEFD9, (Participants with European ancestry). DIGS2 and 3 "
+phv00087288.v1 ::: FORMER DRINKERS: USUAL NUMBER OF DRINKS PER WEEK WHEN DRINKING 
+phv00081259.v1 ::: Fronto Temporal Dementia - cause of Dementia 
+phv00026271.v1 ::: Diabetes control: pregnancy test has been performed 
+phv00034241.v1 ::: During heavy drinking period: total alcohol consumption/week > 560 gms alcohol 
+phv00032469.v1 :::" Beta-carotene (xs, i.e. excluding dietary supplements) (mcg) - Note: In a number of instances fairly large values were recorded.  Data users should be aware that these values are likely to  represent measurement or data recoding errors. "
+phv00017593.v1 ::: F37a1.  Overactivity.  (Participants with European ancestry). DIGS4 
+phv00053432.v1 :::" E9 Treatment (row 1), (African American participants). DIGS4 "
+phv00093689.v1 :::" COND 5 - LEAD 3, EV1-EV8 "
+phv00015353.v1 :::" F70.a.9. Oth Dep Mixed Days, (Participants with European ancestry). DIGS3 "
+phv00122802.v1 ::: CHQ-PF50: Q10Q4 
+phv00105474.v1 ::: WEAKNESS OF LEFT ARM/HAND 
+phv00044690.v1 ::: Male subjects: What is the origin or descent of your (maternal) grandmother?  - Note: The data values for this variable represent harmonized values; they were derived from information obtained with Sections A and E of the SSAGAI and SSAGAII questionnaires. 
+phv00049762.v1 ::: B1. Distance subjective refraction. Specify reason if a refraction was not performed for eyes: other reason for no left eye refraction 
+phv00079964.v3 ::: CBE - Referral made for follow-up care 
+phv00012179.v1 ::: F39. Did you have at least one other episode when you were depressed for at least one week and had several of the symptoms you described? (Participants with European ancestry). DIGS2 
+phv00121948.v3 ::: Lumbar Level 2 Trabecular Volumetric BMD 
+phv00053998.v2 ::: SITTING DIASTOLIC BLOOD PRESSURE (2ND READING) (ALL PARTICIPANTS) 
+phv00142864.v3 ::: LEFT LUNG: NUMBER VOXELS ABOVE OR EQUAL TO -50 HOUNSFIELD UNITS 
+phv00033753.v1 ::: Quarterly visit number of first 3-step change  (ETDRS) 
+phv00094537.v1 ::: DO YOU NOW SMOKE CIGARS?          Q46 
+phv00160169.v1 ::: Duration of chest tube drainage from child. 
+phv00123299.v1 ::: 77 Age Mom diagnosed -  Asthma 
+phv00120297.v2 ::: ADMISSION YEAR - 2ND HOSPITALIZATION 
+phv00090955.v1 ::: Has the patient ever been told by a healthcare provider that they have: hepatitis - ever had 
+phv00158614.v1 ::: Subject occupation - coded fields 
+phv00002921.v1 ::: ECG: INTERMIT IV CONDUCT DEF 
+phv00159887.v1 ::: ADHD Symptom: Loses Things 
+phv00012676.v1 ::: J24. Have you often used (drug) more days or in larger amounts than you intended to? A COC. (Participants with European ancestry). DIGS2 
+phv00036362.v6 ::: QRS INTERVAL CYCLE 2 LEAD II (MS) (INTERVAL FROM QRS ONSET TO QRS OFFSET) 
+phv00113418.v2 ::: PREF TO PASS FRIENDS BY UNLESS SPOKEN TO. Q 3 
+phv00056834.v1 ::: Blood pressure greater than or equal to 140/90 mmHg OR current TX w/ anti-HTN meds 
+phv00054497.v1 :::" Did you ever have more to drink than you intended to, or did you drink much longer than you intended to? (African American participants) "
+phv00035006.v1 :::" Subjects report of whether he/she ever returned to ""normal"" for w or more months at a time, followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I13600] "
+phv00116220.v2 ::: 3RD TEST CODE 
+phv00077918.v3 :::" 5lbs on purpose/Started, increased smoking "
+phv00121624.v2 ::: END STAGE RENAL DISEASE 
+phv00025171.v1 ::: Test r26: difference between year 2  and baseline scores 
+phv00162197.v2 ::: FFQ: MIXED VEGETABLES 
+phv00084165.v2 ::: SERVINGS PER DAY 70:REFRIEDBEANS 
+phv00169066.v2 ::: Height 
+phv00079628.v3 ::: Use tub margarine on bread 
+phv00082461.v1 ::: MMSE ATTEMPTS UNSUCCESSFUL: Other - Interpretation 
+phv00012741.v1 ::: J28. Did using (drug) cause you to have any other physical health problems (other than withdrawal)? B STIM. (Participants with European ancestry). DIGS2 
+phv00025361.v1 ::: Category test - time to complete task (quarterly visit 28) 
+phv00036302.v2 :::" METACARPAL SECTION MODULUS, MM3 = P (1/2(D_OUTER)  4 - 1/2(D_ENDO)  4)/ (D_OUTER) [M3-METACARPAL 3] "
+phv00128617.v1 ::: 13: Was evaluated on performance 
+phv00044666.v1 :::" Spent so much time drinking, had little time for anything else (No info = 0) "
+phv00117571.v2 ::: VLDL CHOLESTEROL (MG/DL) 
+phv00015875.v1 :::" J25.d. MJ Use Hallucinations, (Participants with European ancestry). DIGS3 "
+phv00085322.v2 ::: QUESTIONNAIRE ADMINISTRATOR - MEDICAL HISTORY 
+phv00115862.v2 ::: WEARING CONTACT LENSES. Q 6 
+phv00030077.v1 ::: Ask family member about frequency of clinic visits in standard group 
+phv00162234.v2 ::: FFQ: MUFFINS OR BISCUITS 
+phv00006246.v1 ::: U-WAVE PRESENT 
+phv00003714.v1 ::: DO FRIENDS LIVE WITH YOU? 
+phv00050045.v1 ::: E1c. Associated events: did any of the following occur with the hypoglycemic event described? Myocardial infarction 
+phv00027336.v1 ::: CBL1: Body surface area (current) 
+phv00098418.v1 ::: Symptomatic or asymptomatic 

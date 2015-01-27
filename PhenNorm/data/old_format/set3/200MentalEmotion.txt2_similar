@@ -1,0 +1,134 @@
+Mental or Emotional Finding CLUSTERS
+C0015726
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 C0015726;C0037817;C0234856;C0013470;C0001948;C0684271;C2371283;C0080151;C2584304;C0556656 	 menp;orgf;dora;orgf;inbe;orgf;menp;dsyn;menp;hlca 
+	phv00053104.v1  	  P13m Fear of going crazy, (African American participants). DIGS4 	 C0015726;C1961839;C0011900;C2827447 	 menp;fndg;fndg;resa 
+	phv00035158.v1  	  Do you have an unreasonably strong fear for or avoid any of the following: traveling alone? (Participants with European ancestry) 	 C0015726;C1961839;C0040802;C0439044 	 menp;fndg;dora;fndg 
+	phv00120313.v2  	  I FELT FEARFUL. Q 10 	 C0013987;C1527305;C0015726 	 menp;menp;menp 
+	phv00020346.v1  	  If E4 (How long have you had any of these fears?) (being in a crowd or standing in line;  being away from home alone; traveling alone; traveling in a bus, train, or car; being in a public place like a department store) is less than 1 year, please enter # of months 	 C0015726;C0231472;C0439044;C0040802 	 menp;phsf;fndg;dora 
+	phv00034699.v1  	  How long have you had any of these fears (unreasonable strong fears)? 	 C0015726 	 menp 
+	phv00006780.v1  	  CES-D: I FELT FEARFUL 	 C0013987;C1527305;C0015726 	 menp;menp;menp 
+	phv00011278.v2  	  Fear of animals, insects, snakes 	 C0015726;C1961839 	 menp;fndg 
+	phv00034704.v1  	  Is your fear much stronger than in other people? 	 C0015726;C1961839 	 menp;fndg 
+	phv00018987.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00019001.v1  	  P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 	 C0015726;C1961839;C0184532;C0011900;C2827447 	 menp;fndg;orgf;fndg;resa 
+	phv00011519.v2  	  Has many fears, is easily scared 	 C0015726;C1961839 	 menp;fndg 
+	phv00053150.v1  	  P33 Persistent fear/ avoidance, (African American participants). DIGS4 	 C0015726;C0870186;C1961839;C0011900;C2827447 	 menp;menp;fndg;fndg;resa 
+	phv00034689.v1  	  Have you ever been very upset with yourself for having any of these fears? 	 C0700361;C0015726 	 mobd;menp 
+	phv00012546.v1  	  I29j. Did you ever have any of the following problems when you stopped or cut down on drinking? INTERVIEWER: code in column I. Did you have the DT's, that is, where you were out of your head, extremely shaky, or felt very frightened or nervous? EVER. (Participants with European ancestry). DIGS2 	 C0000925;C0001948;C0684271;C0392703;C0013987;C1527305;C0015726;C1961839;C0027769 	 inpo;inbe;orgf;patf;menp;menp;menp;fndg;fndg 
+===============
+C0860661
+	phv00011161.v2  	  Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 	 C0860661;C0004927;C2707008;C0680095;C0162340 	 menp;inbe;clna;inbe;menp 
+	phv00011405.v2  	  Disruptive behaviour - oppositional behaviour PACS section 3.9 - frequency of expressing spitefulness 	 C0474416;C0860661;C1293097 	 fndg;menp;topp 
+===============
+C0018592
+	phv00054568.v1  	  Can you usually let yourself go and enjoy yourself at a lively party? (African American participants) 	 C0018592 	 menp 
+	phv00072807.v1  	  I am able to enjoy life 	 C1299581;C0018592 	 fndg;menp 
+	phv00116011.v2  	  I AM HAPPY. Q 30 	 C0018592 	 menp 
+	phv00120315.v2  	  I FELT HAPPY. Q 12 	 C0013987;C0018592;C1527305 	 menp;menp;menp 
+	phv00022485.v3  	  DURING THE PAST WEEK, I WAS HAPPY. [DEPRESSION SCALE] 	 C0018592;C0679604 	 menp;diap,inpr 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 C0543488;C1299581;C0018592;C0804628;C2712604;C0679105 	 menp;fndg;menp;clna;dora;menp 
+===============
+C0242428
+	phv00124798.v1  	  30. How satisfied have you been w/the quality of health care you have received in the past year? 	 C0242428;C0004083 	 menp;menp 
+	phv00088288.v1  	  Unlikely to get real satisfaction in the future 	 C0242428 	 menp 
+	phv00127590.v1  	  11: Satisfied w/doctor 	 C0242428 	 menp 
+===============
+C0018379
+	phv00089213.v1  	  LOW SELF-ESTEEM/GUILT (Frequency) 	 C0679136;C0018379 	 fndg;menp 
+	phv00018770.v1  	  K60f.  Feel guilty.  (Participants with European ancestry). DIGS4 	 C0016327;C0013987;C0018379;C0011900;C2827447 	 inch,phsu;menp;menp;fndg;resa 
+	phv00036137.v1  	  G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 	 C0018379;C1821293;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+C0459920
+	phv00089054.v1  	  Idea should be punished for sins 	 C0459920 	 menp 
+	phv00036165.v1  	  G44.  Beliefs/ideas.  (Participants with European ancestry). DIGS4 	 C0459920;C0011900;C2827447 	 menp;fndg;resa 
+	phv00088430.v1  	  Repeats certain actions/gets stuck on certain ideas - Distress 	 C0459920;C0231303 	 menp;menp 
+	phv00013787.v1  	  K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 	 C0871189;C0233640;C0008892;C0039456;C0013987;C1527305;C1955473;C0459920;C0039869 	 sosy;mobd;menp;menp;menp;menp;fndg;menp;menp 
+===============
+C0679063
+	phv00025314.v1  	  Logical memory - immediate recall - story 2 (quarterly visit 28) 	 C0679063;C1512346 	 menp;inbe 
+	phv00024920.v1  	  Logical memory - immediate recall: story 2 (quarterly visit 00) 	 C0679063;C1512346 	 menp;inbe 
+===============
+C0679062
+	phv00102999.v1  	  REMEMBER WATCH 	 C0679062 	 menp 
+	phv00115317.v2  	  SMOKES, DOESN'T REMEMBER, DOESN'T SMOKE. Q 1 	 C0037366;C0037369;C0679062;C0439994 	 eehu,hops;inbe;menp;hops 
+	phv00010870.v1  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+	phv00072590.v1  	  What are the 3 objects I asked you to remember a few moments ago? 	 C0679062 	 menp 
+	phv00011025.v4  	  What are the 3 objects I asked you to remember a few moments ago? 	 C0679062 	 menp 
+	phv00104528.v1  	  TO REMEMBER 'SHOES' 3MSE Score Component 	 C0679062;C2960235 	 menp;fndg 
+	phv00110574.v1  	  REMEMBER NAMES OF FAMILY AND FRIENDS 	 C0679062 	 menp 
+	phv00072608.v2  	  I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 	 C0080151;C1444647;C0679062;C0475653;C1095830 	 dsyn;fndg;menp;food;food 
+	phv00102197.v1  	  TO REMEMBER 'BROWN' 3MSE Score Component 	 C0679062;C2960235 	 menp;fndg 
+	phv00088511.v1  	  Forgets to do things/remembers when prompted or too late - Frequency 	 C0598853;C0679062 	 mobd;menp 
+===============
+C0524637
+	phv00051454.v1  	  B3. Recognition event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+	phv00051095.v1  	  B1. Recognition of event. Deidentified date of occurrence 	 C0524637;C2348077 	 menp;food 
+	phv00051420.v1  	  B2b. Recognition of event. Deidentified date clinic learned of the event 	 C0524637;C2348077;C0023185 	 menp;food;menp 
+	phv00051100.v1  	  B3. Recognition of event. How did clinic learn of the event 	 C0524637;C0023185 	 menp;menp 
+===============
+C0231303
+	phv00082262.v1  	  Depression/Dysphoria -  Caregiver Distress 	 C0011570;C0233477;C0231303;C0011581;C0344315 	 mobd;mobd;menp;mobd;fndg 
+	phv00088448.v1  	  Talks out of turn/interrupts - Distress 	 C0600118;C0541749;C0231303 	 fndg;fndg;menp 
+	phv00088430.v1  	  Repeats certain actions/gets stuck on certain ideas - Distress 	 C0459920;C0231303 	 menp;menp 
+	phv00028631.v1  	  Distress caused by: feeling critical of others 	 C0231303;C0013987;C1527305;C1955473 	 menp;menp;menp;fndg 
+	phv00088518.v1  	  Overly silly/childish sense of humor - Distress 	 C0231303;C0597811 	 menp;topp 
+	phv00028635.v1  	  Distress caused by: worried about sloppiness or carelessness 	 C0231303;C0233481 	 menp;fndg 
+===============
+C0229992
+	phv00071603.v1  	  The next questions are about your use of drugs on your own.  By "on your own" we mean either without a doctor's prescription, in larger amounts than prescribed, or for longer than prescribed.  With this definition in mind, did you ever use any of the following drugs on your own? Amphetamines or other stimulants? (Methamphetamine, Preludin, Dexedrine, Ritalin, "Speed") 	 C0013227;C0033080;C0278329;C0229992;C0002667;C0025611;C0304402;C0282302;C0591355;C0728759 	 phsu;hlca;hlca;menp;nsba,orch,phsu;hops,orch;phsu;orch,phsu;orch,phsu;orch,phsu 
+	phv00013475.v1  	  K14. Have you ever had the feeling that people could read your mind or know what you were thinking? Depression. (Participants with European ancestry). DIGS2 	 C0013987;C1527305;C0034754;C0229992;C0039869;C0011570;C0011581;C0344315;C0233629 	 menp;menp;dora;menp;menp;mobd;mobd;fndg;mobd 
+	phv00008537.v3  	  FOR HOMEMAKERS: HOUSE WORK OFTEN STAYED ON MIND ALL DAY 	 C0229992 	 menp 
+===============
+C0234421
+	phv00011707.v1  	  B3lb. Have you had any of the following conditions: serious head injury? IF YES: did you lose consciousness? IF YES: specify how long: (MINUTES). (Participants with European ancestry). DIGS2 	 C1710055;C0009791;C0234421 	 inpo;fndg;menp 
+	phv00005710.v1  	  (USUAL) ACTIVITY PRECEDING EVENT/LOSS OF CONSCIOUSNESS 	 C0026606;C0009791;C0234421 	 dora;fndg;menp 
+	phv00006554.v1  	  SYNCOPE HISTORY - HAVE YOU FAINTED OR LOST CONSCIOUSNESS IN THE INTERIM? (IF DUE TO STROKE, SKIP TO FR338 (SCREEN 11)? IF EVENT IMMEDIATELY PRECEDED BY HEAD INJURY OR ACCIDENT CODE 0=NO. 	 C0039070;C0262926;C2004062;C0009791;C0234421;C0038454;C0560435;C0220908;C0430054;C0018674 	 sosy;fndg;fndg;fndg;menp;dsyn;fndg;hlca;lbpr;inpo 
+===============
+C0003467
+	phv00156255.v1  	  Days enrollment to F33 Treatment for Anxiety 	 C1516879;C0087111;C1533734;C0003467;C0003469 	 hlca;topp;topp;menp;mobd 
+	phv00022537.v3  	  ANXIETY SCALE (1=MOST TENSION) 	 C0003467;C0003469;C0233494 	 menp;mobd;mobd 
+	phv00044638.v1  	  Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00053698.v1  	  Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00088955.v1  	  Anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028594.v1  	  Number of questions answered - anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00028611.v1  	  Total score - phobic anxiety 	 C0003467;C0003469 	 menp;mobd 
+	phv00044641.v1  	  Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 	 C0003467;C1275743;C0003469;C0011900;C2827447 	 menp;fndg;mobd;fndg;resa 
+	phv00016415.v1  	  M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 	 C0003467;C0013987;C2371283 	 menp;menp;menp 
+	phv00053148.v1  	  P31 Always become anxious, (African American participants). DIGS4 	 C0003467;C0011900;C2827447 	 menp;fndg;resa 
+	phv00020690.v1  	  Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 	 C0681906;C0003467;C0011570;C0011581;C0344315;C2700446;C0015726 	 resa;menp;mobd;mobd;fndg;resa;menp 
+	phv00015717.v1  	  I 31.b. W/D Anxious/Dep Ever, (Participants with European ancestry). DIGS3 	 C0152277;C0003467;C0057472 	 topp;menp;orch,phsu 
+	phv00034664.v1  	  During that period (when you have felt worried, tense, anxious, or more worried than most people would in your situation), was your worry stronger than in other people? 	 C0013987;C1527305;C0233481;C0235108;C0003467 	 menp;menp;fndg;sosy;menp 
+	phv00054430.v1  	  When you were worried or anxious, were you also restless? (African American participants) 	 C0233481;C0003467;C0085631 	 fndg;menp;sosy 
+===============
+C0543488
+	phv00088865.v1  	  Loss of sexual interest/pleasure 	 C0543488;C0679105 	 menp;menp 
+	phv00018074.v1  	  G59a5.  Loss of interest.  (Participants with European ancestry). DIGS4 	 C0543488;C0011900;C2827447 	 menp;fndg;resa 
+	phv00012069.v1  	  F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 	 C0543488;C1299581;C0018592;C0804628;C2712604;C0679105 	 menp;fndg;menp;clna;dora;menp 
+===============
+C0026516
+	phv00016525.v1  	  N1.a.1. Mood 1st Weeks, (Participants with European ancestry). DIGS3 	 C0441962;C0026516;C2713234 	 fndg;menp;clna 
+	phv00052595.v1  	  H7 Very moody, (African American participants). DIGS4 	 C0026516;C0554980;C0011900;C2827447 	 menp;fndg;fndg;resa 
+===============
+C0086045
+	phv00011544.v2  	  Is easily distracted, concentration wanders 	 C0086045;C0233569 	 menp;fndg 
+	phv00011527.v2  	  Do you think that your child has difficulties in one or more of the following areas: emotions, concentration, behaviour or being able to get on with other people? Do these difficulties interfere with your child's everyday life in leisure activities? 	 C0039869;C1299586;C0013987;C0086045;C0004927;C2707008;C1299581;C0023292 	 menp;fndg;menp;menp;inbe;clna;fndg;dora 
+===============
+C0162340
+	phv00011161.v2  	  Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 	 C0860661;C0004927;C2707008;C0680095;C0162340 	 menp;inbe;clna;inbe;menp 
+	phv00088896.v1  	  Others don't understand them/unsympathetic 	 C1955473;C0162340 	 fndg;menp 
+===============
+C0025260
+	phv00024921.v1  	  Logical memory - delayed recall: story 1 (quarterly visit 00) 	 C0025260;C0700327;C0034770;C2361119;C1512346 	 menp;fndg;menp;clna;inbe 
+	phv00082438.v1  	  LO-WORD LIST MEMORY: Other - Raw Score 	 C0025260;C1955473;C0700327 	 menp;fndg;fndg 
+===============
+C2371283
+	phv00016415.v1  	  M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 	 C0003467;C0013987;C2371283 	 menp;menp;menp 
+	phv00035150.v1  	  How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 	 C0015726;C0037817;C0234856;C0013470;C0001948;C0684271;C2371283;C0080151;C2584304;C0556656 	 menp;orgf;dora;orgf;inbe;orgf;menp;dsyn;menp;hlca 
+===============
+C0002957
+	phv00094638.v1  	  ANGRY AND SAY NASTY THINGS           Q7 	 C0002957 	 menp 
+	phv00022473.v3  	  WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TALK TO A FRIEND OR RELATIVE? [ANGER-DISCUSS SCALE] 	 C0002957;C0037817;C0234856;C0600118 	 menp;orgf;dora;fndg 
+	phv00022467.v3  	  WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TRY TO ACT LIKE NOTHING HAPPENED? [ANGER-IN SCALE] 	 C0002957 	 menp 
+	phv00094629.v1  	  POOR RATING ON GOOD WORK, ANGER   Q10 	 C0002957 	 menp 
+===============

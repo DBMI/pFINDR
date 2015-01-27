@@ -1,0 +1,131 @@
+MEDICAL HISTORY CLUSTERS
+C2004062:C0012634:C0262926
+	phv00081606.v1  	  COLON CANCER: Number of family members with history of disease 	 malignant tumor of colon;colon carcinoma;medical history;history of previous events;disease 	 C0007102;C0699790;C0262926;C2004062;C0012634 	 neop;neop;fndg;fndg;dsyn 
+	phv00081621.v1  	  SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE): Number of family members with history of disease 	 amnesia;memory loss;alzheimer disease;medical history;history of previous events;disease 	 C0002622;C0751295;C0002395;C0262926;C2004062;C0012634 	 mobd;sosy;dsyn;fndg;fndg;dsyn 
+===============
+C0032961
+	phv00021640.v3  	  LIVE-BIRTH PREGNANCY #2: YOUR AGE AT THE BIRTH OF  THIS CHILD - YEARS 	 livebirth;pregnancy;encounter due to live birth;birth 	 C0419373;C0032961;C1317974;C0005615 	 fndg;orgf;hlca;orgf 
+	phv00073108.v1  	  Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 	 family history of;disease;mental depression;depressive disorder;depressed mood;pregnancy;depression, postpartum 	 C0241889;C0012634;C0011570;C0011581;C0344315;C0032961;C0221074 	 fndg;dsyn;mobd;mobd;fndg;orgf;mobd 
+	phv00081611.v1  	  DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 	 mental depression;depressive disorder;depressed mood;pregnancy history;depression, postpartum;pregnancy;family history of;disease 	 C0011570;C0011581;C0344315;C0032967;C0221074;C0032961;C0241889;C0012634 	 mobd;mobd;fndg;fndg;mobd;orgf;fndg;dsyn 
+===============
+C0012634
+	phv00081606.v1  	  COLON CANCER: Number of family members with history of disease 	 malignant tumor of colon;colon carcinoma;medical history;history of previous events;disease 	 C0007102;C0699790;C0262926;C2004062;C0012634 	 neop;neop;fndg;fndg;dsyn 
+	phv00073108.v1  	  Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 	 family history of;disease;mental depression;depressive disorder;depressed mood;pregnancy;depression, postpartum 	 C0241889;C0012634;C0011570;C0011581;C0344315;C0032961;C0221074 	 fndg;dsyn;mobd;mobd;fndg;orgf;mobd 
+	phv00081750.v1  	  PARKINSON'S DISEASE: Family history of disease 	 history (of) disease family;disease 	 C0850707;C0012634 	 fndg;dsyn 
+	phv00081611.v1  	  DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 	 mental depression;depressive disorder;depressed mood;pregnancy history;depression, postpartum;pregnancy;family history of;disease 	 C0011570;C0011581;C0344315;C0032967;C0221074;C0032961;C0241889;C0012634 	 mobd;mobd;fndg;fndg;mobd;orgf;fndg;dsyn 
+	phv00073151.v1  	  Family history of disease - PROSTATE CANCER 	 family history of;prostatic diseases;malignant neoplasms;primary malignant neoplasm;disease;malignant neoplasm of prostate;prostate carcinoma 	 C0241889;C0033575;C0006826;C1306459;C0012634;C0376358;C0600139 	 fndg;dsyn;neop;neop;dsyn;neop;neop 
+	phv00081621.v1  	  SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE): Number of family members with history of disease 	 amnesia;memory loss;alzheimer disease;medical history;history of previous events;disease 	 C0002622;C0751295;C0002395;C0262926;C2004062;C0012634 	 mobd;sosy;dsyn;fndg;fndg;dsyn 
+===============
+C0241889:C0241863
+	phv00026118.v1  	  Family history: renal disease in diabetic grandparents 	 family history of;kidney diseases;diabetic 	 C0241889;C0022658;C0241863 	 fndg;dsyn;fndg 
+	phv00026099.v1  	  Family history: myocardial infarct in diabetic siblings before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00026097.v1  	  Family history: myocardial infarct in diabetic parents before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+===============
+C0344315:C0011581:C0032961:C0241889:C0011570:C0221074:C0012634
+	phv00073108.v1  	  Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 	 family history of;disease;mental depression;depressive disorder;depressed mood;pregnancy;depression, postpartum 	 C0241889;C0012634;C0011570;C0011581;C0344315;C0032961;C0221074 	 fndg;dsyn;mobd;mobd;fndg;orgf;mobd 
+	phv00081611.v1  	  DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 	 mental depression;depressive disorder;depressed mood;pregnancy history;depression, postpartum;pregnancy;family history of;disease 	 C0011570;C0011581;C0344315;C0032967;C0221074;C0032961;C0241889;C0012634 	 mobd;mobd;fndg;fndg;mobd;orgf;fndg;dsyn 
+===============
+C0233481
+	phv00050249.v1  	  B25. How often do you find that your parents worry too much about your diabetes? 	 finding;worried;diabetes;diabetes mellitus 	 C0243095;C0233481;C0011847;C0011849 	 fndg;fndg;dsyn;dsyn 
+	phv00050253.v1  	  C2. How often do you worry about whether you will have children? 	 worried 	 C0233481 	 fndg 
+	phv00022521.v3  	  HAS YOUR WIFE'S WORKING BEEN DISRUPTIVE IN THE FOLLOWING WAY:  WORRY ABOUT THE HEALTH OR SAFETY ASPECTS OF HER JOB? 	 worried;safety study 	 C0233481;C1705187 	 fndg;resa 
+===============
+C0006826:C1306459
+	phv00091355.v1  	  RELATIVE HAD CANCER BOTH BREASTS  Q19 	 malignant neoplasms;primary malignant neoplasm 	 C0006826;C1306459 	 neop;neop 
+	phv00073151.v1  	  Family history of disease - PROSTATE CANCER 	 family history of;prostatic diseases;malignant neoplasms;primary malignant neoplasm;disease;malignant neoplasm of prostate;prostate carcinoma 	 C0241889;C0033575;C0006826;C1306459;C0012634;C0376358;C0600139 	 fndg;dsyn;neop;neop;dsyn;neop;neop 
+===============
+C0011847:C0011849
+	phv00123358.v1  	  81 How many brothers with Diabetes 	 diabetes;diabetes mellitus 	 C0011847;C0011849 	 dsyn;dsyn 
+	phv00050249.v1  	  B25. How often do you find that your parents worry too much about your diabetes? 	 finding;worried;diabetes;diabetes mellitus 	 C0243095;C0233481;C0011847;C0011849 	 fndg;fndg;dsyn;dsyn 
+	phv00115613.v2  	  # OF PT'S SISTERS  WITH DIABETES. Q 4a 	 diabetes;diabetes mellitus 	 C0011847;C0011849 	 dsyn;dsyn 
+===============
+C0376358:C0600139
+	phv00010629.v3  	  HOW MANY TIMES WAS A BLOOD TEST FOR PROSTATE CANCER DONE DURING THE PAST FIVE YEARS? (MEN ONLY) 	 hematologic tests;blood analysis (lab test);malignant neoplasm of prostate;prostate carcinoma 	 C0018941;C2121789;C0376358;C0600139 	 lbpr;lbpr;neop;neop 
+	phv00073151.v1  	  Family history of disease - PROSTATE CANCER 	 family history of;prostatic diseases;malignant neoplasms;primary malignant neoplasm;disease;malignant neoplasm of prostate;prostate carcinoma 	 C0241889;C0033575;C0006826;C1306459;C0012634;C0376358;C0600139 	 fndg;dsyn;neop;neop;dsyn;neop;neop 
+===============
+C0241889:C0012634
+	phv00073108.v1  	  Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 	 family history of;disease;mental depression;depressive disorder;depressed mood;pregnancy;depression, postpartum 	 C0241889;C0012634;C0011570;C0011581;C0344315;C0032961;C0221074 	 fndg;dsyn;mobd;mobd;fndg;orgf;mobd 
+	phv00073151.v1  	  Family history of disease - PROSTATE CANCER 	 family history of;prostatic diseases;malignant neoplasms;primary malignant neoplasm;disease;malignant neoplasm of prostate;prostate carcinoma 	 C0241889;C0033575;C0006826;C1306459;C0012634;C0376358;C0600139 	 fndg;dsyn;neop;neop;dsyn;neop;neop 
+	phv00081611.v1  	  DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 	 mental depression;depressive disorder;depressed mood;pregnancy history;depression, postpartum;pregnancy;family history of;disease 	 C0011570;C0011581;C0344315;C0032967;C0221074;C0032961;C0241889;C0012634 	 mobd;mobd;fndg;fndg;mobd;orgf;fndg;dsyn 
+===============
+C0027404
+	phv00122187.v1  	  Any siblings have narcolepsy (A) 	 narcolepsy 	 C0027404 	 dsyn 
+	phv00122157.v1  	  Mom has narcolepsy (AC) 	 narcolepsy 	 C0027404 	 dsyn 
+===============
+C0009402:C1527249
+	phv00078713.v3  	  Age sister (2) had colorectal cancer 	 carcinoma of the large intestine;colorectal cancer 	 C0009402;C1527249 	 neop;neop 
+	phv00078746.v3  	  Male/Female relative had colorectal cancer 	 male gender;female;carcinoma of the large intestine;colorectal cancer 	 C0024554;C0015780;C0009402;C1527249 	 fndg;fndg;neop;neop 
+===============
+C0337664
+	phv00079360.v3  	  Smoker - husband/partner 	 smoker 	 C0337664 	 fndg 
+	phv00091176.v2  	 " If smoker or ex-smoker, year stopped smoking " 	 smoker;smoking;tobacco smoking behavior 	 C0337664;C0037369;C0453996 	 fndg;inbe;inbe 
+===============
+C0011065:C1306577
+	phv00122183.v1  	  List age/cause of sister(s) death (A) 	 cessation of life;death (finding) 	 C0011065;C1306577 	 orgf;fndg 
+	phv00088673.v1  	  Death of close friend  - Severity 	 cessation of life;death (finding) 	 C0011065;C1306577 	 orgf;fndg 
+	phv00128125.v1  	  24b: Specify cause of father's death 	 cessation of life;death (finding) 	 C0011065;C1306577 	 orgf;fndg 
+===============
+C0027051:C0241889:C0241863
+	phv00026099.v1  	  Family history: myocardial infarct in diabetic siblings before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00026097.v1  	  Family history: myocardial infarct in diabetic parents before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+===============
+C0038454:C0241889
+	phv00023968.v3  	  Family history: stroke 	 family history of;cerebrovascular accident 	 C0241889;C0038454 	 fndg;dsyn 
+	phv00165187.v1  	 " Family history (first degree relatives) of stroke at baseline [0=No, 1=Yes] " 	 family history of;cerebrovascular accident 	 C0241889;C0038454 	 fndg;dsyn 
+===============
+C0027051
+	phv00026099.v1  	  Family history: myocardial infarct in diabetic siblings before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00078690.v3  	  Age brother (1) had MI 	 myocardial infarction;myocardial infarction:finding:point in time:^patient:ordinal 	 C0027051;C2926063 	 dsyn;clna 
+	phv00094491.v1  	  NATURAL MOTHER HAVE HEART ATTACK? Q18E 	 myocardial infarction 	 C0027051 	 dsyn 
+	phv00026097.v1  	  Family history: myocardial infarct in diabetic parents before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00085315.v2  	  FAMILY HISTORY OF HEART ATTACK: SIBLING 	 family history of;myocardial infarction 	 C0241889;C0027051 	 fndg;dsyn 
+===============
+C0024776
+	phv00087648.v1  	  26: MODERATE VOLUNTEER MET-MIN/WK M-SU 	 maple syrup urine disease;metastatic neoplasm 	 C0024776;C2939420 	 dsyn;neop 
+	phv00085690.v2  	  26: MODERATE VOLUNTEER min/wk M-Su 	 maple syrup urine disease 	 C0024776 	 dsyn 
+===============
+C2004062:C0262926
+	phv00081606.v1  	  COLON CANCER: Number of family members with history of disease 	 malignant tumor of colon;colon carcinoma;medical history;history of previous events;disease 	 C0007102;C0699790;C0262926;C2004062;C0012634 	 neop;neop;fndg;fndg;dsyn 
+	phv00081836.v1  	  Subject History of disease - teenager (2) 	 medical history;history of previous events 	 C0262926;C2004062 	 fndg;fndg 
+	phv00081621.v1  	  SEVERE MEMORY LOSS (LIKE ALZHEIMER'S DISEASE): Number of family members with history of disease 	 amnesia;memory loss;alzheimer disease;medical history;history of previous events;disease 	 C0002622;C0751295;C0002395;C0262926;C2004062;C0012634 	 mobd;sosy;dsyn;fndg;fndg;dsyn 
+===============
+C0027051:C0241889
+	phv00026099.v1  	  Family history: myocardial infarct in diabetic siblings before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00085315.v2  	  FAMILY HISTORY OF HEART ATTACK: SIBLING 	 family history of;myocardial infarction 	 C0241889;C0027051 	 fndg;dsyn 
+	phv00026097.v1  	  Family history: myocardial infarct in diabetic parents before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+===============
+C0241889
+	phv00023968.v3  	  Family history: stroke 	 family history of;cerebrovascular accident 	 C0241889;C0038454 	 fndg;dsyn 
+	phv00073108.v1  	  Family history of disease - DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION) 	 family history of;disease;mental depression;depressive disorder;depressed mood;pregnancy;depression, postpartum 	 C0241889;C0012634;C0011570;C0011581;C0344315;C0032961;C0221074 	 fndg;dsyn;mobd;mobd;fndg;orgf;mobd 
+	phv00026118.v1  	  Family history: renal disease in diabetic grandparents 	 family history of;kidney diseases;diabetic 	 C0241889;C0022658;C0241863 	 fndg;dsyn;fndg 
+	phv00026099.v1  	  Family history: myocardial infarct in diabetic siblings before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00026097.v1  	  Family history: myocardial infarct in diabetic parents before age 40 	 family history of;myocardial infarction;diabetic 	 C0241889;C0027051;C0241863 	 fndg;dsyn;fndg 
+	phv00026107.v1  	  Family history: eye disease in sibling 	 family history of;disorder of eye 	 C0241889;C0015397 	 fndg;dsyn 
+	phv00081611.v1  	  DEPRESSION AFTER PREGNANCY (POST-PARTUM DEPRESSION): Family History of disease 	 mental depression;depressive disorder;depressed mood;pregnancy history;depression, postpartum;pregnancy;family history of;disease 	 C0011570;C0011581;C0344315;C0032967;C0221074;C0032961;C0241889;C0012634 	 mobd;mobd;fndg;fndg;mobd;orgf;fndg;dsyn 
+	phv00073151.v1  	  Family history of disease - PROSTATE CANCER 	 family history of;prostatic diseases;malignant neoplasms;primary malignant neoplasm;disease;malignant neoplasm of prostate;prostate carcinoma 	 C0241889;C0033575;C0006826;C1306459;C0012634;C0376358;C0600139 	 fndg;dsyn;neop;neop;dsyn;neop;neop 
+	phv00085315.v2  	  FAMILY HISTORY OF HEART ATTACK: SIBLING 	 family history of;myocardial infarction 	 C0241889;C0027051 	 fndg;dsyn 
+	phv00165187.v1  	 " Family history (first degree relatives) of stroke at baseline [0=No, 1=Yes] " 	 family history of;cerebrovascular accident 	 C0241889;C0038454 	 fndg;dsyn 
+===============
+DEMOGRAPHICS CLUSTERS
+LAB TESTS CLUSTERS
+MEDICATION CLUSTERS
+SMOKING CLUSTERS
+===============
+===============
+Mental or Emotional Finding CLUSTERS
+HEALTHCARE ACTIVITIES FINDING CLUSTERS
+DIAGNOSTICS CLUSTERS
+ Therapeutic or Preventative Procedure CLUSTERS
+DRINKING HISTORY CLUSTERS
+Substance Use History CLUSTERS
+Daily or Recreational Activity CLUSTERS
+===============
+Eating or Nutritional Finding CLUSTERS
+SelfCare CLUSTERS
+Research Attribute CLUSTERS
+C2827447
+	phv00036654.v1  	 " First degree with unipolar (Family), (Participants with European ancestry). DIGS4. Page2 " 	 diagnosis;genetic study 	 C0011900;C2827447 	 fndg;resa 
+	phv00070792.v2  	  HALF CUP OF DATES OR FIGS 	 genetic study 	 C2827447 	 resa 
+===============
+Clinical Attribute CLUSTERS
+Healthcare Encounter CLUSTERS

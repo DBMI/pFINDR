@@ -1,0 +1,200 @@
+phv00070670.v1 	 BERKMAN: HOW MANY RELATIVES DO YOU HAVE, PEOPLE THAT YOU FEEL AT EASE WITH, CAN TALK TO ABOUT PRIVATE MATTERS? 
+phv00054568.v1 	 Can you usually let yourself go and enjoy yourself at a lively party? (African American participants) 
+phv00021279.v4 	 CES-D I FELT HOPEFUL ABOUT THE FUTURE 
+phv00071384.v1 	 Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530]. Rating 
+phv00071624.v1 	 Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 
+phv00020398.v1 	 Did thinking about these ideas interfere with your life or work, or cause you difficulty with your relatives or friends, or upset you a great deal? 
+phv00020274.v1 	 Did you feel more tired out or low on energy than is usual for you? 
+phv00054575.v1 	 Do other people think of you as being very lively? (African American participants) 
+phv00021865.v3 	 DO YOU FEEL THAT ANY DIFFICULTY WITH YOUR HEARING LIMITS OR HAMPERS YOUR PERSONAL OR SOCIAL LIFE ? 
+phv00011161.v2 	 Does not follow through on instructions and fails to finish school work chores or duties in the workplace (not due to oppositional behaviour or failure to understand instruction) 
+phv00085880.v2 	 DURING PAST 4 WEEKS--HAS PHYSICAL/EMOTIONAL HEALTH INTERFERED WITH SOCIAL ACTIVITIES 
+phv00088737.v1 	 Feel have to do things/know don't really have to do - Severity of time wasted 
+phv00088844.v1 	 Felt effectively dealing w/important changes in life 
+phv00109150.v1 	 FELT EVERYTHING DONE WAS EFFORT 
+phv00102332.v1 	 FELT EVERYTHING DONE WAS EFFORT 
+phv00084731.v2 	 FELT I WAS AS GOOD AS OTHER PEOPLE, PAST WEEK 
+phv00120307.v2 	 FELT I WAS AS GOOD AS OTHERS. Q 4 
+phv00088841.v1 	 Felt unable to control important things in life 
+phv00013619.v1 	 K40b. Have there been times when you did things that other people thought were socially or sexually inappropriate, disorganized or objectionable? For example being too aggressive or doing things that did not make sense? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 
+phv00102283.v1 	 HOW DO YOU FEEL ABOUT LIFE AS A WHOLE 
+phv00086816.v2 	 HOW OFTEN DO YOU FEEL ISOLATED FROM OTHERS? 
+phv00072807.v1 	 I am able to enjoy life 
+phv00087419.v1 	 I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+phv00089054.v1 	 Idea should be punished for sins 
+phv00013455.v1 	 K11. Have you ever believed that another person was in love with you when there was no real reason to think so? Alcohol. (Participants with European ancestry). DIGS2 
+phv00088865.v1 	 Loss of sexual interest/pleasure 
+phv00089213.v1 	 LOW SELF-ESTEEM/GUILT (Frequency) 
+phv00088896.v1 	 Others don't understand them/unsympathetic 
+phv00053075.v1 	 P1e Recognizes thoughts are from within, (African American participants). DIGS4 
+phv00011413.v2 	 Parental perceptions of disruptive behaviour - Father's coping 
+phv00116450.v2 	 Q12: RECENTLY EXPERIENCED UNUSUAL EVENT? 
+phv00169379.v1 	 SF-36 Role Emotional (RE) t-score (normalized) 
+phv00113459.v2 	 STRONGLY DEFEND OWN OPINIONS. Q 47 
+phv00011550.v2 	 Thinks things out before acting 
+phv00094628.v1 	 WHEN FRUSTRATED, I WANT TO HIT    Q9 
+phv00022319.v3 	 WHERE DO YOU THINK YOU BELONG BETWEEN THESE TWO EXTREMES [BORTNER SCALE] 
+phv00002522.v1 	 WORKING PERSONS: FELT UNCERTAIN, DISSATISFIED WITH WORK 
+phv00016513.v1 	 M84. Strength of Sex Drive, (Participants with European ancestry). DIGS3 
+phv00088752.v1 	 Get angry w/people who mess up your desk, room, area 
+phv00094638.v1 	 ANGRY AND SAY NASTY THINGS           Q7 
+phv00022473.v3 	 WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TALK TO A FRIEND OR RELATIVE? [ANGER-DISCUSS SCALE] 
+phv00022467.v3 	 WHEN YOU ARE REALLY ANGRY OR ANNOYED, HOW LIKELY ARE YOU TO TRY TO ACT LIKE NOTHING HAPPENED? [ANGER-IN SCALE] 
+phv00156255.v1 	 Days enrollment to F33 Treatment for Anxiety 
+phv00022537.v3 	 ANXIETY SCALE (1=MOST TENSION) 
+phv00044638.v1 	 Other Anxiety/comorbid condition Code (row 1), (Participants with European ancestry). DIGS4. Page1 
+phv00053698.v1 	 Other Anxiety/comorbid condition AAO (row 2). (African American participants). DIGS4. Page 1 
+phv00088955.v1 	 Anxiety 
+phv00028594.v1 	 Number of questions answered - anxiety 
+phv00028611.v1 	 Total score - phobic anxiety 
+phv00044641.v1 	 Other Anxiety/comorbid condition AAO (affective age of onset) (row 1), (Participants with European ancestry). DIGS4. Page1 
+phv00016415.v1 	 M35.a. Anxious b/c Feel Watched, (Participants with European ancestry). DIGS3 
+phv00053148.v1 	 P31 Always become anxious, (African American participants). DIGS4 
+phv00020690.v1 	 Young Adult Self Report (YASR) anxious depression measurement 1991 item 8: I am often fearful or anxious. 
+phv00015717.v1 	 I 31.b. W/D Anxious/Dep Ever, (Participants with European ancestry). DIGS3 
+phv00036165.v1 	 G44.  Beliefs/ideas.  (Participants with European ancestry). DIGS4 
+phv00021268.v4 	 HOW MUCH OF THE TIME DURING THE PAST 4 WEEKS: HAVE YOU FELT CALM AND PEACEFUL? 
+phv00011544.v2 	 Is easily distracted, concentration wanders 
+phv00071357.v1 	 Consensus confidence level assigned to the diagnosis (confidence levels) 
+phv00071603.v1 	 The next questions are about your use of drugs on your own.  By "on your own" we mean either without a doctor's prescription, in larger amounts than prescribed, or for longer than prescribed.  With this definition in mind, did you ever use any of the following drugs on your own? Amphetamines or other stimulants? (Methamphetamine, Preludin, Dexedrine, Ritalin, "Speed") 
+phv00114968.v2 	 JOB REQ CREATIVENESS? 
+phv00020158.v2 	 Delusions of thoughts or actions being controlled (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I11530] 
+phv00013730.v1 	 K60. Have you ever felt as if you were outside your body , or as if part of your body did not belong to you? Depression. (Participants with European ancestry). DIGS2 
+phv00120419.v2 	 EXPERIENCED >=2 WKS OF DEPRESSION? Q 1 
+phv00044547.v1 	 BP-II with single depression, Diagnostic Confidence, (Participants with European ancestry). DIGS4. Page1 
+phv00019328.v1 	 AA7.  Disliked tasks requiring attention.  (Participants with European ancestry). DIGS4 
+phv00082262.v1 	 Depression/Dysphoria -  Caregiver Distress 
+phv00088448.v1 	 Talks out of turn/interrupts - Distress 
+phv00088430.v1 	 Repeats certain actions/gets stuck on certain ideas - Distress 
+phv00028631.v1 	 Distress caused by: feeling critical of others 
+phv00088518.v1 	 Overly silly/childish sense of humor - Distress 
+phv00028635.v1 	 Distress caused by: worried about sloppiness or carelessness 
+phv00076081.v1 	 Participant's response to examiner's question, "Do any of the "off" periods come on suddenly?", in the past week. 
+phv00020673.v1 	 Amsterdamse Biografische Vragenlijst (ABV) somatic complaints item 9: Do you usually get up feeling fit and rested in the morning? 
+phv00021857.v3 	 DOES A HEARING PROBLEM CAUSE YOU TO FEEL EMBARRASSED WHEN MEETING NEW PEOPLE ? 
+phv00071414.v1 	 No emotions/flat affect, by the subject's own report or interviewer's observation  (when psychotic and without other comorbid features present), followed by the raw repository SAS database field name in brackets for cross-reference to repository database [I13310]. Rating 
+phv00011527.v2 	 Do you think that your child has difficulties in one or more of the following areas: emotions, concentration, behaviour or being able to get on with other people? Do these difficulties interfere with your child's everyday life in leisure activities? 
+phv00013284.v1 	 U8. Global rating of affective flattening. This rating should focus on overall severity of symptoms, especially unresponsiveness, inappropriateness and an overall decrease in emotional intensity. (Participants with European ancestry). DIGS2 
+phv00011978.v1 	 E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Placidyl. (Participants with European ancestry). DIGS2 
+phv00011974.v1 	 E4. Have you ever taken medications for your nerves or any emotional or mental problems? Sedatives/Hypnotics/Minor Tranquilizers: Halcion. (Participants with European ancestry). DIGS2 
+phv00013612.v1 	 K40a. Have you ever engaged in any unusual behavior, like digging through garbage, wearing unusual clothes, or collecting things that other people thought were worthless? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 
+phv00013658.v1 	 K47. Have you ever been so excited that you moved around without purpose (aside from experiencing mania)? Psychosis only. Current or most recent episode. (Participants with European ancestry). DIGS2 
+phv00034814.v1 	 Do you like plenty of bustle and excitement around you? 
+phv00017509.v1 	 F19. Did you tend to feel worse in the morning or in the evening or was there no difference? (Participants with European ancestry). DIGS4 
+phv00035150.v1 	 How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) (Participants with European ancestry) 
+phv00053104.v1 	 P13m Fear of going crazy, (African American participants). DIGS4 
+phv00035158.v1 	 Do you have an unreasonably strong fear for or avoid any of the following: traveling alone? (Participants with European ancestry) 
+phv00120313.v2 	 I FELT FEARFUL. Q 10 
+phv00020346.v1 	 If E4 (How long have you had any of these fears?) (being in a crowd or standing in line;  being away from home alone; traveling alone; traveling in a bus, train, or car; being in a public place like a department store) is less than 1 year, please enter # of months 
+phv00034699.v1 	 How long have you had any of these fears (unreasonable strong fears)? 
+phv00006780.v1 	 CES-D: I FELT FEARFUL 
+phv00011278.v2 	 Fear of animals, insects, snakes 
+phv00034704.v1 	 Is your fear much stronger than in other people? 
+phv00018987.v1 	 P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 
+phv00019001.v1 	 P13j.  Fear of dying.  (Participants with European ancestry). DIGS4 
+phv00011519.v2 	 Has many fears, is easily scared 
+phv00053150.v1 	 P33 Persistent fear/ avoidance, (African American participants). DIGS4 
+phv00034689.v1 	 Have you ever been very upset with yourself for having any of these fears? 
+phv00169430.v1 	 Estrogen or Progesterone - To feel better 
+phv00005952.v1 	 ACTIVITIES II - CES-D SCALE I FELT DEPRESSED 
+phv00082926.v1 	 FELT DEPRESSED, PAST WEEK 
+phv00021919.v1 	 DOES A HEARING PROBLEM CAUSE YOU TO FEEL  DEPRESSED? 
+phv00101680.v1 	 FELT DEPRESSED 
+phv00099005.v1 	 FELT DEPRESSED 
+phv00013806.v1 	 K81. During the period of feeling especially good or high when you were also having (psychotic symptoms) were you experiencing racing thoughts? (Participants with European ancestry). DIGS2 
+phv00005322.v1 	 I FELT LONELY 
+phv00103909.v1 	 FELT LONELY 
+phv00005960.v1 	 ACTIVITIES II - CES-D SCALE I FELT LONELY 
+phv00124758.v1 	 11. How often have you felt nervous or tense over the past year? 
+phv00020677.v1 	 Amsterdamse Biografische Vragenlijst (ABV) somatic complaints item 13: Do you usually feel weak? 
+phv00168431.v1 	 If you had any sudden numbness, tingling, or loss of feeling on one side of your body, including your face, arm, or leg which lasted 30 seconds or longer during your recent stroke, how long did the longest episode last? 
+phv00012773.v1 	 J32a. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify which problems, read appropriate sub questions to confirm response and code. Specify. (Participants with European ancestry). DIGS2 
+phv00012796.v1 	 J32e. While using (drug), did you ever have any psychological problems start or get worse, such as feeling depressed, feeling paranoid, trouble thinking clearly, hearing, smelling, or seeing things, or feeling jumpy? IF YES:) Specify: feeling jumpy or easily startled or nervous for more than 24 hours to the point that it interfered with your functioning? (Participants with European ancestry). DIGS2 
+phv00012395.v1 	 H19. How old were you when you first began feeling this way? ONS AGE. (Participants with European ancestry). DIGS2 
+phv00018770.v1 	 K60f.  Feel guilty.  (Participants with European ancestry). DIGS4 
+phv00036137.v1 	 G31a6.  Guilty/Worthless.  (Participants with European ancestry). DIGS4 
+phv00116011.v2 	 I AM HAPPY. Q 30 
+phv00120315.v2 	 I FELT HAPPY. Q 12 
+phv00022485.v3 	 DURING THE PAST WEEK, I WAS HAPPY. [DEPRESSION SCALE] 
+phv00012919.v1 	 M37. When in public places, people sometimes have the feeling that the people around them are talking about them. Have you ever had a feeling like that? (Participants with European ancestry). DIGS2 
+phv00013738.v1 	 K61. Have things around you ever seemed unreal? As if you were in a dream? Mania. (Participants with European ancestry). DIGS2 
+phv00013501.v1 	 K18. Have you ever had any other thoughts or beliefs that others did not share or thought were odd, other than those we have just discussed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 
+phv00013440.v1 	 K9. Have you ever had any religious beliefs or experiences that other people didn't share? (If yes, tell me about that). Mania. (Participants with European ancestry). DIGS2 
+phv00013475.v1 	 K14. Have you ever had the feeling that people could read your mind or know what you were thinking? Depression. (Participants with European ancestry). DIGS2 
+phv00012997.v1 	 M72a. When it's quiet, some people have the experience of hearing people's voices whispering or talking to them, even when no one is actually present. Have you ever had such an experience? (IF YES:) How often have you had this experience (of hearing whispers or voices)? Would you say often, sometimes, or rarely? (Participants with European ancestry). DIGS2 
+phv00013538.v1 	 K27. Have you ever experienced hearing your thoughts repeated or echoed? Psychosis only. Ever. (Participants with European ancestry). DIGS2 
+phv00010593.v3 	 CESD: I FELT HOPEFUL ABOUT THE FUTURE. SEE NOTE ABOVE 
+phv00008537.v3 	 FOR HOMEMAKERS: HOUSE WORK OFTEN STAYED ON MIND ALL DAY 
+phv00022377.v3 	 HOW DO YOU FEEL ABOUT THE FOLLOWING STATEMENT: ON MY JOB, I HAVE VERY LITTLE FREEDOM TO DECIDE HOW I DO MY WORK? [DECISION AUTHORITY SCALE] 
+phv00005955.v1 	 ACTIVITIES II - CES-D SCALE I THOUGHT MY LIFE HAD BEEN A FAILURE 
+phv00016383.v1 	 M15. Introversion, (Participants with European ancestry). DIGS3 
+phv00012069.v1 	 F10. Were you less interested in things or less able to enjoy sex or other pleasurable activities? CURRENT EPISODE (PAST MONTH). (Participants with European ancestry). DIGS2 
+phv00011707.v1 	 B3lb. Have you had any of the following conditions: serious head injury? IF YES: did you lose consciousness? IF YES: specify how long: (MINUTES). (Participants with European ancestry). DIGS2 
+phv00005710.v1 	 (USUAL) ACTIVITY PRECEDING EVENT/LOSS OF CONSCIOUSNESS 
+phv00018074.v1 	 G59a5.  Loss of interest.  (Participants with European ancestry). DIGS4 
+phv00006554.v1 	 SYNCOPE HISTORY - HAVE YOU FAINTED OR LOST CONSCIOUSNESS IN THE INTERIM? (IF DUE TO STROKE, SKIP TO FR338 (SCREEN 11)? IF EVENT IMMEDIATELY PRECEDED BY HEAD INJURY OR ACCIDENT CODE 0=NO. 
+phv00025314.v1 	 Logical memory - immediate recall - story 2 (quarterly visit 28) 
+phv00024920.v1 	 Logical memory - immediate recall: story 2 (quarterly visit 00) 
+phv00024921.v1 	 Logical memory - delayed recall: story 1 (quarterly visit 00) 
+phv00082438.v1 	 LO-WORD LIST MEMORY: Other - Raw Score 
+phv00016525.v1 	 N1.a.1. Mood 1st Weeks, (Participants with European ancestry). DIGS3 
+phv00087395.v1 	 I FEEL NERVOUS AND RESTLESS 
+phv00086344.v2 	 I FEEL NERVOUS AND RESTLESS 
+phv00036178.v1 	 G45.2d.  Not own thoughts.  (Participants with European ancestry). DIGS4 
+phv00013787.v1 	 K78g. Now I would like to ask you about the year after your psychotic symptoms stopped. During that time did you have unusual beliefs or magical thinking (e.g., superstitiousness, belief in clairvoyance, telepathy, sixth sense, feeling that others can feel my feelings), have ideas that were not quite true, think others were referring to you when they really were not? RESIDUAL PERIOD. (Participants with European ancestry). DIGS2 
+phv00016261.v1 	 K70.e. No/Odd Emotion Residual, (Participants with European ancestry). DIGS3 
+phv00011405.v2 	 Disruptive behaviour - oppositional behaviour PACS section 3.9 - frequency of expressing spitefulness 
+phv00012546.v1 	 I29j. Did you ever have any of the following problems when you stopped or cut down on drinking? INTERVIEWER: code in column I. Did you have the DT's, that is, where you were out of your head, extremely shaky, or felt very frightened or nervous? EVER. (Participants with European ancestry). DIGS2 
+phv00094629.v1 	 POOR RATING ON GOOD WORK, ANGER   Q10 
+phv00013641.v1 	 K44. How long did (positive thought disorder) last? Ever (Weeks). (Participants with European ancestry). DIGS2 
+phv00051454.v1 	 B3. Recognition event. How did clinic learn of the event 
+phv00051095.v1 	 B1. Recognition of event. Deidentified date of occurrence 
+phv00051420.v1 	 B2b. Recognition of event. Deidentified date clinic learned of the event 
+phv00051100.v1 	 B3. Recognition of event. How did clinic learn of the event 
+phv00102999.v1 	 REMEMBER WATCH 
+phv00115317.v2 	 SMOKES, DOESN'T REMEMBER, DOESN'T SMOKE. Q 1 
+phv00010870.v1 	 I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 
+phv00072590.v1 	 What are the 3 objects I asked you to remember a few moments ago? 
+phv00011025.v4 	 What are the 3 objects I asked you to remember a few moments ago? 
+phv00104528.v1 	 TO REMEMBER 'SHOES' 3MSE Score Component 
+phv00110574.v1 	 REMEMBER NAMES OF FAMILY AND FRIENDS 
+phv00072608.v2 	 I am going to name 3 objects.  After I have said them I want you to repeat them back to me.  Remember what they are because I will ask you to name them again in a few minutes: Apple, Table, Penny. 
+phv00102197.v1 	 TO REMEMBER 'BROWN' 3MSE Score Component 
+phv00088511.v1 	 Forgets to do things/remembers when prompted or too late - Frequency 
+phv00013046.v1 	 O2. INTERVIEWER: for the following questions, ask about the most serious suicide attempt: how did you try to kill yourself? Record response. (Participants with European ancestry). DIGS2 
+phv00124798.v1 	 30. How satisfied have you been w/the quality of health care you have received in the past year? 
+phv00088288.v1 	 Unlikely to get real satisfaction in the future 
+phv00127590.v1 	 11: Satisfied w/doctor 
+phv00061692.v2 	 Thinking Gunk at visit 2 
+phv00061923.v2 	 Thinking Gunk at visit 3 
+phv00061493.v2 	 Thinking Gunk at visit 1 
+phv00061859.v2 	 Thinking Gunk at visit 3 
+phv00062051.v2 	 Thinking Gunk at visit 3 
+phv00058965.v2 	 Thinking Gunk at visit 1 
+phv00061077.v2 	 Thinking Gunk at visit 1 
+phv00064508.v2 	 Thinking Gunk at visit 2 
+phv00060380.v2 	 Thinking Gunk at visit 2 
+phv00062652.v2 	 Thinking Gunk at visit 2 
+phv00059381.v2 	 Thinking Gunk at visit 1 
+phv00060515.v2 	 Thinking Gunk at visit 3 
+phv00059740.v2 	 Thinking Gunk at visit 2 
+phv00063868.v2 	 Thinking Gunk at visit 2 
+phv00060476.v2 	 Thinking Gunk at visit 2 
+phv00064355.v2 	 Thinking Gunk at visit 3 
+phv00064469.v2 	 Thinking Gunk at visit 1 
+phv00064003.v2 	 Thinking Gunk at visit 3 
+phv00059900.v2 	 Thinking Gunk at visit 2 
+phv00060828.v2 	 Thinking Gunk at visit 2 
+phv00059811.v2 	 Thinking Gunk at visit 3 
+phv00059715.v2 	 Thinking Gunk at visit 3 
+phv00062588.v2 	 Thinking Gunk at visit 2 
+phv00059203.v2 	 Thinking Gunk at visit 3 
+phv00060060.v2 	 Thinking Gunk at visit 2 
+phv00058396.v2 	 Thinking Gunk at visit 2 
+phv00063363.v2 	 Thinking Gunk at visit 3 
+phv00052595.v1 	 H7 Very moody, (African American participants). DIGS4 
+phv00071366.v1 	 Consensus rating for presence of auditory hallucinations consisting of voices that converse with each other and/or comment on the subject's thoughts or behavior 
+phv00022759.v3 	 THESE QUESTIONS ARE ABOUT HOW YOU FEEL AND HOW THINGS  HAVE BEEN WITH YOU DURING THE PAST MONTH.  FOR EACH QUESTION, PLEASE INDICATE THE ONE ANSWER THAT COMES CLOSEST TO THE WAY YOU HAVE BEEN FEELING. HOW MUCH OF THE TIME DURING THE PAST MONTH... DID YOU FEEL WORN OUT? 
+phv00034802.v1 	 Do you worry too long after an embarrassing experience? 
+phv00034664.v1 	 During that period (when you have felt worried, tense, anxious, or more worried than most people would in your situation), was your worry stronger than in other people? 
+phv00054430.v1 	 When you were worried or anxious, were you also restless? (African American participants) 

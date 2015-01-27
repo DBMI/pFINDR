@@ -1,0 +1,70 @@
+Healthcare Encounter CLUSTERS
+er visit
+	phv00030867.v1  	  Number of emergency room visits 
+	phv00030874.v1  	  Indicator of emergency room visits 
+	phv00020869.v4  	  E.R. VISIT EVER 
+	phv00023679.v6  	  (4.D) IF YES (TO HU35):  "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00023676.v6  	  (4.B) IF YES (TO HU35):  "REASON" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00023672.v6  	  SINCE THE DATE OF YOUR LAST FRAMINGHAM HEART STUDY EXAM OR UPDATE (LHUDATE), HAVE YOU BEEN ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN FOR OTHER THAN A ROUTINE EXAMINATION? 
+	phv00023689.v6  	  (4.I) IF YES (TO HU35): "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00066086.v1  	  D2a. Hospitalization and other health care services used. How many times in hospital emergency room? 
+===============
+hospital
+	phv00023679.v6  	  (4.D) IF YES (TO HU35):  "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00050318.v1  	  B2a. Health care delivery: total number of times stay in hospital 
+	phv00001114.v1  	  UNDER MEDICAL CARE BUT NOT HOSPITALIZED SINCE LAST EXAM FOR PEPTIC ULCER 
+	phv00111084.v2  	  F126 DVT based on hospital discharge summary 
+	phv00120283.v2  	  DATE OF ADMISSION - 3RD HOSPITALIZATION. Q 1a 
+	phv00117978.v2  	  HOSPITALIZATION 1, CODE 2 - MON 108 
+	phv00003318.v1  	  HOSPITALIZATION 
+	phv00117298.v2  	  CARE DAY   - 3RD HOSP 
+	phv00117960.v2  	  HOSPITALIZATION 3, CODE 2 - MON 96 
+	phv00002949.v1  	  INTERIM HISTORY OF HOSPITALIZATION 
+	phv00021021.v4  	  HAVE YOU BEEN HOSPITALIZED FOR HEART FAILURE? 
+	phv00117983.v2  	  HOSPITALIZATION 3, CODE 1 - MON 108 
+	phv00117328.v2  	  EVENT DAY   - 6TH HOSP 
+	phv00052560.v1  	  G65a Day hospital for mania, (African American participants). DIGS4 
+	phv00117299.v2  	  DATE OF EVENT - 3RD HOSPITALIZATION. Q 1A 
+	phv00001107.v1  	  HOSPITALIZED SINCE LAST EXAM FOR HYSTERECTOMY OR OOPHERECTOMY 
+	phv00125372.v1  	  17b. Hospitalized for a blood clot in your lungs or pulmonary embolus at that time? 
+	phv00008920.v3  	  CEREBROVASCULAR - NUMBER OF DAYS STAYED (IN HOSPITAL) 
+	phv00119208.v2  	  ADMISSION ILLNESS - 6TH HOSPITALIZATION 
+	phv00119178.v2  	  REASON FOR HOSPITALIZATION 3 - CODE 2. Q 1A 
+	phv00051531.v1  	  C4b. Nature of event. Where was patient treated? Hospital in-patient ward 
+	phv00120264.v2  	  REASON FOR HOSPITALIZATION 2 - CODE 3. Q 1a 
+	phv00008380.v3  	  HOSPITALIZATION IN INTERIM 
+	phv00117297.v2  	  CARE MONTH - 3RD HOSP 
+	phv00125391.v1  	  22b. Were you hospitalized for this stroke, slight stroke? 
+	phv00027088.v1  	  NON-MVA: major accident occurred (hospitalization) 
+	phv00116426.v2  	  DATE (YY) OF HOSPITALIZATION - MON 72(B) 
+	phv00017315.v1  	  E4. Hospitalizations. Have you ever been admitted to a hospital or day hospital because of problems with your mood, emotions, or how you were acting? (Participants with European ancestry). DIGS4 
+	phv00015417.v1  	  G21.b. Sev Mania Day Hosp Days, (Participants with European ancestry). DIGS3 
+	phv00117955.v2  	  HOSPITALIZATION 1, CODE 3 - MON 96 
+	phv00120286.v2  	  DATE OF ADMISSION - 6TH HOSPITALIZATION. Q 1a 
+	phv00020868.v4  	  HOSPITALIZATION (NOT JUST E.R.) 
+	phv00109375.v1  	  OVERNIGHT PATIENT IN HOSP. OTHER REASON 
+	phv00115176.v2  	  DATE (YY) OF HOSPITALIZATION - MON 48(A) 
+	phv00027048.v1  	  Symptoms of hypoglycemia: injury to the patient requiring hospitalization 
+	phv00119193.v2  	  REASON FOR HOSPITALIZATION 5 - CODE 1 
+	phv00052395.v1  	  F75 Day hospitalizations, (African American participants). DIGS4 
+	phv00125400.v1  	  28a. Hospitalization reason 
+	phv00119205.v2  	  ADMISSION YEAR - 6TH HOSPITALIZATION 
+	phv00117975.v2  	  HOSP PT OVERNIGHT IN PAST YR - MON 108 
+	phv00125181.v1  	  37a. Hospitalization reason 
+	phv00125343.v1  	  8e. Hospitalized for heart failure at that time? 
+	phv00001101.v1  	  HOSPITALIZED SINCE LAST EXAM FOR BRONCHITIS 
+	phv00120285.v2  	  DATE OF ADMISSION - 5TH HOSPITALIZATION. Q 1a 
+	phv00111092.v2  	  F126 PE based on hospital discharge summary 
+	phv00050904.v1  	  D3bb2. Hospitalization and other health care services used. Number of nights, nursing home stay 2 
+	phv00023676.v6  	  (4.B) IF YES (TO HU35):  "REASON" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00023672.v6  	  SINCE THE DATE OF YOUR LAST FRAMINGHAM HEART STUDY EXAM OR UPDATE (LHUDATE), HAVE YOU BEEN ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN FOR OTHER THAN A ROUTINE EXAMINATION? 
+	phv00023689.v6  	  (4.I) IF YES (TO HU35): "TYPE" PARTICIPANT WAS ADMITTED TO A HOSPITAL OR GONE TO AN EMERGENCY ROOM OR SEEN A PHYSICIAN SINCE LAST FHS EXAM OR UPDATE 
+	phv00066180.v1  	  D1. Hospitalization and other health care services used. Deidentified date of admission (first date) 
+	phv00050922.v1  	  D4i. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: eye photographs 
+	phv00050910.v1  	  D4c. Hospitalization and other health care services used. During the past 12months, have you had any of the following laboratory tests: blood glucose 
+	phv00066086.v1  	  D2a. Hospitalization and other health care services used. How many times in hospital emergency room? 
+	phv00066091.v1  	  D3bb2. Hospitalization and other health care services used. During the past 12 months, were you a patient in a nursing home or convalescent facility? Number of nights 
+	phv00051000.v1  	  D3. Hospitalization and other health care services used. Deidentified date of admission, nursing home stay 2 
+	phv00001120.v1  	  UNDER MEDICAL CARE BUT NOT HOSPITALIZED SINCE LAST EXAM FOR EMPHYSEMA OR FIBROSIS 
+===============
+===============

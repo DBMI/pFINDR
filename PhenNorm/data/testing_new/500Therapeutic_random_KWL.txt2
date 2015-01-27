@@ -1,0 +1,200 @@
+phv00051334.v1 ::: D1r. Amputation: has the patient had a reaction of the right lower extremity or part of the lower extremity? 
+phv00051336.v1 ::: D2ar. Amputation: if yes, was the reaction traumatic (right) 
+phv00027022.v1 ::: Intercurrent event: amputation (traumatic) 
+phv00034331.v1 ::: Patient has a history of: amputation 
+phv00105449.v1 ::: L LEG AMPUTATION 
+phv00051203.v1 ::: D2a. Amputation: traumatic 
+phv00051334.v2::: D1r. Amputation: has the patient had a reaction of the right lower extremity or part of the lower extremity? 
+phv00051336.v2::: D2ar. Amputation: if yes, was the reaction traumatic (right) 
+phv00125717.v1 ::: ANGIOPLASTY OF CORONARY ARTERIES  Q15A 
+phv00100781.v1 ::: TIME TO ANGIOPLASTY 
+phv00125110.v1 ::: 14a. Have you had a balloon angioplasty on the arteries of your heart, neck or legs? 
+phv00123349.v1 ::: 81 How many sisters with Angioplasty or By-Pass Surgery 
+phv00170166.v1 ::: Surgery, angioplasty or thromb 
+phv00174133.v1 ::: HISTORY OF ANTIPLATELET THERAPY 
+phv00070496.v1 ::: THORACIC AORTA SURGERY 
+phv00023662.v6 ::: (3.A) IF YES (TO HU18), DID YOU HAVE ANY OF THE FOLLOWING PROBLEMS? HEART PROBLEMS, SUCH AS - OTHER HEART PROBLEM (PACE MAKER, VALVE PROBLEM, AORTA SURGERY, RHYTHM PROBLEM, ATRIAL FIBRILLATION, VENTICULAR TACHYCARDIA) 
+phv00058046.v1 ::: Appendectomy 
+phv00106108.v1 ::: ARTHRITIS SURGERY ON YOUR HIP 
+phv00065382.v2 ::: COMMENT6: ANY BACK OPERATION, FUSION EX22 
+phv00163779.v1 ::: Serum insulin prior to bariatric surgery. 
+phv00163400.v1 ::: Subject undergone bariatric surgery? 
+phv00163787.v1 ::: Weight measure 3 months after bariatric surgery. 
+phv00090065.v2 ::: AORTIC REGION 2, 17: 5 CM PROXIMAL TO BIFURCATION 
+phv00090108.v1 ::: AORTIC REGION 2, 17: 5CM PROXIMAL TO BIFURCATION 
+phv00080541.v1 ::: Average far wall width (R bifurcation) 
+phv00080546.v1 ::: Derived average far wall thickness (R bifurcation) 
+phv00076342.v3 ::: The antero-posterior diameter of the abdominal aorta 5 cm above the aorto-common iliac bifurcation. 
+phv00104281.v1 ::: BLAND DIET 
+phv00169133.v2 ::: Received Blood Transfusion In Another Country 
+phv00003956.v1 ::: BREAST SURGERY (RIGHT) 
+phv00010560.v3 ::: CARDIAC REHABILITATION (PAST MONTH ONLY) 
+phv00094227.v1 ::: SURGERY ON HEART SINCE LAST VISIT?   Q4 
+phv00125707.v1 ::: HEART SURGERY SINCE LAST CONTACT  Q12A 
+phv00125530.v1 ::: HEART SURGERY SINCE LAST VISIT    Q12B 
+phv00125618.v1 ::: HEART SURGERY SINCE LAST CONTACT  Q12A 
+phv00021079.v4 ::: HEART VALVULAR SURGERY SEE NOTE BELOW 
+phv00125536.v1 ::: OTHER SURGERY ON HEART, ARTERIES  Q13F 
+phv00007183.v1 ::: USE CARDIAC REHABILITATION CURRENTLY 
+phv00006602.v1 ::: CARDIOVASCULAR PROCEDURES (IN THE INTERIM ONLY, NOT LIFETIME) CAROTID ARTERY SURGERY (IF YES, FILL IN FR350) 
+phv00006602.v2::: CARDIOVASCULAR PROCEDURES (IN THE INTERIM ONLY, NOT LIFETIME) CAROTID ARTERY SURGERY (IF YES, FILL IN FR350) 
+phv00127731.v1 ::: 52c: Have you had carotid endarterectomy? 
+phv00049262.v1 ::: L4.  Ophthalmic complications: cataract extraction in left eye 
+phv00003501.v1 ::: EYE HISTORY: CATARACT OPERATION OR LENS IMPLANT IN EYE 
+phv00099094.v1 ::: ANY CHEST OPERATIONS 
+phv00028745.v1 ::: Other corneal surgery - left eye 
+phv00070491.v1 ::: CORONARY ARTERY ANGIOPLASTY 
+phv00009896.v3 ::: CORONARY ARTERY ANGIOPLASTY 
+phv00004773.v1 ::: CORONARY ARTERY ANGIOPLASTY-TYPE OF PROCEDURE 
+phv00009389.v3 ::: CORONARY ARTERY ANGIOPLASTY-TYPE OF PROCEDURE 
+phv00072204.v2 ::: CORONARY ARTERY ANGIOPLASTY/STENT/PCI, TYPE OF PROCEDURE 
+phv00021082.v4 ::: CORONARY ARTERY ANGIOPLASTY SEE NOTE BELOW 
+phv00111344.v2 ::: Coronary Artery Bypass Graft (CABG) 
+phv00125189.v1 ::: 13a. Coronary bypass 
+phv00051683.v1 ::: C4e. Vital and complication status. Cardiovascular complication: coronary bypass surgery 
+phv00121381.v2 ::: CORONARY ARTERY BYPASS GRAFT? 
+phv00094228.v1 ::: CORONARY BYPASS                      Q5A 
+phv00005692.v1 ::: CORONARY BYPASS SURGERY 
+phv00080017.v3 ::: Days enrollment to CABG 
+phv00170175.v1 ::: Coronary Artery Bypass Graft (CABG) 
+phv00010353.v3 ::: CORONARY BYPASS SURGERY 
+phv00165232.v1 ::: Baseline CABG status [ 0=No, 1=Yes] 
+phv00125531.v1 ::: CORONARY BYPASS                   Q13A 
+phv00099031.v1 ::: CORONARY BYPASS SURGERY 
+phv00125275.v1 ::: 13a. Coronary bypass 
+phv00007034.v1 ::: CORONARY BYPASS SURGERY 
+phv00094260.v1 ::: CORONARY BYPASS                      Q5A 
+phv00087146.v1 ::: CORONARY BYPASS SURGERY 
+phv00105974.v1 ::: CORONARY BYPASS SURGERY 
+phv00163410.v2 ::: Coronary Artery Bypass Graft (CABG) - NUMBER OF VESSELS BYPASSED 
+phv00087894.v4 ::: CORONARY REVASCULARIZATION 
+phv00169689.v1 ::: Coronary Revascularization ascertainment source 
+phv00054136.v1 ::: CURRENT DIABETES TREATMENT AT YEAR 11 (PARTICIPANTS WITH A GENETIC SPECIMEN) 
+phv00080827.v1 ::: CURRENT TREATMENT FOR DIABETES EXAM 10 
+phv00080813.v1 ::: CURRENT TREATMENT FOR DIABETES EXAM 23 
+phv00091277.v2 ::: Yes if enteral feeding was started 
+phv00091279.v2 ::: Day of life enteral feedings were started 
+phv00111606.v3 ::: Months had Estrogen shots 
+phv00077854.v3 ::: Months took estrogen shots 
+phv00077853.v3 ::: Took estrogen shots 
+phv00077854.v3 ::: Months took estrogen shots 
+phv00077744.v3 ::: Months took estrogen shots 
+phv00169458.v1 ::: Months had Estrogen shots 
+phv00077853.v3 ::: Took estrogen shots 
+phv00078021.v3 ::: Months took estrogen shots 
+phv00078301.v3 ::: Estrogen shots 
+phv00078152.v3 ::: Estrogen pill,patch,cream,shot 
+phv00160078.v1 ::: Child was on extracorporeal membrane oxygenation (ECMO) at some point. 
+phv00053956.v2 ::: OTHER SURGERY - RIGHT EYE (ALL PARTICIPANTS) 
+phv00054980.v1 ::: GLAUCOMA SUSPECT RECALL EXAMINATION: AVERAGE INTRAOCULAR PRESSURE, O.S. (ROUNDED TO NEAREST MMHG) 
+phv00054962.v1 ::: GLAUCOMA SUSPECT RECALL EXAMINATION: ETIOLOGY OF GLAUCOMA: CLOSED ANGLE, O.D. 
+phv00054954.v1 ::: GLAUCOMA SUSPECT RECALL EXAMINATION: GONIOSCOPY ADEQUATE, O.D. 
+phv00054977.v1 ::: GLAUCOMA SUSPECT RECALL EXAMINATION: THRESHOLD STUMULUS, BELOW, O.D., CODE: SIZE, INTENSITY 
+phv00105820.v1 ::: SURGERY ON HANDS 
+phv00065767.v1 ::: K5. Renal complication: dialysis 
+phv00107161.v1 ::: FOLLOWING HIGH CARBOHYDRATE DIET 
+phv00107192.v1 ::: OFF HIGH CARBOHYDRATE DIET 
+phv00078522.v3 ::: Hip replacement ever 
+phv00086893.v2 ::: HORMONE REPLACEMENT THERAPY SINCE LAST VISIT 
+phv00123035.v1 ::: Meds: Hormone Replacement Therapy 
+phv00085271.v2 ::: HORMONE REPLACEMENT THERAPY, AGE STARTED USE (FORMER USER) 
+phv00087186.v1 ::: CURRENTLY USING HORMONE REPLACEMENT THERAPY 
+phv00009117.v3 ::: CDI: ON HYPERTENSIVE THERAPY 
+phv00119952.v2 ::: HAD A HYSTERECTOMY? Q 38 
+phv00085255.v2 ::: HYSTERECTOMY 
+phv00156200.v1 ::: Hysterectomy 
+phv00002054.v1 ::: MENOPAUSE: HYSTERECTOMY 
+phv00010226.v3 ::: AGE AT HYSTERECTOMY IN INTERIM (YEARS) 
+phv00087172.v1 ::: HYSTERECTOMY 
+phv00085958.v2 ::: HYSTERECTOMY 
+phv00080302.v3 ::: Hysterectomy 
+phv00155602.v2 ::: Hysterectomy 
+phv00169600.v1 ::: Hysterectomy 
+phv00117102.v2 ::: HAD A HYSTERECTOMY? Q 40 
+phv00156240.v1 ::: F33 Hysterectomy Ever 
+phv00086441.v2 ::: AGE AT HYSTERECTOMY 
+phv00114354.v2 ::: HYSTERECTOMY. Q 6 
+phv00170679.v1 ::: F33 Hysterectomy Ever 
+phv00078771.v3 ::: Hysterectomy 
+phv00120585.v2 ::: HAD HYSTERECTOMY? Q 20a.2 
+phv00094050.v1 ::: HYSTERECTOMY?                     Q45 
+phv00008825.v3 ::: AGE AT HYSTERECTOMY 
+phv00007604.v3 ::: HYSTERECTOMY 
+phv00020899.v4 ::: HAVE YOU HAD A HYSTERECTOMY (UTERUS/WOMB REMOVED)? 
+phv00119987.v2 ::: SPECIFY, HYSTERECTOMY REASON. Q 38a 
+phv00080338.v3 ::: F33 Hysterectomy Ever 
+phv00083023.v1 ::: AGE AT HYSTERECTOMY 
+phv00099228.v1 ::: HAVE YOU EVER HAD A HYSTERECTOMY 
+phv00010225.v3 ::: WAS A HYSTERECTOMY PERFORMED IN THE INTERIM? 
+phv00096141.v1 ::: HYSTERECTOMY/OOPHOR. AT LAST EXAM   Q35 
+phv00085957.v2 ::: HYSTERECTOMY PREVIOUSLY REPORTED 
+phv00086883.v2 ::: HYSTERECTOMY PREVIOUSLY REPORTED 
+phv00004648.v1 ::: AGE AT HYSTERECTOMY - FEMALE 
+phv00119957.v2 ::: HYSTERECTOMY-FIBROID? Q 38a 
+phv00119960.v2 ::: HYSTERECTOMY-CANCER? Q 38a 
+phv00156202.v1 ::: Hysterectomy ascertainment source 
+phv00090246.v1 ::: Total Filled Teeth 
+phv00029061.v1 ::: Standard treatment 3  - previous day: insulin injection - A.M. or P.M. 
+phv00029757.v1 ::: Date of return to one or two daily injections of insulin 
+phv00029867.v1 ::: Standard treatment group: on how many days has patient used fewer injections of insulin? 
+phv00028939.v1 ::: Changed insulin regimen: injection time of insulin injection 
+phv00026609.v1 ::: Consistency of adhering to insulin injection schedule 
+phv00029817.v1 ::: MDI5  - previous day: A.M. or P.M. insulin injection 
+phv00029782.v1 ::: Current (usual) insulin therapy 
+phv00028742.v1 ::: Corneal transplant - right eye 
+phv00048825.v1 ::: K6. Renal complication: cystitis renal transplantation 
+phv00033718.v1 ::: Focal laser surgery performed on either eye (0=no, 1=yes) 
+phv00159085.v1 ::: HAVE YOU EVER HAD LASER VISION SURGERY/REFRACTIVE SURGERY? 
+phv00049269.v1 ::: L5.  Ophthalmic complications: photocoagulation of right eye 
+phv00028756.v1 ::: Photocoagulation in right eye 
+phv00107194.v1 ::: OFF LOW SALT DIET 
+phv00032114.v1 ::: Delivery information - if Caesarian specify indication: fetal distress 
+phv00091271.v2 ::: Method of delivery for subject 
+phv00160141.v1 ::: Mode of delivery. 
+phv00159989.v1 ::: Mode of delivery. 
+phv00032115.v1 ::: Delivery information - if Caesarian specify indication: preeclampsia 
+phv00110165.v1 ::: HOME HEALTH CARE OCCUPATIONAL THERAPY 
+phv00003437.v1 ::: PROSTATE SURGERY 
+phv00091181.v2 ::: Indication for surgery = chronic disease 
+phv00011632.v1 ::: B2. How many times have you been in a hospital overnight including surgery? (# OF TIMES). # of Nights in hospital. (Participants with European ancestry). DIGS2 
+phv00011637.v1 ::: B2. How many times have you been in a hospital overnight including surgery? (# OF TIMES). Number of nights in hospital. (Participants with European ancestry). DIGS2 
+phv00066298.v1 ::: C5. Nature of event. Was any operation performed? If yes, specify intervention and result. Result 1 
+phv00160007.v1 ::: Child had surgery as treatment for necrotizing enterocolitis. 
+phv00011633.v1 ::: B2. How many times have you been in a hospital overnight including surgery? (# OF TIMES). Description of problem. (Participants with European ancestry). DIGS2 
+phv00087178.v1 ::: NUMBER OF YEARS BIRTH CONTROL TAKEN 
+phv00115505.v2 ::: DURATION OF BCP USE, SINCE FIRST STARTED 
+phv00120001.v2 ::: YEARS OF BCP ALTOGETHER. Q 41c 
+phv00120551.v2 ::: DID NOT USE BIRTH CONTROL, AGE 20-30. Q 5 
+phv00128270.v1 ::: 12: Ever taken birth control pills? 
+phv00117106.v2 ::: CURRENTLY TAKING HORMONES EXCLUDING BCP? Q 43 
+phv00115486.v2 ::: CURRENTLY USING BCP. Q 16 
+phv00083027.v1 ::: EVER TAKEN BIRTH CONTROL PILLS 
+phv00083028.v1 ::: # OF YEARS TOOK BIRTH CONTROL PILLS 
+phv00113014.v2 ::: EVER TAKEN BIRTH CONTROL PILLS 
+phv00113150.v2 ::: TOTAL MOS. ON BCP'S SINCE LAST STARTED 
+phv00120004.v2 ::: MONTHS SINCE LAST STARTED BCP. Q 41b.1 
+phv00120001.v2 ::: YEARS OF BCP ALTOGETHER. Q 41c 
+phv00118579.v2 ::: EVER TAKEN BIRTH CONTROL PILLS? Q 42 
+phv00120002.v2 ::: MONTHS OF BCP ALTOGETHER. Q 41c 
+phv00086917.v2 ::: TAKEN BIRTH CONTROL PILLS SINCE LAST VISIT 
+phv00086480.v2 ::: TAKEN BIRTH CONTROL PILLS SINCE LAST VISIT 
+phv00072063.v2 ::: WHAT IS THE NAME OF THE CURRENT OR MOST RECENT ORAL CONTRACEPTIVE, SHOT OR IMPLANT USED? - FORM 
+phv00072062.v2 ::: WHAT IS THE NAME OF THE CURRENT OR MOST RECENT ORAL CONTRACEPTIVE, SHOT OR IMPLANT USED? - NAME 
+phv00124379.v1 ::: Do you use hormonal birth control (pill, patch, ring, or shot)? 
+phv00070494.v1 ::: PERMANENT PACEMAKER INSERTION 
+phv00006204.v1 ::: PERMANENT PACEMAKER INSERTION - INTERIM 
+phv00019971.v1 ::: Did proband have a pancreas transplant?  (Y/N/U) 
+phv00155972.v1 ::: Days enrollment to PTCA 
+phv00155971.v1 ::: Percutaneous Transluminal Coronary Angioplasty (PTCA) 
+phv00121602.v2 ::: PTCA, CORONARY STENT OR ATHERECTOMY? 
+phv00168296.v1 ::: Did you follow a High potassium diet in the year preceding your stroke? 
+phv00028746.v1 ::: Procedure to reduce intra-ocular pressure (iop) in right eye 
+phv00122329.v1 ::: Reason tonsils/adenoids removed (A) 
+phv00078029.v3 ::: Have progesterone shots 
+phv00078311.v3 ::: Months used progesterone shots 
+phv00169469.v1 ::: Months had Progesterone shots 
+phv00030849.v1 ::: Number of hospitalizations for psychiatric treatment 
+phv00125457.v1 ::: 42e. Other arterial revascularization 
+phv00048854.v1 ::: L5.  Ophthalmic complications: scatter treatment of left eye 
+phv00105979.v1 ::: A REPAIR OF AN AORTIC ANEURYSM 
+phv00174320.v1 ::: Liver transplant 

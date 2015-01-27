@@ -1,0 +1,201 @@
+KWL fixed: New gold standard after discussion	Phen ID	Phen Description
+bathing	phv00006704.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): BATHING (INCLUDING GETTING IN AND OUT OF THE TUB OR SHOWER) 
+bathing	phv00007156.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE? BATHING (INCLUDING GETTING IN AND OUT OF THE TUB OR SHOWER. DEVICE SUCH AS: BATH CHAIR, LONG HANDLED SPONGE, HANDLE HELD SHOWER, SAFETY BARS) 
+bathing	phv00106741.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00081135.v1 	 Bathing ability 
+Bathing	phv00102414.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00009599.v3 	 DURING THE COURSE OF A NORMAL DAY, HOW DO YOU CARRY OUT THE FOLLOWING ACTIVITIES: BATHING (INCLUDING GETTING IN AND OUT OF TUB OR SHOWER) 
+Bathing	phv00103973.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00005937.v1 	 ACTIVITIES OF DAILY LIVING-SELF REPORTED PERFORMANCE BATHING 
+Bathing	phv00103518.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00108445.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00103571.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00103776.v1 	 Because of health, do you have any difficulty bathing/taking a shower 
+Bathing	phv00103725.v1 	 Because of health, do you have any difficulty bathing/taking a shower 
+WASHING (05/20/14 CHANGE)	phv00088925.v1 	 Repeating same actions touching/washing 
+Bathing	phv00005408.v1 	 ACTIVITIES D - IF YES (TO FO590), HOW MUCH DOES YOUR FEAR OF FALLING INTERFERE WITH BATHING? 
+Bathing	phv00104658.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00006359.v1 	 ACTIVITIES 1 - BATHING (INCLUDING GETTING IN AND OUT OF TUB AND SHOWER) SEE NOTE ABOVE 
+Bathing	phv00105373.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00103360.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00009141.v3 	 FUNCTIONAL PERFORMANCE (ADL)-BATHING 
+Bathing	phv00005294.v1 	 DO YOU GET ASSISTANCE FROM ANOTHER PERSON TO DO THE FOLLOWING ACTIVITIES DURING A NORMAL DAY? - BATHING 
+Bathing	phv00103622.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00103570.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00103675.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00103361.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00004119.v1 	 FUNCTIONAL PERFORMANCE: BATHING 
+Bathing	phv00103623.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00159315.v1 	 What was the bathing self score on Barthel Stroke Questionnaire? 
+Bathing	phv00103466.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00103465.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00110238.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00103413.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing	phv00103412.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00099299.v1 	 HAVE DIFFICULTY BATHING 
+Bathing	phv00070602.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE? --BATHING (INCLUDING GETTING IN AND OUT OF THE TUB OR SHOWER. DEVICE SUCH AS: BATH CHAIR, LONG HANDLED SPONGE, HANDLE HELD SHOWER, SAFETY BARS) 
+Bathing	phv00103202.v1 	 CHANGE IN BATHING YOURSELF IN PAST 6 MO 
+Bathing	phv00103256.v1 	 HOW HAS BATHING YOURSELF CHANGED 
+Bathing; Dressing	phv00079102.v3 	 Bathing or dressing yourself 
+Bathing; Dressing	phv00050282.v1 	 12. Health status: health limited bathing/dress yourself 
+Bathing; Dressing	phv00169497.v1 	 Limited bathing or dressing yourself 
+Bathing; Dressing	phv00111645.v3 	 Limited bathing or dressing yourself 
+Bathing; Dressing	phv00028446.v1 	 Patient's health limits: bathing/dressing him-/herself 
+Dressing	phv00110234.v1 	 HAVE DIFFICULTY DRESSING 
+Dressing	phv00103306.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00103464.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00009140.v3 	 FUNCTIONAL PERFORMANCE (ADL)-DRESSING 
+Dressing	phv00104654.v1 	 HAVE DIFFICULTY DRESSING 
+Dressing	phv00006703.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): DRESSING (UNDRESSING AND REDRESSING) 
+Dressing	phv00107708.v1 	 HAVE DIFFICULTY DRESSING 
+Dressing	phv00006358.v1 	 ACTIVITIES 1 - DRESSING (UNDRESSING AND REDRESSING) SEE NOTE ABOVE 
+Dressing	phv00045201.v1 	 UPRDS (Unified Parkinson's Disease Rating Scale) II Question 6 - Dressing: 0 = Normal; 1 = Somewhat slow, but no help needed; 2 = Occasional assistance needed with buttoning, getting arms in sleeves; 3 = Considerable help required, but can do some things alone; 4 = Helpless; U = Unavailable 
+Dressing	phv00010539.v3 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE - DRESSING (UNDRESSING AND REDRESSING) 
+Dressing	phv00103673.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00103568.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00098734.v1 	 USE SPECIAL DEVICES FOR DRESSING  Q17 
+Dressing	phv00105368.v1 	 HAVE DIFFICULTY DRESSING 
+Dressing	phv00159692.v2 	 Too breathless to leave the house on dressing/undressing 
+Dressing	phv00103410.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00076039.v1 	 Participant's response to interview, indicating level of dressing function during the past week. 
+Dressing	phv00103621.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00004118.v1 	 FUNCTIONAL PERFORMANCE: DRESSING (UNDRESSING AND REDRESSING) 
+Dressing	phv00103358.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00103359.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00072364.v2 	 CAN YOU GET DRESSED (UNDRESSING REDRESSING) INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (SUCH AS VELCRO, ELASTIC LACES)? 
+Dressing	phv00005304.v1 	 DRESSING 
+Dressing	phv00159318.v1 	 What was the dressing/undressing score on Barthel Stroke Questionnaire? 
+Dressing	phv00113361.v2 	 GETS SOB WHEN DRESSING OR UNDRESSING 
+Dressing	phv00103620.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00103515.v1 	 CHANGE IN DRESSING YOURSELF IN PAST 6 MO 
+Dressing	phv00045201.v1 	 UPRDS (Unified Parkinson's Disease Rating Scale) II Question 6 - Dressing: 0 = Normal; 1 = Somewhat slow, but no help needed; 2 = Occasional assistance needed with buttoning, getting arms in sleeves; 3 = Considerable help required, but can do some things alone; 4 = Helpless; U = Unavailable 
+Dressing	phv00013356.v1 	 W19. The following items should be rated after the interview. Rate Questions 1 - 27 from observation during the interview. INTERVIEWER: rate global oddness. Take into account motor, social, and dressing behaviors. (Participants with European ancestry). DIGS2 
+Dressing	phv00103516.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00003292.v1 	 DRESSING ABILITY 
+Dressing	phv00103674.v1 	 HOW HAS DRESSING YOURSELF CHANGED 
+Dressing	phv00003729.v1 	 FUNCTIONAL PERFORMANCE: DRESSING (UNDRESSING AND REDRESSING) 
+eating	phv00103773.v1 	 Eating: How much difficulty do you have? 
+eating	phv00054452.v1 	 Do you have an unreasonably strong fear or avoid any of the following situations: eating or drinking where someone could watch you? (African American participants) 
+eating	phv00049231.v1 	 J6c. Verification of event, psychiatric events: eating disturbance 
+eating	phv00106733.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00007115.v1 	 I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+Eating	phv00006705.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): EATING 
+Eating	phv00010505.v3 	 REGIONAL ANTHROPOMETRY - HAND PREFERRED FOR EATING 
+Eating	phv00172672.v1 	 FFQ: Frequency of eating third other food 
+Eating	phv00104650.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00013218.v1 	 Q17e. Did you do anything to make up for eating so much, perhaps like exercising a lot? (Participants with European ancestry). DIGS2 
+Eating	phv00070603.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE? --EATING 
+Eating	phv00082284.v1 	 Appetite and eating  disorder -  N/A 
+Eating	phv00115975.v2 	 NO. OF TIMES EATING IN FAST FOOD PLACE. Q 6 
+Eating	phv00105148.v1 	 NEED HELP EATING 
+Eating	phv00115976.v2 	 FREQ EATING IN FF PLACE (WEEK OR MONTH). Q 6 
+Eating	phv00103722.v1 	 Eating: How much difficulty do you have? 
+Eating	phv00088933.v1 	 Uncomfortable eating/drinking in public 
+Eating	phv00065756.v1 	 J4c. Verification of events, eating disturbance 
+Eating	phv00013220.v1 	 Q17f. Did you do anything to make up for eating so much, perhaps like other? (IF YES:) Specify. (Participants with European ancestry). DIGS2 
+Eating	phv00112902.v2 	 FREQ EATING IN FF PLACE(WEEK OR MONTH). Q 5 
+Eating	phv00071553.v1 	 Do you have an unreasonably strong fear or avoid any of the following situations: eating or drinking where someone could watch you? 
+Eating	phv00007157.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE? EATING 
+Eating	phv00035152.v1 	 How much have any of these fears (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) ever interfered with your life or activities? (Participants with European ancestry) 
+Eating	phv00102889.v1 	 Spill when drinking or eating soup 
+Eating	phv00013215.v1 	 Q17b. Did you do anything to make up for eating so much, perhaps like taking laxatives or diuretics? (Participants with European ancestry). DIGS2 
+Eating	phv00122490.v1 	 Fall asleep while eating (C) 
+Eating	phv00005938.v1 	 ACTIVITIES OF DAILY LIVING-SELF REPORTED PERFORMANCE EATING FOOD AND DRINKING LIQUIDS 
+Eating	phv00005295.v1 	 DO YOU GET ASSISTANCE FROM ANOTHER PERSON TO DO THE FOLLOWING ACTIVITIES DURING A NORMAL DAY? - EATING FOOD AND DRINKING LIQUIDS 
+Eating	phv00109805.v1 	 IN WHAT WAY ARE EATING AND SLEEPING ALIKE 
+Eating	phv00020335.v1 	 How much have any of these fears (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) ever interfered with your life or activities? 
+Eating	phv00112895.v2 	 DO YOU TRIM THE FAT BEFORE EATING IT? Q 2 
+Eating	phv00101445.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00001391.v1 	 GLUCOSE CHALLENGE: TIME OF LAST EATING, AM OR PM 
+Eating	phv00099289.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00026231.v1 	 Non-adherence to treatment plan: patients shows eating pattern suggestive of eating disorder 
+Eating	phv00009142.v3 	 FUNCTIONAL PERFORMANCE (ADL)-EATING 
+Eating	phv00020333.v1 	 How long have you had any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) 
+Eating	phv00003091.v1 	 WAS THERE ANY TIME DURING THE PAST YEAR NEED HELP EATING  (SEE CODING FOR VARIABLE FJ177) 
+Eating	phv00172664.v1 	 FFQ: Frequency of eating deep fried chicken, fish, shrimp, clams or onion rings away from home 
+Eating	phv00172668.v1 	 FFQ: Frequency of eating first other food 
+Eating	phv00168270.v1 	 In the year preceding your stroke, how much of the visible fat on your beef, pork or lamb did you remove before eating? 
+Eating	phv00122889.v1 	 Falls asleep eating (Bed Partner) 
+Eating	phv00001573.v1 	 GLUCOSE CHALLENGE: TIME OF LAST EATING, AM OR PM 
+Eating	phv00013216.v1 	 Q17c. Did you do anything to make up for eating so much, perhaps like strictly dieting? (Participants with European ancestry). DIGS2 
+Eating	phv00019459.v1 	 X9.  Eating disorders.  (Participants with European ancestry). DIGS4 
+Eating	phv00088669.v1 	 Major change in eating habits  - Severity 
+Eating	phv00034392.v1 	 Patient has a history of: eating disturbance 
+Eating	phv00088549.v1 	 Bothers me seeing someone in restaurant eating food w/fingers 
+Eating	phv00109093.v1 	 IN WHAT WAY ARE EATING AND SLEEPING ALIKE 
+Eating	phv00010587.v3 	 CESD: I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR SEE NOTE ABOVE 
+Eating	phv00005310.v1 	 I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+Eating	phv00035151.v1 	 If D3 (How long have you had any of these fears?: Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) is less than 1 year, please enter # of months. (Participants with European ancestry) 
+Eating	phv00119415.v2 	 HOW UPSET BY OVEREATING. Q 7 
+Eating	phv00009646.v3 	 CES-D: I DID NOT FEEL LIKE EATING: MY APPETITE WAS POOR 
+Eating	phv00104496.v1 	 IN WHAT WAY ARE EATING AND SLEEPING ALIKE 
+Eating	phv00029853.v1 	 Does patient have an eating disorder? 
+Eating	phv00044634.v1 	 Other Anxiety/comorbid condition Code (row 0): 300 = anxiety disorder NOS; 300.82 = undifferentiated somatoform disorder; 301.83 = borderline personality disorder; 301.9 = personality disorder NOS; 305.3 = hallucinogen abuse; 305.9 = solvent abuse; 307.5 = eating disorder NOS; 309.81=Posttraumatic Stress Disorder; 312.18 - 312.82 = conduct disorder; 314.9 = ADHD NOS; AXIS III = sleep apnea , (Participants with European ancestry). DIGS4. Page1 
+Eating	phv00022475.v3 	 DURING THE PAST WEEK, I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR. [DEPRESSION SCALE] 
+Eating	phv00028685.v1 	 Distress caused by: overeating 
+Eating	phv00119402.v2 	 COULDN'T CONTROL HOW MUCH EATING. Q 2 
+Eating	phv00070571.v1 	 CES-D: I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+Eating	phv00088920.v1 	 Overeating 
+Eating	phv00034693.v1 	 Do you have an unreasonably strong fear or avoid any of the following situations: eating or drinking where someone could watch you? 
+Eating	phv00020327.v1 	 Do you have an unreasonably strong fear or avoid any of the following situations: eating or drinking where someone could watch you? 
+Eating	phv00105689.v1 	 IN WHAT WAY ARE EATING AND SLEEPING ALIKE 
+Eating	phv00013374.v1 	 X8. INTERVIEWER: indicate how reliable you think the information provided by the subject is in the following areas. EATING DISORDERS. (Participants with European ancestry). DIGS2 
+Eating	phv00102406.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00031339.v1 	 Non-adherence to treatment plan: patients shows eating pattern suggestive of eating disorder 
+Eating	phv00172670.v1 	 FFQ: Frequency of eating second other food 
+Eating	phv00089042.v1 	 Uncomfortable eating/drinking in public 
+Eating	phv00007811.v3 	 EATING TOO QUICKLY 
+Eating	phv00086789.v2 	 I DID NOT FEEL LIKE EATING/APPETITE WAS POOR 
+Eating	phv00103963.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00119448.v2 	 BINGE EATING DISORDER (BED) 
+Eating	phv00098849.v1 	 NEED HELP EATING 
+Eating	phv00119445.v2 	 BINGE EATING 
+Eating	phv00011289.v2 	 Eating problems - usual frequency 
+Eating	phv00103721.v1 	 Because of health, do you have any difficulty eating 
+Eating	phv00020336.v1 	 Have you ever been very upset with yourself for having any of these fears? (Giving a speech or speaking in public? Eating or drinking where someone could watch you? Talking to people because you might have nothing to say or might sound foolish? Writing while someone watches? Taking part or speaking in a meeting or class? Going to a party or other social outing?) 
+Eating	phv00083855.v2 	 NUMBER OF TIMES EATING OUT/WEEK 
+Eating	phv00010120.v3 	 HAND PREFERRED FOR EATING 
+Eating	phv00013212.v1 	 Q15. During these binges were you afraid you could not stop eating, or that your eating was out of control? (Participants with European ancestry). DIGS2 
+Eating	phv00001574.v1 	 GLUCOSE CHALLENGE: TIME OF LAST EATING, HOUR 
+Eating	phv00013217.v1 	 Q17d. Did you do anything to make up for eating so much, perhaps like fasting? (Participants with European ancestry). DIGS2 
+Eating	phv00006772.v1 	 CES-D: I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+Eating	phv00109200.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00119407.v2 	 DISGUSTED/GUILTY AFTER OVEREATING. Q 3e 
+Eating	phv00009600.v3 	 DURING THE COURSE OF A NORMAL DAY, HOW DO YOU CARRY OUT THE FOLLOWING ACTIVITIES: EATING 
+Eating	phv00025824.v1 	 Non-adherence to treatment plan: patients shows eating pattern suggestive of eating disorder 
+Eating	phv00089029.v1 	 Overeating 
+Eating	phv00053400.v1 	 X9 Eating disorders, (African American participants). DIGS4 
+Eating	phv00086368.v2 	 I DID NOT FEEL LIKE EATING/APPETITE WAS POOR 
+Eating	phv00016925.v1 	 X9. Reliable - Eating D/O, (Participants with European ancestry). DIGS3 
+Eating	phv00087419.v1 	 I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR 
+Eating	phv00098728.v1 	 EATING/MANAGING UTENSILS/GLASS    Q11 
+Eating	phv00026344.v1 	 Patient has history of: eating disturbance 
+Eating	phv00105363.v1 	 HAVE DIFFICULTY EATING 
+Eating	phv00013219.v1 	 Q17f. Did you do anything to make up for eating so much, perhaps like other? (Participants with European ancestry). DIGS2 
+Eating	phv00028698.v1 	 Distress caused by: feeling uncomfortable about eating or drinking in public 
+Eating	phv00008527.v3 	 PERSONALITY TRAIT: EATING TOO QUICKLY 
+Eating	phv00006416.v1 	 CES-D - PLEASE SAY IF YOU FELT THAT WAY DURING THE PAST WEEK: I DID NOT FEEL LIKE EATING; MY APPETITE WAS POOR. 
+Eating	phv00106869.v1 	 IN WHAT WAY ARE EATING AND SLEEPING ALIKE 
+Eating	phv00010541.v3 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE - EATING 
+Grooming	phv00013355.v1 	 W18. The following items should be rated after the interview. Rate Questions 1 - 27 from observation during the interview. INTERVIEWER: Rate appropriateness of dress, grooming, cleanliness. In this rating, you must consider social circumstances and job (i.e., rate a farmer differently from an office worker). (Participants with European ancestry). DIGS2 
+Grooming	phv00117396.v2 	 USE VERY FEW GROOMING PRODUCTS. Q 19 
+Grooming	phv00016907.v1 	 W18. Appropriate Grooming, (Participants with European ancestry). DIGS3 
+Grooming	phv00117410.v2 	 TAKE SPECIAL CARE WHEN GROOMING MY HAIR. Q 33 
+Grooming; Bathing	phv00013776.v1 	 K78d. Now I would like to ask you about the year before active psychotic symptoms started. During that time did you neglect grooming, bathing, and keeping your clothes cleaned? (Participants with European ancestry). DIGS2 
+Grooming; Hygiene	phv00019396.v1 	 U14.  Grooming and hygiene.  (Participants with European ancestry). DIGS4 
+Grooming; Hygiene	phv00016854.v1 	 U13. Grooming and Hygiene, (Participants with European ancestry). DIGS3 
+Grooming; Hygiene	phv00053346.v1 	 U14 Grooming and hygiene, (African American participants). DIGS4 
+Grooming;bathing	phv00003730.v1 	 FUNCTIONAL PERFORMANCE: GROMING/BATHING 
+hygiene	phv00052936.v1 	 K47d Neglect hygiene, (African American participants). DIGS4 
+Hygiene	phv00016345.v1 	 L5. Poor Hygiene, (Participants with European ancestry). DIGS3 
+Hygiene	phv00102242.v1 	 Hygiene/personal care 
+Hygiene	phv00019296.v1 	 S15b.  No hygiene.  (Participants with European ancestry). DIGS4 
+Hygiene	phv00016258.v1 	 K70.d. Hygiene Prodromal, (Participants with European ancestry). DIGS3 
+Hygiene	phv00018677.v1 	 K47d.  Neglect hygiene.  (Participants with European ancestry). DIGS4 
+Hygiene	phv00053286.v1 	 S15b No hygiene, (African American participants). DIGS4 
+Toileting	phv00006058.v1 	 TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) (SEE NOTE ABOVE) 
+Toileting	phv00003296.v1 	 TOILETING ABILITY 
+Toileting	phv00006707.v1 	 DURING THE COURSE OF A NORMAL DAY, CAN YOU DO THE FOLLOWING ACTIVITIES INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (USE HIGHEST LEVEL OF DEPENDENCE): TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) 
+Toileting	phv00004122.v1 	 FUNCTIONAL PERFORMANCE: TOILETING ACTIVITIES 
+Toileting	phv00009602.v3 	 DURING THE COURSE OF A NORMAL DAY, HOW DO YOU CARRY OUT THE FOLLOWING ACTIVITIES: TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) 
+Toileting	phv00072367.v2 	 CAN YOU DO TOILETING ACTIVITIES (USING BATHROOM FACILITIES AND HANDLE CLOTHING) INDEPENDENTLY OR DO YOU NEED HUMAN ASSISTANCE OR THE USE OF A DEVICE (SUCH AS, SPECIAL TOILET SEAT, COMMODE)? 
