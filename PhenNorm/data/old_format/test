@@ -1,5 +1,0 @@
-phv00076256.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::case_control:::Case or control?:::string:::NONE:::NONE:::NONE
-phv00089657.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::study_design:::Cohort study or case-control study:::string:::NONE:::NONE:::NONE
-phv00076258.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::sex:::Gender of the participant:::string:::NONE:::NONE:::NONE
-phv00076254.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::SUBJID:::De-identified subject's ID:::string:::NONE:::NONE:::NONE
-phv00076257.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::age:::Age at enrollment in 10 year interval:::string:::Years old:::NONE:::NONE
