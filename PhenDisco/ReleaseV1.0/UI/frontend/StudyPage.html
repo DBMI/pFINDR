@@ -1,0 +1,584 @@
+<html>
+	
+	<head>
+		<title>PhenDisco</title>
+		<link href="./css/styles.css" rel="stylesheet" type="text/css">
+		<script src="./js/jquery-1.8.2.min.js" language="JavaScript" type="text/javascript"></script>
+		<script src="./js/utility.js" language="JavaScript" type="text/javascript"></script>
+		<link rel="shortcut icon" href="images/favicon.ico">
+	</head>
+
+	<body>
+
+		<div id='main-container'>
+
+			<!-- PhenDisco Header -->
+			<div id='main-header' class='rounded shadow border'>
+
+				<div id="help-tooltip" class='rounded shadow border'></div>
+
+				<div class='top'>
+					<a href='./FrontPage.html'><h1 class='alignleft'>Phenotype Discoverer</h1></a>
+					<div style="clear: both;"></div>
+				</div>
+
+				<div class='body'>
+
+					<a href='./FrontPage.html'><img src="PhenDisco_Logo.jpg" alt="logo" height="87" width="80" style='float:left;'></a>
+
+					<div>
+						<input id='search-bar' class='main-search-bar' type="text" style="color:#BBBBBB;" value="Search e.g. asthma and American" onFocus="if (value == 'Search e.g. asthma and American') {value='';this.style.color='#000000';};" onBlur="if (value== '') {value='Search e.g. asthma and American';this.style.color='#BBBBBB';}"> 
+						<a href='./ResultsPage.html'><button type='button' class="search" >Search</button></a>
+						<input type="checkbox" name="search-checkbox" type="concept" checked>Concept-based</br>
+					</div>
+					<div>
+						<a href='./AdvanceSearchPage.html'><button type='button' id='advanced-button' >Advanced Search</button></a><button type='button' id='limit-button' >Limits</button>
+					</div>
+
+					
+				</div>
+
+				<div class='bottom'>
+					<div class='container'>
+
+						<img id='search-bar-help' class='alignright' src="./images/help.png" alt="help" height="24" width="24" border="0">
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<div id='limit-container' class='hide rounded shadow border'>
+				
+				<div class='top'>
+					<h3 class ='alignleft'>Limits</h3>
+				</div>
+
+				<div class="body">
+
+					<div class='container'>
+						<label for="LimitsField">Field:</label>
+						<select  id="LimitsField" size="1">
+							<option selected="selected" value="All Fields">All Fields</option>
+							<option value="topicDisease">Topic Disease</option>
+							<option value="studyDescription">Study Description</option>
+							<option value="studyId">Study ID</option>
+							<option value="studyName">Study Name</option>
+							<option value="variableDesription">Variable Description</option>
+							<option value="variableId">Variable ID</option>
+							<option value="variableName">Variable Name</option>
+							<option value="attribution">Attribution</option>
+						</select>
+					</div>
+
+					<!--
+					<div class='container'>
+						<label for='limitsContains'>Contains the following:</label>
+						<form id='limitsContains'>
+							<div class='spaced alignleft'><input type="checkbox" id='analysis'>Analysis</div>
+							<div class='spaced alignleft'><input type="checkbox" id='dataset'>Dataset</div>
+							<div class='spaced alignleft'><input type="checkbox" id='document'>Document</div>
+							<div class='spaced alignleft'><input type="checkbox" id='mapping'>PhenX Mapping</div>
+							<div class='spaced alignleft'><input type="checkbox" id='variable'>Variable</div>
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+					-->
+
+				</div>
+
+				<div class='bottom'>
+					<button type='button' class='alignright' id='limit-reset-button' >Reset</button>
+					<!--<a href='./ResultsPage.html'><button type='button' class='alignright' id='limit-search-button' >Search</button></a>-->
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<!-- Header ENDS -->
+			<!-- Main Header End -->
+
+			<!-- StudyPage Start -->
+			<div id='studyPage' class ='rounded shadow border'>
+
+				<div id='studyPage_content'>
+
+					<div id='studyPage_top' class='container'>
+
+						<div>
+							<h1 id='studyPage_title'>Next Generation Mendelian Genetics: Congenital Hyperinsulinism</h1>
+						</div>
+ 
+						<hr>
+
+						<div>
+							<h2 id='studyPage_id'>DbGap Study Accesssion: phs 000539.v1.p1<h2>
+						</div>
+						
+					</div>
+
+					<div id='studyPage_body' class='container'>
+
+						<div id='studyPage_tabs'>
+							<ul id="tabs" style="height:1.75em;">
+						        <li class="target" id="tabs-1">Study</li>
+						        <li id="tabs-2">Variables</li>
+						        <li id="tabs-3">Study Documents</li>
+						        <li id="tabs-4">Analyses</li>
+						        <li id="tabs-5">Datasets</li>
+						    </ul>
+						</div>
+
+						<div id="tabs-1" style='background-color:#F0F0F0; border:1px solid #B0B0B0;' class='rounded'>
+
+							<div id='studyPage_body_search' class='container'>
+							</div>
+
+							<div id='studyPage_body_nav' class='container'>
+								<select id='pageJumpMenu'>
+									<option value="">Jump to ...</option>
+									<option value="studyPage_studyDescription">Study Description</option>
+									<option value="studyPage_authorizedAccess">Authorized Access</option>
+									<option value="studyPage_publicData">Publicly Available Data</option>
+									<option value="studyPage_criteria">Study Inclusion/Exclusion Criteria</option>
+									<option value="studyPage_molecularData">Molecular Data</option>
+									<option value="studyPage_studyHistory">Study History</option>
+									<option value="studyPage_publications">Selected Publications</option>
+									<option value="studyPage_relatedDiseases">Diseases Related to Study</option>
+									<option value="studyPage_links">Links to Other NCBI Resources</option>
+									<option value="studyPage_requests">Authorized Data Access Requests</option>
+									<option value="studyPage_studyAttribution">Study Attribution</option>
+								</select>
+							</div>
+
+							<div id='studyPage_studyDescription' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Study Description</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_studyDescription_content'>
+									<p>Study Description Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_authorizedAccess' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Authorized Access</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_authorizedAccess_content'>
+									<p>Authorized Access Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_publicData' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Publicly Available Data</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_publicData_content' class='container'>
+									<p>Publicly Available Data Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_criteria' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Study Inclusion/Exclusion Criteria</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_criteria_content' class='container'>
+									<p>Study Inclusion/Exclusion Criteria Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_molecularData' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Molecular Data</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_molecularData_content' class='container'>
+									<p>Molecular Data Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_studyHistory' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Study History</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_studyHistory_content' class='container'>
+									<p>Study History Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_publications' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Selected Publications</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_publications_content' class='container'>
+									<p>Selected Publications Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_relatedDiseases' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Diseases Related to Study (MESH terms)</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_relatedDiseases_content' class='container'>
+									<p>Diseases Related to Study (MESH terms) Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_links' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Links to Other NCBI Resources</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_links_content' class='container'>
+									<p>Links to Other NCBI Resources Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_requests' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Authorized Data Access Requests</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_requests_content' class='container'>
+									<p>Authorized Data Access Requests Content goes here...</p>
+								</div>
+							</div>
+
+							<div id='studyPage_studyAttribution' class='container'>
+								<div class='alignleft'>
+									<h2 class='nomargin'>Study Attribution</h2>
+								</div>
+								<div class='spaced alignleft'>
+									<button type='button' class='pageJumpTop'>Top</button>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<div class='body' id='studyPage_studyAttribution_content' class='container'>
+									<p>Study Attribution Content goes here...</p>
+								</div>
+							</div>
+
+
+						</div>
+
+						<div id="tabs-2"  style='background-color:#F0F0F0;height:100%; border:1px solid #B0B0B0;' class='rounded hide'>
+					    </div>
+					    <div id="tabs-3"  style='background-color:#F0F0F0;height:100%; border:1px solid #B0B0B0;' class='rounded hide'>
+					    </div>
+					    <div id="tabs-4"  style='background-color:#F0F0F0;height:100%; border:1px solid #B0B0B0;' class='rounded hide'>
+					    </div>
+					    <div id="tabs-5"  style='background-color:#F0F0F0;height:100%; border:1px solid #B0B0B0;' class='rounded hide'>
+					    </div>
+
+					</div>
+
+				</div>
+			<!-- StudyPage End -->
+
+			<!-- Navigaton Start -->
+				<div id='studyPage_navigation'>
+					<!-- Navigation START -->
+
+					<!-- Related Studies -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Related Studies</h2>
+						</div>
+						<div class='body' style='padding-right:8px;'>
+							<ul class='related'>
+								<li>Topic: 
+									<ul class='related'>
+										<li>Exact <input name='topic' type="radio" id='study_related_exact'></li>
+										<li>Similar <input name='topic' type="radio" id='study_related_similar'></li>
+									</ul>
+								<li>Study Design <input type="checkbox" id='study_related_studyDesign'></li>
+								<li>Sample:
+									<ul class='related'>
+										<li>Age&plusmn; <input type="text" id='study_related_age' size='5'></li>
+										<li>Match Gender <input type='checkbox' id='study_related_gender'></li>
+										<li>Match Race <input type='checkbox' id='study_related_race'></li>
+										<li>Match Ethnicity <input type='checkbox' id='study_related_ethnicity'></li>
+										<li>Size&plusmn; <input type="text" id='study_related_size'  size='5'></li>
+									</ul>
+								</li>
+								<li>Geography:
+									<ul class='related'>
+										<li>City <input name='geography' type="radio" id='study_related_city'></li>
+										<li>State/Province <input name='geography' type="radio" id='study_related_state'></li>
+										<li>Country <input name='geography' type="radio" id='study_related_country'></li>
+									</ul>
+								</li>
+								<li>Platform <input type='checkbox' id='study_related_platform'></li>
+							</ul>
+						</div>
+						<div class='bottom'>
+							<button id='study_related_submit' class=''>Show Me</button>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Getting Started -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Getting Started</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="./FrontPage.html">PhenDisco</a></li>
+								<li><a href="./Overview.html">Overview</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK5295/">FAQ</a></li>
+								<li><a href="./HowToSubmit.html">How to Submit</a></li>
+								<li><a href="#">Browse Top Level Studies</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Acess Data -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Access Data</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/">Apply for Control</a></li>
+								<li><a href="ftp://ftp.ncbi.nlm.nih.gov/dbgap">Public Data via FTP</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gapplusprev/sgap_plus.htm">Association Results Browser</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/gap/PheGenI">Phenotype-Genotype Integrator</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Important Links -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Important Links</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=dbGaPnews">RSS Feed <img src="./images/rss.png" alt="RSS Feed"></a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/GWAS_Code_of_Conduct.html">Code of Conduct</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=dbgap_2b_security_procedures.pdf">Security Procedures</a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login">Contact Us</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- Navigation ENDS -->
+				</div>
+			<!-- Navigation End -->
+			<div style="clear: both;"></div>
+			</div>
+
+			<div id='main-footer' class='rounded shadow border'>
+				<h4 id='dbv'>Database Version: March 31st, 2013</h4>
+				<div style="clear: both;"></div>
+			</div>
+
+			<!-- Main Footer Start -->
+			<!-- PhD Footer START 
+			<div id='main-footer' class='rounded shadow border'>
+
+				<div class='body'>
+
+					<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="getting_started">
+			        		<h3 class='main-footer'>Getting Started</h3>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/Education/">NCBI Education</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK3831/">NCBI Help Manual</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK21101/">NCBI Handbook</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials/">Training &amp; Tutorials</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="resources">
+			        		<h3 class='main-footer'>Resources</h3>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/chemicals-bioassays">Chemicals &amp; Bioassays</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/data-software">Data &amp; Software</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/dna-rna">DNA &amp; RNA</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/domains-structures">Domains &amp; Structures</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genes-expression">Genes &amp; Expression</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genetics-medicine">Genetics &amp; Medicine</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genomes-maps">Genomes &amp; Maps</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/homology">Homology</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/literature">Literature</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/proteins">Proteins</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/sequence-analysis">Sequence Analysis</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/taxonomy">Taxonomy</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials">Training &amp; Tutorials</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/variation">Variation</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+				        <ul class="main-footer" id="popular">
+				            <h3 class='main-footer'>Popular</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/nucleotide/">Nucleotide</a></li>
+				            <li><a href="http://blast.ncbi.nlm.nih.gov/">BLAST</a></li>
+				            <li><a href="http://www.pubmedcentral.nih.gov/" class="newdomain">PubMed Central</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/gene/">Gene</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/books/">Bookshelf</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/protein/">Protein</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/omim/">OMIM</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/">Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/snp/">SNP</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Structure/">Structure</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="featured">
+				            <h3 class='main-footer'>Featured</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/gtr/">Genetic Testing Registry</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/pubmedhealth/">PubMed Health</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/refseq/">Reference Sequences</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/mapview/">Map Viewer</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/human/">Human Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/mouse/">Mouse Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genomes/FLU/">Influenza Virus</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/tools/primer-blast/">Primer-BLAST</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Traces/sra/">Sequence Read Archive</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="info">
+				            <h3 class='main-footer'>NCBI Information</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/About/">About NCBI</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/research/">Research at NCBI</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/books/NBK1969/">NCBI Newsletter</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Ftp/">NCBI FTP Site</a></li>
+				            <li><a class="external" href="http://www.facebook.com/ncbi.nlm" role="button" aria-expanded="false" target="_blank">NCBI on Facebook</a></li>
+				            <li><a class="external" href="http://www.twitter.com/ncbi" role="button" aria-expanded="false" target="_blank">NCBI on Twitter</a></li>
+				            <li><a class="external" href="http://www.youtube.com/ncbinlm" role="button" aria-expanded="false" target="_blank">NCBI on YouTube</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div style="clear: both;"></div>
+
+			    </div>
+
+
+			    <div class='container'>  
+
+			    	<div class='container alignleft'> 
+
+			       		<div id='footer-disclaimer' class='alignleft'>
+				            <a href="/About/disclaimer.html">Copyright</a> | <a href="/About/disclaimer.html#disclaimer">Disclaimer</a> |
+				            <a href="http://www.nlm.nih.gov/privacy.html" class="newdomain">Privacy</a> | <a href="http://www.nlm.nih.gov/accessibility.html">Accessibility</a> | <a href="/About/glance/contact_info.html">Contact</a>
+				        </div>
+
+				        <br>
+
+				        <div class='alignleft'>
+				            <p id="footer-address" class='alignright'>
+				                <span>
+				                    <a class="" href="http://www.ncbi.nlm.nih.gov">National Center for Biotechnology Information,</a>
+				                </span>
+				                <span>
+				                	<a href="http://www.nlm.nih.gov/">U.S. National Library of Medicine</a><br></span>
+				                <span>
+				                    <span>8600 Rockville Pike</span>,<span>Bethesda</span>
+				                    <span>MD</span>, <span>20894</span>
+				                    <span>USA</span>
+				                </span>
+				       		</p>
+				       	</div>
+
+			       </div>
+
+			        <div class='container alignright'>
+							<a href="http://www.nlm.nih.gov/"><img src="./images/nlm.png" alt="NLM"></a>
+			       			<a href="http://www.nih.gov/"><img src="./images/nih.png" alt="NIH"></a>
+			       			<a href="http://www.dhhs.gov/"><img src="./images/dhhs.png" alt="DHHS"></a>
+			       			<a href="http://www.usa.gov/"><img src="./images/usa.png" alt="USA.gov"></a>
+					</div>
+					
+				</div>
+
+				<div style="clear: both;"></div>
+
+			</div>
+			PhD Footer END -->
+			<!-- Main Footer End -->
+
+		</div>
+
+	</body>
+
+<html>

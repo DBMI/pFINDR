@@ -1,0 +1,9 @@
+PhenDisco requires following components:
+
+- Web Server: Apache 2.2.20 or later, available at http://httpd.apache.org/
+- PHP 5.3.6 or later : Available at http://php.net/downloads.php 
+- Database: MySQL Ver 14.14 Distrib 5.1.69 or later, available at http://www.mysql.com/
+- MetaMap: Available at http://metamap.nlm.nih.gov/
+- Whoosh 2.4.1 or later : Available at https://pypi.python.org/pypi/Whoosh/
+- PyParse 1.1.7 or later: Available at https://pypi.python.org/pypi/PyParse
+

@@ -1,0 +1,410 @@
+Study ID	Disease/condition	IRB approval (required = 1, not required = 0, not specified = 2)	consent type by disease (unrestricted=0;restricted=1;unspecified=2)	Geographic Codes
+phs000508.v1.p1	rhabdoid tumors:::cancer	0	1	
+phs000314.v1.p1	isolated clubfoot:::idiopathic talipes equinovarus:::itev:::smoking	0	0	
+phs000479.v1.p1	Severe Combined Immunodeficiency	2	2	
+phs000497.v1.p1	Hirschsprung Disease	0	2	US-PA ::: US-OH ::: US-MD
+phs000492.v1.p1	developmental brain malformations:::human cerebral cortical development:::epilepsy:::cerebral palsy:::abnormalities of brain volume:::learning deficits:::intellectual disability	0	1	
+phs000178.v6.p6	cancer	0	0	
+phs000287.v2.p1	risk of developing coronary heart disease:::stroke:::	0	0	US-NC ::: US-CA ::: US-MD ::: US-PA
+phs000449.v1.p1	haemoglobin level:::high altitude	0	0	CM ::: ET
+phs000394.v1.p1	parkinson disease	0	0	
+phs000455.v1.p1	developmental brain disorders:::mid-hindbrain malformations:::brainstem malformations:::cerebellum malformations:::midbrain malformations:::agenesis of the corpus callosum(ACC):::cerebellar vermis hypoplasia (CVH):::Dandy-Walker malformation (DWM):::and polymicrogyria (PMG):::neuronal migration malformation:::frontal predominant lissencephaly:::megalencephaly-capillary malformation syndrome (MCAP):::megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH):::severe infantile epilepsy::: ?listed on inclusion criteria	0	0	
+phs000179.v2.p2	Chronic obstructive pulmonary disease (COPD):::smokers	0	1	US
+phs000153.v5.p5	n/a	1	0	US-MA
+phs000424.v1.p1	n/a	2	2	
+phs000485.v1.p1	congenital diaphragmatic hernia	0	1	
+phs000475.v1.p1	GnRH deficient states:::hypogonadotropic hypogonadism:::mid-line facial defects:::renal agenesis:::synkinesia:::ataxia	0	0	
+phs000472.v1.p1	Breast cancer:::estrogen receptor positive breast cancer:::	0	1	
+phs000477.v1.p1	phosphate-wasting disorders:::non-syndromic structural abnormalities involving the urinary tract:::end stage renal disease (ESRD):::Hajdu-Cheney Syndrome (HCS):::Opsismodysplasia	0	1	
+phs000484.v1.p1	focal segmental glomerulosclerosis (FSGS)	0	1	
+phs000413.v1.p1	Pediatric Acute Megakaryoblastic Leukemia	0	0	
+phs000341.v1.p1	Hypodiploid Acute Lymphoblastic Leukemia	0	0	
+phs000409.v1.p1	Medulloblastoma	0	0	
+phs000414.v1.p1	core-binding factor leukemia:::de novo acute myeloid leukemia:::core binding factor (CBF) complex	0	0	
+phs000291.v2.p1	chronic obstructive pulmonary disease:::smoking	0	0	US
+phs000205.v4.p2	Unexplained developmental delay:::intellectual disability:::autism:::other developmental disabilities	0	0	
+phs000257.v2.p1	Human Gut Microbiota:::Crohn's Disease:::Inflammatory Bowel Disease	2	2	
+phs000096.v4.p1	low birthweight:::high birthweight:::hyperglycemia:::Adverse Pregnancy Outcome (HAPO):::maternal glucose metabolism  	0	1	US-CA ::: BB ::: CA-ON ::: GB-BFS ::: AY-QLD ::: AU-NSW
+phs000418.v1.p1	cutaneous squamous skin cell carcinoma:::cancer:::ovarian adenocarcinoma:::tumorigenesis	1	1	
+phs000443.v1.p1	prostate cancer	0	0	
+phs000456.v1.p1	 young onset stroke:::stroke before age 60 years	0	0	PK
+phs000478.v1.p1	Strabismus:::ophthalmological diseases	0	1	
+phs000298.v1.p1	autism	0	1	
+phs000345.v1.p1	ulcerative colitis:::inflammatory bowel disease (IBD)	1	0	US
+phs000407.v1.p1	Attention Defecit and Hyperactivity Disorder:::ADHD	0	1	GB ::: US ::: NL ::: BE ::: IE ::: DE 
+phs000209.v10.p2	atherosclerosis:::subclinical cardiovascular disease:::acute myocardial infarction:::coronary heart disease (CHD):::stroke:::congestive heart failure:::cardiovascular disease interventions	0	1	US-NC ::: US-NY ::: US-MD ::: US-MN ::: US-IL ::: US-CA
+phs000095.v2.p1	dental caries	0	1	US-PA ::: US-WV ::: US-IA
+phs000447.v1.p1	high-risk primary prostate cancer	0	0	
+phs000390.v1.p1	osteoporosis	0	1	US
+phs000444.v1.p1	Primary Biliary Cirrhosis (PBC)	1	1	IT
+phs000369.v1.p1	breast cancer	0	1	
+phs000236.v1.p1	Coronary Artery Risk Development	0	1	US-AL ::: US-IL ::: US-MN ::: US-CA
+phs000442.v1.p1	Resistant Hypertension	0	0	
+phs000218.v4.p1	acute lymphoblastic leukemia (ALL):::Acute myeloid lukemia (AML):::Neuroblastoma (NBL):::Osteosarcoma (OS):::Wilms' Tumor (WT)	0	1	
+phs000001.v3.p1	age-related macular degeneration (AMD):::age-related cataract	0	1	US
+phs000428.v1.p1	Health and retirement	1	0	US
+phs000313.v3.p2	blood lipid levels and personality	1	0	IT-88
+phs000331.v1.p1	drug-induced prolongation of the QT interval (diLQT):::ventricular arrythmia:::ventricular arrhythmia torsades de pointes (TdP):::cardiac arrythmia	0	0	US-TN
+phs000223.v1.p1	atherosclerosis:::myocardial infarction:::coronary heart disease	1	0	US
+phs000452.v1.p1	melanoma	0	1	
+phs000288.v1.p1	brain disorders:::recessive neurodevelopmental disorder:::ciliopathy spectrum (kidney failure, retinal blindness, cerebellar ataxia)	0	0	
+phs000007.v17.p6	cardiovascular disease (CVD):::coronary heart disease:::stroke:::intermittent claudication:::heart failure:::ultrasound studies of the heart:::echocardiography:::carotid arteries:::computed tomography studies of the heart and aorta:::magnetic resonance imaging studies of the brain, heart, and aorta:::systolic blood pressure:::total cholesterol:::HDL cholesterol:::fasting glucose:::cigarette use:::body mass index:::fibrinogen:::CRP:::electrocardiography:::QT interval	1	0	US-MN
+phs000440.v1.p1	dental caries and cleft lip	0	1	GT
+phs000435.v1.p1	Chronic Lymphocytic Leukemia	0	0	
+phs000423.v1.p1	Atherosclerotic Disease:::vascular function:::coronary artery disease (CAD):::acute myocardial infarction (MI)	0	0	US-CA
+phs000425.v1.p1	alcohol dependence::cocaine dependence:::nicotine dependence:::opioid dependence	1	1	
+phs000401.v1.p1	atherosclerosis risk:::coronary artery risk:::cardiovascular health:::early-onset myocardial infarction (EOMI):::ischemic stroke:::smoking:::diabetes	1	0	US
+phs000450.v1.p1	Diffuse Large B-Cell Lymphoma	0	1	
+phs000200.v6.p2				US
+phs000402.v1.p1	atherosclerosis risk:::coronary artery risk:::cardiovascular health:::early-onset myocardial infarction (EOMI):::ischemic stroke:::smoking:::diabetes	1	1	
+phs000400.v1.p1	cardiovascular heart disease (CHD) risk:::stroke risk	1	0	US-NC ::: US-CA ::: US-MD ::: US-PA
+phs000398.v1.p1	atherosclerosis:::cardiovascular risk factors	1	0	US
+phs000375.v1.p1	Native platelet function:::Post Aspirin Platelet Function	0	0	US
+phs000419.v1.p1	 familial melanoma:::sporadic melanoma	0	1	AU
+phs000417.v2.p1	human postmortem brain procurement:::DNA methylation in human dorsolateral prefrontal cortex:::postmortem tissue:::genetic control of transcription	0	0	US-VA ::: US-DC
+phs000306.v3.p1	prostate cancer	0	1	US-CA ::: US-HI
+phs000159.v3.p2				
+phs000352.v1.p1	sporadic retinoblastoma:::inherited retinoblastoma:::matched orthotopic xenograft	0	0	
+phs000393.v1.p1	nicotine dependence	1	0	IS
+phs000380.v1.p1	obesity:::status post bariatric surgery:::type 2 diabetes (T2D)	0	0	
+phs000340.v2.p1	 early T-cell progenitor acute lymphoblastic leukemia	0	0	
+phs000387.v1.p1	Abdominal Aortic Aneurysm	0	0	US-PA
+phs000381.v1.p1	mycode project	0	0	US-PA
+phs000220.v1.p1	population description:::breast cancer:::prostate cancer:::colorectal cancer:::diabetes:::obesity:::lung cancer:::pancreas cancer:::endometrial cancers:::non hodgkin lymphoma	0	1	US-HI ::: US-CA
+phs000404.v1.p1	smoking:::smoking cessation:::family income:::educational attainment	1	1	US-MI ::: US-MO
+phs000426.v1.p1	SLCO1B1 Variants:::Methotrexate Clearance:::non-B-cell acute lymphoblastic leukemia (ALL)	0	0	
+phs000408.v1.p1	obesity:::status-post gastric bypass surgery:::type 2 diabetes mellitus (T2D)	0	0	US-PA
+phs000274.v1.p1	celiac disease:::gluten-sensitive enteropathy:::celiac sprue	0	0	
+phs000368.v1.p1	Polycystic Ovary Syndrome (PCOS)	0	1	
+phs000385.v1.p1	colorectal cancer	0	0	US
+phs000374.v1.p1	primary Colorectal Adenocarcinoma	0	0	
+phs000285.v2.p2	Coronary Artery Risk Development:::Atherosclerosis Risk:::Cardiovascular Health:::Atherosclerosis	1	0	US-AL ::: US-IL ::: US-MN ::: US-CA
+phs000309.v2.p2	Coronary Artery Risk Development	1	0	US-AL ::: US-IL ::: US-MN ::: US-CA
+phs000389.v1.p1	Diabetic kidney disease:::diabetic nephropathy (DN):::end stage renal disease (ESRD):::persistent proteinuria (>0.5 g/24 hr):::type I diabetes	1	0	UK ::: IE
+phs000303.v1.p1	refractive error	0	0	DE
+phs000355.v1.p1	asthma	0	0	
+phs000406.v1.p1	spatiotemporal dynamics:::brain	0	0	
+phs000333.v1.p1	diabetic kidney disease:::nephropathy:::diabetes	1	1	US
+phs000392.v1.p1	autosomal recessive progressive external ophthalmoplegia (arPEO):::mitochondrial disease:::	0	0	
+phs000265.v3.p1	gut microbiome:::recurrent abdominal pain	0	0	
+phs000370.v1.p1	Head squamous cell carcinoma:::Neck Squamous Cell Carcinoma	0	1	
+phs000379.v1.p1	arteriopathy:::hypertension:::atherosclerotic (macrovascular) complications	0	0	US-MN ::: US-MS
+phs000286.v2.p1	Atherosclerosis Risk:::Cardiovascular Health:::Coronary Artery Risk Development	1	1	US-MS
+phs000357.v1.p1	systemic sclerosis:::scleroderma	0	1	
+phs000388.v1.p1	hypercholesterolemia:::hypertension:::diabetes:::coronary heart disease:::chronic kidney disease	0	0	US-NY
+phs000267.v1.p1	autism:::Autism spectrum disorders (ASDs)	0	1	
+phs000358.v1.p1	Attention Deficit and Hyperactivity Disorder:::ADHD	0	1	US-MA ::: US-CA ::: US-MO 
+phs000266.v2.p1	Skin Microbiome:::Atopic Dermatitis (AD):::Immunodeficiency:::eczema:::Wiskott-Aldrich syndrome (WAS):::Hyper IgE syndrome (HIES)	0	0	
+phs000290.v1.p1	pulmonary arterial hypertension:::PAH-SSc:::scleroderma	0	0	
+phs000254.v1.p1	Pseudomonas aeruginosa (Pa) lung infection:::cystic fibrosis	0	1	
+phs000279.v1.p1	Early-Onset Myocardial Infarction	0	1	US
+phs000335.v2.p2	chronic obstructive pulmonary disease (COPD):::smoking	0	1	US
+phs000302.v1.p1	nephropathy:::type 2 diabetes:::end stage renal disease (ESRD):::chronic kidney disease (CKD) Stage 4 or 5	1	1	US-MA
+phs000365.v1.p1	X-linked Immunodeficiency with Magnesium Defect, EBV Infection, and Neoplasia (XMEN)	0	1	
+phs000353.v1.p1	prematurity	0	1	US-MD
+phs000240.v1.p1	ocular hypertension:::primary open angle glaucoma (POAG)	0	1	US
+phs000366.v1.p1	sickle cell anemia:::fetal hemoglobin	0	0	US
+phs000235.v3.p1	cancer:::Non-Hodgkin lymphomas:::diffuse large B-cell lymphoma (DLBCL):::follicular lymphoma (FL):::medulloblastoma (MB):::Follicular Lymphoma (FL):::diffuse large B-cell lymphoma (DLBCL)	0	1	
+phs000348.v1.p1	 multiple myeloma (MM)	0	1	
+phs000226.v2.p1	Cardiovascular Health:::aging:::cardiovascular disease (CVD) risk factors:::myocardial infarction (MI):::stroke:::heart failure (HF)	1	0	US-NC ::: US-CA ::: US-MD ::: US-PA
+phs000273.v1.p1	insertion sites present in humans	0	0	
+phs000256.v2.p2	microbiome:::vagina:::microflora	2	2	
+phs000250.v1.p1	pancreatic cancer	0	1	
+phs000364.v1.p1	chronic lymphocytic leukemia (CLL)	0	1	
+phs000344.v1.p1	Amyotrophic Lateral Sclerosis:::ALS	0	0	FI
+phs000346.v1.p1	Bladder Cancer Risk:::primary carcinoma of the urinary bladder	0	1	US ::: FI
+phs000289.v2.p1	Venous Thrombosis (VTE):::deep vein thrombosis (DVT):::pulmonary embolism (PE)	0	0	US
+phs000234.v1.p1	dementia:::Alzheimer's disease:::senile dementia:::arteriosclerotic dementia:::dementia due to alcohol::::Pick's disease of the brain:::frontotemporal dementia:::dementia with Lewy bodies	0	0	US
+phs000221.v1.p1	:::Atherosclerosis Risk:::atherosclerosis:::	0	0	US-MA ::: US-UT ::: US-MN ::: US-NC
+phs000361.v1.p1	Upper Gastrointestinal Cancers:::Esophageal squamous cell carcinomas (ESCCs):::primary esophageal cancers:::Gastric cancers (GCs):::primary gastric adenocarcinomas.	0	1	CN
+phs000224.v1.p1	Generalized Vitiligo	0	1	
+phs000336.v1.p1	lung cancer:::lung cancer risk:::lung adenocarcinoma	0	1	IT ::: FI ::: US
+phs000262.v2.p1	Ulcerative Colitis:::Human Microbiome	2	2	
+phs000351.v1.p1	Renal Cell Carcinoma:::renal cell carcinoma risk	0	1	US ::: FI
+phs000260.v2.p1	Foregut Microbiome:::Esophageal Adenocarcinoma:::mouth microbiome:::distal esophagus microbiome:::gastric corpus:::gastroesophageal reflux (GERD)	0	1	
+phs000396.v1.p1	Cancer Epidemiology and Genetics:::Imputation Reference Dataset	0	1	US ::: IT ::: JP ::: CN ::: NG
+phs000349.v1.p1	 Atherosclerosis:::premature atherosclerosis	0	0	US
+phs000311.v1.p1	Cancer Epidemiology and Genetics:::Imputation Reference Dataset	0	0	
+phs000343.v1.p1	stroke:::cerebral infarction:::nonfatal myocardial infarction	0	1	US
+phs000310.v1.p1	gene fusions:::prostate cancer	0	0	
+phs000247.v2.p2	Neonatal Microbiome:::Necrotizing Enterocolitis	0	1	
+phs000338.v1.p1	aging	1	0	IT-88
+phs000237.v1.p1	type 2 diabetes	0	0	US
+phs000258.v2.p1	Gut Microbiota:::Obesity	0	0	US-PA
+phs000100.v3.p1	type 2 diabetes:::t2d	1	0	US ::: FI
+phs000101.v3.p1	Amyotrophic Lateral Sclerosis:::fatal neurodegenerative disease	0	0	US ::: IT
+phs000196.v2.p1	Parkinson Disease	1	0	US-OR ::: US-WA ::: US-NY ::: US-GA
+phs000264.v2.p1	Human Virome:::Febrile Illness	2	2	US-MO
+phs000252.v2.p1	Gut Microbiome:::Crohn's Disease:::Inflammatory bowel disease	2	2	US-PA
+phs000124.v2.p1	Neuroblastoma:::malignancy of the developing sympathetic nervous system:::embryonal cancer	0	0	US
+phs000259.v2.p1	16S RNA:::Urethral Microbiome	0	1	
+phs000328.v1.p1	diffuse large B-cell lymphoma:::B-cell non-Hodgkin Lymphoma (B-NHL)	0	1	
+phs000143.v1.p1	Type 2 Diabetes	1	0	US-TX
+phs000228.v3.p1	oral microbiome:::skin microbiome:::nasal cavity microbiome:::gastrointestinal tract microbiome:::vagina microbiome	0	1	US-TX ::: US-MO
+phs000268.v1.p1	normalcy	0	0	US ::: FR ::: VE
+phs000330.v1.p1	Primary Human Prostate Cancer	0	0	
+phs000284.v1.p1	sleep apnea	1	1	US-OH
+phs000276.v1.p1	pre-term birth risk factors:::intrauterine growth retardation risk factors	0	0	FI
+phs000308.v1.p1	Open-Angle Glaucoma:::Primary open-angle glaucoma (POAG):::intraocular pressure (IOP)-dependent progressive optic neuropathy	0	1	US
+phs000140.v1.p1	type 2 diabetes:::type 2 diabetes mellitus (T2DM)	1	1	US
+phs000305.v1.p1	Breast Cancer:::invasive breast cancer:::ductal carcinoma in situ (DCIS):::	0	1	US ::: JP
+phs000203.v1.p1	peripheral arterial disease (PAD):::peripheral arterial disease:::claudication	0	0	US
+phs000021.v3.p2	Schizophrenia:::schizoaffective disorder	0	1	
+phs000304.v1.p1	Blood Clotting:::thrombosis factors:::hemostasis factors	0	0	US:MI
+phs000188.v1.p1	DNA repository:::Electronic Medical Record (EMR):::QRS Duration  	0	0	US:TN
+phs000103.v1.p1	prematurity	0	0	US::: DK
+phs000245.v1.p1	 Breast Cancer	0	1	
+phs000225.v1.p1	osteoporosis:::bone density	0	0	DK ::: SE
+phs000272.v1.p1	Behcet's Disease	0	0	TR
+phs000206.v3.p2	pancreatic cancer	0	1	
+phs000127.v2.p1	Sporadic Amyotrophic lateral sclerosis (ALS)	0	0	IE
+phs000182.v2.p1	Macular Degeneration (AMD):::large drusen	0	1	US
+phs000294.v1.p1	 Myocardial Infarction	0	0	US-MA ::: US-WA ::: FI ::: SE ::: ES ::: IT
+phs000204.v1.p1	Limb Malformation Disorders:::Freeman Sheldon Syndrome (FSS):::birth defects of the limb	0	0	
+phs000244.v1.p1	Miller Syndrome:::Limb malformation disorders:::birth defects of the limb:::limb deficiency:::limb duplications:::multiple congenital contractures	0	0	
+phs000299.v1.p1	lung cancer:::non-small-cell lung cancer	0	0	
+phs000249.v1.p1	DNA Methylation:::Human Brain	0	0	
+phs000222.v1.p1	 Huntington Disease	0	0	
+phs000269.v1.p1	Chromosomal Aberration	0	0	
+phs000295.v1.p1	Kabuki Syndrome	0	0	
+phs000292.v1.p1	stroke	0	1	US-MD ::: US-DC
+phs000128.v3.p3	cardiovascular disease	1	0	US-MA
+phs000239.v2.p1	Multiple Sclerosis	1	0	
+phs000280.v1.p1	Atherosclerosis Risk	1	1	US:NC ::: US-MS ::: US-MN ::: US-MD
+phs000138.v2.p1	Bone Fragility:::osteoporosis:::osteoporotic fractures	0	0	US-IN
+phs000261.v1.p1	Bacterial Vaginosis	0	1	
+phs000263.v1.p1	acne vulgaris	0	1	
+phs000251.v1.p1	Psoriasis	0	1	US-NY
+phs000255.v1.p1	Crohn's disease:::ulcerative colitis:::inflammatory bowel disease	0	1	US-MS ::: US-NC ::: US-NY ::: US-OH
+phs000185.v1.p1	asthma:::diabetes mellitus:::cardiovascular disease:::hypertension:::autism	0	0	US-SD
+phs000187.v1.p1	Melanoma	0	0	
+phs000094.v1.p1	cleft lip:::cleft palate	0	1	SG ::: TW ::: CN ::: KR
+phs000089.v3.p2	Parkinson's Disease	0	0	US
+phs000216.v1.p1	Systemic Lupus Erythematosus	0	0	
+phs000122.v1.p1	Systemic Lupus Erythematosus (SLE):::	0	0	US
+phs000202.v1.p1	Systemic lupus erythematosus (SLE)	0	1	US-OK
+phs000086.v2.p1	type 1 diabetes	1	1	
+phs000170.v1.p1	 Cataract:::HDL	0	0	
+phs000215.v1.p1	Serum Iron	0	0	
+phs000219.v1.p1	Alzheimer's disease	0	1	CA
+phs000169.v1.p1	 Visceral Adiposity	0	0	
+phs000201.v1.p1	Acute Myeloid Leukemia Genomes	0	1	
+phs000207.v1.p1	Prostate Cancer	0	1	
+phs000217.v1.p1	 leprosy	0	1	CN-34 ::: CN-37 ::: CN-32
+phs000090.v1.p1	Atherosclerosis	1	0	US-NC ::: US-MS ::: US-MN ::: US-MD
+phs000016.v2.p2	attention deficit hyperactivity disorder (ADHD)	0	1	IE :::ES :::  BE ::: GB ::: NL ::: DE ::: CH ::: IL
+phs000181.v1.p1	Alcohol Use Disorder:::alcohol use	1	1	AU
+phs000211.v1.p1		0	0	US
+phs000199.v1.p1		0	0	US-PA
+phs000093.v2.p2	Lung Cancer:::Smoking	0	1	US ::: IT
+phs000210.v1.p1	Musculoskeletal Adverse Events	0	0	US
+phs000147.v1.p1	Breast Cancer	0	1	
+phs000168.v1.p1	Late Onset Alzheimer's Disease:::Alzheimer disease	0	1	
+phs000145.v2.p2	Population Reference Sample	0	0	
+phs000166.v2.p1	Asthma	0	1	
+phs000142.v1.p1	Myopia:::Glaucoma	0	0	GB
+phs000091.v2.p1	Type 2 Diabetes	0	0	
+phs000167.v1.p1	Schizophrenia:::schizoaffective disorder	0	0	
+phs000171.v1.p1	Multiple Sclerosis (MS)	0	1	US-CA ::: NL ::: CH
+phs000180.v1.p1	Type 1 Diabetes			GB
+phs000160.v1.p1	Late-Onset Alzheimer's Disease	0	1	US
+phs000144.v1.p1	Lung Adenocarcinoma	0	0	US-MA ::: US-NY ::: US-MO
+phs000017.v3.p1	Bipolar Disorder	0	1	
+phs000088.v1.p1	Diabetic Nephropathy:::Type 1 Diabetes	1	1	
+phs000130.v1.p1	Crohn's Disease:::Inflammatory Bowel Disease (IBD):::	1	1	
+phs000139.v1.p1	Multiple Sclerosis	0	1	
+phs000020.v2.p1	major depression:::major depressive disorder (MDD)	0	1	NL
+phs000125.v1.p1	alcoholism	1	1	US-IN ::: US-NY ::: US-MO ::: US-CT ::: US-IA ::: US-CA
+phs000092.v1.p1	addiction:::nicotine dependence:::cocaine dependence	0	1	US
+phs000005.v1.p1	DNA and Cell Line Repository:::Cerebrovascular Disease:::cerebrovascular stroke	0	1	
+phs000102.v1.p1	Ischemic Stroke	0	1	
+phs000006.v1.p1	motor neurone disease:::amyotrophic lateral sclerosis:::progressive bulbar palsy:::primary lateral sclerosis:::kennedy's disease	0	0	US
+phs000126.v1.p1	Familial Parkinson Disease (PD)	0	1	
+phs000048.v1.p1	Parkinson disease (PD)	0	0	US-MN ::: US-WI ::: US-IA ::: US-SD ::: US-ND
+phs000019.v1.p1	Psoriasis	0	1	US
+phs000004.v1.p1	Neurologically Normal Control	0	0	US
+phs000003.v1.p1	Parkinson's Disease	0	0	
+phs000018.v1.p1	Diabetic Nephropathy in Type 1 Diabetes	0	1	
+EGAS00000000026	Malaria			GM
+EGAS00001000091	Grey Platelet Syndrome (GPS)			
+EGAS00000000032	controls			
+EGAS00000000084	Ulcerative Colitis			GB
+EGAS00000000006	Inflammatory Bowel Disease			GB
+EGAS00000000012	Rheumatoid Arthritis			GB
+EGAS00000000036	Hypersensitivity Reactions:::Stevens-Johnson Syndrome			GB
+EGAS00001000040	hyperplastic polyposis			
+phs000329.v1.p1	BCR-ABL1 Acute Lymphoblastic Leukemia (ALL)			
+EGAS00000000023	Multiple Sclerosis			
+EGAS00000000029	cancer:::renal cancer			
+EGAS00001000061	Lethal malformation syndrome			
+phs000183.v1.p1	primary biliary cirrhosis			US ::: CA
+EGAS00001000077	Human Colorectal Cancer			
+EGAS00000000074	adenomacarcinoma:::salivary gland tumor			
+EGAS00000000060	stroke:::ischemic stroke			
+EGAS00000000003	bipolar disorder			
+EGAS00000000088	malaria			
+EGAS00000000039	Primary Biliary Cirrhosis			
+EGAS00000000015	Type 1 Diabetes			GB
+EGAS00000000009	Hypertension			GB
+EGAS00000000028	controls			GB
+EGAS00000000020	Autoimmune Thyroid Disease			GB
+EGAS00001000055	genomic integrity of disease:::corrected human induced pluripotent stem cells:::alpha-1 antitrypsin deficiency:::hepatocytes			
+EGAS00000000055	coronary artery disease (CAD)			
+EGAS00000000008	Inflammatory Bowel Disease:::type 1 diabetes:::rheumatoid arthritis			GB
+EGAS00000000087	severe malaria			GM
+EGAS00000000038	type 1 diabetes			GB
+EGAS00000000014	Type 1 Diabetes			GB
+EGAS00001000017	Melanoma			
+phs000491.v1.p1	clear-cell Renal Cell Carcinoma (ccRCC)			
+EGAS00000000031	IgA nephropathy			GB
+EGAS00000000017	Type 2 Diabetes (T2D)			GB
+EGAS00000000077	Asthma			
+EGAS00000000011	Rheumatoid Arthritis			GB
+EGAS00000000051	Lung Cancer:::Smoking			
+EGAS00000000034	Parkinson's disease			
+EGAS00001000048	Paroxysmal neurological disorders:::migraine:::epilepsy			
+EGAS00001000016	humane exome			
+EGAS00000000022	Multiple Sclerosis			GB
+EGAS00001000053	Post Transfusion Purpura			GB
+EGAS00000000064	pancreatic cancer			
+EGAS00000000002	Bipolar Disorder			GB
+EGAS00001000026	eye disorder			PK
+EGAS00000000057				FI
+EGAS00001000006	Renal cancer			
+EGAS00000000016	Type 2 Diabetes			GB
+EGAS00000000040	ovarian cancer:::granulosa cell tumor of the ovary			
+EGAS00000000033	obesity:::migraine:::cardiovascular disease:::stroke			
+phs000141.v1.p1	myocardial infarction			GB
+EGAS00000000025	Breast cancer			
+phs000050.v1.p1	HapMap samples			
+EGAS00000000019	Ankylosing Spondylitis			
+EGAS00001000069				
+EGAS00000000005	Coronary Artery Disease:::Hypertension:::type 2 diabetes			GB
+EGAS00000000054	Breast Cancer			
+EGAS00000000013	type 1 diabetes:::rheumatoid arthritis (RA)			GB
+EGAS00000000043	Dupuytren's Disease			
+EGAS00000000037	Carbamazepine-induced hypersensitivity reactions			
+phs000049.v1.p1	HapMap samples			
+EGAS00001000063	cardiac arrhythmias			FR ::: NL ::: DE
+EGAS00000000030				
+EGAS00000000018	Ankylosing Spondylitis			GB
+EGAS00000000024	Breast cancer			GB
+EGAS00000000075	ovarian carcinomas			
+EGAS00000000004	Coronary Artery Disease			GB
+EGAS00001000052	 atherosclerosis:::cardiovascular disease			
+EGAS00000000010	Hypertension			GB
+EGAS00000000052	malignant melanoma			
+phs000493.v1.p1	hair color			SB
+EGAS00000000027	 Tuberculosis			
+EGAS00000000021	Autoimmune Thyroid Disease			
+EGAS00000000092	Chronic Lymphocytic Leukemia (CLL)			
+EGAS00000000062	Breast cancer			
+EGAS00000000001	Bipolar Disorder			GB
+EGAS00000000056				
+EGAS00000000007	Inflammatory Bowel Disease			GB
+EGAS00000000086				FI
+EGAS00001000054	Thrombocytopenia with Absent Radii			
+phs000516.v1.p1 	Carcinoma, Pancreatic Ductal	0	0	US-TX
+phs000564.v1.p1 	Tay-Sachs Disease: Menkes Kinki Hair Syndrome::: Heterotaxy Syndrome ::: Epilepsy ::: Mitochondrial Diseases	0	0	 
+phs000391.v1.p1 	Pharmacogenomics ::: Clopidogrel ::: Platelets	0	0	 
+phs000571.v1.p1	Heart Defects, Congenital	2	2	 
+phs000539.v1.p1 	Persistant Hypoglycemia Hyperinsulimia of infancy ::: Hyperinsulinism Congenital	0	0	 
+phs000540.v1.p1	Ehlers-Danlos Syndrome	0	1	 
+phs000538.v1.p1 	Heart disease ::: Hyperlipidemia 	0	1	 
+phs000542.v1.p1	Pancreatic beta cell agenesis with neonatal diabetes mellitus	0	0	 
+phs000536.v1.p1 	Colonic Neoplasm ::: Health	0	0	 
+phs000537.v1.p1 	Lymphohistiocytosis,Hemophagocytic	0	0	
+phs000405.v1.p1 	Malignant Hyperthermia	0	0	
+phs000561.v1.p1 	Hypobetalipoproteinemias	0	1	
+phs000535.v1.p1 	Urinary Bladder Neoplasm	0	0	US
+phs000505.v1.p1 	Glioblastoma	0	0	
+phs000514.v1.p1 	Coronary Artery Disease ::: Atherosclerosis ::: Heart disease	0	0	 
+phs000512.v1.p1 	Hyperlipidemias ::: Hypoalphalipoproteinemias	0	1	US-PA
+phs000445.v1.p1 	Hemophilia A ::: HIV	0	1	
+phs000518.v1.p1	Bronchiectasis	0	0	US
+phs000507.v1.p1	Neutropenia	0	0	US
+phs000490.v1.p1 	Asthma ::: ADHD ::: Dermatitis, atopic ::: Gastroesophageal Reflux ::: Lipoproteins, LDL	0	1	US
+phs000275.v1.p1 	Multiple Sclerosis	0	1	
+phs000511.v1.p1 	Hypertriglyceridemia	0	1	 
+phs000297.v1.p1	Hypertension	0	1	US-WI ::: US-MN ::: US-TN ::: US-IL
+phs000488.v1.p1	Carcinoma, Non-small-cell Lung	0	0	US
+phs000474.v1.p1	Anemia ::: Dyserythropoietic, cogenital ::: Diamond-Blackfan	0	1	 
+phs000523.v1.p1		1	0	US ::: PH
+phs000513.v1.p1	Breast Neoplasms	0	1	
+phs000451.v1.p1 	Aging ::: Longevity ::: Centenarian	1	0	GB
+phs000434.v1.p1 	Werner Syndrome	0	1	US-WA
+phs000482.v1.p1 	Autistic Disorder ::: Child Development Disorders, Pervasive	0	1	US
+phs000439.v1.p1 	Atrial Fibrillation	0	0	US
+phs000448.v1.p1 	Schizophrenia	0	0	IL-JM
+phs000359.v1.p1 	Hereditary Spastic paraplegias ::: spastic parplegia Hypertrophic motor Sensory Neuropathy	0	1	PS
+phs000339.v1.p1 	Mitochodial disorder ::: Oxidative phosphorylation deficiency ::: Respiratory Chain Deficiency ::: Mitochondrial Respiratory Chain Deficiency::: Electron Transport Chain Deficiencies, Mitochondrial ::: Mitochondrial Electron Transport Chain Deficiencies	0	0	US-MA
+phs000495.v1.p1	Autistic Disorder ::: Heart Defects, Congenital :: Asthma ::: Attention Deficit Disorders :::Diabetes Mellitus, Type 1 ::: Diabetes Mellitus, Type 2 ::: Epilepsy :;: Gastrointestinal Diseases ::: Hypersensitivity ::: Autoimmune Diseases :::Hematologic :::Neoplasms:::Arrhythmias, Cardiac:::Chromosome Aberrations:::Congenital Abnormalities:::Dermatology:::Developmental Disabilities:::Endocrine System:::Otolaryngology:::Urogenital System:::Hearing Loss:::Immune System Diseases:::Musculoskeletal Abnormalities:::Nervous System Diseases:::Neuromuscular Diseases:::Metabolic Diseases:::Nutrition Disorders:::Vision Disorders:::Mouth Diseases:::Mental Disorders:::Kidney Diseases:::Respiration Disorders:::Thyroid Diseases:::Vascular Diseases 	0	0	US-MA
+phs000433.v1.p1 		0	0	US
+phs000431.v1.p1 	Type 2 Diabetes Mellitus ::: Dyslipidemia	1	0	 
+phs000502.v1.p1	Lymphoma, Non-Hodgkin ::: Lymphoma, B-Cell	0	1	 
+phs000504.v1.p1	Medulloblastoma	0	1	
+phs000384.v1.p1 	Hepatitis B ::: Hepatocellular Carcinomas	0	0	 
+phs000501.v1.p1 	Anatomy Category ::: Behavior and Behavior Mechanisms ::: Body Weights and Measures ::: Cardiovascular Diseases ::: Chemicals and Drugs Category ::: Diagnostic Techniques and Procedures ::: Endocrine System Diseases ::: Immune System Diseases ::: Laboratory Techn	0	0	 
+phs000494.v1.p1	Autistic Disorder ::: Heart Defects, Congenital ::: Hypoplastic Left Heart Syndrome ::: Eosinophilic Esophagitis ::: Arthritis, Juvenile Rheumatoid ::: Epilepsy, Absence ::: Developmental Disabilities	0	0	US
+phs000395.v1.p1	Breast Neoplasms ::: Mammography	0	0	US-CA
+phs000476.v1.p1 	Hypoparathyroidism familial isolated ::: Pseudohypoparathyroidism	0	1	 
+phs000506.v1.p1 	Acquired Immunodeficiency Syndrome::: HIV infections ::: AIDS- related opportunistic infections	2	2	US
+phs000555.v1.p1	Diabetes Mellitus, Type 2 ::: Obesity ::: Cholesterol, HDL ::: Cholesterol, LDL ::: Coronary Disease ::: Triglycerides ::: Myocardial Infarction ::: C-Reactive Protein ::: Asthma ::: Pulmonary Disease, Chronic Obstructive ::: Kidney ::: Spirometry ::: Hearing	2	2	US-CA ::: US-NY ::: US-IL ::: US-FL
+phs000500.v1.p1 	N/A	2	2	US-CA ::: US-MD ::: US-IL ::: US-PA
+phs000559.v1.p1 	Breast Neoplasms ::: Colorectal Neoplasms ::: Endometrial Neoplasms ::: Lung Neoplasms ::: Lymphoma, Non-Hodgkin ::: Ovarian Neoplasms ::: Melanoma ::: Prostatic Neoplasms	2	2	US
+phs000562.v1.p1 	Burkitt Lymphoma ::: Lymphoma, Non-Hodgkin	0	0	 
+phs000550.v1.p1	Pancreatic Neoplasms ::: Carcinoma	0	0	 
+phs000552.v1.p1 	Meningioma			 
+phs000235.v5.p1 	Lymphoma, Large B-Cell, Diffuse:::Lymphoma, Follicular:::Lymphoma, Non-Hodgkin:::Lymphomas, Histiocytic:::Medulloblastoma:::Lymphoma, AIDS-Related:::Lung Neoplasms:::Uterine Cervical Neoplasms	 	 	US
+phs000522.v1.p1	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma			 
+phs000567.v1.p1	Fibrous tumors			US
+phs000568.v1.p1 	Solitary Fibrous Tumors			US
+phs000487.v1.p1 	Prostatic Neoplasms			 
+phs000524.v1.p1 	Chronic Renal Insufficiency			 
+phs000547.v1.p1 	Breast Neoplasms			 
+phs000383.v1.p1 	Breast Neoplasms			 
+phs000565.v1.p1 	Congenital Abnormalities:::Chromosome Disorders:::Kidney Diseases:::Urologic Diseases	 		US
+phs000481.v1.p1	Hypercholesterolemia:::Cardiovascular Disease	0	0	
+phs000430.v1.p1	Liver disease:::Liver Cirrhosis	0	0	
+phs000517.v1.p1	Breast Neoplasms	0	1	US-HI ::: US-CA
+phs000123.v1.p1 	 Asthma:::Cardiovascular Diseases:::Carotid Artery Diseases	 		US-SD
+phs000184.v1.p1	Cardiovascular Diseases:::Carotid Artery Diseases	0	0	US-SD
+phs000227.v1.p2	 Type 2 Diabetes Mellitus:::Obesity:::Cholesterol, HDL:::Cholesterol, LDL:::Coronary Disease:::Triglycerides:::Myocardial Infarction:::Inflammation:::Stroke	1	0	US
+phs000281.v4.p2	Cardiovascular Diseases:::Myocardial Infarction:::Diabetes Mellitus, Type 2:::Body Mass Index:::Stroke	1	0	US
+phs000315.v4.p2 	Myocardial Infarction:::Diabetes Mellitus, Type 2:::Stroke:::Venous Thromboembolism	1	0	US
+phs000386.v4.p2 	 	1	0	US
+phs000503.v2.p2 	Age Related Macular Degeneration:::Wet Macular Degeneration:::Geographic Atrophy	1	0	US
+phs000246.v1.p1 	Fuchs ' Endothelial Dystrophy	0	1	US
+phs000282.v7.p7	Cardiovascular System:::Dementia:::Diabetes Mellitus:::Stroke:::Cholesterol:::Heart Diseases:::Heart Failure, Congestive:::Hypertension:::Intermittent Claudication:::Myocardial Infarction:::Obesity:::Osteoporosis:::Risk Factors:::Smoking	1	0	US-MA
+phs000307.v3.p7 	Cardiovascular Diseases	1	0	US-MA
+phs000342.v6.p7 	Cardiovascular System:::Dementia:::Diabetes Mellitus:::Stroke:::Cholesterol:::Heart Diseases:::Heart Failure, Congestive:::Hypertension:::Intermittent Claudication:::Myocardial Infarction:::Obesity:::Osteoporosis:::Risk Factors:::Smoking	1	0	US-MA
+phs000363.v5.p7 	Cardiovascular System:::Myocardial Infarction:::Coronary Artery Bypass Grafting:::Percutaneous Transluminal Coronary Angioplasty:::Stroke	1	0	US-MA
+phs000283.v4.p2 	Cardiovascular Diseases:::Atherosclerosis	0	0	US-CA ::: US-MN::: US-NY:::US-MD
+phs000420.v3.p2	Cardiovascular Diseases:::Atherosclerosis	0	0	US-CA ::: US-MN::: US-NY:::US-MD
+phs000296.v1.p2	Pulmonary Disease, Chronic Obstructive:::Emphysema	0	0	US
+phs000301.v1.p1	Cardiovascular Diseases:::Stroke:::Atherosclerosis:::Myocardial Infarction:::Angina Pectoris:::Coronary Artery Disease:::Intermittent Claudication:::Heart Failure:::Ischemic Attack, Transient:::Diabetes Mellitus:::Kidney Failure, Chronic 	1	0	US
+phs000377.v1.p1 	Cardiovascular Diseases:::Stroke:::Atherosclerosis:::Myocardial Infarction:::Angina Pectoris:::Coronary Artery Disease:::Intermittent Claudication:::Heart Failure:::Ischemic Attack, Transient:::Diabetes Mellitus:::Kidney Failure, Chronic 	1	0	US
+phs000429.v1.p1 	Refractive Error:::Astigmatism:::Hyperopia:::Myopia	0	1	
+phs000441.v2.p6 	Cystadenocarcinoma, Serous	0	0	
+phs000489.v2.p6	Glioblastoma Multiforme	0	0	
+phs000544.v1.p6	Colorectal Neoplasms	0	0	
+phs000463.v4.p1 	Acute Lymphoblastic Leukemia	0	1	US
+phs000464.v4.p1	Acute Lymphoblastic Leukemia	0	1	US
+phs000465.v4.p1	Acute Myeloid Leukemia	0	1	US
+phs000466.v4.p1 	Clear Cell Sarcomas	0	1	US
+phs000467.v4.p1 	Neuroblastoma	0	1	US
+phs000468.v4.p1 	Osteosarcoma	0	1	US
+phs000469.v4.p1 	Antitumor Assay, Xenograft	0	1	US
+phs000470.v4.p1 	Rhabdoid Tumor	0	1	US
+phs000471.v4.p1	Wilms Tumor	0	1	US
+phs000515.v3.p1 	Acute Myeloid Leukemia	0	1	US
+phs000498.v1.p1 		1	0	US
+phs000499.v1.p1	 	1	0	US
+phs000527.v2.p1	Lymphoma, Non-Hodgkin:::Lymphomas, Histiocytic	0	1	 
+phs000528.v2.p1	Lymphoma, AIDS-Related:::Uterine Cervical Neoplasms	0	1	 
+phs000529.v2.p1 	Lymphoma, AIDS-Related:::Lymphoma, Large B-Cell, Diffuse:::Lymphoma, Non-Hodgkin	0	1	 
+phs000530.v2.p1	Lymphoma, AIDS-Related:::Lung Neoplasms	0	1	 
+phs000531.v2.p1 	Medulloblastoma	0	1	 
+phs000532.v2.p1 	Lymphoma, Large B-Cell, Diffuse:::Lymphoma, Non-Hodgkin	0	1	 
+phs000533.v2.p1	Lymphoma, Follicular:::Lymphoma, Non-Hodgkin	0	1	 
+phs000534.v2.p1	Lung Neoplasms	0	1	

@@ -1,0 +1,5 @@
+This folder contain the processing file for demographic variables.
+Run:
+python pipeline.py 'age first started smoking cigars'
+
+Output will be written into file model.out

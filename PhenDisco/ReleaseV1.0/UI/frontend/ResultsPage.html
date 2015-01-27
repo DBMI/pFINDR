@@ -1,0 +1,1354 @@
+<html>
+
+	<head>
+		<title>PhenDisco</title>
+
+		<link href="./css/styles.css" rel="stylesheet" type="text/css">
+		<script src="./js/jquery-1.8.2.min.js" language="JavaScript" type="text/javascript"></script>
+		<script src="./js/utility.js" language="JavaScript" type="text/javascript"></script>
+		<script src="./js/variableDefinitions.js" language="JavaScript" type="text/javascript"></script>
+		<link rel="icon" type="image/ico" href="./images/favicon.ico" />
+	</head>
+
+	<body>
+
+		<!-- Front page main container -->
+		<div id='main-container'>
+
+			<div id="help-tooltip" class='rounded shadow border'></div>
+
+			<!-- PhenDisco Header -->
+			<div id='main-header' class='rounded shadow border'>
+
+				<div id="help-tooltip" class='rounded shadow border'></div>
+
+				<div class='top'>
+					<a href='./FrontPage.html'><h1 class='alignleft'>Phenotype Discoverer</h1></a>
+					<div style="clear: both;"></div>
+				</div>
+
+				<div class='body'>
+
+					<a href='./FrontPage.html'><img src="PhenDisco_Logo.jpg" alt="logo" height="87" width="80" style='float:left;'></a>
+
+					<div>
+						<input id='search-bar' class='main-search-bar' type="text" style="color:#BBBBBB;" value="Search e.g. asthma and American" onFocus="if (value == 'Search e.g. asthma and American') {value='';this.style.color='#000000';};" onBlur="if (value== '') {value='Search e.g. asthma and American';this.style.color='#BBBBBB';}"> 
+						<a href='./ResultsPage.html'><button type='button' class="search" >Search</button></a>
+						<input type="checkbox" name="search-checkbox" type="concept" checked>Concept-based</br>
+					</div>
+					<div>
+						<a href='./AdvanceSearchPage.html'><button type='button' id='advanced-button' >Advanced Search</button></a><button type='button' id='limit-button' >Limits</button>
+					</div>
+
+					
+				</div>
+
+				<div class='bottom'>
+					<div class='container'>
+
+						<img id='search-bar-help' class='alignright' src="./images/help.png" alt="help" height="24" width="24" border="0">
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<div id='limit-container' class='hide rounded shadow border'>
+				
+				<div class='top'>
+					<h3 class ='alignleft'>Limits</h3>
+				</div>
+
+				<div class="body">
+
+					<div class='container'>
+						<label for="LimitsField">Field:</label>
+						<select  id="LimitsField" size="1">
+							<option selected="selected" value="All Fields">All Fields</option>
+							<option value="topicDisease">Topic Disease</option>
+							<option value="studyDescription">Study Description</option>
+							<option value="studyId">Study ID</option>
+							<option value="studyName">Study Name</option>
+							<option value="variableDesription">Variable Description</option>
+							<option value="variableId">Variable ID</option>
+							<option value="variableName">Variable Name</option>
+							<option value="attribution">Attribution</option>
+						</select>
+					</div>
+
+					<!--
+					<div class='container'>
+						<label for='limitsContains'>Contains the following:</label>
+						<form id='limitsContains'>
+							<div class='spaced alignleft'><input type="checkbox" id='analysis'>Analysis</div>
+							<div class='spaced alignleft'><input type="checkbox" id='dataset'>Dataset</div>
+							<div class='spaced alignleft'><input type="checkbox" id='document'>Document</div>
+							<div class='spaced alignleft'><input type="checkbox" id='mapping'>PhenX Mapping</div>
+							<div class='spaced alignleft'><input type="checkbox" id='variable'>Variable</div>
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+					-->
+
+				</div>
+
+				<div class='bottom'>
+					<button type='button' class='alignright' id='limit-reset-button' >Reset</button>
+					<!--<a href='./ResultsPage.html'><button type='button' class='alignright' id='limit-search-button' >Search</button></a>-->
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<!-- Results Body content -->
+			<div id='results-body' class='rounded shadow border'>
+
+				<!-- Navigation -->
+				<div id='results-body-right-container'>
+
+					<!-- Search History 
+					<div class='container'>
+						<div class='top'>
+							<h2>Search History</h2>
+							<br/>
+						</div>
+						<div class='body'>
+							<table class='recent'>
+								<tr>
+									<th>Search</th>
+									<th>Results</th>
+								</tr>
+								<tr id='recent_tablerow_0'>
+									<td>Smoking</td>
+									<td>10</td>
+								</tr>
+								<tr id='recent_tablerow_1'>
+									<td>Cancer</td>
+									<td>16</td>
+								</tr>
+								<tr id='recent_tablerow_2'>
+									<td>Diabetes</td>
+									<td>2</td>
+								</tr>
+							</table>
+							<br/>
+						</div>
+					</div>
+
+					<hr> -->
+
+					<!-- Navigation START -->
+
+					<!-- Getting Started -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Getting Started</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="./FrontPage.html">Home</a></li>
+								<li><a href="./Overview.html">Overview</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK5295/">FAQ</a></li>
+								<li><a href="./HowToSubmit.html">How to Submit</a></li>
+								<li><a href="#">Browse Top Level Studies</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Acess Data -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Access Data</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/">Apply for Control</a></li>
+								<li><a href="ftp://ftp.ncbi.nlm.nih.gov/dbgap">Public Data via FTP</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gapplusprev/sgap_plus.htm">Association Results Browser</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/gap/PheGenI">Phenotype-Genotype Integrator</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Important Links -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Important Links</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=dbGaPnews">RSS Feed <img src="./images/rss.png" alt="RSS Feed"></a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/GWAS_Code_of_Conduct.html">Code of Conduct</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=dbgap_2b_security_procedures.pdf">Security Procedures</a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login">Contact Us</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- Navigation ENDS -->
+
+				</div>
+
+				<!-- Results -->
+				<div id='results-body-left-container'>
+
+					<div class='top'>
+						<h2>Results</h2>
+					</div>
+					<div class='body'>
+
+						<p class='alignleft spaced justify-center' id='results-count'>Displaying results: 1-25 of 200</p>
+
+						<div class='container alignleft spaced '>
+							<button id="resultsDisplayButton">Display All</button>
+							<button id="resultsExportButton">Export Selections</button>
+							<button id="resultsCheckButton">Check All</button>
+						</div>
+
+						<p class='alignright spaced'><a href="#"><img src="./images/arrow_stop_left.png" alt="help" height="16" width="16" border="0"></a> <a href="#"><img src="./images/arrow_left.png" alt="help" height="16" width="16" border="0"></a> Page 1 of 9 <a href="#"><img src="./images/arrow_right.png" alt="help" height="16" width="16" border="0"></a> <a href="#"><img src="./images/arrow_stop_right.png" alt="help" height="16" width="16" border="0"></a></p>
+
+					</div>
+
+					<div style="clear: both;"></div>
+
+					<div class='body'>
+						<div id="tooltip" class='rounded shadow border'></div>
+						<div id="nodeToolTip" class="rounded shadow border"></div>
+						<div >
+						    <ul id="tabs">
+						        <li class="target" id="tabs-1">Studies</li>
+						        <li id="tabs-2">Variables</li>
+						        <!--
+						        <li id="tabs-3">Study Documents</li>
+						        <li id="tabs-4">Analyses</li>
+						        <li id="tabs-5">Datasets</li>-->
+						    </ul>
+						</div>
+						<div class="wrapper1">
+						<div class="div1">
+						</div>
+						</div>
+
+					    <div id="tabs-1" class="wrapper2 ">
+
+					    	<!-- Meta Data Options -->
+							<div class='container alignleft'>
+								<div class='top'>
+									<h2>Study Display Options</h2>
+								</div>
+								<div class='body'>
+									<div id="display-options-help-tooltip" class='rounded shadow border'></div>
+									<table id='filters'>
+										<tr>
+											<td><input type="checkbox" checked="true" class='filter' id="title" >Title</td>
+											<td><input type="checkbox" checked="true" class='filter' id="embargoRelease" >Embargo Release</td>
+											<td><input type="checkbox" class='filter' id="links" >Links</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" checked="true" class='filter' id="studyType" >Study Type</td>
+											<td><input type="checkbox" checked="true" class='filter' id="platform" >Platform</td>
+											<td><input type="checkbox" class='filter' id="geography" >Geography</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" checked="true" class='filter' id="sampleSize" >Sample Size</td>
+											<td><input type="checkbox" class='filter' id="topicDisease" >Topic Disease</td>
+											<td><input type="checkbox" class='filter' id="irb" >IRB</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" checked="true" class='filter' id="details" >Details</td>
+											<td><input type="checkbox" class='filter' id="consentType" >Consent Type</td>
+										</tr>
+									</table>		
+								</div>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='bottom'>
+									<div class='container alignleft'>
+										<button id='filter_apply' >Apply</button>
+										<button id='filter_defaults' >Restore Defaults</button>
+									</div>
+									<div class='container alignright'>
+										<img src="./images/help.png" id='display-options-help' alt="help" height="24" width="24" border="0">
+									</div>
+								</div>
+
+							<div style="clear: both;"></div>
+
+							<hr>
+
+							<table id='results_table' class='results' >
+								<thead>
+									<th></th>
+									<th class='title'>Title</th>
+									<th class='studyType'>Study Type</th>
+									<th class='details'>Details</th>
+									<th class='sampleSize'>Sample Size</th>
+									<th class='embargoRelease'>Embargo Release</th>
+									<th class='platform'>Platform</th>
+									<th class='links'>Links</th>
+									<th class='geography'>Geography</th>
+									<th class='irb'>IRB</th>
+									<th class='consentType'>Consent Type</th>
+									<th class='topicDisease'>Topic Disease</th>
+								</thead>
+								<tbody>
+									<tr id="results_tablerow_0">
+									<td>
+										<input id="results_tablerow_0" type="checkbox" name="tags[]" value="phs000355.v1.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> 
+										<a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000355.v1.p1" target="_blank">phs000355.v1.p1<br>Genome Wide Association for <strong class="match term0">Asthma</strong> and Lung Function
+									</a>
+									<div class="rating"> <div class="rank5"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">STAMPEED) <b class="match term1">asthma</b> project includes...subjects with <b class="match term1">asthma</b> and controls from...were also included. <b class="match term0">Asthma</b> status was based</td>
+									<td class="embargoRelease">
+									Version 1: 
+									</td>
+									<td class="details">
+										<div class="detailsImg v on alignleft">
+										</div>
+										<div class="detailsImg d off alignleft">
+										</div>
+										<div class="detailsImg a off alignleft">
+										</div>
+										<div class="detailsImg s off alignleft">
+										</div>
+										<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">0</td>
+														
+									<td class="sampleSize">
+									0
+									</td>
+									<td class="studyType">
+									Case-Control
+									</td>
+									<td class="platform">
+									ILLUMINA_Human_1M
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									north carolina  <br>  illinois  <br>  usa  <br>  other
+									</td>
+										 <td class="irb hide">
+									Not required
+									</td>
+										 <td class="consentType hide">
+									Unrestricted
+									</td>
+										 <td class="topicDisease hide">
+									asthma
+									</td>
+									</tr>
+									<tr id="results_tablerow_1">
+									<td>
+										<input id="results_tablerow_1" type="checkbox" name="tags[]" value="phs000166.v2.p1">
+										<div class='node daughter'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000286.v3.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000286.v3.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000235.v5.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000235.v5.p1;CGCI: Medulloblastoma;
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000235.v5.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000166.v2.p1" target="_blank">phs000166.v2.p1<br>National Heart, Lung, and Blood Institute SNP Health Association <strong class="match term0">Asthma</strong>
+									Resource Project (SHARP)
+
+									</a>
+									<div class="rating"> <div class="rank4"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">research trials on <b class="match term1">asthma</b>. This includes 1041...children with <b class="match term1">asthma</b> who participated...of the childhood <b class="match term1">asthma</b> studies has a majority</td>
+									<td class="embargoRelease">
+									Versions 1-2: passed embargo
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">348</td>
+														
+									<td class="sampleSize">
+									4046
+									</td>
+									<td class="studyType">
+									Longitudinal <br>  Parent-Offspring Trios <br>  Case-Control
+									</td>
+									<td class="platform">
+									AFFY_6.0
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									Not required
+									</td>
+										 <td class="consentType hide">
+									Restricted
+									</td>
+										 <td class="topicDisease hide">
+									asthma 
+									</td>
+									</tr>
+									<tr id="results_tablerow_2">
+									<td>
+										<input id="results_tablerow_2" type="checkbox" name="tags[]" value="EGAS00000000077">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=EGAS00000000077" target="_blank">EGAS00000000077<br>A Large-Scale, Consortium-Based Genomewide Association Study of <strong class="match term0">Asthma</strong>
+
+									</a>
+									<div class="rating"> <div class="rank4"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">physician-diagnosed <b class="match term1">asthma</b> and 16,110 unaffected...with childhood-onset <b class="match term1">asthma</b> (defined as <b class="match term1">asthma</b> developing before...of age), later-onset <b class="match term1">asthma</b>, severe <b class="match term1">asthma</b>, and occupational</td>
+									<td class="embargoRelease">
+									Version 1: 
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">0</td>
+														
+									<td class="sampleSize">
+									0
+									</td>
+									<td class="studyType">
+									GWAS
+									</td>
+									<td class="platform">
+									Human610_Quadv1_B
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									Not required
+									</td>
+										 <td class="consentType hide">
+									Unrestricted
+									</td>
+										 <td class="topicDisease hide">
+									asthma
+									</td>
+									</tr>
+									<tr id="results_tablerow_3">
+									<td>
+										<input id="results_tablerow_3" type="checkbox" name="tags[]" value="phs000490.v1.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000490.v1.p1" target="_blank">phs000490.v1.p1<br>A Study of the Genetic Causes of Complex Pediatric Disorders
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">diagnosed with **<b class="match term1">asthma</b>**, **ADHD**, **atopic dermatitis</td>
+									<td class="embargoRelease">
+									Version 1: 2013-10-02
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">174</td>
+														
+									<td class="sampleSize">
+									7431
+									</td>
+									<td class="studyType">
+									Case Set <br>  Control Set
+									</td>
+									<td class="platform">
+									Human610_Quadv1_B
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									n/a
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+									<tr id="results_tablerow_4">
+									<td>
+										<input id="results_tablerow_4" type="checkbox" name="tags[]" value="phs000123.v1.p1">
+										<div class='node daughter'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000286.v3.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000286.v3.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000235.v5.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000235.v5.p1;CGCI: Medulloblastoma;
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000235.v5.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000123.v1.p1" target="_blank">phs000123.v1.p1<br>Genome-Wide Association Study of Serum YKL-40 Levels
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">in patients with <b class="match term1">asthma</b> and correlated with...LD group predicted <b class="match term1">asthma</b> in the two case control...are a biomarker for <b class="match term1">asthma</b> and decline in lung</td>
+									<td class="embargoRelease">
+									Version 1: passed embargo
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">0</td>
+														
+									<td class="sampleSize">
+									632
+									</td>
+									<td class="studyType">
+									Population
+									</td>
+									<td class="platform">
+									Mapping250K_Nsp<br>Mapping250K_Sty
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									n/a
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+									<tr id="results_tablerow_5">
+									<td>
+										<input id="results_tablerow_5" type="checkbox" name="tags[]" value="phs000444.v1.p1">
+										<div class='node daughter'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000286.v3.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000286.v3.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000235.v5.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000235.v5.p1;CGCI: Medulloblastoma;
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000235.v5.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000444.v1.p1" target="_blank">phs000444.v1.p1<br>Italian Primary Biliary Cirrhosis Study
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">that of pediatric <b class="match term1">asthma</b> and suggested several</td>
+									<td class="embargoRelease">
+									Version 1: passed embargo
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">18</td>
+														
+									<td class="sampleSize">
+									1389
+									</td>
+									<td class="studyType">
+									Case-Control
+									</td>
+									<td class="platform">
+									Human1M-Duov3_B<br>Human610_Quadv1_B<br>HumanHap550v3.0
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									canada
+									</td>
+										 <td class="irb hide">
+									Required
+									</td>
+										 <td class="consentType hide">
+									Restricted
+									</td>
+										 <td class="topicDisease hide">
+									primary biliary cirrhosis (pbc)
+									</td>
+									</tr>
+									<tr id="results_tablerow_6">
+									<td>
+										<input id="results_tablerow_6" type="checkbox" name="tags[]" value="phs000424.v2.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424.v2.p1" target="_blank">phs000424.v2.p1<br>Common Fund (CF) Genotype-Tissue Expression Project (GTEx)
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">Crohn's disease, and <b class="match term1">asthma</b>. Additionally, few</td>
+									<td class="embargoRelease">
+									Version 1: passed embargo
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">0</td>
+														
+									<td class="sampleSize">
+									105
+									</td>
+									<td class="studyType">
+									Tissue Expression <br>  Reference Set
+									</td>
+									<td class="platform">
+									GeneChip Human Exon 1.0 ST Array<br>HiSeq 2000<br>HumanOmni5-Quad<br>Infinium HumanExome BeadChip
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									Unspecified
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+									<tr id="results_tablerow_7">
+									<td>
+										<input id="results_tablerow_7" type="checkbox" name="tags[]" value="phs000095.v2.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000095.v2.p1" target="_blank">phs000095.v2.p1<br>Dental Caries: Whole Genome Association and Gene x Environment Studies
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">more common than <b class="match term1">asthma</b> and seven times more</td>
+									<td class="embargoRelease">
+									Version 1: passed embargo <br> Version 2: 2013-04-30
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">176</td>
+														
+									<td class="sampleSize">
+									5418
+									</td>
+									<td class="studyType">
+									Nuclear Families <br>  Parent-Offspring Trios <br>  Case-Control
+									</td>
+									<td class="platform">
+									Human610_Quadv1_B
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									guatemala  <br>  usa  <br>  pennsylvania  <br>  iowa  <br>  west virginia
+									</td>
+										 <td class="irb hide">
+									Not required
+									</td>
+										 <td class="consentType hide">
+									Restricted
+									</td>
+										 <td class="topicDisease hide">
+									dental caries
+									</td>
+									</tr>
+									<tr id="results_tablerow_8">
+									<td>
+										<input id="results_tablerow_8" type="checkbox" name="tags[]" value="phs000555.v1.p1">
+										<div class='node daughter'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000286.v3.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000286.v3.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000235.v5.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000235.v5.p1;CGCI: Medulloblastoma;
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000235.v5.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000555.v1.p1" target="_blank">phs000555.v1.p1<br>Population Architecture using Genomics and Epidemiology (PAGE): Causal
+									Variants Across the Life Course (CALiCo): Hispanic Community Health Study /
+									Study of Latinos (HCHS/SOL)
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">Study Description The Hispanic Community Health Study / Study of Latinos (HCHS/SOL) is a multi- center epidemiologic study in Hispanic/Latino populations to determine the role of acculturation in the prevalence</td>
+									<td class="embargoRelease">
+									Version 1: 
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">0</td>
+														
+									<td class="sampleSize">
+									0
+									</td>
+									<td class="studyType">
+									Longitudinal <br>  Cohort
+									</td>
+									<td class="platform">
+									Cardio-Metabo_Chip_11395247_A
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									n/a
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+									<tr id="results_tablerow_9">
+									<td>
+										<input id="results_tablerow_9" type="checkbox" name="tags[]" value="phs000494.v1.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000494.v1.p1" target="_blank">phs000494.v1.p1<br>Better Outcomes for Children: GWAS from Cincinnati Children's Hospital Medical
+									Center (CCHMC) - eMERGE Phase II data - (dbGaP Deposit 1)
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">incidence of <b class="match term1">asthma</b> and allergic diseases</td>
+									<td class="embargoRelease">
+									Version 1: 2013-07-23
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">18</td>
+														
+									<td class="sampleSize">
+									4562
+									</td>
+									<td class="studyType">
+									Cohort
+									</td>
+									<td class="platform">
+									AFFY_6.0<br>Human610_Quadv1_B<br>Human660W-Quad_v1_A<br>HumanOmni1_Quad_v1-0_B<br>HumanOmni5-Quad
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									n/a
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+									<tr id="results_tablerow_10">
+									<td>
+										<input id="results_tablerow_10" type="checkbox" name="tags[]" value="phs000440.v1.p1">
+										<div class='node mother'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000498.v1.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000499.v1.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000527.v2.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000528.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000529.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000530.v2.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000531.v2.p1;CGCI: Medulloblastoma;
+												phs000532.v2.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000533.v2.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000534.v2.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+												phs000286.v3.p1;Jackson Heart Study (JHS) Cohort;
+												phs000235.v5.p1;NCI Cancer Genome Characterization Initiative (CGCI);
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000440.v1.p1" target="_blank">phs000440.v1.p1<br>Center for Craniofacial and Dental Genetics: Study of Dental Caries and Cleft
+									Lip/Palate in Guatemala
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">more common than <b class="match term1">asthma</b> and seven times more</td>
+									<td class="embargoRelease">
+									Version 1: 2013-03-20
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">119</td>
+														
+									<td class="sampleSize">
+									1304
+									</td>
+									<td class="studyType">
+									Nuclear Families
+									</td>
+									<td class="platform">
+									Human610_Quadv1_B
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									guatemala
+									</td>
+										 <td class="irb hide">
+									Not required
+									</td>
+										 <td class="consentType hide">
+									Restricted
+									</td>
+										 <td class="topicDisease hide">
+									dental caries and cleft lip
+									</td>
+									</tr>
+									<tr id="results_tablerow_11">
+									<td>
+										<input id="results_tablerow_11" type="checkbox" name="tags[]" value="phs000495.v1.p1">
+										<div class='node daughter'>
+											<div class="node-info" style="DISPLAY:none">
+												phs000286.v3.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000286.v3.p1;NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe);
+												phs000235.v5.p1;Jackson Heart Study Allelic Spectrum Project;
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Cervical Cancer (HTMCP - CC);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma (HTMCP - DLBCL);
+												phs000235.v5.p1;CGCI: HIV+ Tumor Molecular Characterization Project - Lung Cancer (HTMCP - LC);
+												phs000235.v5.p1;CGCI: Medulloblastoma;
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Diffuse Large B-Cell Lymphoma (NHL - DLBCL);
+												phs000235.v5.p1;CGCI: Non-Hodgkin Lymphoma - Follicular Lymphoma (NHL - FL);
+												phs000235.v5.p1;CGCI: Office of Cancer Genomics (OCG) Grants - RC1 Human Lung Carcinogenesis;
+											</div>
+										</div>
+									</td>
+									<td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000495.v1.p1" target="_blank">phs000495.v1.p1<br>The Gene Partnership (TGP) - eMERGE Data
+
+									</a>
+									<div class="rating"> <div class="rank1"> </div></div>
+									 </td>
+									<td class="highlight1" style="DISPLAY:none">Study Description The Gene Partnership (TGP) is a prospective longitudinal registry at Boston Children's Hospital (BCH) to study the genetic and environmental contributions to childhood health and disease, collect genetic</td>
+									<td class="embargoRelease">
+									Version 1: 2013-08-30
+									</td>
+									<td class="details">
+																				<div class="detailsImg v on alignleft">
+																				</div>
+																				<div class="detailsImg d off alignleft">
+																				</div>
+																				<div class="detailsImg a off alignleft">
+																				</div>
+																				<div class="detailsImg s off alignleft">
+																				</div>
+																				<div style="clear: both;"></div>
+									</td><td class="PhenNum" style="DISPLAY:none">55</td>
+														
+									<td class="sampleSize">
+									1024
+									</td>
+									<td class="studyType">
+									Longitudinal <br>  Prospective
+									</td>
+									<td class="platform">
+									Axiom Genome-Wide EUR Array
+									</td>
+									<td class="links hide">
+									n/a
+									</td>
+									<td class="geography hide">
+									n/a
+									</td>
+										 <td class="irb hide">
+									n/a
+									</td>
+										 <td class="consentType hide">
+									n/a
+									</td>
+										 <td class="topicDisease hide">
+									n/a
+									</td>
+									</tr>
+
+									                                                        </tbody>	
+							</table>
+
+						</div>
+
+						<div id="tabs-2" class='wrapper2 hide'>
+							<div id="definitionTooltip" class='rounded shadow border'></div>
+
+							<table id='variables_table' class='variables' >
+								<thead>
+									<th></th>
+									<th class='study'>Study</th>
+									<th class='name'>Variable ID/Name</th>
+									<th class='description'>Description</th>
+									<th class='category'>Category</th>
+								</thead>
+								<tbody>
+									<tr id="variables_tablerow_0">
+									<td><input id="variables_tablerow_0" type="checkbox" name="tags[]" value="&quot;phv00105065.v1&quot;,&quot;phs000287.v2.p1&quot;,&quot;pht001489.v1&quot;,&quot;YR4&quot;,&quot;OAIA06&quot;,&quot;Oral anti-inflammatory asthma drugs leuk&quot;,&quot;encoded&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;oral anti inflammatory asthma drugs leuk&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;anti-inflammatory agents;asthma&quot;,&quot;C0003209;C0004096&quot;,&quot;phsu;dsyn&quot;,&quot;study subject&quot;,&quot;C0681850&quot;,&quot;grup&quot;,&quot;Medication Patient;Medical History&quot;"></td>
+									<td class="study">
+									phs000287.v3.p1
+									<br>
+									 Cardiovascular Health Study (CHS) Cohort: an NHLBI-funded observational study of risk factors for cardiovascular disease in adults 65 years or older
+									</td>
+									<td class="name"> <div class="id">
+									<a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000287.v3.p1&amp;phv=105065">phv00105065.v1</a>
+									</div>
+									<div class="var_name">
+									OAIA06
+									</div>
+									</td><td class="highlight2" style="DISPLAY:none">phv00105065.v1;phs000287.v2.p1;pht001489.v1;YR4;OAIA06;Oral anti-inflammatory asthma drugs leuk;encoded;NONE;NONE;NONE;oral anti inflammatory asthma drugs leuk;NULL;NULL;NULL;NULL;anti-inflammatory agents | asthma;C0003209 | C0004096;phsu | dsyn;study subject;C0681850;grup;Medication Patient | Medical History;</td>
+									<td class="description">
+									Oral anti-inflammatory <strong class="match term0">asthma</strong> drugs leuk
+									</td>
+									<td class="category">
+									<span>Medication Patient</span><br><br>
+									<span>Medical History</span><br><br>
+									</td>
+									</tr>
+									<tr id="variables_tablerow_1">
+									<td><input id="variables_tablerow_1" type="checkbox" name="tags[]" value="&quot;phv00105052.v1&quot;,&quot;phs000287.v2.p1&quot;,&quot;pht001489.v1&quot;,&quot;YR4&quot;,&quot;ISTRD06&quot;,&quot;Inhaled steroids for asthma&quot;,&quot;encoded&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;inhaled steroids for asthma&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;inspiration function;asthma&quot;,&quot;C0004048;C0004096&quot;,&quot;orgf;dsyn&quot;,&quot;study subject&quot;,&quot;C0681850&quot;,&quot;grup&quot;,&quot;Medical History&quot;"></td>
+									<td class="study">
+									phs000287.v3.p1
+									<br>
+									 Cardiovascular Health Study (CHS) Cohort: an NHLBI-funded observational study of risk factors for cardiovascular disease in adults 65 years or older
+									</td>
+									<td class="name"> <div class="id">
+									<a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000287.v3.p1&amp;phv=105052">phv00105052.v1</a>
+									</div>
+									<div class="var_name">
+									ISTRD06
+									</div>
+									</td><td class="highlight2" style="DISPLAY:none">phv00105052.v1;phs000287.v2.p1;pht001489.v1;YR4;ISTRD06;Inhaled steroids for asthma;encoded;NONE;NONE;NONE;inhaled steroids for asthma;NULL;NULL;NULL;NULL;inspiration function | asthma;C0004048 | C0004096;orgf | dsyn;study subject;C0681850;grup;Medical History;</td>
+									<td class="description">
+									Inhaled steroids for <strong class="match term0">asthma</strong>
+									</td>
+									<td class="category">
+									<span>Demographics</span><br><br>
+									</td>
+									</tr>
+									<tr id="variables_tablerow_2">
+									<td><input id="variables_tablerow_2" type="checkbox" name="tags[]" value="&quot;phv00103479.v1&quot;,&quot;phs000287.v2.p1&quot;,&quot;pht001482.v1&quot;,&quot;YR15ANNUAL&quot;,&quot;ASTHMA32&quot;,&quot;TOLD BY MD YOU HAD ASTHMA&quot;,&quot;encoded&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;told by md you had asthma&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;asthma&quot;,&quot;C0004096&quot;,&quot;dsyn&quot;,&quot;study subject&quot;,&quot;C0681850&quot;,&quot;grup&quot;,&quot;Medical History&quot;"></td>
+									<td class="study">
+									phs000287.v3.p1
+									<br>
+									 Cardiovascular Health Study (CHS) Cohort: an NHLBI-funded observational study of risk factors for cardiovascular disease in adults 65 years or older
+									</td>
+									<td class="name"> <div class="id">
+									<a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000287.v3.p1&amp;phv=103479">phv00103479.v1</a>
+									</div>
+									<div class="var_name">
+									ASTHMA32
+									</div>
+									</td><td class="highlight2" style="DISPLAY:none">phv00103479.v1;phs000287.v2.p1;pht001482.v1;YR15ANNUAL;ASTHMA32;TOLD BY MD YOU HAD ASTHMA;encoded;NONE;NONE;NONE;told by md you had asthma;NULL;NULL;NULL;NULL;asthma;C0004096;dsyn;study subject;C0681850;grup;Medical History;</td>
+									<td class="description">
+									TOLD BY MD YOU HAD <strong class="match term0">ASTHMA</strong>
+									</td>
+									<td class="category">
+									<span>Mental or Emotional finding</span><br><br>
+									</td>
+									</tr>
+									<tr id="variables_tablerow_3">
+									<td><input id="variables_tablerow_3" type="checkbox" name="tags[]" value="&quot;phv00103374.v1&quot;,&quot;phs000287.v2.p1&quot;,&quot;pht001480.v1&quot;,&quot;YR14ANNUAL&quot;,&quot;ASTHMA32&quot;,&quot;TOLD BY MD YOU HAD ASTHMA&quot;,&quot;encoded&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;NONE&quot;,&quot;told by md you had asthma&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;NULL&quot;,&quot;asthma&quot;,&quot;C0004096&quot;,&quot;dsyn&quot;,&quot;study subject&quot;,&quot;C0681850&quot;,&quot;grup&quot;,&quot;Medical History&quot;"></td>
+									<td class="study">
+									phs000287.v3.p1
+									<br>
+									 Cardiovascular Health Study (CHS) Cohort: an NHLBI-funded observational study of risk factors for cardiovascular disease in adults 65 years or older
+									</td>
+									<td class="name"> <div class="id">
+									<a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/variable.cgi?study_id=phs000287.v3.p1&amp;phv=103374">phv00103374.v1</a>
+									</div>
+									<div class="var_name">
+									ASTHMA32
+									</div>
+									</td><td class="highlight2" style="DISPLAY:none">phv00103374.v1;phs000287.v2.p1;pht001480.v1;YR14ANNUAL;ASTHMA32;TOLD BY MD YOU HAD ASTHMA;encoded;NONE;NONE;NONE;told by md you had asthma;NULL;NULL;NULL;NULL;asthma;C0004096;dsyn;study subject;C0681850;grup;Medical History;</td>
+									<td class="description">
+									TOLD BY MD YOU HAD <strong class="match term0">ASTHMA</strong>
+									</td>
+									<td class="category">
+									<span>Substance Use History</span><br><br>
+									</td>
+									</tr>
+								</tbody>
+							</table>
+
+					    </div>
+					    <div id="tabs-3" class='hide'>
+					    </div>
+					    <div id="tabs-4" class='hide'>
+					    </div>
+					    <div id="tabs-5" class='hide'>
+					    </div>
+					</div>
+				</div>
+			<div style="clear: both;"></div>
+
+			</div>
+
+			<div id='main-footer' class='rounded shadow border'>
+				<h4 id='dbv'>Database Version: March 31st, 2013</h4>
+				<div style="clear: both;"></div>
+			</div>
+
+			<!-- PhD Footer START 
+			<div id='main-footer' class='rounded shadow border'>
+
+				<div class='body'>
+
+					<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="getting_started">
+			        		<h3 class='main-footer'>Getting Started</h3>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/Education/">NCBI Education</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK3831/">NCBI Help Manual</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK21101/">NCBI Handbook</a></li>
+			        		<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials/">Training &amp; Tutorials</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="resources">
+			        		<h3 class='main-footer'>Resources</h3>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/chemicals-bioassays">Chemicals &amp; Bioassays</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/data-software">Data &amp; Software</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/dna-rna">DNA &amp; RNA</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/domains-structures">Domains &amp; Structures</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genes-expression">Genes &amp; Expression</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genetics-medicine">Genetics &amp; Medicine</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genomes-maps">Genomes &amp; Maps</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/homology">Homology</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/literature">Literature</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/proteins">Proteins</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/sequence-analysis">Sequence Analysis</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/taxonomy">Taxonomy</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials">Training &amp; Tutorials</a></li>
+			    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/variation">Variation</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+				        <ul class="main-footer" id="popular">
+				            <h3 class='main-footer'>Popular</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/nucleotide/">Nucleotide</a></li>
+				            <li><a href="http://blast.ncbi.nlm.nih.gov/">BLAST</a></li>
+				            <li><a href="http://www.pubmedcentral.nih.gov/" class="newdomain">PubMed Central</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/gene/">Gene</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/books/">Bookshelf</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/protein/">Protein</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/omim/">OMIM</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/">Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/snp/">SNP</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Structure/">Structure</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="featured">
+				            <h3 class='main-footer'>Featured</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/gtr/">Genetic Testing Registry</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/pubmedhealth/">PubMed Health</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/refseq/">Reference Sequences</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/mapview/">Map Viewer</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/human/">Human Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/mouse/">Mouse Genome</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/genomes/FLU/">Influenza Virus</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/tools/primer-blast/">Primer-BLAST</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Traces/sra/">Sequence Read Archive</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="info">
+				            <h3 class='main-footer'>NCBI Information</h3>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/About/">About NCBI</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/research/">Research at NCBI</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/books/NBK1969/">NCBI Newsletter</a></li>
+				            <li><a href="http://www.ncbi.nlm.nih.gov/Ftp/">NCBI FTP Site</a></li>
+				            <li><a class="external" href="http://www.facebook.com/ncbi.nlm" role="button" aria-expanded="false" target="_blank">NCBI on Facebook</a></li>
+				            <li><a class="external" href="http://www.twitter.com/ncbi" role="button" aria-expanded="false" target="_blank">NCBI on Twitter</a></li>
+				            <li><a class="external" href="http://www.youtube.com/ncbinlm" role="button" aria-expanded="false" target="_blank">NCBI on YouTube</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div style="clear: both;"></div>
+
+			    </div>
+
+
+			    <div class='container'>  
+
+			    	<div class='container alignleft'> 
+
+			       		<div id='footer-disclaimer' class='alignleft'>
+				            <a href="/About/disclaimer.html">Copyright</a> | <a href="/About/disclaimer.html#disclaimer">Disclaimer</a> |
+				            <a href="http://www.nlm.nih.gov/privacy.html" class="newdomain">Privacy</a> | <a href="http://www.nlm.nih.gov/accessibility.html">Accessibility</a> | <a href="/About/glance/contact_info.html">Contact</a>
+				        </div>
+
+				        <br>
+
+				        <div class='alignleft'>
+				            <p id="footer-address" class='alignright'>
+				                <span>
+				                    <a class="" href="http://www.ncbi.nlm.nih.gov">National Center for Biotechnology Information,</a>
+				                </span>
+				                <span>
+				                	<a href="http://www.nlm.nih.gov/">U.S. National Library of Medicine</a><br></span>
+				                <span>
+				                    <span>8600 Rockville Pike</span>,<span>Bethesda</span>
+				                    <span>MD</span>, <span>20894</span>
+				                    <span>USA</span>
+				                </span>
+				       		</p>
+				       	</div>
+
+			       </div>
+
+			        <div class='container alignright'>
+							<a href="http://www.nlm.nih.gov/"><img src="./images/nlm.png" alt="NLM"></a>
+			       			<a href="http://www.nih.gov/"><img src="./images/nih.png" alt="NIH"></a>
+			       			<a href="http://www.dhhs.gov/"><img src="./images/dhhs.png" alt="DHHS"></a>
+			       			<a href="http://www.usa.gov/"><img src="./images/usa.png" alt="USA.gov"></a>
+					</div>
+					
+				</div>
+
+				<div style="clear: both;"></div>
+
+			</div>
+			PhD Footer END -->
+
+		</div>
+
+	</body>
+
+</html>		

@@ -1,0 +1,3361 @@
+
+<html><head>
+		<title>PhenDisco</title>
+
+		<link href="./css/styles.css" rel="stylesheet" type="text/css">
+		<script src="./js/jquery-1.8.2.min.js" language="JavaScript" type="text/javascript"></script>
+		<script src="./js/utility.js" language="JavaScript" type="text/javascript"></script>
+		<link rel="icon" type="image/ico" href="./images/favicon.ico">
+	</head>
+
+	<body>
+
+		<!-- Front page main container -->
+		<div id="main-container">
+
+			<!-- PhenDisco Header -->
+			<div id="main-header" class="rounded shadow border">
+
+				<div id="help-tooltip" class="rounded shadow "></div>
+
+				<div class="top">
+					<a href="./FrontPage.html"><h1 class="alignleft">Phenotype Discoverer</h1></a>
+					<div style="clear: both;"></div>
+				</div>
+
+				<div class="body">
+
+					<a href="./FrontPage.html"><img src="PhenDisco_Logo.jpg" alt="logo" height="87" width="80" style="float:left;"></a>
+
+					<div>
+						<input id="search-bar" class="main-search-bar" type="text" style="color:#BBBBBB;" value="Search e.g. asthma and American" readonly> 
+						<a href="./ResultsPage.html"><button type="button" class="search" style="color:#BBBBBB;" disabled>Search</button></a>
+						<input type="checkbox" name="search-checkbox" checked="" disabled>Concept-based<br>
+					</div>
+					<div>
+						<a href="./AdvanceSearchPage.html"><button type="button" id="advanced-button">Advanced Search</button></a><button type="button" id="limit-button" style="color:#BBBBBB;" disabled>Limits</button>
+					</div>
+
+					
+				</div>
+
+				<div class="bottom">
+					<div class="container">
+
+						<img id="search-bar-help" class="alignright" src="./images/help.png" alt="help" height="24" width="24" ="0">
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<div id="limit-container" class="rounded shadow border hide" style="display: none;">
+				
+				<div class="top">
+					<h3 class="alignleft">Limits</h3>
+				</div>
+
+				<div class="body">
+
+					<div class="container">
+						<label for="LimitsField">Field:</label>
+						<select id="LimitsField" size="1">
+							<option selected="selected" value="All Fields">All Fields</option>
+							<option value="topicDisease">Topic Disease</option>
+							<option value="studyDescription">Study Description</option>
+							<option value="studyId">Study ID</option>
+							<option value="studyName">Study Name</option>
+							<option value="variableDesription">Variable Description</option>
+							<option value="variableId">Variable ID</option>
+							<option value="variableName">Variable Name</option>
+							<option value="attribution">Attribution</option>
+						</select>
+					</div>
+
+					<!--
+					<div class='container'>
+						<label for='limitsContains'>Contains the following:</label>
+						<form id='limitsContains'>
+							<div class='spaced alignleft'><input type="checkbox" id='analysis'>Analysis</div>
+							<div class='spaced alignleft'><input type="checkbox" id='dataset'>Dataset</div>
+							<div class='spaced alignleft'><input type="checkbox" id='document'>Document</div>
+							<div class='spaced alignleft'><input type="checkbox" id='mapping'>PhenX Mapping</div>
+							<div class='spaced alignleft'><input type="checkbox" id='variable'>Variable</div>
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+					-->
+
+				</div>
+
+				<div class="bottom">
+					<button type="button" class="alignright" id="limit-reset-button">Reset</button>
+					<!--<a href='./ResultsPage.html'><button type='button' class='alignright' id='limit-search-button' >Search</button></a>-->
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<!-- Header ENDS -->
+			<!-- Main Header End -->
+
+			<!-- Advanced options-->
+			<div id="advanced-header" class="shadow border rounded" >
+				<!-- Navigation START -->
+				<!-- Getting Started -->
+				<div class='navigation' style="width:200;float:left;">
+				<div class='container'>
+					<div class='top'>
+						<h2>Getting Started</h2>
+					</div>
+					<div class='body'>
+						<ul>
+							<li><a href="./FrontPage.html">Home</a></li>
+							<li><a href="./Overview.html">Overview</a></li>
+							<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK5295/">FAQ</a></li>
+							<li><a href="./HowToSubmit.html">How to Submit</a></li>
+							<li><a href="#">Browse Top Level Studies</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<hr>
+
+				<!-- Acess Data -->
+				<div class='container'>
+					<div class='top'>
+						<h2>Access Data</h2>
+					</div>
+					<div class='body'>
+						<ul>
+							<li><a href="https://dbgap.ncbi.nlm.nih.gov/">Apply for Control</a></li>
+							<li><a href="ftp://ftp.ncbi.nlm.nih.gov/dbgap">Public Data via FTP</a></li>
+							<li><a href="http://www.ncbi.nlm.nih.gov/projects/gapplusprev/sgap_plus.htm">Association Results Browser</a></li>
+							<li><a href="http://www.ncbi.nlm.nih.gov/gap/PheGenI">Phenotype-Genotype Integrator</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<hr>
+
+				<!-- Important Links -->
+				<div class='container'>
+					<div class='top'>
+						<h2>Important Links</h2>
+					</div>
+					<div class='body'>
+						<ul>
+							<li><a href="http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=dbGaPnews">RSS Feed <img src="./images/rss.png" alt="RSS Feed"></a></li>
+							<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/GWAS_Code_of_Conduct.html">Code of Conduct</a></li>
+							<li><a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=dbgap_2b_security_procedures.pdf">Security Procedures</a></li>
+							<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+
+				</div>
+				<!-- Navigation ENDS -->
+
+				<div id="advanced-header-body" style="width:800px;float:left;">
+					<div class="top">
+						<h2 class="alignleft">Advanced Search</h2>
+						<div style="clear: both;"></div>
+					</div>
+
+					<!-- Advanced Search Option Selections -->
+					<div id="advanced-search-options-container" class="body">
+
+						<div class='container'>
+
+							<div class="container alignleft">
+								<!-- Sample Size -->
+								<div class="container">
+									<h4>Sample Size: </h4>
+									<div id="advanced-search-option-samplesize" class="advanced-search-option-box  rounded">
+										<div>
+											<input type='checkbox' id='sizeMin' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Min</span>
+											<input type="text" id="advanced-search-option-samplesize-min" size="15"  value="">
+										</div>
+										<div>
+											<input type='checkbox' id='sizeMax' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Max </span>
+											<input type="text" id="advanced-search-option-samplesize-max"  size="15" value="">
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Age -->
+								<div class="container alignleft">
+									<h4>Age: </h4>
+									<div id="advanced-search-option-age" class="advanced-search-option-box  rounded">
+										<div>
+											<input type='checkbox' id='ageMin' class='advanced-list alignLeft'/>
+											<span class='advanced-list'>Min</span>
+											<input type="text" id="advanced-search-option-age-min" size="15" value=""/>
+										</div>
+
+										<div>
+											<input type='checkbox' id='ageMax' class='advanced-list alignLeft'/>
+											<span class='advanced-list'>Max </span>
+											<input type="text" id="advanced-search-option-age-max" size="15" value=""/>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Study Subject -->
+								<div class="container alignleft">
+									<h4>Study Subject: </h4>
+									<div id="advanced-search-option-studySubject" class="advanced-search-option-box  rounded">
+										<div id='Study Subject'>
+										<!--
+											<div id='Study Subject Roles			' class='hasChild'>
+											<input type='checkbox' id='Study Subject Roles			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Study Subject Roles			</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Case Cohort		' class=''>
+												<input type='checkbox' id='Case Cohort		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Case Cohort		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Case Set		' class=''>
+												<input type='checkbox' id='Case Set		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Case Set		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Clinical Cohort		' class=''>
+												<input type='checkbox' id='Clinical Cohort		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Clinical Cohort		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Control Set		' class=''>
+												<input type='checkbox' id='Control Set		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Control Set		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Longitudinal Cohort		' class=''>
+												<input type='checkbox' id='Longitudinal Cohort		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Longitudinal Cohort		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Population Based Control Set		' class=''>
+												<input type='checkbox' id='Population Based Control Set		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Population Based Control Set		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Reference Set		' class=''>
+												<input type='checkbox' id='Reference Set		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Reference Set		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Sibling Cohort		' class=''>
+												<input type='checkbox' id='Sibling Cohort		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Sibling Cohort		</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+										-->
+										<!-- 
+											<div id='Study Subject Types			' class='hasChild'>
+											<input type='checkbox' id='Study Subject Types			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Study Subject Types			</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+										-->
+												<div id='Family		' class='hasChild'>
+												<input type='checkbox' id='Family		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Family		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Multiplex Families	' class=''>
+													<input type='checkbox' id='Multiplex Families	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Multiplex Families	</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Nuclear Families	' class=''>
+													<input type='checkbox' id='Nuclear Families	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Nuclear Families	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Parent-Offspring		' class='hasChild'>
+												<input type='checkbox' id='Parent-Offspring		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Parent-Offspring		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Mother Child Pairs	' class=''>
+													<input type='checkbox' id='Mother Child Pairs	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Mother Child Pairs	</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Parent Offspring Quads	' class=''>
+													<input type='checkbox' id='Parent Offspring Quads	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Parent Offspring Quads	</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Parent Offspring Trios	' class=''>
+													<input type='checkbox' id='Parent Offspring Trios	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Parent Offspring Trios	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Probands		' class=''>
+												<input type='checkbox' id='Probands		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Probands		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Siblings		' class='hasChild'>
+												<input type='checkbox' id='Siblings		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Siblings		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Affected Sib Pairs	' class=''>
+													<input type='checkbox' id='Affected Sib Pairs	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Affected Sib Pairs	</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Monozygotic Twins	' class=''>
+													<input type='checkbox' id='Monozygotic Twins	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Monozygotic Twins	</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Twin	' class=''>
+													<input type='checkbox' id='Twin	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Twin	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Single Patient		' class='hasChild'>
+												<input type='checkbox' id='Single Patient		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Single Patient		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+														<div id='				' class=''>
+														<input type='checkbox' id='				' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>				</span>
+														<div style='clear: both;'></div>
+														</div>
+													</div>
+												</div>
+										<!--	</div> 
+											</div> -->
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Ethnicity -->
+								<div class="container alignleft">
+									<h4>Ethnicity: </h4>
+									<div id="advanced-search-option-ethnicity" class="advanced-search-option-box  rounded">
+										<div id='Ethnicity'>
+											<div id='Hispanic or Latino' class=''>
+											<input type='checkbox' id='Hispanic or Latino' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Hispanic or Latino</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Not Hispanic or Latino' class=''>
+											<input type='checkbox' id='Not Hispanic or Latino' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Not Hispanic or Latino</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Mixed Ethnicity' class=''>
+											<input type='checkbox' id='Mixed Ethnicity' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Mixed Ethnicity</span>
+											<div style='clear: both;'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+
+								<!-- Specimen Types 
+								<div class="container alignleft">
+									<h4>Specimen Types: </h4>
+									<div id="advanced-search-option-specimenTypes" class="advanced-search-option-box  rounded">
+										<div id='Specimen Types'>
+											<div id='Aggregate Genomic Data			' class=''>
+											<input type='checkbox' id='Aggregate Genomic Data			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Aggregate Genomic Data			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Stem Cell Lines			' class=''>
+											<input type='checkbox' id='Stem Cell Lines			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Stem Cell Lines			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Tumor			' class=''>
+											<input type='checkbox' id='Tumor			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Tumor			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Tumor vs Matched-Normal			' class=''>
+											<input type='checkbox' id='Tumor vs Matched-Normal			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Tumor vs Matched-Normal			</span>
+											<div style='clear: both;'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								-->
+
+								<!-- Platforms -->
+								<div class="container alignleft">
+									<h4>Platforms: </h4>
+									<div id="advanced-search-option-platforms" class="advanced-search-option-box  rounded">
+										<div id='Platforms		'>
+											<div id='Whole Genome Genotyping	' class='hasChild'>
+											<input type='checkbox' id='Whole Genome Genotyping	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Whole Genome Genotyping	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='AFFY_6.0' class=''>
+												<input type='checkbox' id='AFFY_6.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>AFFY_6.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Axiom Genome-Wide EUR Array' class=''>
+												<input type='checkbox' id='Axiom Genome-Wide EUR Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Axiom Genome-Wide EUR Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='iPLEX Gold' class=''>
+												<input type='checkbox' id='iPLEX Gold' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>iPLEX Gold</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Custom Illumina 15K' class=''>
+												<input type='checkbox' id='Custom Illumina 15K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Custom Illumina 15K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='CVDSNP55v1_A' class=''>
+												<input type='checkbox' id='CVDSNP55v1_A' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>CVDSNP55v1_A</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cytogenetics Whole-Genome 2.7M Array' class=''>
+												<input type='checkbox' id='Cytogenetics Whole-Genome 2.7M Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cytogenetics Whole-Genome 2.7M Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='GenomeWideSNP_5' class=''>
+												<input type='checkbox' id='GenomeWideSNP_5' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>GenomeWideSNP_5</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human OmniExpress-12 v1.0' class=''>
+												<input type='checkbox' id='Human OmniExpress-12 v1.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human OmniExpress-12 v1.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human1M-Duov3_B' class=''>
+												<input type='checkbox' id='Human1M-Duov3_B' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human1M-Duov3_B</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='OmniExpress 1M Duo' class=''>
+												<input type='checkbox' id='OmniExpress 1M Duo' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>OmniExpress 1M Duo</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human610_Quadv1_B' class=''>
+												<input type='checkbox' id='Human610_Quadv1_B' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human610_Quadv1_B</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human660W-Quad_v1_A' class=''>
+												<input type='checkbox' id='Human660W-Quad_v1_A' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human660W-Quad_v1_A</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanCNV370-Quadv3_C' class=''>
+												<input type='checkbox' id='HumanCNV370-Quadv3_C' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanCNV370-Quadv3_C</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap250Sv1.0' class=''>
+												<input type='checkbox' id='HumanHap250Sv1.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap250Sv1.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap300v1.1' class=''>
+												<input type='checkbox' id='HumanHap300v1.1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap300v1.1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap300v2.0' class=''>
+												<input type='checkbox' id='HumanHap300v2.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap300v2.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap550v1.1' class=''>
+												<input type='checkbox' id='HumanHap550v1.1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap550v1.1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap550v3.0' class=''>
+												<input type='checkbox' id='HumanHap550v3.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap550v3.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanHap650Yv3.0' class=''>
+												<input type='checkbox' id='HumanHap650Yv3.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanHap650Yv3.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanOmni1_Quad_v1-0_B' class=''>
+												<input type='checkbox' id='HumanOmni1_Quad_v1-0_B' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanOmni1_Quad_v1-0_B</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanOmni2.5' class=''>
+												<input type='checkbox' id='HumanOmni2.5' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanOmni2.5</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanOmni5-Quad' class=''>
+												<input type='checkbox' id='HumanOmni5-Quad' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanOmni5-Quad</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanOmniExpress' class=''>
+												<input type='checkbox' id='HumanOmniExpress' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanOmniExpress</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='ILLUMINA_Human_1M' class=''>
+												<input type='checkbox' id='ILLUMINA_Human_1M' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>ILLUMINA_Human_1M</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='ILMN_Human-1' class=''>
+												<input type='checkbox' id='ILMN_Human-1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>ILMN_Human-1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='iSelect Custom Panel' class=''>
+												<input type='checkbox' id='iSelect Custom Panel' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>iSelect Custom Panel</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='PERLEGEN-600K' class=''>
+												<input type='checkbox' id='PERLEGEN-600K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>PERLEGEN-600K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='PERLEGEN-85K' class=''>
+												<input type='checkbox' id='PERLEGEN-85K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>PERLEGEN-85K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Taqman Allelic Discrimination' class=''>
+												<input type='checkbox' id='Taqman Allelic Discrimination' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Taqman Allelic Discrimination</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan SNP Genotyping Assay' class=''>
+												<input type='checkbox' id='TaqMan SNP Genotyping Assay' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan SNP Genotyping Assay</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='nsSNP Custom Array' class=''>
+												<input type='checkbox' id='nsSNP Custom Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>nsSNP Custom Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Exome Genotyping	' class='hasChild'>
+											<input type='checkbox' id='Exome Genotyping	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Exome Genotyping	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='GeneChip Human Exon 1.0 ST Array' class=''>
+												<input type='checkbox' id='GeneChip Human Exon 1.0 ST Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>GeneChip Human Exon 1.0 ST Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='High Density 2.1M Human Exome Array' class=''>
+												<input type='checkbox' id='High Density 2.1M Human Exome Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>High Density 2.1M Human Exome Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HuGeneFocused50K_Affy' class=''>
+												<input type='checkbox' id='HuGeneFocused50K_Affy' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HuGeneFocused50K_Affy</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Infinium HumanExome BeadChip' class=''>
+												<input type='checkbox' id='Infinium HumanExome BeadChip' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Infinium HumanExome BeadChip</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='		' class=''>
+												<input type='checkbox' id='		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>		</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Targeted Genotyping	' class='hasChild'>
+											<input type='checkbox' id='Targeted Genotyping	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Targeted Genotyping	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Cardio-Metabo_Chip_11395247_A' class=''>
+												<input type='checkbox' id='Cardio-Metabo_Chip_11395247_A' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cardio-Metabo_Chip_11395247_A</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cardio-MetaboChip' class=''>
+												<input type='checkbox' id='Cardio-MetaboChip' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cardio-MetaboChip</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='GoldenGate - Custom Array' class=''>
+												<input type='checkbox' id='GoldenGate - Custom Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>GoldenGate - Custom Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Copy Number Analysis	' class='hasChild'>
+											<input type='checkbox' id='Copy Number Analysis	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Copy Number Analysis	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='1x1M_G4447A Array' class=''>
+												<input type='checkbox' id='1x1M_G4447A Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>1x1M_G4447A Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human Genome CGH Microarray 244A' class=''>
+												<input type='checkbox' id='Human Genome CGH Microarray 244A' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human Genome CGH Microarray 244A</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SurePrint G3 Human CGH Microarray' class=''>
+												<input type='checkbox' id='SurePrint G3 Human CGH Microarray' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SurePrint G3 Human CGH Microarray</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Custom aCGH Array' class=''>
+												<input type='checkbox' id='Custom aCGH Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Custom aCGH Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Custom HD-CGH Microarray' class=''>
+												<input type='checkbox' id='Custom HD-CGH Microarray' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Custom HD-CGH Microarray</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cytochip 105K' class=''>
+												<input type='checkbox' id='Cytochip 105K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cytochip 105K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cytochip 180K' class=''>
+												<input type='checkbox' id='Cytochip 180K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cytochip 180K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='ISCA 180K' class=''>
+												<input type='checkbox' id='ISCA 180K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>ISCA 180K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='ISCA 44K v1' class=''>
+												<input type='checkbox' id='ISCA 44K v1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>ISCA 44K v1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='ISCA 8x60K' class=''>
+												<input type='checkbox' id='ISCA 8x60K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>ISCA 8x60K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Genome Wide Human SNP Array 6.0 for Cytogenetics' class=''>
+												<input type='checkbox' id='Genome Wide Human SNP Array 6.0 for Cytogenetics' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Genome Wide Human SNP Array 6.0 for Cytogenetics</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human Genome CGH Microarray 44K' class=''>
+												<input type='checkbox' id='Human Genome CGH Microarray 44K' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human Genome CGH Microarray 44K</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HumanCNV370v1' class=''>
+												<input type='checkbox' id='HumanCNV370v1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HumanCNV370v1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mapping250K_Nsp' class=''>
+												<input type='checkbox' id='Mapping250K_Nsp' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mapping250K_Nsp</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mapping250K_Sty' class=''>
+												<input type='checkbox' id='Mapping250K_Sty' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mapping250K_Sty</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mapping50K_Hind240' class=''>
+												<input type='checkbox' id='Mapping50K_Hind240' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mapping50K_Hind240</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mapping50K_Xba240' class=''>
+												<input type='checkbox' id='Mapping50K_Xba240' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mapping50K_Xba240</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Gene Expression	' class='hasChild'>
+											<input type='checkbox' id='Gene Expression	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Gene Expression	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Human Genome U133 Plus 2.0 Array' class=''>
+												<input type='checkbox' id='Human Genome U133 Plus 2.0 Array' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human Genome U133 Plus 2.0 Array</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo ABD TaqMan Y1' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo ABD TaqMan Y1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo ABD TaqMan Y1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo ABD TaqMan Y2' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo ABD TaqMan Y2' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo ABD TaqMan Y2</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo AOD TaqMan Y1' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo AOD TaqMan Y1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo AOD TaqMan Y1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo AOD TaqMan Y2' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo AOD TaqMan Y2' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo AOD TaqMan Y2</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo DME TaqMan Y1' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo DME TaqMan Y1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo DME TaqMan Y1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo DME TaqMan Y2' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo DME TaqMan Y2' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo DME TaqMan Y2</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: CALiCo Sequenom Y2' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: CALiCo Sequenom Y2' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: CALiCo Sequenom Y2</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_04-14-10' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_04-14-10' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_04-14-10</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_09-18-11' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_09-18-11' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_09-18-11</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_12-7-09' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_12-7-09' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: MEC_HI_SNPASSAYONLY_12-7-09</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: MEC_LA_SNPASSAYONLY_12-7-09' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: MEC_LA_SNPASSAYONLY_12-7-09' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: MEC_LA_SNPASSAYONLY_12-7-09</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='TaqMan OpenArrays: MEC_SNPASSAYONLY_09-15-11' class=''>
+												<input type='checkbox' id='TaqMan OpenArrays: MEC_SNPASSAYONLY_09-15-11' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>TaqMan OpenArrays: MEC_SNPASSAYONLY_09-15-11</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Human Gene ST1.0' class=''>
+												<input type='checkbox' id='Human Gene ST1.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Human Gene ST1.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Targeted DNA Capture	' class='hasChild'>
+											<input type='checkbox' id='Targeted DNA Capture	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Targeted DNA Capture	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='SeqCap EZ Exome Library v2.0 liquid-phase sequence capture kit' class=''>
+												<input type='checkbox' id='SeqCap EZ Exome Library v2.0 liquid-phase sequence capture kit' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SeqCap EZ Exome Library v2.0 liquid-phase sequence capture kit</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SeqCap EZ Human Exome Library v1.0' class=''>
+												<input type='checkbox' id='SeqCap EZ Human Exome Library v1.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SeqCap EZ Human Exome Library v1.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SeqCap EZ Human Exome Library v2.0' class=''>
+												<input type='checkbox' id='SeqCap EZ Human Exome Library v2.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SeqCap EZ Human Exome Library v2.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SureSelect Human All Exon 50Mb Target Enrichment Kit' class=''>
+												<input type='checkbox' id='SureSelect Human All Exon 50Mb Target Enrichment Kit' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SureSelect Human All Exon 50Mb Target Enrichment Kit</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SureSelect Human All Exon v.1 Kit' class=''>
+												<input type='checkbox' id='SureSelect Human All Exon v.1 Kit' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SureSelect Human All Exon v.1 Kit</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SureSelect Human All Exon v.2 Kit' class=''>
+												<input type='checkbox' id='SureSelect Human All Exon v.2 Kit' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SureSelect Human All Exon v.2 Kit</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='VCRome 2.1 (HGSC design)' class=''>
+												<input type='checkbox' id='VCRome 2.1 (HGSC design)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>VCRome 2.1 (HGSC design)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SureSelect' class=''>
+												<input type='checkbox' id='SureSelect' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SureSelect</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SureSelect XT Human X Chromosome (G7560A)' class=''>
+												<input type='checkbox' id='SureSelect XT Human X Chromosome (G7560A)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SureSelect XT Human X Chromosome (G7560A)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Custom Panel' class=''>
+												<input type='checkbox' id='Custom Panel' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Custom Panel</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Linkage Analysis	' class='hasChild'>
+											<input type='checkbox' id='Linkage Analysis	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Linkage Analysis	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Linkage-IVb Marker Panel' class=''>
+												<input type='checkbox' id='Linkage-IVb Marker Panel' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Linkage-IVb Marker Panel</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+							</div>	
+
+							<div class="container alignleft">
+								<!-- IRB -->
+								<div class="container alignleft">
+									<h4>IRB: </h4>
+									<div id="advanced-search-option-irb" class="advanced-search-option-box  rounded">
+										<div id="advanced-search-option-irb-required" class="advanced-search-option-selectable">
+											<input type='checkbox' id='Required' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Required</span>
+										</div>
+										<div id="advanced-search-option-irb-notRequired" class="advanced-search-option-selectable">
+											<input type='checkbox' id='notRequired' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Not Required</span>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Consent Type -->
+								<div class="container alignleft">
+									<h4>Consent Type: </h4>
+									<div id="advanced-search-option-consent" class="advanced-search-option-box  rounded ">
+										<div id="advanced-search-option-consent-unrestricted" class="advanced-search-option-selectable">
+											<input type='checkbox' id='Unrestricted' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Unrestricted</span>
+										</div>
+										<div id="advanced-search-option-consent-restricted" class="advanced-search-option-selectable">
+											<input type='checkbox' id='Restricted' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Restricted</span>
+										</div>
+										<div id="advanced-search-option-consent-unspecified" class="advanced-search-option-selectable">
+											<input type='checkbox' id='Restricted' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Unspecified</span>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Nationality -->
+								<div class="container alignleft" style="width:215px;">
+									<h4>Nationality/Ethno-Religious Group: </h4>
+									<div id="advanced-search-option-nationality" class="advanced-search-option-box  rounded">
+										<div id='Nationality/Ethno-Religious Group'>
+											<div id='Asia	' class='hasChild'>
+											<input type='checkbox' id='Asia	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Asia	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Armenian	' class=''>
+												<input type='checkbox' id='Armenian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Armenian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Asian Indian	' class=''>
+												<input type='checkbox' id='Asian Indian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Asian Indian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Bangladeshi	' class=''>
+												<input type='checkbox' id='Bangladeshi	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Bangladeshi	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Bhutanese	' class=''>
+												<input type='checkbox' id='Bhutanese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Bhutanese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cambodian	' class=''>
+												<input type='checkbox' id='Cambodian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cambodian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Chinese	' class='hasChild'>
+												<input type='checkbox' id='Chinese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Chinese	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Han Chinese' class=''>
+													<input type='checkbox' id='Han Chinese' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Han Chinese</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Dai	' class=''>
+												<input type='checkbox' id='Dai	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Dai	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Filipino		' class=''>
+												<input type='checkbox' id='Filipino		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Filipino		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Hmong	' class=''>
+												<input type='checkbox' id='Hmong	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Hmong	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Indian	' class=''>
+												<input type='checkbox' id='Indian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Indian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Iwo Jiman	' class=''>
+												<input type='checkbox' id='Iwo Jiman	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Iwo Jiman	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Japanese	' class=''>
+												<input type='checkbox' id='Japanese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Japanese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Kinh	' class=''>
+												<input type='checkbox' id='Kinh	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Kinh	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Korean	' class=''>
+												<input type='checkbox' id='Korean	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Korean	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Laotian	' class=''>
+												<input type='checkbox' id='Laotian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Laotian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Malaysian	' class=''>
+												<input type='checkbox' id='Malaysian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Malaysian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Maldivian	' class=''>
+												<input type='checkbox' id='Maldivian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Maldivian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Memon	' class=''>
+												<input type='checkbox' id='Memon	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Memon	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mongol	' class=''>
+												<input type='checkbox' id='Mongol	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mongol	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Okinawan	' class=''>
+												<input type='checkbox' id='Okinawan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Okinawan	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Omani Arabic	' class=''>
+												<input type='checkbox' id='Omani Arabic	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Omani Arabic	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Pakistani	' class='hasChild'>
+												<input type='checkbox' id='Pakistani	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Pakistani	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Gujrati' class=''>
+													<input type='checkbox' id='Gujrati' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Gujrati</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Sindhi' class=''>
+													<input type='checkbox' id='Sindhi' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Sindhi</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Pathan	' class=''>
+												<input type='checkbox' id='Pathan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Pathan	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Punjabi	' class=''>
+												<input type='checkbox' id='Punjabi	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Punjabi	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Singaporean	' class=''>
+												<input type='checkbox' id='Singaporean	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Singaporean	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Sri Lankan	' class=''>
+												<input type='checkbox' id='Sri Lankan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Sri Lankan	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Taiwanese	' class=''>
+												<input type='checkbox' id='Taiwanese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Taiwanese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Thai	' class=''>
+												<input type='checkbox' id='Thai	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Thai	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Urdu	' class=''>
+												<input type='checkbox' id='Urdu	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Urdu	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Vietnamese	' class=''>
+												<input type='checkbox' id='Vietnamese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Vietnamese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Africa	' class='hasChild'>
+											<input type='checkbox' id='Africa	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Africa	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='African	' class=''>
+												<input type='checkbox' id='African	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>African	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Botswanan	' class=''>
+												<input type='checkbox' id='Botswanan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Botswanan	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Ethiopian	' class='hasChild'>
+												<input type='checkbox' id='Ethiopian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Ethiopian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Aari ' class=''>
+													<input type='checkbox' id='Aari ' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Aari </span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Amhara' class=''>
+													<input type='checkbox' id='Amhara' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Amhara</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Hamer' class=''>
+													<input type='checkbox' id='Hamer' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Hamer</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Liberian	' class=''>
+												<input type='checkbox' id='Liberian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Liberian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Kenyan	' class='hasChild'>
+												<input type='checkbox' id='Kenyan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Kenyan	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Luhya ' class=''>
+													<input type='checkbox' id='Luhya ' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Luhya </span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Maasai	' class=''>
+												<input type='checkbox' id='Maasai	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Maasai	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Madagascar	' class=''>
+												<input type='checkbox' id='Madagascar	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Madagascar	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Namibian	' class=''>
+												<input type='checkbox' id='Namibian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Namibian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Nepalese	' class=''>
+												<input type='checkbox' id='Nepalese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Nepalese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Nigerian	' class=''>
+												<input type='checkbox' id='Nigerian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Nigerian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Yoruba	' class=''>
+												<input type='checkbox' id='Yoruba	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Yoruba	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Zairean	' class=''>
+												<input type='checkbox' id='Zairean	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Zairean	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Central America' class='hasChild'>
+											<input type='checkbox' id='Central America' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Central America</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Canal Zone' class=''>
+												<input type='checkbox' id='Canal Zone' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Canal Zone</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Central American Indian' class=''>
+												<input type='checkbox' id='Central American Indian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Central American Indian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Costa Rican' class=''>
+												<input type='checkbox' id='Costa Rican' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Costa Rican</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Guatemalan' class=''>
+												<input type='checkbox' id='Guatemalan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Guatemalan</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Honduran' class=''>
+												<input type='checkbox' id='Honduran' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Honduran</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Nicaraguan' class=''>
+												<input type='checkbox' id='Nicaraguan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Nicaraguan</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Panamanian' class=''>
+												<input type='checkbox' id='Panamanian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Panamanian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Salvadoran' class=''>
+												<input type='checkbox' id='Salvadoran' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Salvadoran</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Europe	' class='hasChild'>
+											<input type='checkbox' id='Europe	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Europe	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Asturian	' class=''>
+												<input type='checkbox' id='Asturian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Asturian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Basques	' class=''>
+												<input type='checkbox' id='Basques	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Basques	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Belearic Islander	' class=''>
+												<input type='checkbox' id='Belearic Islander	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Belearic Islander	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Belgians	' class=''>
+												<input type='checkbox' id='Belgians	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Belgians	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Bulgarians	' class=''>
+												<input type='checkbox' id='Bulgarians	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Bulgarians	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Czech Republic	' class=''>
+												<input type='checkbox' id='Czech Republic	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Czech Republic	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Danes	' class=''>
+												<input type='checkbox' id='Danes	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Danes	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Dutch	' class=''>
+												<input type='checkbox' id='Dutch	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Dutch	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='English	' class=''>
+												<input type='checkbox' id='English	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>English	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Estonians	' class=''>
+												<input type='checkbox' id='Estonians	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Estonians	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='European	' class=''>
+												<input type='checkbox' id='European	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>European	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Finnish 	' class=''>
+												<input type='checkbox' id='Finnish 	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Finnish 	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='French	' class='hasChild'>
+												<input type='checkbox' id='French	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>French	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Fromy' class=''>
+													<input type='checkbox' id='Fromy' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Fromy</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='German	' class=''>
+												<input type='checkbox' id='German	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>German	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Greeks	' class=''>
+												<input type='checkbox' id='Greeks	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Greeks	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Gypsies	' class=''>
+												<input type='checkbox' id='Gypsies	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Gypsies	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Hungarian	' class=''>
+												<input type='checkbox' id='Hungarian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Hungarian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Icelanders	' class=''>
+												<input type='checkbox' id='Icelanders	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Icelanders	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Irish	' class=''>
+												<input type='checkbox' id='Irish	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Irish	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Irish Italian	' class=''>
+												<input type='checkbox' id='Irish Italian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Irish Italian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Italian	' class='hasChild'>
+												<input type='checkbox' id='Italian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Italian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Toscani ' class=''>
+													<input type='checkbox' id='Toscani ' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Toscani </span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='North European	' class=''>
+												<input type='checkbox' id='North European	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>North European	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Norwegian	' class=''>
+												<input type='checkbox' id='Norwegian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Norwegian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Polish	' class=''>
+												<input type='checkbox' id='Polish	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Polish	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Portugali	' class=''>
+												<input type='checkbox' id='Portugali	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Portugali	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Portuguese	' class=''>
+												<input type='checkbox' id='Portuguese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Portuguese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Romanian	' class=''>
+												<input type='checkbox' id='Romanian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Romanian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Russian	' class=''>
+												<input type='checkbox' id='Russian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Russian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Scottish	' class=''>
+												<input type='checkbox' id='Scottish	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Scottish	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Serbs	' class=''>
+												<input type='checkbox' id='Serbs	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Serbs	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Slovaks	' class=''>
+												<input type='checkbox' id='Slovaks	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Slovaks	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Spaniard	' class='hasChild'>
+												<input type='checkbox' id='Spaniard	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Spaniard	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Andalusian' class=''>
+													<input type='checkbox' id='Andalusian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Andalusian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Canarian' class=''>
+													<input type='checkbox' id='Canarian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Canarian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Castillian' class=''>
+													<input type='checkbox' id='Castillian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Castillian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Catalonian' class=''>
+													<input type='checkbox' id='Catalonian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Catalonian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Gallego' class=''>
+													<input type='checkbox' id='Gallego' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Gallego</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Valencian' class=''>
+													<input type='checkbox' id='Valencian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Valencian</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Swedes	' class=''>
+												<input type='checkbox' id='Swedes	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Swedes	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Swiss	' class=''>
+												<input type='checkbox' id='Swiss	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Swiss	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Turkish	' class=''>
+												<input type='checkbox' id='Turkish	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Turkish	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Ukraine	' class=''>
+												<input type='checkbox' id='Ukraine	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Ukraine	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Welsh	' class=''>
+												<input type='checkbox' id='Welsh	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Welsh	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Middle Eastern 	' class='hasChild'>
+											<input type='checkbox' id='Middle Eastern 	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Middle Eastern 	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Afghanistani	' class=''>
+												<input type='checkbox' id='Afghanistani	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Afghanistani	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Arabic	' class=''>
+												<input type='checkbox' id='Arabic	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Arabic	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Assyrian	' class=''>
+												<input type='checkbox' id='Assyrian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Assyrian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Egyptian	' class=''>
+												<input type='checkbox' id='Egyptian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Egyptian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Iranian	' class='hasChild'>
+												<input type='checkbox' id='Iranian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Iranian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Balochi' class=''>
+													<input type='checkbox' id='Balochi' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Balochi</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Iraqi	' class=''>
+												<input type='checkbox' id='Iraqi	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Iraqi	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Israeli	' class=''>
+												<input type='checkbox' id='Israeli	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Israeli	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Lebanese	' class=''>
+												<input type='checkbox' id='Lebanese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Lebanese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Middle Eastern	' class=''>
+												<input type='checkbox' id='Middle Eastern	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Middle Eastern	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Palestinian	' class=''>
+												<input type='checkbox' id='Palestinian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Palestinian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Syrian	' class=''>
+												<input type='checkbox' id='Syrian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Syrian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='North America	' class='hasChild'>
+											<input type='checkbox' id='North America	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>North America	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Native Americans	' class='hasChild'>
+												<input type='checkbox' id='Native Americans	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Native Americans	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Abenaki' class=''>
+													<input type='checkbox' id='Abenaki' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Abenaki</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Algonquian' class=''>
+													<input type='checkbox' id='Algonquian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Algonquian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Amerind' class=''>
+													<input type='checkbox' id='Amerind' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Amerind</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Apache' class=''>
+													<input type='checkbox' id='Apache' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Apache</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Arapaho' class=''>
+													<input type='checkbox' id='Arapaho' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Arapaho</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Arikara' class=''>
+													<input type='checkbox' id='Arikara' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Arikara</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Assiniboine' class=''>
+													<input type='checkbox' id='Assiniboine' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Assiniboine</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Assiniboine Sioux' class=''>
+													<input type='checkbox' id='Assiniboine Sioux' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Assiniboine Sioux</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Bannock' class=''>
+													<input type='checkbox' id='Bannock' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Bannock</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Blackfeet' class=''>
+													<input type='checkbox' id='Blackfeet' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Blackfeet</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Brotherton' class=''>
+													<input type='checkbox' id='Brotherton' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Brotherton</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Burt Lake Band' class=''>
+													<input type='checkbox' id='Burt Lake Band' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Burt Lake Band</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Caddo' class=''>
+													<input type='checkbox' id='Caddo' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Caddo</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Cahuilla' class=''>
+													<input type='checkbox' id='Cahuilla' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Cahuilla</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='California Tribes' class=''>
+													<input type='checkbox' id='California Tribes' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>California Tribes</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Catawba' class=''>
+													<input type='checkbox' id='Catawba' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Catawba</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Cayuse' class=''>
+													<input type='checkbox' id='Cayuse' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Cayuse</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Chehalis' class=''>
+													<input type='checkbox' id='Chehalis' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chehalis</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Chemakuan' class=''>
+													<input type='checkbox' id='Chemakuan' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chemakuan</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Chemehuevi' class=''>
+													<input type='checkbox' id='Chemehuevi' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chemehuevi</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Cherokee' class=''>
+													<input type='checkbox' id='Cherokee' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Cherokee</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Cherokee Shawnee' class=''>
+													<input type='checkbox' id='Cherokee Shawnee' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Cherokee Shawnee</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Alaskan	' class='hasChild'>
+												<input type='checkbox' id='Alaskan	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Alaskan	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Ahtna' class=''>
+													<input type='checkbox' id='Ahtna' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Ahtna</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Alaskan Athabascan' class=''>
+													<input type='checkbox' id='Alaskan Athabascan' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Alaskan Athabascan</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Aleut' class=''>
+													<input type='checkbox' id='Aleut' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Aleut</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Alutiiq ' class=''>
+													<input type='checkbox' id='Alutiiq ' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Alutiiq </span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Bristol Bay Aleut' class=''>
+													<input type='checkbox' id='Bristol Bay Aleut' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Bristol Bay Aleut</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Chugach Aleut' class=''>
+													<input type='checkbox' id='Chugach Aleut' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chugach Aleut</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Koniag Aleut' class=''>
+													<input type='checkbox' id='Koniag Aleut' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Koniag Aleut</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Unangan Aleut' class=''>
+													<input type='checkbox' id='Unangan Aleut' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Unangan Aleut</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Eskimo' class=''>
+													<input type='checkbox' id='Eskimo' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Eskimo</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Eyak' class=''>
+													<input type='checkbox' id='Eyak' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Eyak</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Sugpiaq' class=''>
+													<input type='checkbox' id='Sugpiaq' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Sugpiaq</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Suqpigaq' class=''>
+													<input type='checkbox' id='Suqpigaq' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Suqpigaq</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Canadian	' class=''>
+												<input type='checkbox' id='Canadian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Canadian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Canadian and Latin American Indian	' class=''>
+												<input type='checkbox' id='Canadian and Latin American Indian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Canadian and Latin American Indian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='French Canadian	' class=''>
+												<input type='checkbox' id='French Canadian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>French Canadian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Hispanic American	' class=''>
+												<input type='checkbox' id='Hispanic American	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Hispanic American	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='La Raza	' class=''>
+												<input type='checkbox' id='La Raza	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>La Raza	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mexican	' class=''>
+												<input type='checkbox' id='Mexican	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mexican	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mexican American	' class=''>
+												<input type='checkbox' id='Mexican American	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mexican American	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mexican American Indian	' class=''>
+												<input type='checkbox' id='Mexican American Indian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mexican American Indian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Mexicano	' class=''>
+												<input type='checkbox' id='Mexicano	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Mexicano	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Oceania	' class='hasChild'>
+											<input type='checkbox' id='Oceania	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Oceania	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Australian 	' class=''>
+												<input type='checkbox' id='Australian 	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Australian 	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Indonesian	' class=''>
+												<input type='checkbox' id='Indonesian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Indonesian	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Kiribati	' class=''>
+												<input type='checkbox' id='Kiribati	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Kiribati	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Kosraean	' class=''>
+												<input type='checkbox' id='Kosraean	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Kosraean	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Melanesian	' class='hasChild'>
+												<input type='checkbox' id='Melanesian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Melanesian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Solomon Islander' class=''>
+													<input type='checkbox' id='Solomon Islander' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Solomon Islander</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Fijian' class=''>
+													<input type='checkbox' id='Fijian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Fijian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Papua New Guinean' class=''>
+													<input type='checkbox' id='Papua New Guinean' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Papua New Guinean</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Micronesian	' class='hasChild'>
+												<input type='checkbox' id='Micronesian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Micronesian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Chuukese' class=''>
+													<input type='checkbox' id='Chuukese' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chuukese</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Marshallese' class=''>
+													<input type='checkbox' id='Marshallese' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Marshallese</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Palauan' class=''>
+													<input type='checkbox' id='Palauan' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Palauan</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Pohnpeian' class=''>
+													<input type='checkbox' id='Pohnpeian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Pohnpeian</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Mariana Islander	' class='hasChild'>
+												<input type='checkbox' id='Mariana Islander	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Mariana Islander	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Carolinian' class=''>
+													<input type='checkbox' id='Carolinian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Carolinian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Chamorro' class=''>
+													<input type='checkbox' id='Chamorro' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Chamorro</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Saipanese' class=''>
+													<input type='checkbox' id='Saipanese' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Saipanese</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='New Hebrides	' class=''>
+												<input type='checkbox' id='New Hebrides	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>New Hebrides	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='New Zealander	' class='hasChild'>
+												<input type='checkbox' id='New Zealander	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>New Zealander	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Maori' class=''>
+													<input type='checkbox' id='Maori' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Maori</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Niuean	' class=''>
+												<input type='checkbox' id='Niuean	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Niuean	</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Polynesian	' class='hasChild'>
+												<input type='checkbox' id='Polynesian	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Polynesian	</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Tahitian' class=''>
+													<input type='checkbox' id='Tahitian' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Tahitian</span>
+													<div style='clear: both;'></div>
+													</div>
+													<div id='Tokelauan' class=''>
+													<input type='checkbox' id='Tokelauan' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Tokelauan</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Yapese	' class=''>
+												<input type='checkbox' id='Yapese	' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Yapese	</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='South America' class='hasChild'>
+											<input type='checkbox' id='South America' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>South America</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Argentinean' class=''>
+												<input type='checkbox' id='Argentinean' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Argentinean</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Bolivian' class=''>
+												<input type='checkbox' id='Bolivian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Bolivian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Chilean' class=''>
+												<input type='checkbox' id='Chilean' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Chilean</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Colombian' class=''>
+												<input type='checkbox' id='Colombian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Colombian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Criollo' class=''>
+												<input type='checkbox' id='Criollo' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Criollo</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Ecuadorian' class=''>
+												<input type='checkbox' id='Ecuadorian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Ecuadorian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Latin American' class=''>
+												<input type='checkbox' id='Latin American' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Latin American</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Paraguayan' class=''>
+												<input type='checkbox' id='Paraguayan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Paraguayan</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Peruvian' class=''>
+												<input type='checkbox' id='Peruvian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Peruvian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='South American Indian' class=''>
+												<input type='checkbox' id='South American Indian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>South American Indian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Uruguayan' class=''>
+												<input type='checkbox' id='Uruguayan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Uruguayan</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Venezuelan' class=''>
+												<input type='checkbox' id='Venezuelan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Venezuelan</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='West Indies/Caribbean' class='hasChild'>
+											<input type='checkbox' id='West Indies/Caribbean' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>West Indies/Caribbean</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Bahamian' class=''>
+												<input type='checkbox' id='Bahamian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Bahamian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Barbadian' class=''>
+												<input type='checkbox' id='Barbadian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Barbadian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Barbados' class=''>
+												<input type='checkbox' id='Barbados' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Barbados</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Carribbean' class=''>
+												<input type='checkbox' id='Carribbean' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Carribbean</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cuban' class=''>
+												<input type='checkbox' id='Cuban' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cuban</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Dominican' class=''>
+												<input type='checkbox' id='Dominican' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Dominican</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Guamanian' class=''>
+												<input type='checkbox' id='Guamanian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Guamanian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Haitian' class=''>
+												<input type='checkbox' id='Haitian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Haitian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Jamaican' class=''>
+												<input type='checkbox' id='Jamaican' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Jamaican</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Puerto Rican' class=''>
+												<input type='checkbox' id='Puerto Rican' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Puerto Rican</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Tobagoan' class=''>
+												<input type='checkbox' id='Tobagoan' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Tobagoan</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Trinidadian' class=''>
+												<input type='checkbox' id='Trinidadian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Trinidadian</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='West Indian' class=''>
+												<input type='checkbox' id='West Indian' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>West Indian</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Ethnoreligious Groups' class='hasChild'>
+											<input type='checkbox' id='Ethnoreligious Groups' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Ethnoreligious Groups</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Amish' class=''>
+												<input type='checkbox' id='Amish' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Amish</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Ashkenazi Jewish' class=''>
+												<input type='checkbox' id='Ashkenazi Jewish' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Ashkenazi Jewish</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Jewish' class=''>
+												<input type='checkbox' id='Jewish' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Jewish</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Hutterite' class=''>
+												<input type='checkbox' id='Hutterite' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Hutterite</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Analysis Methods 
+								<div class="container alignleft">
+									<h4>Analysis Methods: </h4>
+									<div id="advanced-search-option-analysisMethods" class="advanced-search-option-box  rounded">
+										<div id='Analysis Methods'>
+											<div id='Clinical Genetic Testing			' class=''>
+											<input type='checkbox' id='Clinical Genetic Testing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Clinical Genetic Testing			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='eQTL			' class=''>
+											<input type='checkbox' id='eQTL			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>eQTL			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Exome Sequencing			' class=''>
+											<input type='checkbox' id='Exome Sequencing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Exome Sequencing			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Marker Discovery			' class=''>
+											<input type='checkbox' id='Marker Discovery			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Marker Discovery			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Meta-Analysis			' class=''>
+											<input type='checkbox' id='Meta-Analysis			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Meta-Analysis			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Pedigree Whole Genome Sequencing			' class=''>
+											<input type='checkbox' id='Whole Genome Sequencing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Whole Genome Sequencing			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='RNA Sequencing			' class=''>
+											<input type='checkbox' id='RNA Sequencing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>RNA Sequencing			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Tissue  Expression			' class=''>
+											<input type='checkbox' id='Tissue  Expression			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Tissue  Expression			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Whole Genome Sequencing			' class=''>
+											<input type='checkbox' id='Whole Genome Sequencing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Whole Genome Sequencing			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Xenograft			' class=''>
+											<input type='checkbox' id='Xenograft			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Xenograft			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Full Transcriptome Sequencing			' class=''>
+											<input type='checkbox' id='Full Transcriptome Sequencing			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Full Transcriptome Sequencing			</span>
+											<div style='clear: both;'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								-->
+
+								<!-- Machine -->
+								<div class="container alignleft">
+									<h4>Machine: </h4>
+									<div id="advanced-search-option-machine" class="advanced-search-option-box  rounded ">
+										<div id='Machine		'>
+											<div id='Sequencing	' class='hasChild'>
+											<input type='checkbox' id='Sequencing	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Sequencing	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='454 GS FLX Titanium' class=''>
+												<input type='checkbox' id='454 GS FLX Titanium' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>454 GS FLX Titanium</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Genome Analyzer' class=''>
+												<input type='checkbox' id='Genome Analyzer' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Genome Analyzer</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Genome Analyzer II' class=''>
+												<input type='checkbox' id='Genome Analyzer II' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Genome Analyzer II</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Genome Analyzer IIX' class=''>
+												<input type='checkbox' id='Genome Analyzer IIX' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Genome Analyzer IIX</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HiSeq 2000' class=''>
+												<input type='checkbox' id='HiSeq 2000' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HiSeq 2000</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='HiSeq 2500' class=''>
+												<input type='checkbox' id='HiSeq 2500' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>HiSeq 2500</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='SOLiD' class=''>
+												<input type='checkbox' id='SOLiD' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>SOLiD</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='BioAssay systems	' class='hasChild'>
+											<input type='checkbox' id='BioAssay systems	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>BioAssay systems	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='BeadXpress Y1' class=''>
+												<input type='checkbox' id='BeadXpress Y1' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>BeadXpress Y1</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='BeadXpress Y1 (4)' class=''>
+												<input type='checkbox' id='BeadXpress Y1 (4)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>BeadXpress Y1 (4)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='BeadXpress Y2' class=''>
+												<input type='checkbox' id='BeadXpress Y2' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>BeadXpress Y2</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='MassARRAY' class=''>
+												<input type='checkbox' id='MassARRAY' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>MassARRAY</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Data Analysis Methods -->
+								<div class="container alignleft">
+									<h4>Data Analysis Methods: </h4>
+									<div id="advanced-search-option-dataAnalysisMethods" class="advanced-search-option-box  rounded">
+										<div id='Data Analysis Methods		'>
+											<div id='Alignmnet	' class='hasChild'>
+											<input type='checkbox' id='Alignmnet	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Alignmnet	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Burrows-Wheeler Aligner (BWA)' class=''>
+												<input type='checkbox' id='Burrows-Wheeler Aligner (BWA)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Burrows-Wheeler Aligner (BWA)</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Assembly	' class='hasChild'>
+											<input type='checkbox' id='Assembly	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Assembly	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Assembler Version 1.2.0' class=''>
+												<input type='checkbox' id='Assembler Version 1.2.0' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Assembler Version 1.2.0</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Assembler Version 1.7.3' class=''>
+												<input type='checkbox' id='Assembler Version 1.7.3' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Assembler Version 1.7.3</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Incorporated Assembler Version 1.8' class=''>
+												<input type='checkbox' id='Incorporated Assembler Version 1.8' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Incorporated Assembler Version 1.8</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+											<div id='Sequence Analysis/Annotation	' class='hasChild'>
+											<input type='checkbox' id='Sequence Analysis/Annotation	' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Sequence Analysis/Annotation	</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='The Genome Analysis Toolkit (GTAK)' class=''>
+												<input type='checkbox' id='The Genome Analysis Toolkit (GTAK)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>The Genome Analysis Toolkit (GTAK)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Cross_match (1.080812)' class=''>
+												<input type='checkbox' id='Cross_match (1.080812)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Cross_match (1.080812)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Maq (0.7.1)' class=''>
+												<input type='checkbox' id='Maq (0.7.1)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Maq (0.7.1)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='phaster (1.100122a)' class=''>
+												<input type='checkbox' id='phaster (1.100122a)' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>phaster (1.100122a)</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='CCDS' class=''>
+												<input type='checkbox' id='CCDS' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>CCDS</span>
+												<div style='clear: both;'></div>
+												</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+							</div>
+
+							<div class="container alignleft">
+								<!-- Sex -->
+								<div class="container alignleft">
+									<h4>Sex: </h4>
+									<div id="advanced-search-option-sex" class="advanced-search-option-box  rounded">
+										<div id="advanced-search-option-sex-male" class="advanced-search-option-selectable">
+											<input type='checkbox' id='male' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Male</span>
+										</div>
+										<div id="advanced-search-option-sex-female" class="advanced-search-option-selectable">
+											<input type='checkbox' id='female' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Female</span>
+										</div>
+										<div id="advanced-search-option-sex-both" class="advanced-search-option-selectable">
+											<input type='checkbox' id='both' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Both</span>
+										</div>
+										<div id="advanced-search-option-sex-either" class="advanced-search-option-selectable">
+											<input type='checkbox' id='either' class='advanced-list alignLeft'>
+											<span class='advanced-list'>Either</span>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>					
+
+								<!-- Study Design -->
+								<div class="container alignleft">
+									<h4>Study Design: </h4>
+									<div id="advanced-search-option-studyDesign" class="advanced-search-option-box  rounded">
+										<div id='Study Design'>
+											<div id='Interventional Studies			' class='hasChild'>
+											<input type='checkbox' id='Interventional Studies			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Interventional Studies			</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Clinical Trials		' class='hasChild'>
+												<input type='checkbox' id='Clinical Trials		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Clinical Trials		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Non Randomized Clinical Trial	' class='hasChild'>
+													<input type='checkbox' id='Non Randomized Clinical Trial	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg condensed'></div>
+														<span class='advanced-list'>Non Randomized Clinical Trial	</span>
+													<div style='clear: both;'></div>
+														<div class='hide'>
+														<div id='Phase1' class=''>
+														<input type='checkbox' id='Phase1' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase1</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Phase 2' class=''>
+														<input type='checkbox' id='Phase 2' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase 2</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Phase3' class=''>
+														<input type='checkbox' id='Phase3' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase3</span>
+														<div style='clear: both;'></div>
+														</div>
+														</div>
+													</div>
+													<div id='Randomized Controlled Clinical Trial	' class='hasChild'>
+													<input type='checkbox' id='Randomized Controlled Clinical Trial	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg condensed'></div>
+														<span class='advanced-list'>Randomized Controlled Clinical Trial	</span>
+													<div style='clear: both;'></div>
+														<div class='hide'>
+														<div id='Phase1' class=''>
+														<input type='checkbox' id='Phase1' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase1</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Phase 2' class=''>
+														<input type='checkbox' id='Phase 2' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase 2</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Phase3' class=''>
+														<input type='checkbox' id='Phase3' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Phase3</span>
+														<div style='clear: both;'></div>
+														</div>
+														</div>
+													</div>
+													</div>
+												</div>
+												<div id='Controlled Trial		' class=''>
+												<input type='checkbox' id='Controlled Trial		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Controlled Trial		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Double Blind Study		' class=''>
+												<input type='checkbox' id='Double Blind Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Double Blind Study		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Placebo Controlled Study		' class=''>
+												<input type='checkbox' id='Placebo Controlled Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Placebo Controlled Study		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Randomized Trial		' class='hasChild'>
+												<input type='checkbox' id='Randomized Trial		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Randomized Trial		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+														<div id='Mendelian Randomized	' class=''>
+														<input type='checkbox' id='Mendelian Randomized	' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Mendelian Randomized	</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Partial Factorial Randomized Trial	' class=''>
+														<input type='checkbox' id='Partial Factorial Randomized Trial	' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Partial Factorial Randomized Trial	</span>
+														<div style='clear: both;'></div>
+														</div>
+														<div id='Randomized Controlled Clinical Trial	' class='hasChild'>
+															<input type='checkbox' id='Randomized Controlled Clinical Trial	' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>Randomized Controlled Clinical Trial	</span>
+															<div style='clear: both;'></div>
+														</div>
+													</div>
+												</div>
+												</div>
+											</div>
+											<div id='Multicenter Study			' class=''>
+											<input type='checkbox' id='Multicenter Study			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Multicenter Study			</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Observational Studies			' class='hasChild'>
+											<input type='checkbox' id='Observational Studies			' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg condensed'></div>
+												<span class='advanced-list'>Observational Studies			</span>
+											<div style='clear: both;'></div>
+												<div class='hide'>
+												<div id='Case-Control Study		' class='hasChild'>
+												<input type='checkbox' id='Case-Control Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Case-Control Study		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Nested Case Control Study	' class=''>
+													<input type='checkbox' id='Nested Case Control Study	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Nested Case Control Study	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Cross Setional Study		' class='hasChild'>
+												<input type='checkbox' id='Cross Setional Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Cross Setional Study		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Quantitative Cross Sectional Study	' class=''>
+													<input type='checkbox' id='Quantitative Cross Sectional Study	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Quantitative Cross Sectional Study	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Genome Wide Association Study		' class=''>
+												<input type='checkbox' id='Genome Wide Association Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Genome Wide Association Study		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Longitudinal Study		' class='hasChild'>
+												<input type='checkbox' id='Longitudinal Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Longitudinal Study		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+													<div id='Longitudinal Cohort Study	' class=''>
+													<input type='checkbox' id='Longitudinal Cohort Study	' class='advanced-list alignLeft'>
+														<div class='alignLeft hierarchyParentImg'></div>
+														<span class='advanced-list'>Longitudinal Cohort Study	</span>
+													<div style='clear: both;'></div>
+													</div>
+													</div>
+												</div>
+												<div id='Population Based Study		' class=''>
+												<input type='checkbox' id='Population Based Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg'></div>
+													<span class='advanced-list'>Population Based Study		</span>
+												<div style='clear: both;'></div>
+												</div>
+												<div id='Prospective Cohort Study		' class='hasChild'>
+												<input type='checkbox' id='Prospective Cohort Study		' class='advanced-list alignLeft'>
+													<div class='alignLeft hierarchyParentImg condensed'></div>
+													<span class='advanced-list'>Prospective Cohort Study		</span>
+												<div style='clear: both;'></div>
+													<div class='hide'>
+														<div id='				' class=''>
+														<input type='checkbox' id='				' class='advanced-list alignLeft'>
+															<div class='alignLeft hierarchyParentImg'></div>
+															<span class='advanced-list'>				</span>
+														<div style='clear: both;'></div>
+														</div>
+													</div>
+												</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Race -->
+								<div class="container alignleft">
+									<h4>Race: </h4>
+									<div id="advanced-search-option-race" class="advanced-search-option-box  rounded">
+										<div id='Race'>
+											<div id='African American' class=''>
+											<input type='checkbox' id='African American' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>African American</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='American Indian or Alaska Native' class=''>
+											<input type='checkbox' id='American Indian or Alaska Native' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>American Indian/Alaska Native</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Asian' class=''>
+											<input type='checkbox' id='Asian' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Asian</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Native Hawaiian or Other Pacific Islander' class=''>
+											<input type='checkbox' id='Native Hawaiian or Other Pacific Islander' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Native Hawaiian/Pacific Islander</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='White' class=''>
+											<input type='checkbox' id='White' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>White</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Mixed Race' class=''>
+											<input type='checkbox' id='Mixed Race' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Mixed Race</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Other' class=''>
+											<input type='checkbox' id='Other' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Other</span>
+												<input type='text' class='advanced-list' id='Other'>
+											<div style='clear: both;'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="clear: both;"></div>
+
+								<!-- Sequencing Techniques -->
+								<div class="container alignleft">
+									<h4>Sequencing Techniques: </h4>
+									<div id="advanced-search-option-sequencingTechniques" class="advanced-search-option-box  rounded ">
+										<div id='Sequencing Techniques		'>
+											<div id='101bp paired end reads' class=''>
+											<input type='checkbox' id='101bp paired end reads' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>101bp paired end reads</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Agilent selected, 76bp paired end reads' class=''>
+											<input type='checkbox' id='Agilent selected, 76bp paired end reads' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Agilent selected, 76bp paired end reads</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='De novo sequencing' class=''>
+											<input type='checkbox' id='De novo sequencing' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>De novo sequencing</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Sanger Sequencing' class=''>
+											<input type='checkbox' id='Sanger Sequencing' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Sanger Sequencing</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Single base extension' class=''>
+											<input type='checkbox' id='Single base extension' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Single base extension</span>
+											<div style='clear: both;'></div>
+											</div>
+											<div id='Single-Read Cluster Generation Kit v2' class=''>
+											<input type='checkbox' id='Single-Read Cluster Generation Kit v2' class='advanced-list alignLeft'>
+												<div class='alignLeft hierarchyParentImg'></div>
+												<span class='advanced-list'>Single-Read Cluster Generation Kit v2</span>
+											<div style='clear: both;'></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div style="clear: both;"></div>
+
+							</div>
+
+							<div style="clear: both;"></div>
+
+						</div>
+
+					</div>
+
+					<hr>
+
+					<div class="body">
+
+						<div class="container" id="advanced-search-container">
+
+							<div id="primary-advanced-search-container">
+
+								<!-- Drop down menu -->
+								<div class="container alignleft">
+								<select class="advanced-search-tag" id="primary-search-bar">
+									<option selected="selected" value="All Fields">All Fields</option>
+									<option value="Analysis">Analysis</option>
+									<option value="Analysis ID">Analysis ID</option>
+									<option value="Analysis Name">Analysis Name</option>
+									<option value="Ancestor">Ancestor</option>
+									<option value="Attribution">Attribution</option>
+									<option value="Belongs To">Belongs To</option>
+									<option value="Dataset">Dataset</option>
+									<option value="Dataset ID">Dataset ID</option>
+									<option value="Dataset Name">Dataset Name</option>
+									<option value="Discriminator">Discriminator</option>
+									<option value="Disease">Disease</option>
+									<option value="Document">Document</option>
+									<option value="Document ID">Document ID</option>
+									<option value="Document Name">Document Name</option>
+									<option value="Document Part">Document Part</option>
+									<option value="Filter">Filter</option>
+									<option value="Genotype Platform">Genotype Platform</option>
+									<option value="Has Analysis">Has Analysis</option>
+									<option value="Has Dataset">Has Dataset</option>
+									<option value="Has Document">Has Document</option>
+									<option value="Has PhenX Mapping">Has PhenX Mapping</option>
+									<option value="Has Variable">Has Variable</option>
+									<option value="Is Root Study">Is Root Study</option>
+									<option value="Is Top-Level Study">Is Top-Level Study</option>
+									<option value="Object Type">Object Type</option>
+									<option value="PhenX">PhenX</option>
+									<option value="Project">Project</option>
+									<option value="Study">Study</option>
+									<option value="Study Archive">Study Archive</option>
+									<option value="Study Has SRA Components">Study Has SRA Components</option>
+									<option value="Study ID">Study ID</option>
+									<option value="Study Name">Study Name</option>
+									<option value="Variable">Variable</option>
+									<option value="Variable Description">Variable Description</option>
+									<option value="Variable ID">Variable ID</option>
+									<option value="Variable Name">Variable Name</option>
+								</select>
+								</div> 
+
+								<!-- Search Bar -->
+								<div class="container alignleft">
+								<input class="advanced-search-bar" type="text" name="query" id="primary-search-bar" value=""> 
+								</div>
+
+								<!-- Plus and Minus icons -->
+								<div class="container alignleft">
+									<img id="search-bar-add" src="./images/plus.png" alt="Add Search Option" height="16" width="16">
+								</div>
+
+								<!-- Result Count -->
+								<div class="container alignleft">
+									<!-- <span id="primary-search-bar">Items Found: 0</span> -->
+								</div>
+
+								<div style="clear: both;"></div>
+							</div>
+
+							<br>
+
+							<div class="container" id="secondary-search-container">
+
+							<div class="container advanced-search-bar" id="searchBar_0"><!-- Drop down menu --><div class="container alignleft"><select class="advanced-search-option" id="searchBar_0"><option value="AND">And</option><option value="OR">Or</option></select></div><!-- Drop down menu --><div class="container alignleft"><select class="advanced-search-tag" id="searchBar_0"><option selected="selected" value="All Fields">All Fields</option><option value="Analysis">Analysis</option><option value="Analysis ID">Analysis ID</option><option value="Analysis Name">Analysis Name</option><option value="Ancestor">Ancestor</option><option value="Attribution">Attribution</option><option value="Belongs To">Belongs To</option><option value="Dataset">Dataset</option><option value="Dataset ID">Dataset ID</option><option value="Dataset Name">Dataset Name</option><option value="Discriminator">Discriminator</option><option value="Disease">Disease</option><option value="Document">Document</option><option value="Document ID">Document ID</option><option value="Document Name">Document Name</option><option value="Document Part">Document Part</option><option value="Filter">Filter</option><option value="Genotype Platform">Genotype Platform</option><option value="Has Analysis">Has Analysis</option><option value="Has Dataset">Has Dataset</option><option value="Has Document">Has Document</option><option value="Has PhenX Mapping">Has PhenX Mapping</option><option value="Has Variable">Has Variable</option><option value="Is Root Study">Is Root Study</option><option value="Is Top-Level Study">Is Top-Level Study</option><option value="Object Type">Object Type</option><option value="PhenX">PhenX</option><option value="Project">Project</option><option value="Study">Study</option><option value="Study Archive">Study Archive</option><option value="Study Has SRA Components">Study Has SRA Components</option><option value="Study ID">Study ID</option><option value="Study Name">Study Name</option><option value="Variable">Variable</option><option value="Variable Description">Variable Description</option><option value="Variable ID">Variable ID</option><option value="Variable Name">Variable Name</option></select></div><!-- Search Bar --><div class="container alignleft"><input class="advanced-search-bar" type="text" name="query" id="searchBar_0" value=""> </div><!-- Plus and Minus icons --><div class="container alignleft"><img onclick="removeAdvancedSearchBar(this)" class="search-bar-remove" id="searchBar_0" src="./images/minus.png" alt="Add Search Option" height="16" width="16"></div><!-- Result Count <div class='container alignleft'><span id='search_result_0'>Items Found: 0</span></div>--><div style="clear: both;"></div></div><div class="container advanced-search-bar" id="searchBar_1"><!-- Drop down menu --><div class="container alignleft"><select class="advanced-search-option" id="searchBar_1"><option value="AND">And</option><option value="OR">Or</option></select></div><!-- Drop down menu --><div class="container alignleft"><select class="advanced-search-tag" id="searchBar_1"><option selected="selected" value="All Fields">All Fields</option><option value="Analysis">Analysis</option><option value="Analysis ID">Analysis ID</option><option value="Analysis Name">Analysis Name</option><option value="Ancestor">Ancestor</option><option value="Attribution">Attribution</option><option value="Belongs To">Belongs To</option><option value="Dataset">Dataset</option><option value="Dataset ID">Dataset ID</option><option value="Dataset Name">Dataset Name</option><option value="Discriminator">Discriminator</option><option value="Disease">Disease</option><option value="Document">Document</option><option value="Document ID">Document ID</option><option value="Document Name">Document Name</option><option value="Document Part">Document Part</option><option value="Filter">Filter</option><option value="Genotype Platform">Genotype Platform</option><option value="Has Analysis">Has Analysis</option><option value="Has Dataset">Has Dataset</option><option value="Has Document">Has Document</option><option value="Has PhenX Mapping">Has PhenX Mapping</option><option value="Has Variable">Has Variable</option><option value="Is Root Study">Is Root Study</option><option value="Is Top-Level Study">Is Top-Level Study</option><option value="Object Type">Object Type</option><option value="PhenX">PhenX</option><option value="Project">Project</option><option value="Study">Study</option><option value="Study Archive">Study Archive</option><option value="Study Has SRA Components">Study Has SRA Components</option><option value="Study ID">Study ID</option><option value="Study Name">Study Name</option><option value="Variable">Variable</option><option value="Variable Description">Variable Description</option><option value="Variable ID">Variable ID</option><option value="Variable Name">Variable Name</option></select></div><!-- Search Bar --><div class="container alignleft"><input class="advanced-search-bar" type="text" name="query" id="searchBar_1" value=""> </div><!-- Plus and Minus icons --><div class="container alignleft"><img onclick="removeAdvancedSearchBar(this)" class="search-bar-remove" id="searchBar_1" src="./images/minus.png" alt="Add Search Option" height="16" width="16"></div><!-- Result Count <div class='container alignleft'><span id='search_result_1'>Items Found: 0</span></div>--><div style="clear: both;"></div></div></div>
+
+						</div>
+
+						<div class="container">
+
+							<!-- Search type checkbox -->
+							
+
+							<div class="container alignleft">
+								<input type="text" id="searchBuffer" onfocus="if (value == 'Use the builder above to create your search') {value=''}" onblur="if (value.replace(/ +?/g, '') == '') {value='Use the builder above to create your search'}" value="Use the builder above to create your search">
+							</div>
+
+							<div class="container alignleft">
+								<!-- <span>Total Items Found: 0</span> -->
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class="container">
+								<input type="checkbox" name="search" checked>Concept-based
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="bottom">
+
+						<div class="container alignleft">
+							<button id="submitAdvancedSearch">Search</button>
+							<button id="clearAdvancedSearch">Clear All</button>
+							<button id="saveAdvancedSearch">Save Search</button>
+						</div>
+						<div class="container alignright">
+							<img src="./images/help.png" id="advanced-options-help" alt="help" height="24" width="24" ="0">
+						</div>
+					</div>
+				</div>
+
+				<div style="clear: both;"></div>
+
+			</div>
+
+			<div id='advanced-body' class='shadow border rounded'>
+
+				<div class='top'>
+					<h2>Recent Search History</h2>
+				</div>
+
+				<div class='body'>
+					<table id='advanced-history'>
+						<tr>
+							<th>Index</th>
+							<th>Search</th>
+							<th># of Results</th>
+							<th>Time</th>
+							<th>Add to Search</th>
+						</tr>
+						<tbody>
+							<tr id='history_tablerow_0'>
+								<td class='index'>1</td>
+								<td class='study'>leukemia[Study Name] AND acute myeloid[Study Name]</td>
+								<td class='results'>27</td>
+								<td class='time'>4-17-2013 11:22:19</td>
+								<td class='add'>
+									<button class='historyAddAND' type='button' >And</button>
+									<button class='historyAddOR' type='button' >Or</button>
+								</td>
+							</tr>
+							<tr id='history_tablerow_1'>
+								<td class='index'>2</td>
+								<td class='study'>women[Participants] AND gland[Study Name] AND cancer[Study Name]</td>
+								<td class='results'>16</td>
+								<td class='time'>4-17-2013 11:22:19</td>
+								<td class='add'>
+									<button class='historyAddAND' type='button' >And</button>
+									<button class='historyAddOR' type='button' >Or</button>
+								</td>
+							</tr>
+							<tr id='history_tablerow_2'>
+								<td class='index'>3</td>
+								<td class='study'>depression[Study Name] AND dysphoria[Study Name]</td>
+								<td class='results'>9</td>
+								<td class='time'>4-17-2013 11:22:19</td>
+								<td class='add'>
+									<button class='historyAddAND' type='button' >And</button>
+									<button class='historyAddOR' type='button' >Or</button>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+
+			</div>
+
+			<div id='main-footer' class='rounded shadow border'>
+				<h4 id='dbv'>Database Version: March 31st, 2013</h4>
+				<div style="clear: both;"></div>
+			</div>
+
+		<!-- PhD Footer START
+		<div id="main-footer" class="rounded shadow ">
+
+			<div class="body">
+
+				<div class="container alignleft">
+
+		    		<ul class="main-footer" id="getting_started">
+		        		<h3 class="main-footer">Getting Started</h3>
+		        		<li><a href="http://www.ncbi.nlm.nih.gov/Education/">NCBI Education</a></li>
+		        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK3831/">NCBI Help Manual</a></li>
+		        		<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK21101/">NCBI Handbook</a></li>
+		        		<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials/">Training &amp; Tutorials</a></li>
+		    		</ul>
+
+		    	</div>
+
+		    	<div class="container alignleft">
+
+		    		<ul class="main-footer" id="resources">
+		        		<h3 class="main-footer">Resources</h3>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/chemicals-bioassays">Chemicals &amp; Bioassays</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/data-software">Data &amp; Software</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/dna-rna">DNA &amp; RNA</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/domains-structures">Domains &amp; Structures</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genes-expression">Genes &amp; Expression</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genetics-medicine">Genetics &amp; Medicine</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/genomes-maps">Genomes &amp; Maps</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/homology">Homology</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/literature">Literature</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/proteins">Proteins</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/sequence-analysis">Sequence Analysis</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/taxonomy">Taxonomy</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/training-tutorials">Training &amp; Tutorials</a></li>
+		    			<li><a href="http://www.ncbi.nlm.nih.gov/guide/variation">Variation</a></li>
+		    		</ul>
+
+		    	</div>
+
+		    	<div class="container alignleft">
+
+			        <ul class="main-footer" id="popular">
+			            <h3 class="main-footer">Popular</h3>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/nucleotide/">Nucleotide</a></li>
+			            <li><a href="http://blast.ncbi.nlm.nih.gov/">BLAST</a></li>
+			            <li><a href="http://www.pubmedcentral.nih.gov/" class="newdomain">PubMed Central</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/gene/">Gene</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/books/">Bookshelf</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/protein/">Protein</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/omim/">OMIM</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/genome/">Genome</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/snp/">SNP</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/Structure/">Structure</a></li>
+			        </ul>
+
+			    </div>
+
+			    <div class="container alignleft">
+
+			        <ul class="main-footer" id="featured">
+			            <h3 class="main-footer">Featured</h3>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/gtr/">Genetic Testing Registry</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/pubmedhealth/">PubMed Health</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/refseq/">Reference Sequences</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/mapview/">Map Viewer</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/human/">Human Genome</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/genome/guide/mouse/">Mouse Genome</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/genomes/FLU/">Influenza Virus</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/tools/primer-blast/">Primer-BLAST</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/Traces/sra/">Sequence Read Archive</a></li>
+			        </ul>
+
+			    </div>
+
+			    <div class="container alignleft">
+
+			        <ul class="main-footer" id="info">
+			            <h3 class="main-footer">NCBI Information</h3>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/About/">About NCBI</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/research/">Research at NCBI</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/books/NBK1969/">NCBI Newsletter</a></li>
+			            <li><a href="http://www.ncbi.nlm.nih.gov/Ftp/">NCBI FTP Site</a></li>
+			            <li><a class="external" href="http://www.facebook.com/ncbi.nlm" role="button" aria-expanded="false" target="_blank">NCBI on Facebook</a></li>
+			            <li><a class="external" href="http://www.twitter.com/ncbi" role="button" aria-expanded="false" target="_blank">NCBI on Twitter</a></li>
+			            <li><a class="external" href="http://www.youtube.com/ncbinlm" role="button" aria-expanded="false" target="_blank">NCBI on YouTube</a></li>
+			        </ul>
+
+			    </div>
+
+			    <div style="clear: both;"></div>
+
+		    </div>
+
+
+		    <div class="container">  
+
+		    	<div class="container alignleft"> 
+
+		       		<div id="footer-disclaimer" class="alignleft">
+			            <a href="/About/disclaimer.html">Copyright</a> | <a href="/About/disclaimer.html#disclaimer">Disclaimer</a> |
+			            <a href="http://www.nlm.nih.gov/privacy.html" class="newdomain">Privacy</a> | <a href="http://www.nlm.nih.gov/accessibility.html">Accessibility</a> | <a href="/About/glance/contact_info.html">Contact</a>
+			        </div>
+
+			        <br>
+
+			        <div class="alignleft">
+			            <p id="footer-address" class="alignright">
+			                <span>
+			                    <a class="" href="http://www.ncbi.nlm.nih.gov">National Center for Biotechnology Information,</a>
+			                </span>
+			                <span>
+			                	<a href="http://www.nlm.nih.gov/">U.S. National Library of Medicine</a><br></span>
+			                <span>
+			                    <span>8600 Rockville Pike</span>,<span>Bethesda</span>
+			                    <span>MD</span>, <span>20894</span>
+			                    <span>USA</span>
+			                </span>
+			       		</p>
+			       	</div>
+
+		       </div>
+
+		        <div class="container alignright">
+						<a href="http://www.nlm.nih.gov/"><img src="./images/nlm.png" alt="NLM"></a>
+		       			<a href="http://www.nih.gov/"><img src="./images/nih.png" alt="NIH"></a>
+		       			<a href="http://www.dhhs.gov/"><img src="./images/dhhs.png" alt="DHHS"></a>
+		       			<a href="http://www.usa.gov/"><img src="./images/usa.png" alt="USA.gov"></a>
+				</div>
+				
+			</div>
+
+			<div style="clear: both;"></div>
+
+		</div>
+		PhD Footer END -->
+
+	</div>
+
+
+
+	</body>
+
+</html>

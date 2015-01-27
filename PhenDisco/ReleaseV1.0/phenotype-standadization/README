@@ -1,0 +1,4 @@
+
+This contain program for standadize phenotype variables in dbGaP
+Run:
+python pfindrIndex_SemType_v12.py test.inp > test.out

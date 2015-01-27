@@ -1,0 +1,200 @@
+phv00076256.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::case_control:::Case or control?:::string:::NONE:::NONE:::NONE
+phv00089657.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::study_design:::Cohort study or case-control study:::string:::NONE:::NONE:::NONE
+phv00076258.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::sex:::Gender of the participant:::string:::NONE:::NONE:::NONE
+phv00076254.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::SUBJID:::De-identified subject's ID:::string:::NONE:::NONE:::NONE
+phv00076257.v2:::phs000206.v3.p2:::pht000895.v3:::CGEMS_PANSCAN_Data:::age:::Age at enrollment in 10 year interval:::string:::Years old:::NONE:::NONE
+phv00076259.v2:::phs000206.v3.p2:::pht000896.v2:::CGEMS_PANSCAN_Subject:::SUBJID:::De-identified subject's ID:::string:::NONE:::NONE:::NONE
+phv00076260.v2:::phs000206.v3.p2:::pht000896.v2:::CGEMS_PANSCAN_Subject:::CONSENT:::Consent group as determined by DAC:::string:::NONE:::NONE:::NONE
+phv00076261.v2:::phs000206.v3.p2:::pht000896.v2:::CGEMS_PANSCAN_Subject:::Affection Status:::Case or control status of the subject:::string:::NONE:::NONE:::NONE
+phv00076263.v2:::phs000206.v3.p2:::pht000897.v2:::CGEMS_PANSCAN_Sample:::SAMPID:::De-identified sample's ID:::string:::NONE:::NONE:::NONE
+phv00076262.v2:::phs000206.v3.p2:::pht000897.v2:::CGEMS_PANSCAN_Sample:::SUBJID:::De-identified subject's ID:::string:::NONE:::NONE:::NONE
+phv00076172.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NRAS:::Does participant have a somatic mutation in NRAS (Entrez GeneID: 4893)?:::encoded value:::NONE:::NONE:::NONE
+phv00076179.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::SPI1:::Does participant have a somatic mutation in SPI1 (Entrez GeneID: 6688)?:::encoded value:::NONE:::NONE:::NONE
+phv00076152.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Treatment Protocol:::Treatment protocol given to patient:::encoded value:::NONE:::NONE:::NONE
+phv00076154.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Patient expired:::Has patient expired?:::string:::NONE:::NONE:::NONE
+phv00076149.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Age at entry:::Age at diagnosis:::integer:::years:::18:::81
+phv00076163.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 5:::Cytogenetic abnormality found in clone 5 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076164.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 5):::# of abnormal cells in clone 5/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076165.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::months of OS (as of 10/28/08):::# of months of Overall Survival:::decimal:::months:::0.2:::77.2
+phv00076160.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 3):::# of abnormal cells in clone 3/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076158.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (Clone 2):::# of abnormal cells in clone 2/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076144.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::case_control:::Case or control?:::encoded value:::NONE:::NONE:::NONE
+phv00076175.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::CEBPA:::Does participant have a somatic mutation in CEBPA (Entrez GeneID: 1050)?:::encoded value:::NONE:::NONE:::NONE
+phv00076168.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::ETV6:::Does participant have a somatic mutation in ETV6 (Entrez GeneID: 2120)?:::encoded value:::NONE:::NONE:::NONE
+phv00076150.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Race:::Subject's Race:::string:::NONE:::NONE:::NONE
+phv00076171.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::c-Kit:::Does participant have a somatic mutation in c-KIT (Entrez GeneID: 3815)?:::encoded value:::NONE:::NONE:::NONE
+phv00076155.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 1:::Cytogenetic abnormality found in clone 1 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076148.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::PB WBC @ diagnosis:::What was the peripheral blood White Blood Cell Count at diagnosis?:::decimal:::10^3/ul:::0.4:::297.4
+phv00076146.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Sex:::Gender of participant:::encoded value:::NONE:::NONE:::NONE
+phv00076178.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::RUNX1:::Does participant have a somatic mutation in RUNX1 (Entrez GeneID: 861)?:::encoded value:::NONE:::NONE:::NONE
+phv00076174.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NPM1:::Does participant have a somatic mutation in NPM1 (Entrez GeneID: 4869)?:::encoded value:::NONE:::NONE:::NONE
+phv00076161.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 4:::Cytogenetic abnormality found in clone 4 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076145.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FAB:::French-American-British (FAB) classification category for bone marrow biopsy and aspirate:::integer, string:::NONE:::NONE:::NONE
+phv00076143.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::integer:::NONE:::NONE:::NONE
+phv00076169.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FLT3 - ITD:::Does participant have a somatic internal tandem duplication (ITD) in FLT3 (Entrez GeneID: 2322)?:::encoded value:::NONE:::NONE:::NONE
+phv00076170.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FLT3 - D835:::Does participant have a somatic D835 mutation in FLT3 (Entrez GeneID: 2322)?:::encoded value:::NONE:::NONE:::NONE
+phv00076177.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::p53:::Does participant have a somatic mutation in p53 (Entrez GeneID: 7157)?:::encoded value:::NONE:::NONE:::NONE
+phv00076176.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::PTPN11:::Does participant have a somatic mutation in PTPN11 (Entrez GeneID: 5781)?:::encoded value:::NONE:::NONE:::NONE
+phv00076156.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 1):::# of abnormal cells in clone 1/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076173.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::KRAS:::Does participant have a somatic mutation in KRAS (Entrez GeneID: 3845)?:::encoded value:::NONE:::NONE:::NONE
+phv00076153.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Transplant Type:::Type(s) of transplant patient received, if any:::encoded value:::NONE:::NONE:::NONE
+phv00076166.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::months of EFS (as of 10/28/08):::# of months of Event Free Survival:::decimal:::months:::0.2:::65.4
+phv00076147.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::%BM Blast @ diagnosis:::What percentage of myeloblasts were present in the bone marrow at the time of diagnosis?:::integer:::%:::30:::100
+phv00076162.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 4):::# of abnormal cells in clone 4/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076159.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone3:::Cytogenetic abnormality found in clone 3 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076151.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::%PB Blast:::What percentage of blasts were present in the peripheral blood at diagnosis?:::integer, string:::%:::0:::97
+phv00076157.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 2:::Cytogenetic abnormality found in clone 2 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076167.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NUP98 fusion:::Does participant have a NUP98 fusion (Entrez GeneID: 4928)?:::encoded value:::NONE:::NONE:::NONE
+phv00076188.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::TISSUE:::Tissue of origin from which sample was made:::string:::NONE:::NONE:::NONE
+phv00076189.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SOURCE_SAMPID:::Sample ID used in the Source Repository:::string:::NONE:::NONE:::NONE
+phv00076186.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SAMPID:::CEL file and txt file chip ID:::string:::NONE:::NONE:::NONE
+phv00076187.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SAMP_SOURCE:::Source repository where samples originate:::string:::NONE:::NONE:::NONE
+phv00076185.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::string:::NONE:::NONE:::NONE
+phv00076183.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SOURCE_SUBJID:::Subject ID used in the Source Repository:::string:::NONE:::NONE:::NONE
+phv00076180.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::string:::NONE:::NONE:::NONE
+phv00076181.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::CONSENT:::Consent group as determined by DAC:::encoded value:::NONE:::NONE:::NONE
+phv00076184.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::AFFECTION_STATUS:::Affection Status:::encoded value:::NONE:::NONE:::NONE
+phv00076182.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SUBJ_SOURCE:::Source repository where subjects originate:::string:::NONE:::NONE:::NONE
+phv00076183.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SOURCE_SUBJID:::Subject ID used in the Source Repository:::string:::NONE:::NONE:::NONE
+phv00076180.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::string:::NONE:::NONE:::NONE
+phv00076181.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::CONSENT:::Consent group as determined by DAC:::encoded value:::NONE:::NONE:::NONE
+phv00076184.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::AFFECTION_STATUS:::Affection Status:::encoded value:::NONE:::NONE:::NONE
+phv00076182.v1:::phs000201.v1.p1:::pht000886.v1:::AML_Subject:::SUBJ_SOURCE:::Source repository where subjects originate:::string:::NONE:::NONE:::NONE
+phv00076172.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NRAS:::Does participant have a somatic mutation in NRAS (Entrez GeneID: 4893)?:::encoded value:::NONE:::NONE:::NONE
+phv00076179.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::SPI1:::Does participant have a somatic mutation in SPI1 (Entrez GeneID: 6688)?:::encoded value:::NONE:::NONE:::NONE
+phv00076152.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Treatment Protocol:::Treatment protocol given to patient:::encoded value:::NONE:::NONE:::NONE
+phv00076154.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Patient expired:::Has patient expired?:::string:::NONE:::NONE:::NONE
+phv00076149.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Age at entry:::Age at diagnosis:::integer:::years:::18:::81
+phv00076163.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 5:::Cytogenetic abnormality found in clone 5 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076164.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 5):::# of abnormal cells in clone 5/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076165.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::months of OS (as of 10/28/08):::# of months of Overall Survival:::decimal:::months:::0.2:::77.2
+phv00076160.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 3):::# of abnormal cells in clone 3/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076158.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (Clone 2):::# of abnormal cells in clone 2/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076144.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::case_control:::Case or control?:::encoded value:::NONE:::NONE:::NONE
+phv00076175.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::CEBPA:::Does participant have a somatic mutation in CEBPA (Entrez GeneID: 1050)?:::encoded value:::NONE:::NONE:::NONE
+phv00076168.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::ETV6:::Does participant have a somatic mutation in ETV6 (Entrez GeneID: 2120)?:::encoded value:::NONE:::NONE:::NONE
+phv00076150.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Race:::Subject's Race:::string:::NONE:::NONE:::NONE
+phv00076171.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::c-Kit:::Does participant have a somatic mutation in c-KIT (Entrez GeneID: 3815)?:::encoded value:::NONE:::NONE:::NONE
+phv00076155.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 1:::Cytogenetic abnormality found in clone 1 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076148.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::PB WBC @ diagnosis:::What was the peripheral blood White Blood Cell Count at diagnosis?:::decimal:::10^3/ul:::0.4:::297.4
+phv00076146.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Sex:::Gender of participant:::encoded value:::NONE:::NONE:::NONE
+phv00076178.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::RUNX1:::Does participant have a somatic mutation in RUNX1 (Entrez GeneID: 861)?:::encoded value:::NONE:::NONE:::NONE
+phv00076174.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NPM1:::Does participant have a somatic mutation in NPM1 (Entrez GeneID: 4869)?:::encoded value:::NONE:::NONE:::NONE
+phv00076161.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 4:::Cytogenetic abnormality found in clone 4 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076145.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FAB:::French-American-British (FAB) classification category for bone marrow biopsy and aspirate:::integer, string:::NONE:::NONE:::NONE
+phv00076143.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::integer:::NONE:::NONE:::NONE
+phv00076169.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FLT3 - ITD:::Does participant have a somatic internal tandem duplication (ITD) in FLT3 (Entrez GeneID: 2322)?:::encoded value:::NONE:::NONE:::NONE
+phv00076170.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::FLT3 - D835:::Does participant have a somatic D835 mutation in FLT3 (Entrez GeneID: 2322)?:::encoded value:::NONE:::NONE:::NONE
+phv00076177.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::p53:::Does participant have a somatic mutation in p53 (Entrez GeneID: 7157)?:::encoded value:::NONE:::NONE:::NONE
+phv00076176.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::PTPN11:::Does participant have a somatic mutation in PTPN11 (Entrez GeneID: 5781)?:::encoded value:::NONE:::NONE:::NONE
+phv00076156.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 1):::# of abnormal cells in clone 1/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076173.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::KRAS:::Does participant have a somatic mutation in KRAS (Entrez GeneID: 3845)?:::encoded value:::NONE:::NONE:::NONE
+phv00076153.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Transplant Type:::Type(s) of transplant patient received, if any:::encoded value:::NONE:::NONE:::NONE
+phv00076166.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::months of EFS (as of 10/28/08):::# of months of Event Free Survival:::decimal:::months:::0.2:::65.4
+phv00076147.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::%BM Blast @ diagnosis:::What percentage of myeloblasts were present in the bone marrow at the time of diagnosis?:::integer:::%:::30:::100
+phv00076162.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Abnormal/Total Cells (clone 4):::# of abnormal cells in clone 4/total cells evaluated  (if applicable):::string:::NONE:::NONE:::NONE
+phv00076159.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone3:::Cytogenetic abnormality found in clone 3 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076151.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::%PB Blast:::What percentage of blasts were present in the peripheral blood at diagnosis?:::integer, string:::%:::0:::97
+phv00076157.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::Cytogenetics Clone 2:::Cytogenetic abnormality found in clone 2 (if applicable):::string:::NONE:::NONE:::NONE
+phv00076167.v1:::phs000201.v1.p1:::pht000885.v1:::AML_Data:::NUP98 fusion:::Does participant have a NUP98 fusion (Entrez GeneID: 4928)?:::encoded value:::NONE:::NONE:::NONE
+phv00076188.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::TISSUE:::Tissue of origin from which sample was made:::string:::NONE:::NONE:::NONE
+phv00076189.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SOURCE_SAMPID:::Sample ID used in the Source Repository:::string:::NONE:::NONE:::NONE
+phv00076186.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SAMPID:::CEL file and txt file chip ID:::string:::NONE:::NONE:::NONE
+phv00076187.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SAMP_SOURCE:::Source repository where samples originate:::string:::NONE:::NONE:::NONE
+phv00076185.v1:::phs000201.v1.p1:::pht000887.v1:::AML_Sample:::SUBJID:::Deidentified Subject's ID/Unique Patient Name (UPN):::string:::NONE:::NONE:::NONE
+phv00167551.v1:::phs000223.v1.p1:::pht002619.v1:::ARIC_PAGE_pilot_Subject:::SOURCE_SUBJID:::Subject ID used in the Source Repository [Geneva ID]:::string:::NONE:::NONE:::NONE
+phv00167549.v1:::phs000223.v1.p1:::pht002619.v1:::ARIC_PAGE_pilot_Subject:::Consent:::Consent group as determined by DAC:::encoded value:::NONE:::NONE:::NONE
+phv00167548.v1:::phs000223.v1.p1:::pht002619.v1:::ARIC_PAGE_pilot_Subject:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00167550.v1:::phs000223.v1.p1:::pht002619.v1:::ARIC_PAGE_pilot_Subject:::SUBJ_SOURCE:::Source repository where subjects originate [Geneva]:::string:::NONE:::NONE:::NONE
+phv00167552.v1:::phs000223.v1.p1:::pht002620.v1:::PAGE_ARIC_Sample:::IID.GenomeStudio:::Sample ID:::string:::NONE:::NONE:::NONE
+phv00167553.v1:::phs000223.v1.p1:::pht002620.v1:::PAGE_ARIC_Sample:::IID.Genotyping:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00167554.v1:::phs000223.v1.p1:::pht002620.v1:::PAGE_ARIC_Sample:::SAMPLE_USE:::Sample use:::NONE:::NONE:::NONE:::NONE
+phv00167555.v1:::phs000223.v1.p1:::pht002621.v1:::ARIC_PAGE_pilot_SubjectGenders:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00167556.v1:::phs000223.v1.p1:::pht002621.v1:::ARIC_PAGE_pilot_SubjectGenders:::SEX:::Sample ID:::string:::NONE:::NONE:::NONE
+phv00167982.v1:::phs000477.v1.p1:::pht002687.v1:::Familial_Renal_Disorders_Subject_Phenotypes:::disease:::Primary disease of participant:::string:::NONE:::NONE:::NONE
+phv00167981.v1:::phs000477.v1.p1:::pht002687.v1:::Familial_Renal_Disorders_Subject_Phenotypes:::sex:::Gender of participant:::encoded value:::NONE:::NONE:::NONE
+phv00167980.v1:::phs000477.v1.p1:::pht002687.v1:::Familial_Renal_Disorders_Subject_Phenotypes:::SUBJID:::De-identified Subject ID:::string:::NONE:::NONE:::NONE
+phv00167978.v1:::phs000477.v1.p1:::pht002686.v1:::Familial_Renal_Disorders_Sample:::SAMPID:::Sample ID:::string:::NONE:::NONE:::NONE
+phv00167979.v1:::phs000477.v1.p1:::pht002686.v1:::Familial_Renal_Disorders_Sample:::SAMPLE_USE:::Type of data submitted:::string:::NONE:::NONE:::NONE
+phv00167977.v1:::phs000477.v1.p1:::pht002686.v1:::Familial_Renal_Disorders_Sample:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00167976.v1:::phs000477.v1.p1:::pht002685.v1:::Familial_Renal_Disorders_Subject:::CONSENT:::Consent status:::encoded value:::NONE:::NONE:::NONE
+phv00167974.v1:::phs000477.v1.p1:::pht002685.v1:::Familial_Renal_Disorders_Subject:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00167975.v1:::phs000477.v1.p1:::pht002685.v1:::Familial_Renal_Disorders_Subject:::AFFECTION_STATUS:::Case control status of the subject:::encoded value:::NONE:::NONE:::NONE
+phv00167984.v1:::phs000477.v1.p1:::pht002688.v1:::Familial_Renal_Disorders_Sample_Attributes:::ANALYTE_TYPE:::Analyte Type:::string:::NONE:::NONE:::NONE
+phv00167983.v1:::phs000477.v1.p1:::pht002688.v1:::Familial_Renal_Disorders_Sample_Attributes:::SAMPID:::De-identified Sample ID:::string:::NONE:::NONE:::NONE
+phv00158801.v1:::phs000237.v1.p1:::pht002159.v1:::NU_VU_T2D_Subject:::SUBJID:::Subject ID:::integer:::NONE:::NONE:::NONE
+phv00158802.v1:::phs000237.v1.p1:::pht002159.v1:::NU_VU_T2D_Subject:::CONSENT:::Consent group as determined by DAC:::integer, encoded value:::NONE:::NONE:::NONE
+phv00158803.v1:::phs000237.v1.p1:::pht002159.v1:::NU_VU_T2D_Subject:::SUBJ_SOURCE:::Source repository where subjects originate:::string:::NONE:::NONE:::NONE
+phv00158804.v1:::phs000237.v1.p1:::pht002159.v1:::NU_VU_T2D_Subject:::SOURCE_SUBJID:::Subject ID used in the Source Repository:::integer:::NONE:::NONE:::NONE
+phv00158805.v1:::phs000237.v1.p1:::pht002159.v1:::NU_VU_T2D_Subject:::AFFECTION_STATUS:::Affection Status:::integer, encoded value:::NONE:::NONE:::NONE
+phv00158838.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_last_known_type2_diabetes_drug_prescribed:::Age when last known type 2 diabetes drug (in the following classes: Sulfonylureas, Meglitinides, Biguanides, Thiazoldinediones, Alpha-glucosidase inhibitors, DPPIV inhibitor (sitagliptin), or the injectable exenatide) prescribed:::integer, encoded value:::Years:::17:::90
+phv00158825.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::AGE_TYPE_2_DIABETES_ONSET:::Patient's age at the earliest indication of T2DM:::integer, encoded value:::Years:::11:::90
+phv00158835.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_first_type1_diabetes_drug_prescribed:::Age when first known type 1 diabetes drug (insulin, Symlin, or any insulin supply) prescribed:::integer, encoded value:::Years:::10:::90
+phv00158834.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Any_diabetes_drug_prescribed_indicator:::Were any diabetes drugs (Sulfonylureas, Meglitinides, Biguanides, Thiazoldinediones, Alpha-glucosidase inhibitors, DPPIV inhibitor (sitagliptin), exenatide, insulin, Symlin, or any diabetic supply including insulin needles and glucose monitors) prescribed:::encoded value:::NONE:::NONE:::NONE
+phv00158826.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::DIABETES_FAMILY_HISTORY:::Family History of Diabetes:::encoded value:::NONE:::NONE:::NONE
+phv00158817.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::ENROLLMENT_AGE:::Age at Enrollment in DNA biorepository:::integer, encoded value:::Years:::18:::90
+phv00158832.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_last_known_type1_diabetes_diagnosis_code:::Age when last known type 1 diabetes diagnosis code was given (ICD-9 codes 250.x1 or 250.x3, where x is any digit):::integer, encoded value:::Years:::19:::90
+phv00158820.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::DECADE_BIRTH:::Decade of birth:::encoded value:::NONE:::1:::9
+phv00158833.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_last_known_type2_diabetes_diagnosis_code:::Age when last known type 2 diabetes diagnosis code was given (ICD-9 codes 250.00, 250.02, 250.20, 250.22, 250.30, 250.32, 250.40, 250.42, 250.50, 250.52, 250.60, 250.62, 250.70, 250.72, 250.80, 250.82, 250.90, 250.92):::integer, encoded value:::Years:::18:::90
+phv00158828.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Any_Abnormal_Glucose_Indicator:::Were Any (random or fasting) Glucose Lab values Abnormal?:::encoded value:::NONE:::NONE:::NONE
+phv00158836.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_first_type2_diabetes_drug_prescribed:::Age when first known type 2 diabetes drug (in the following classes: Sulfonylureas, Meglitinides, Biguanides, Thiazoldinediones, Alpha-glucosidase inhibitors, DPPIV inhibitor (sitagliptin), or the injectable exenatide) prescribed:::integer, encoded value:::Years:::12:::90
+phv00158827.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Any_Abnormal_Glycosylated_Hemoglobin_Indicator:::Were Any (glycosylated) Hemoglobin (A1c)  Lab values Abnormal:::encoded value:::NONE:::NONE:::NONE
+phv00158818.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::SEX:::Gender:::encoded value:::NONE:::NONE:::NONE
+phv00158822.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::ETHNICITY:::Is Subject Hispanic/Latino?:::encoded value:::NONE:::NONE:::NONE
+phv00158823.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::SMOKING_STATUS:::Last known Smoking status:::string, encoded value:::NONE:::NONE:::NONE
+phv00158831.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_first_type2_diabetes_diagnosis_code:::Age when first known type 2 diabetes diagnosis code was given (ICD-9 codes 250.00, 250.02, 250.20, 250.22, 250.30, 250.32, 250.40, 250.42, 250.50, 250.52, 250.60, 250.62, 250.70, 250.72, 250.80, 250.82, 250.90, 250.92):::integer, encoded value:::Years:::11:::90
+phv00158837.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_last_known_type1_diabetes_drug_prescribed:::Age when last known type 1 diabetes drug (insulin, Symlin, or any insulin supply) prescribed:::integer, encoded value:::Years:::14:::90
+phv00158839.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Number_in_person_clinician_encounters:::Number of in-person encounters the patient has had with a clinician as recorded in the EMR, as evidenced by problem or medication list or history entries/updates, or other evidence specific to each site's EMR:::integer, encoded value:::NONE:::1:::405
+phv00158824.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::CASE_CONTROL:::T2DM Case or Control:::encoded value:::NONE:::NONE:::NONE
+phv00158819.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::YEAR_BIRTH:::Year of birth:::integer, encoded value:::NONE:::1912:::1990
+phv00158816.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::SUBJID:::Deidentified Subject's ID:::integer:::NONE:::NONE:::NONE
+phv00158821.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::RACE:::Subject's race:::encoded value:::NONE:::NONE:::NONE
+phv00158840.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::HYPERTENSION:::Hypertension status:::integer, encoded value:::NONE:::NONE:::NONE
+phv00158841.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Body_Mass_Index_average:::Average Body Mass Index of participant, see comments for how average calculated:::Decimal, encoded value:::kg/m2:::15:::100
+phv00158829.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Any_diabetes_diagnosis_code_indicator:::Were any diabetes diagnosis codes given (ICD-9 codes 250.xx, where x is any digit)?:::encoded value:::NONE:::NONE:::NONE
+phv00158830.v1:::phs000237.v1.p1:::pht002162.v1:::NU_VU_T2D_Subject_Phenotypes:::Age_first_type1_diabetes_diagnosis_code:::Age when first known type 1 diabetes diagnosis code was given (ICD-9 codes 250.x1 or 250.x3, where x is any digit):::integer, encoded value:::Years:::10:::90
+phv00158808.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::SEX:::Gender of participant:::encoded value:::NONE:::NONE:::NONE
+phv00158810.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::FATHER:::Deidentified ID of Subject's Father:::integer:::NONE:::NONE:::NONE
+phv00158806.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::FAMID:::ID of family of related subjects:::integer:::NONE:::NONE:::NONE
+phv00158807.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::SUBJID:::Deidentified Subject's ID:::integer:::NONE:::NONE:::NONE
+phv00158809.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::MOTHER:::Deidentified ID of Subject's Mother:::integer:::NONE:::NONE:::NONE
+phv00158811.v1:::phs000237.v1.p1:::pht002160.v1:::NU_VU_T2D_Pedigree:::Ped_note:::Pedigree Note:::string:::NONE:::NONE:::NONE
+phv00158812.v1:::phs000237.v1.p1:::pht002161.v1:::NU_VU_T2D_Sample:::SUBJID:::Subject ID:::integer:::NONE:::NONE:::NONE
+phv00158815.v1:::phs000237.v1.p1:::pht002161.v1:::NU_VU_T2D_Sample:::SOURCE_SAMPID:::Sample ID used in the Source Repository:::integer:::NONE:::NONE:::NONE
+phv00158814.v1:::phs000237.v1.p1:::pht002161.v1:::NU_VU_T2D_Sample:::SAMP_SOURCE:::Source repository where samples originate:::string:::NONE:::NONE:::NONE
+phv00158813.v1:::phs000237.v1.p1:::pht002161.v1:::NU_VU_T2D_Sample:::SAMPID:::Sample ID:::integer:::NONE:::NONE:::NONE
+phv00159406.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::PLCO_EV5:::Principal components for population stratification:::decimal:::NONE:::NONE:::NONE
+phv00159404.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::EAGLE_EV2:::Principal components for population stratification:::decimal:::NONE:::NONE:::NONE
+phv00159403.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::AGE:::Age-at-diagnosis/interview for case-control study and baseline age for cohort studies in 5 year interval:::string:::Years old:::NONE:::NONE
+phv00159402.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::GENDER:::Gender of participant [FEMALE, MALE]:::string:::NONE:::NONE:::NONE
+phv00159407.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::ATBC_EV2:::Principal components for population stratification:::decimal:::NONE:::NONE:::NONE
+phv00159399.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::SUBJID:::De-identified subject ID:::string:::NONE:::NONE:::NONE
+phv00159401.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::CASECONTROL:::Case or control? [CASE, CONTROL]:::string:::NONE:::NONE:::NONE
+phv00159400.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::STUDY:::Name of the study:::string:::NONE:::NONE:::NONE
+phv00159405.v1:::phs000336.v1.p1:::pht002220.v1:::CGEMS_Lung_Cancer_Subject_Phenotypes:::PLCO_EV4:::Principal components for population stratification:::decimal:::NONE:::NONE:::NONE
+phv00159396.v1:::phs000336.v1.p1:::pht002218.v1:::CGEMS_Lung_Cancer_Subject:::Affection Status:::Case control status of the subject [CASE, CONTROL]:::string:::NONE:::NONE:::NONE
+phv00159395.v1:::phs000336.v1.p1:::pht002218.v1:::CGEMS_Lung_Cancer_Subject:::CONSENT:::Consent group as determined by DAC:::encoded value:::NONE:::NONE:::NONE
+phv00159394.v1:::phs000336.v1.p1:::pht002218.v1:::CGEMS_Lung_Cancer_Subject:::SUBJID:::De-identified subject ID:::string:::NONE:::NONE:::NONE
+phv00159398.v1:::phs000336.v1.p1:::pht002219.v1:::CGEMS_Lung_Cancer_Sample:::SAMPID:::De-identified sample ID:::string:::NONE:::NONE:::NONE
+phv00159397.v1:::phs000336.v1.p1:::pht002219.v1:::CGEMS_Lung_Cancer_Sample:::SUBJID:::De-identified subject ID:::string:::NONE:::NONE:::NONE
+phv00174252.v1:::phs000538.v1.p1:::pht003040.v1:::Mendelian_Familial_Hyperlipidemia_Sample:::SAMPID:::Sample ID:::string:::NONE:::NONE:::NONE
+phv00174251.v1:::phs000538.v1.p1:::pht003040.v1:::Mendelian_Familial_Hyperlipidemia_Sample:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00174253.v1:::phs000538.v1.p1:::pht003040.v1:::Mendelian_Familial_Hyperlipidemia_Sample:::SAMPLE_USE:::Use of Subject's sample:::encoded value:::NONE:::NONE:::NONE
+phv00174249.v1:::phs000538.v1.p1:::pht003039.v1:::Mendelian_Familial_Hyperlipidemia_Subject:::SOURCE_SUBJID:::Subject ID used in the Source Repository:::string:::NONE:::NONE:::NONE
+phv00174250.v1:::phs000538.v1.p1:::pht003039.v1:::Mendelian_Familial_Hyperlipidemia_Subject:::AFFECTION_STATUS:::Case control status of the subject:::encoded value:::NONE:::NONE:::NONE
+phv00174246.v1:::phs000538.v1.p1:::pht003039.v1:::Mendelian_Familial_Hyperlipidemia_Subject:::SUBJID:::Subject ID:::string:::NONE:::NONE:::NONE
+phv00174247.v1:::phs000538.v1.p1:::pht003039.v1:::Mendelian_Familial_Hyperlipidemia_Subject:::CONSENT:::Consent group as determined by DAC:::encoded value:::NONE:::NONE:::NONE
+phv00174248.v1:::phs000538.v1.p1:::pht003039.v1:::Mendelian_Familial_Hyperlipidemia_Subject:::SUBJ_SOURCE:::Source repository where subjects originate:::string:::NONE:::NONE:::NONE
+phv00174259.v1:::phs000538.v1.p1:::pht003042.v1:::Mendelian_Familial_Hyperlipidemia_Sample_Attributes:::SAMPID:::De-identified Sample ID:::string:::NONE:::NONE:::NONE
+phv00174260.v1:::phs000538.v1.p1:::pht003042.v1:::Mendelian_Familial_Hyperlipidemia_Sample_Attributes:::BODY_SITE:::Body site where sample was collected:::string:::NONE:::NONE:::NONE
+phv00174261.v1:::phs000538.v1.p1:::pht003042.v1:::Mendelian_Familial_Hyperlipidemia_Sample_Attributes:::HISTOLOGICAL_TYPE:::Cell or tissue type of sample:::string:::NONE:::NONE:::NONE
+phv00174258.v1:::phs000538.v1.p1:::pht003041.v1:::Mendelian_Familial_Hyperlipidemia_Subject_Phenotypes:::AGE:::Age in 2012:::string:::Years:::NONE:::NONE
+phv00174257.v1:::phs000538.v1.p1:::pht003041.v1:::Mendelian_Familial_Hyperlipidemia_Subject_Phenotypes:::AFFECTION_STATUS:::Case - control status of the subject:::encoded value:::NONE:::NONE:::NONE
+phv00174256.v1:::phs000538.v1.p1:::pht003041.v1:::Mendelian_Familial_Hyperlipidemia_Subject_Phenotypes:::RACE:::Race of participant:::string:::NONE:::NONE:::NONE
+phv00174255.v1:::phs000538.v1.p1:::pht003041.v1:::Mendelian_Familial_Hyperlipidemia_Subject_Phenotypes:::SEX:::Sex of participant:::encoded value:::NONE:::NONE:::NONE
+phv00174254.v1:::phs000538.v1.p1:::pht003041.v1:::Mendelian_Familial_Hyperlipidemia_Subject_Phenotypes:::SUBJID:::De-identified Subject ID:::string:::NONE:::NONE:::NONE
+phv00173337.v1:::phs000487.v1.p1:::pht002925.v1:::Prostate_Cancer_Risk_Subject_Phenotypes:::CaseControl:::Flag that indicates Case and Control status:::string, categorical:::NONE:::NONE:::NONE
+phv00173342.v1:::phs000487.v1.p1:::pht002925.v1:::Prostate_Cancer_Risk_Subject_Phenotypes:::Aggressive.Phenotype.D'AmicoCriteria:::Significance of the disease based upon D'Amico criteria:::string, categorical:::NONE:::NONE:::NONE
+phv00173341.v1:::phs000487.v1.p1:::pht002925.v1:::Prostate_Cancer_Risk_Subject_Phenotypes:::Gleason.Score:::Gleason Score:::integer:::NONE:::NONE:::NONE
+phv00173336.v1:::phs000487.v1.p1:::pht002925.v1:::Prostate_Cancer_Risk_Subject_Phenotypes:::SUBJID:::De-identified subject ID:::string:::NONE:::NONE:::NONE
+phv00173340.v1:::phs000487.v1.p1:::pht002925.v1:::Prostate_Cancer_Risk_Subject_Phenotypes:::PSA.categorical.ng.ml:::Level of prostate specific antigen (PSA):::string, categorical:::ng/ml:::NONE:::NONE

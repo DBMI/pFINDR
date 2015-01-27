@@ -1,0 +1,45 @@
+PhenDisco was developed at Division of Biomedical Informatics at University of California, San Diego. It is a new phenotype search tool for the NCBI's database of Genotypes and Phenotypes. PhenDisco is funded by grant UH2HL108785 from NHLBI/NIH.
+
+This version is 1.0, released in Nov, 2013, under the MIT license (see LICENSE).
+
+**************
+PIs and software developers
+**************
+
+Co-Principal Investigators:
+1. Lucila Ohno-Machado, MD, PhD at DBMI, UC San Diego.
+2. Hyeon-Eui Kim, RN, MPH, PhD at DBMI, UC San Diego.
+
+Main developers:
+1. Son Doan, PhD at DBMI, UC San Diego is a backend developer. He wrote most of the codes, including phenotype standadization tools and NLP integration tools.
+2. Asher Garland, UC San Diego is an UI developer. He wrote the user-interface.
+
+**************
+Publications
+**************
+
+The canonical citation for the PhenDisco is: 
+
+Doan S, Lin KW, Conway M, Ohno-Machado L, Hsieh A, Feupe SF, Garland A, Ross MK, Jiang X, Farzaneh S, Walker R, Alipanah N, Zhang J, Xu H, Kim HE., "PhenDisco: Phenotype Discovery System for the Database of Genotypes and Phenotypes (dbGaP)". J Am Med Inform Assoc. 2013. doi:10.1136/amiajnl-2013-001882.
+
+**************
+Folders
+**************
+
+This folder contains the source codes of PhenDisco, a phenotype search for NCBI's database of phenotypes and genotypes. It contains:
+./database: Data folder
+./diver: Source code for standadizing demographic phenotypes
+./doc: Documentations of PhenDisco
+./information-retrieval: Information retrieval tools
+./INSTALL: instructions for installation
+./LICENSE: This source code is released under the MIT license.
+./phenotype-standadization
+./README: This file
+./tools: Other tools
+./UI: Frontend user-inteface
+
+**************
+Contact us
+**************
+All questions about this software should be emailed to Son Doan (sondoan@ucsd.edu).
+

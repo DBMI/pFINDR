@@ -1,0 +1,513 @@
+<html>
+
+	<head>
+		<title>PhenDisco</title>
+		<link href="./css/styles.css" rel="stylesheet" type="text/css">
+		<script src="./js/jquery-1.8.2.min.js" language="JavaScript" type="text/javascript"></script>
+		<script src="./js/utility.js" language="JavaScript" type="text/javascript"></script>
+		<link rel="icon" type="image/ico" href="./images/favicon.ico" />
+	</head>
+
+	<body>
+
+		<!-- Main Container -->
+		<div id='main-container'>
+
+			<!-- PhenDisco Header -->
+			<div id='main-header' class='rounded shadow border'>
+
+				<div id="help-tooltip" class='rounded shadow border'></div>
+
+				<div class='top'>
+					<a href='./FrontPage.html'><h1 class='alignleft'>Phenotype Discoverer</h1></a>
+					<div style="clear: both;"></div>
+				</div>
+
+				<div class='body'>
+
+					<a href='./FrontPage.html'><img src="PhenDisco_Logo.jpg" alt="logo" height="87" width="80" style='float:left;'></a>
+
+					<div>
+						<input id='search-bar' class='main-search-bar' type="text" style="color:#000000;" value="Search e.g. asthma and American" onFocus="if (value == 'Search e.g. asthma and American') {value=''}" onBlur="if (value== '') {value='Search e.g. asthma and American'}"> 
+						<a href='./ResultsPage.html'><button type='button' class="search" >Search</button></a>
+						<input type="checkbox" name="search-checkbox" type="concept" checked>Concept-based</br>
+					</div>
+					<div>
+						<a href='./AdvanceSearchPage.html'><button type='button' id='advanced-button' >Advanced Search</button></a><button type='button' id='limit-button' >Limits</button>
+					</div>
+
+					
+				</div>
+
+				<div class='bottom'>
+					<div class='container'>
+
+						<img id='search-bar-help' class='alignright' src="./images/help.png" alt="help" height="24" width="24" border="0">
+					</div>
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<div id='limit-container' class='hide rounded shadow border'>
+				
+				<div class='top'>
+					<h3 class ='alignleft'>Limits</h3>
+				</div>
+
+				<div class="body">
+
+					<div class='container'>
+						<label for="LimitsField">Field:</label>
+						<select  id="LimitsField" size="1">
+							<option selected="selected" value="All Fields">All Fields</option>
+							<option value="topicDisease">Topic Disease</option>
+							<option value="studyDescription">Study Description</option>
+							<option value="studyId">Study ID</option>
+							<option value="studyName">Study Name</option>
+							<option value="variableDesription">Variable Description</option>
+							<option value="variableId">Variable ID</option>
+							<option value="variableName">Variable Name</option>
+							<option value="attribution">Attribution</option>
+						</select>
+					</div>
+
+					<!--
+					<div class='container'>
+						<label for='limitsContains'>Contains the following:</label>
+						<form id='limitsContains'>
+							<div class='spaced alignleft'><input type="checkbox" id='analysis'>Analysis</div>
+							<div class='spaced alignleft'><input type="checkbox" id='dataset'>Dataset</div>
+							<div class='spaced alignleft'><input type="checkbox" id='document'>Document</div>
+							<div class='spaced alignleft'><input type="checkbox" id='mapping'>PhenX Mapping</div>
+							<div class='spaced alignleft'><input type="checkbox" id='variable'>Variable</div>
+							<div style="clear: both;"></div>
+						</form>
+					</div>
+					-->
+
+				</div>
+
+				<div class='bottom'>
+					<button type='button' class='alignright' id='limit-reset-button' >Reset</button>
+					<!--<a href='./ResultsPage.html'><button type='button' class='alignright' id='limit-search-button' >Search</button></a>-->
+					<div style="clear: both;"></div>
+				</div>
+
+			</div>
+
+			<!-- Front page body -->
+			<div id='frontpage-body' class='rounded shadow border'>
+
+				<div id='frontpage-body-left-container'>
+
+					<!-- Navigation START -->
+					<!-- Getting Started -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Getting Started</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="./FrontPage.html">Home</a></li>
+								<li><a href="./Overview.html">Overview</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/books/NBK5295/">FAQ</a></li>
+								<li><a href="./HowToSubmit.html">How to Submit</a></li>
+								<li><a href="#">Browse Top Level Studies</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Acess Data -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Access Data</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/">Apply for Control</a></li>
+								<li><a href="ftp://ftp.ncbi.nlm.nih.gov/dbgap">Public Data via FTP</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gapplusprev/sgap_plus.htm">Association Results Browser</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/gap/PheGenI">Phenotype-Genotype Integrator</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<hr>
+
+					<!-- Important Links -->
+					<div class='container'>
+						<div class='top'>
+							<h2>Important Links</h2>
+						</div>
+						<div class='body'>
+							<ul>
+								<li><a href="http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=dbGaPnews">RSS Feed <img src="./images/rss.png" alt="RSS Feed"></a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/GWAS_Code_of_Conduct.html">Code of Conduct</a></li>
+								<li><a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=dbgap_2b_security_procedures.pdf">Security Procedures</a></li>
+								<li><a href="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login">Contact Us</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<!-- Navigation ENDS -->
+
+				</div>
+
+				<div id='frontpage-body-right-container'>
+
+					<!-- Study Display -->
+
+					<div class='top'>
+
+						<div class='alignleft'>
+							<h1 id ='top' style="margin-bottom:0px;">Phenotype Discover Overview</h1>
+						</div>
+						
+						<div class='spaced alignleft' style="margin-top:12px;">
+							<select id='pageJumpMenu'>
+							  <option value="">Jump to ...</option>
+							  <option value="submissionPolicy">Submission Policy</option>
+							  <option value="dataContent">Data Content and Organization</option>
+							  <option value="accessData">Requesting Controlled - Access Data</option>
+							  <option value="submitting">Submitting Data</option>
+							  <option value="glossary">Glossary</option>
+							</select>
+						</div>
+
+						<div style="clear: both;"></div>
+
+					</div>
+
+					<div class = 'container'>
+
+						<div id ='submissionPolicy' class='container'> 
+							<div class='alignleft'>
+								<h2 class='nomargin'>Submission Policy</h2>
+							</div>
+							<div class='spaced alignleft'>
+								<button type='button' class='pageJumpTop'>Top</button>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='body' id='submissionPolicy_content'>
+								<p>
+									Submitters who are not Federally-funded and affiliated with an NIH IC will need to work with an NIH DAC so that proposed submission can be reviewed for consistency with appropriate policies to protect the privacy of research participants and confidentiality of their data. 
+									</br></br>
+									Submissions to PhenDisco will not be accepted without assurance that the submitting institution approves the submission and has verified that the data submission is consistent with all applicable laws and regulations, as well as institutional policies. Submitters must also identify any limits on research uses of the data that are specifically set by individual research participants, e.g., through their informed consent.
+								</p>
+							</div>
+						</div>
+
+						<div id ='dataContent' class='container'> 
+							<div class='alignleft'>
+								<h2 class='nomargin'>Data Content and Organization</h2>
+							</div>
+							<div class='spaced alignleft'>
+								<button type='button' class='pageJumpTop'>Top</button>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='body' id='dataContent_content'>
+								<p>Open-Access Data</p>
+								<div>
+									<p>Open-access data can be browsed online or downloaded from PhenDisco without prior permission or authorization.  These data will include, but may not be limited to, the following:</p>
+									<table>
+										<tbody><tr>
+											<td><b><u>PhenDisco Data Type</u></b></td>
+											<td><b><u>Where to Find It</u></b></td>
+										</tr>
+										<tr>
+											<td><i>Studies</i></td>
+											<td>'Study' column when browsing studies</td>
+
+										</tr>
+										<tr>
+											<td></td>
+											<td>Result of a search under the tab 'Studies'</td>
+										</tr>
+										<tr>
+											<td></td>
+											<td>Part of the breadcrumb path of a variable or document</td>
+
+										</tr>
+										<tr>
+											<td><i>Study Documents</i></td>
+											<td>Link from 'Browse Studies'</td>
+										</tr>
+										<tr>
+											<td></td>
+
+											<td>Link under 'Associated Documents' on study report</td>
+										</tr>
+										<tr>
+											<td></td>
+											<td>Result of a search under the tab 'Study Documents'</td>
+										</tr>
+
+										<tr>
+											<td><i>Phenotypic Variables</i></td>
+											<td>Link under 'Browse Studies'</td>
+										</tr>
+										<tr>
+											<td></td>
+											<td>Link under 'Associated Variables' on study report</td>
+
+										</tr>
+										<tr>
+											<td></td>
+											<td>Result of a search under the tab 'Variables'</td>
+										</tr>
+										<tr>
+											<td><i>Genotype-Phenotype Analyses</i></td>
+
+											<td>Link under 'Associated Analyses' on variable report</td>
+										</tr>
+										<tr>
+											<td></td>
+											<td>Link under 'Associated Analyses' on study report</td>
+
+										</tr>
+									</tbody></table>
+
+									<p>Please note that this is a general description of what is available to open- access users. Data available to open-access users may vary between studies and may also differ from what is described here without notice. You can find more details regarding data access policies for specific studies on the individual study report pages.</p>
+
+								</div>
+							</div>
+						</div>
+
+						<div id ='accessData' class='container'> 
+							<div class='alignleft'>
+								<h2 class='nomargin'>Requesting Controlled - Access Data</h2>
+							</div>
+							<div class='spaced alignleft'>
+								<button type='button' class='pageJumpTop'>Top</button>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='body' id='accessData_content'>
+								<p>Controlled-access data can only be obtained if a user has been authorized by the appropriate Data Access Committee (DAC). Information on requesting controlled data access, is available below. Data available to authorized investigators may include the following:</p>
+								<ul>
+									<li>de-identified phenotypes and genotypes for individual study subjects</li>
+									<li>pedigrees</li>
+									<li>pre-computed univariate associations between genotype and phenotype (if not made available on the public site)</li>
+								</ul>
+								<p>Since data access policies are determined on a per-study basis, data available to users with controlled access authorization may vary between studies and may also change from what is described here without notice. You can find more details regarding data access policies for a specific study on the study report page along with a link to the appropriate authorizing body.</p>
+							</div>
+						</div>
+
+						<div id ='submitting' class='container'> 
+							<div class='alignleft'>
+								<h2 class='nomargin'>Submitting Data</h2>
+							</div>
+							<div class='spaced alignleft'>
+								<button type='button' class='pageJumpTop'>Top</button>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='body' id='submitting_content'>
+								<p>
+									Access to controlled data in PhenDisco will be granted by an NIH Data Access Committee or DAC. Users wishing access to controlled data must submit a Data Use Certification, or DUC, to the appropriate NIH DAC for approval. DAC approval for controlled data access will be dependent upon completion of the DUC, and confirmation that the proposed research use is consistent with patient consent forms and any constraints identified by the institutions that submitted the dataset(s) to PhenDisco. Links to a study's DAC will be found on the study report page.
+									</br></br>
+									Submitters of controlled-access data housed in PhenDisco may retain the exclusive right to publish an analysis of their submitted data for a specified period of time. Users of controlled-access data should consult the DUC or the study report page to determine the specific publishing exclusivity period for that study.
+									</br></br>
+									Access to individual-level data housed in PhenDisco is under the jurisdiction of the sponsoring institute. Therefore, any questions regarding access to controlled data should be directed to the DAC for the study in question, and not to NCBI.
+								</p>
+							</div>
+						</div>
+
+						<div id ='glossary' class='container'> 
+							<div class='alignleft'>
+								<h2 class='nomargin'>Glossary</h2>
+							</div>
+							<div class='spaced alignleft'>
+								<button type='button' class='pageJumpTop'>Top</button>
+							</div>
+
+							<div style="clear: both;"></div>
+
+							<div class='body' id='glossary_content'>
+								<p>
+									<b>Data Access Committee (DAC)</b>: Data Access Committees are established based on programmatic areas of interest as well as technical and ethical expertise.  All DACs will operate through common principles and under similar mechanisms to ensure the consistency and transparency of the controlled- data access process. 
+								</p>
+								<p>
+									<b>Data Use Certification (DUC)</b>: A Data Use Certification is the application a user submits to a particular study's Data Access Committee (DAC) for consideration for authorized use of controlled PhenDisco data. The Data Use Certification should include a list of the controlled data set(s) required by the user and a brief description of the proposed research use of the requested data.  The user must also offer the following assurances in the Data Use Certification that:
+								</p>
+								<div>
+									<li>The data will only be used for approved research.</li>
+									<li>Data confidentiality will be protected.</li>
+									<li>All applicable laws, local institutional policies, and terms and procedures specific to the study's data access policy for handling PhenDisco data will be followed.</li>
+
+									<li>No attempts will be made to identify individual study participants from whom data were obtained. </li>
+									<li>Controlled-access data from PhenDisco will not be sold or shared with third parties.</li>
+									<li>The contributing investigator(s) who conducted the original study and the funding organizations involved in supporting the original study will be acknowledged in publications resulting from the analysis of those data.</li>
+									<li>All NIH supported genotype/phenotype data and conclusions derived directly from them will remain in the public domain, without licensing requirements.</li>
+								</div>
+								<p>
+									Finally, the completed DUC must be co-signed by a designated official representing the institution for which the applicant works.
+									</br></br>
+									Please note that this is a general description of the DUC. Since data access policies are still being developed by participating studies/institutions, controlled access requirements, and hence, DUC requirements may vary between studies and may also change from what is described here without notice. Additional details regarding controlled access requirements for a specific study will be provided on the study report page.
+								</p>
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+
+				<div style="clear: both;"></div> 
+
+			</div>
+
+			<div id='main-footer' class='rounded shadow border'>
+				<h4 id='dbv'>Database Version: March 31st, 2013</h4>
+				<div style="clear: both;"></div>
+			</div>
+
+				
+			<!-- Footer
+			<div id='main-footer' class='rounded shadow border'>
+
+				<div class='body'>
+
+					<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="getting_started">
+			        		<h3 class='main-footer'>Getting Started</h3>
+			        		<li><a href="/Education/">NCBI Education</a></li>
+			        		<li><a href="/books/NBK3831/">NCBI Help Manual</a></li>
+			        		<li><a href="/books/NBK21101/">NCBI Handbook</a></li>
+			        		<li><a href="/guide/training-tutorials/">Training &amp; Tutorials</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+			    		<ul class="main-footer" id="resources">
+			        		<h3 class='main-footer'>Resources</h3>
+			    			<li><a href="/guide/chemicals-bioassays">Chemicals &amp; Bioassays</a></li>
+			    			<li><a href="/guide/data-software">Data &amp; Software</a></li>
+			    			<li><a href="/guide/dna-rna">DNA &amp; RNA</a></li>
+			    			<li><a href="/guide/domains-structures">Domains &amp; Structures</a></li>
+			    			<li><a href="/guide/genes-expression">Genes &amp; Expression</a></li>
+			    			<li><a href="/guide/genetics-medicine">Genetics &amp; Medicine</a></li>
+			    			<li><a href="/guide/genomes-maps">Genomes &amp; Maps</a></li>
+			    			<li><a href="/guide/homology">Homology</a></li>
+			    			<li><a href="/guide/literature">Literature</a></li>
+			    			<li><a href="/guide/proteins">Proteins</a></li>
+			    			<li><a href="/guide/sequence-analysis">Sequence Analysis</a></li>
+			    			<li><a href="/guide/taxonomy">Taxonomy</a></li>
+			    			<li><a href="/guide/training-tutorials">Training &amp; Tutorials</a></li>
+			    			<li><a href="/guide/variation">Variation</a></li>
+			    		</ul>
+
+			    	</div>
+
+			    	<div class='container alignleft'>
+
+				        <ul class="main-footer" id="popular">
+				            <h3 class='main-footer'>Popular</h3>
+				            <li><a href="/pubmed/">PubMed</a></li>
+				            <li><a href="/nucleotide/">Nucleotide</a></li>
+				            <li><a href="http://blast.ncbi.nlm.nih.gov/">BLAST</a></li>
+				            <li><a href="http://www.pubmedcentral.nih.gov/" class="newdomain">PubMed Central</a></li>
+				            <li><a href="/gene/">Gene</a></li>
+				            <li><a href="/books/">Bookshelf</a></li>
+				            <li><a href="/protein/">Protein</a></li>
+				            <li><a href="/omim/">OMIM</a></li>
+				            <li><a href="/genome/">Genome</a></li>
+				            <li><a href="/snp/">SNP</a></li>
+				            <li><a href="/Structure/">Structure</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="featured">
+				            <h3 class='main-footer'>Featured</h3>
+				            <li><a href="/gtr/">Genetic Testing Registry</a></li>
+				            <li><a href="/pubmedhealth/">PubMed Health</a></li>
+				            <li><a href="/Genbank/">GenBank</a></li>
+				            <li><a href="/refseq/">Reference Sequences</a></li>
+				            <li><a href="/mapview/">Map Viewer</a></li>
+				            <li><a href="/genome/guide/human/">Human Genome</a></li>
+				            <li><a href="/genome/guide/mouse/">Mouse Genome</a></li>
+				            <li><a href="/genomes/FLU/">Influenza Virus</a></li>
+				            <li><a href="/tools/primer-blast/">Primer-BLAST</a></li>
+				            <li><a href="/Traces/sra/">Sequence Read Archive</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div class='container alignleft'>
+
+				        <ul class="main-footer" id="info">
+				            <h3 class='main-footer'>NCBI Information</h3>
+				            <li><a href="/About/">About NCBI</a></li>
+				            <li><a href="/research/">Research at NCBI</a></li>
+				            <li><a href="/books/NBK1969/">NCBI Newsletter</a></li>
+				            <li><a href="/Ftp/">NCBI FTP Site</a></li>
+				            <li><a class="external" href="http://www.facebook.com/ncbi.nlm" role="button" aria-expanded="false" target="_blank">NCBI on Facebook</a></li>
+				            <li><a class="external" href="http://www.twitter.com/ncbi" role="button" aria-expanded="false" target="_blank">NCBI on Twitter</a></li>
+				            <li><a class="external" href="http://www.youtube.com/ncbinlm" role="button" aria-expanded="false" target="_blank">NCBI on YouTube</a></li>
+				        </ul>
+
+				    </div>
+
+				    <div style="clear: both;"></div>
+
+			    </div>
+
+
+			    <div class='container'>  
+
+			    	<div class='container alignleft'> 
+
+			       		<div id='footer-disclaimer' class='alignleft'>
+				            <a href="/About/disclaimer.html">Copyright</a> | <a href="/About/disclaimer.html#disclaimer">Disclaimer</a> |
+				            <a href="http://www.nlm.nih.gov/privacy.html" class="newdomain">Privacy</a> | <a href="http://www.nlm.nih.gov/accessibility.html">Accessibility</a> | <a href="/About/glance/contact_info.html">Contact</a>
+				        </div>
+
+				        <br>
+
+				        <div class='alignleft'>
+				            <p id="footer-address" class='alignright'>
+				                <span>
+				                    <a class="" href="http://www.ncbi.nlm.nih.gov">National Center for Biotechnology Information,</a>
+				                </span>
+				                <span>
+				                	<a href="http://www.nlm.nih.gov/">U.S. National Library of Medicine</a><br></span>
+				                <span>
+				                    <span>8600 Rockville Pike</span>,<span>Bethesda</span>
+				                    <span>MD</span>, <span>20894</span>
+				                    <span>USA</span>
+				                </span>
+				       		</p>
+				       	</div>
+
+			       </div>
+
+			        <div class='container alignright'>
+							<img src="./images/nlm.png" alt="NLM">
+			       			<img src="./images/nih.png" alt="NIH">
+			       			<img src="./images/dhhs.png" alt="DHHS">
+			       			<img src="./images/usa.png" alt="USA.gov">
+					</div>
+					
+				</div>
+
+				<div style="clear: both;"></div>
+
+			</div>
+			Footer -->
+		</div>
+	
+	</body>

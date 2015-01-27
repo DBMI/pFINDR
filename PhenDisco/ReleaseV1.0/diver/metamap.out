@@ -1,0 +1,26 @@
+/data/resources/MetaMap/public_mm/bin/SKRrun.11v2 /data/resources/MetaMap/public_mm/bin/metamap11v2.BINARY.Linux -L 2011 -Z 2011AA -q
+##### WARNING: Overriding default model 2011AB with 2011AA.
+Berkeley DB databases (USAbase 2011AA strict model) are open.
+Static variants will come from table varsan in /data/resources/MetaMap/public_mm/DB/DB.USAbase.2011AA.strict.
+Derivational Variants: Adj/noun ONLY.
+Accessing lexicon /data/resources/MetaMap/public_mm/lexicon/data/lexiconStatic2011.
+Variant generation mode: static.
+
+metamap11v2.BINARY.Linux (2011)
+
+Control options:
+  lexicon_year=2011
+  mm_data_year=2011AA
+  machine_output
+Established connection to Tagger Server on localhost.
+args('metamap11v2.BINARY.Linux -L 2011 -Z 2011AA -q',[lexicon_year-'2011',mm_data_year-'2011AA',machine_output-[],infile-user_input,outfile-user_output]).
+aas([]).
+neg_list([]).
+utterance('00000000.tx.1',"age first started smoking cigars",0/32,[]).
+phrase('age first',[head([lexmatch([age]),inputmatch([age]),tag(noun),tokens([age])]),adv([lexmatch([first]),inputmatch([first]),tag(adv),tokens([first])])],0/9,[]).
+candidates(4,1,0,3,[ev(-861,'C0001779','Age','Age',[age],[orga],[[[1,1],[1,1],0]],yes,no,['LNC','MTH','NCI','SNOMEDCT','AOD','CHV','SNMI'],[0/3],0),ev(-789,'C0001792','Aged','Elderly (population group)',[aged],[popg],[[[1,1],[1,1],3]],yes,no,['MTH','LCH','MSH','CHV','SNOMEDCT','DXP','AOD','CSP','SNMI','SNM','NCI'],[0/3],1),ev(-694,'C0205435','First','First (number)',[first],[qnco],[[[2,2],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV','LNC'],[4/5],0),ev(-694,'C1279901','First','Firstly',[first],[qlco],[[[2,2],[1,1],0]],no,no,['MTH','SNMI','SNOMEDCT','NCI'],[4/5],0)]).
+mappings([map(-888,[ev(-861,'C0001779','Age','Age',[age],[orga],[[[1,1],[1,1],0]],yes,no,['LNC','MTH','NCI','SNOMEDCT','AOD','CHV','SNMI'],[0/3],0),ev(-694,'C0205435','First','First (number)',[first],[qnco],[[[2,2],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV','LNC'],[4/5],0)]),map(-888,[ev(-861,'C0001779','Age','Age',[age],[orga],[[[1,1],[1,1],0]],yes,no,['LNC','MTH','NCI','SNOMEDCT','AOD','CHV','SNMI'],[0/3],0),ev(-694,'C1279901','First','Firstly',[first],[qlco],[[[2,2],[1,1],0]],no,no,['MTH','SNMI','SNOMEDCT','NCI'],[4/5],0)])]).
+phrase('started smoking cigars',[pastpart([lexmatch([started]),inputmatch([started]),tag(verb),tokens([started])]),mod([lexmatch([smoking]),inputmatch([smoking]),tag(adj),tokens([smoking])]),head([lexmatch([cigars]),inputmatch([cigars]),tag(noun),tokens([cigars])])],10/22,[]).
+candidates(8,3,0,5,[ev(-827,'C0678446',cigars,'Cigar',[cigars],[mnob],[[[3,3],[1,1],0]],yes,no,['NCI','AOD','CHV'],[26/6],0),ev(-660,'C0037369','Smoking','Smoking',[smoking],[inbe],[[[2,2],[1,1],0]],no,no,['LCH','MEDLINEPLUS','MSH','MTH','COSTAR','AOD','CHV','CSP'],[18/7],0),ev(-660,'C0453996','Smoking','Tobacco smoking behavior',[smoking],[inbe],[[[2,2],[1,1],0]],no,no,['MTH','SNOMEDCT','NCI','MEDLINEPLUS','MSH','CHV','CSP','DXP'],[18/7],0),ev(-660,'C1272689','Started','Started',[started],[qlco],[[[1,1],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV'],[10/7],0),ev(-660,'C1881674','SMOKING','Medical Device Emits Smoke',[smoking],[phpr],[[[2,2],[1,1],0]],no,no,['MTH','NCI'],[18/7],0),ev(-627,'C0037366','Smoke','Smoke',[smoke],[eehu,hops],[[[2,2],[1,1],1]],no,no,['LCH','MSH','MTH','SNMI','SNM','SNOMEDCT','CHV'],[18/7],1),ev(-627,'C0439659','Start','Beginning',[start],[tmco],[[[1,1],[1,1],1]],no,no,['MTH','CHV','NCI','SNOMEDCT','LCH','LNC'],[10/7],1),ev(-627,'C0439994','Smoke','Tobacco smoke',[smoke],[hops],[[[2,2],[1,1],1]],no,no,['MTH','SNMI','SNOMEDCT','CHV','AOD','NCI'],[18/7],1)]).
+mappings([map(-851,[ev(-660,'C1272689','Started','Started',[started],[qlco],[[[1,1],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV'],[10/7],0),ev(-660,'C0037369','Smoking','Smoking',[smoking],[inbe],[[[2,2],[1,1],0]],no,no,['LCH','MEDLINEPLUS','MSH','MTH','COSTAR','AOD','CHV','CSP'],[18/7],0),ev(-827,'C0678446',cigars,'Cigar',[cigars],[mnob],[[[3,3],[1,1],0]],yes,no,['NCI','AOD','CHV'],[26/6],0)]),map(-851,[ev(-660,'C1272689','Started','Started',[started],[qlco],[[[1,1],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV'],[10/7],0),ev(-660,'C0453996','Smoking','Tobacco smoking behavior',[smoking],[inbe],[[[2,2],[1,1],0]],no,no,['MTH','SNOMEDCT','NCI','MEDLINEPLUS','MSH','CHV','CSP','DXP'],[18/7],0),ev(-827,'C0678446',cigars,'Cigar',[cigars],[mnob],[[[3,3],[1,1],0]],yes,no,['NCI','AOD','CHV'],[26/6],0)]),map(-851,[ev(-660,'C1272689','Started','Started',[started],[qlco],[[[1,1],[1,1],0]],no,no,['MTH','SNOMEDCT','CHV'],[10/7],0),ev(-660,'C1881674','SMOKING','Medical Device Emits Smoke',[smoking],[phpr],[[[2,2],[1,1],0]],no,no,['MTH','NCI'],[18/7],0),ev(-827,'C0678446',cigars,'Cigar',[cigars],[mnob],[[[3,3],[1,1],0]],yes,no,['NCI','AOD','CHV'],[26/6],0)])]).
+'EOU'.

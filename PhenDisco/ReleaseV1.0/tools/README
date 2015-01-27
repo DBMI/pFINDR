@@ -1,0 +1,5 @@
+NLP tools needed to be installed:
+
+- MetaMap: Available at http://metamap.nlm.nih.gov/
+- Whoosh 2.4.1 or later : Available at https://pypi.python.org/pypi/Whoosh/
+- PyParse 1.1.7 or later: Available at https://pypi.python.org/pypi/PyParse

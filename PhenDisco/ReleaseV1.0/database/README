@@ -1,0 +1,5 @@
+This folder contains all database of PhenDisco:
+
+./mySQL: contains MySQL databases, used for displaying results on the Web.
+./phenotype: contains orignal phenotypes pulled from dbGaP and standadization.
+./studyAbstraction: contains study annotated by domain experts.
