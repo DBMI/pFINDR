@@ -1,0 +1,3 @@
+# Ignore .DS_Store files and the Sublime Text project file
+.DS_Store
+iSeeDelve.sublime-workspace

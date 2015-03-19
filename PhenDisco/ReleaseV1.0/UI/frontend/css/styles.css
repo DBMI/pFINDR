@@ -419,6 +419,12 @@ table.recentlyAdded td.details
 	width: 65px;
 }
 
+.match
+{
+         color: black;
+         background-color:gold;
+}
+
 #definitionTooltip
 {
 	display:none;

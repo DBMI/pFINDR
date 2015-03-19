@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)file:///Users/dexter/Documents/work-stuff/phendisco/iSeeMockup.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<title>iSeeMockup</title>
+<link rel="icon" type="image/ico" href="http://phendisco.ucsd.edu/images/favicon.ico">  
+<link rel="stylesheet" href="css/styles.css" type="text/css">
+
+<!-- Javascript -->
+<script async="" src="js/analytics.js"></script>
+<script src="js/jquery-1.8.2.min.js" language="JavaScript" type="text/javascript"></script>
+<script src="js/d3.min.js" type="text/javascript"></script>
+<!-- <script src="js/utility.js" type="text/javascript"></script> -->
+<script src="js/variableDefinitions.js" type="text/javascript"></script>
+<script src="js/jquery.autocomplete.js" type="text/javascript"></script>
+<script src="js/localdata.js" type="text/javascript"></script>
+<script src="js/isee-demo-data.json" type="text/javascript"></script>
+<script src="js/isee.js" type="text/javascript"></script>
+
+<meta name="robots" content="index, folow">
+<link rel="stylesheet" type="text/css" href="css/jquery.autocomplete.css">
+<!-- The isee-styles stylesheet was created using the chrome inspector -->
+<link rel="stylesheet" type="text/css" href="css/isee-styles.css">
+
+<script type="text/javascript">
+    $().ready(function() {
+        $("#search-bar").focus().autocomplete(keywords);
+    });
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','js/analytics.js','ga');
+
+    ga('create', 'UA-48050803-1', 'ucsd.edu');
+    ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="chrome-extension://bfbmjmiodbnnpllbbbfblcplfjjepjdn/js/injected.js"></script>
+<style type="text/css"></style></head>
+
+<body>
+
+    <!-- Front page main container -->
+    <div id="main-container">
+
+        <div id="help-tooltip" class="rounded shadow border" style="left: 496.484375px; top: 1510.484375px; display: none;"><p class="help-tooltip"><b>Display Options:</b><br>- Check data fields to be shown. The Apply button will update the result table with the selected fields.<br>- To restore the default view, Click Restore Defaults.<br>- Move the mouse over the question mark on the right side of the page to get these directions.<br>- Move the mouse over each option to view a description.<br><br><b>Basic Results:</b><br>- Above the table you will see how many studies are being displayed out of the total studies found.<br>- There are arrows to view each page of the results.<br>- Scroll horizontally at the top or bottom of the display table to view additional columns.<br>- The Details column contains four boxes. Mouse over the colored boxes to display content information.<br><br><b>Search Relevancy:</b><br>- Scroll over a study, the row is highlighted in yellow and the Study Name and ID will appear in the popup box.- The search terms will be highlighted in yellow where it shows up in Study Names and descriptions.- Each study has a relevancy ranking out of five stars. A five star ranking corresponds to a very relevant result, while a one star ranking is a slightly relevant result.<br><br><b>Viewing Studies:</b>- Click on the Study Name and ID in the Title box for the study to open in a new page.<br><br><b>Exporting Results:</b><br>- There are three buttons on top of the display table: "Display All", "Check All", and "ExportSelections". The "Check All" button will select each of the studies present on that page. The"Export Selections" will export a list of Study ID, Study Name, Type of Study, Participants, and Datasets of the checked studies in the comma separated value (CSV) format.</p></div>
+        <!-- main page header -->
+        <div id="main-header" class="rounded shadow border">
+
+            <div class="top">
+                <a href="http://phendisco.ucsd.edu/index.php"><h1 class="alignleft">Phenotype Discoverer</h1></a> 
+                <div style="clear: both;"></div>
+            </div>
+
+            <div class="body">
+
+                <a href="http://phendisco.ucsd.edu/"><img src="PhenDisco_Logo.jpg" alt="logo" height="87" width="80" style="float:left;"></a>
+
+                <div>
+
+                    <form method="get" action="http://phendisco.ucsd.edu/query.php" autocomplete="off">
+                        <input id="search-bar" type="text" size="50" name="Fname" value="stroke" autocomplete="off" class="ac_input">
+                        <input type="hidden" name="Page" value="1">
+                        <input type="hidden" name="PhenTab" value="0">
+                        <input type="hidden" name="phenPage" value="1">
+                        <button type="submit" class="search">Search</button>
+                        <input type="checkbox" name="search-checkbox" checked="">Concept-based<br>
+                    </form></div>
+                    <div>
+                        <a href="http://phendisco.ucsd.edu/AdvanceSearchPage.html"><button type="button" id="advanced-button">Advanced Search</button></a>
+                        <button type="button" id="limit-button">Limits</button>
+                    </div>
+                </div>
+
+                <div class="bottom">
+                    <div class="container">
+
+                        <img id="search-bar-help" class="alignright" src="images/help.png" alt="help" height="24" width="24" border="0">
+                    </div>
+                    <div style="clear: both;"></div>
+                </div>
+
+            </div>
+
+            <div id="limit-container" class="hide rounded shadow border">
+                
+                <div class="top">
+                    <h3 class="alignleft">Limits</h3>
+                </div>
+
+                <div class="body">
+
+                    <div class="container">
+                        <label for="LimitsField">Field:</label>
+                        <select name="LimitField" size="1">
+                            <option selected="selected" value="AllFields">All Fields</option>
+                            <option value="Attribution">Attribution</option>
+                            <option value="ConsentType">Consent Type</option>
+                            <option value="Dataset">Dataset</option>
+                            <option value="DatasetID">Dataset ID</option>
+                            <option value="DatasetName">Dataset Name</option>
+                            <option value="TopicDisease">Disease</option>
+                            <option value="Platform">Genotype Platform</option>
+                            <option value="Geography">Geography</option>
+                            <option value="IRB">IRB</option>
+                            <option value="Study">Study</option>
+                            <option value="Study ID">Study ID</option>
+                            <option value="Study Name">Study Name</option>
+                            <option value="Variable">Variable</option>
+                            <option value="Variable Description">Variable Description</option>
+                            <option value="Variable ID">Variable ID</option>
+                            <option value="Variable Name">Variable Name</option>                        </select>
+                        </div>
+                    </div>
+
+                    <div class="bottom"> 
+
+                        <button type="button" class="alignright" id="limit-reset-button">Reset</button>
+                        <div style="clear: both;"></div>
+                    </div>
+
+                </div>
+
+                <!-- Results Body content -->
+                <div id="isee-body" class="rounded shadow border">
+
+                    <!-- Beginning of the iSee Body -->
+                    
+                    <div class="container" id="isee-title">
+                        <h1><span style="text-align: center;">iSee - Intelligient Search Expansion</span></h1>
+                        <h3 style="margin-bottom: 0;">Exploring Study: <span id="isee-study-title" style="font-weight: bold; color: #000">TEST</span></h3></div>
+                        <div class="container alignright" id="sidebar">
+                            <div class="top">
+                                <h3 style="
+    text-align: center;
+">Nearest Studies</h3>
+                            </div>
+                            <div class="body" id="nearest-studies-container" style="
+                            ">
+                            
+
+
+
+                            <table id="nearest-studies-table" class="results">
+                                <thead>
+                                    <tr>
+                                        <th class="title">Title</th>
+                                    </tr>
+                                </thead>
+                                    <tbody id="nearest-studies-tbody">
+
+                                       <!--  <tr id="results_tablerow_0">
+
+                                            <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000424" target="_blank">phs000424.v2.p1<br>Common Fund (CF) Genotype-Tissue Expression Project (GTEx)
+
+                                            </a>
+                                        </td>
+                                        </tr>
+                                        <tr id="results_tablerow_1">
+
+                                            <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000252" target="_blank">phs000252.v2.p1<br>Diet, Genetic Factors, and the Gut Microbiome in Crohn's Disease
+
+                                            </a>
+                                            </td>
+                                        </tr>
+                                        <tr id="results_tablerow_2">
+
+                                            <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000007" target="_blank">phs000007.v18.p7<br>Framingham Cohort
+
+                                            </a>
+                                        </td>
+                                        </tr>
+                            <tr id="results_tablerow_3">
+
+                                <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179" target="_blank">phs000179.v2.p2<br>Genetic Epidemiology of COPD (COPDGene) Funded by the National Heart, Lung,
+                                    and Blood Institute
+
+                                </a>
+                            </td>
+                        </tr>
+                        <tr id="results_tablerow_4">
+
+                            <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000287" target="_blank">phs000287.v2.p1<br>Cardiovascular Health Study (CHS) Cohort: an NHLBI-funded observational study
+                                of risk factors for cardiovascular disease in adults 65 years or older
+
+                            </a>
+                        </td>
+                    </tr>
+                    <tr id="results_tablerow_5">
+
+                        <td class="title"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000209" target="_blank">phs000209.v10.p2<br>Multi-Ethnic Study of Atherosclerosis (MESA) Cohort
+
+                        </a>
+                    </td>
+                </tr> -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="isee-universe" class="container alignleft">
+
+    <div class="body">
+        <div id="tooltip" class="rounded shadow border" style="left: 384px; top: 632px; display: none;"><h1 class="tooltip" style="font-size:16px;"> <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000252" target="_blank">phs000252.v2.p1<br>Diet, Genetic Factors, and the Gut Microbiome in Crohn's Disease
+
+        </a>
+    </h1><p class="" style="color:black;font-size:12px;font-weight:normal;font-family:arial;">Study Description We investigate the hypothesis that consistent changes in the human gut microbiome are associated with Crohn's disease, a form of inflammatory bowel disease, and that altered microbiota contributes...</p></div>
+    <div id="nodeToolTip" class="rounded shadow border"></div>
+
+
+
+    <div id="isee-universe-graph-container" class=""><!-- Render SVG Below -->
+        <h2 class="justify-center">Study Universe</h2>
+        <div id="isee-svg">
+            
+        </div>
+        <div class="tooltip rounded shadow border" id="isee-node-meta-tooltip">
+            <h4 id="isee-title-tooltext">Study Title</h4>
+            <h5 id="isee-study-id-tooltext">physXXXXXXX.X.pX</h5>
+            <ul>
+                <li>Disease: <span id="isee-disease-tooltext" style="font-style: italic;">MeTaDaTa</span></li>
+                <li>Age: <span id="isee-age-tooltext" style="font-style: italic;">MeTaDaTa</span></li>
+                <li>Gender: <span id="isee-gender-tooltext" style="font-style: italic;">MeTaDaTa</span></li>
+                <li>Race: <span id="isee-race-tooltext" style="font-style: italic;">MeTaDaTa</span></li>
+                <li>Study Design: <span id="isee-study-tooltext" style="font-style: italic;">MeTaDaTa</span></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container alignleft">
+        <div class="top">
+            <h2>Similarity Parameters</h2>                                                
+        </div>
+        <div class="body">
+
+            <table id="filters">
+                <tbody>
+                    <tr>
+
+                        <td>
+                            <input type="checkbox" checked="true" id="diseaseInclude" class="filter">
+                            <label for="diseaseInclude">Disease</label>
+                        </td>
+                        <td>
+                            <input type="radio" class="filter" value="2" name="diseaseParameter" id="diseaseImportant" checked="">
+                            <label for="diseaseImportant">Important</label>
+                        </td>
+                        <!-- <td>
+                            <input type="radio" class="filter" value="1" name="diseaseParameter" id="diseaseSomewhatImportant">
+                            <label for="diseaseSomewhatImportant">Somewhat Important</label>
+                        </td> -->
+                        <td>
+                            <input type="radio" class="filter" value="0" name="diseaseParameter" id="diseaseNotImportant">
+                            <label for="diseaseNotImportant">Not Important</label>
+                        </td>
+                    </tr>
+                    <!-- <tr>
+                        <td>
+                            <input type="checkbox" checked="true" id="demographicsInclude" class="filter">
+                            <label for="demographicsInclude">Demographics</label>
+                        </td>
+                        <td>
+                            <input type="radio" class="filter" value="2" name="demographicsParameter" id="demographicsImportant" checked="">
+                            <label for="demographicsImportant">Important</label>
+                        </td> -->
+                        <!-- <td>
+                            <input type="radio" class="filter" value="1" name="demographicsParameter" id="demographicsSomewhatImportant">
+                            <label for="demographicsSomewhatImportant">Somewhat Important</label>
+                        </td> -->
+                        <!-- <td>
+                            <input type="radio" class="filter" value="0" name="demographicsParameter" id="demographicsNotImportant">
+                            <label for="demographicsNotImportant">Not Important</label>
+                        </td>
+                    </tr> -->
+                    <tr>
+
+                        <td>
+                            <input type="checkbox" checked="true" id="ageInclude" class="filter">
+                            <label for="ageInclude">Age</label>
+                        </td>
+                        <td>
+                            <input type="radio" class="filter" value="2" name="ageParameter" id="ageImportant" checked="">
+                            <label for="ageImportant">Important</label>
+                        </td>
+                        <!-- <td>
+                            <input type="radio" class="filter" value="1" name="ageParameter" id="ageSomewhatImportant">
+                            <label for="ageSomewhatImportant">Somewhat Important</label>
+                        </td> -->
+                        <td>
+                            <input type="radio" class="filter" value="0" name="ageParameter" id="ageNotImportant">
+                            <label for="ageNotImportant">Not Important</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="checkbox" checked="true" id="genderInclude" class="filter">
+                            <label for="genderInclude">Gender</label>
+                        </td>
+                        <td>
+                            <input type="radio" class="filter" value="2" name="genderParameter" id="genderImportant" checked="">
+                            <label for="genderImportant">Important</label>
+                        </td>
+                        <!-- <td>
+                            <input type="radio" class="filter" value="1" name="genderParameter" id="genderSomewhatImportant">
+                            <label for="genderSomewhatImportant">Somewhat Important</label>
+                        </td> -->
+                        <td>
+                            <input type="radio" class="filter" value="0" name="genderParameter" id="genderNotImportant">
+                            <label for="genderNotImportant">Not Important</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="checkbox" checked="true" id="raceInclude" class="filter">
+                            <label for="raceInclude">Race</label>
+                        </td>
+                        <td>
+                            <input type="radio" class="filter" value="2" name="raceParameter" id="raceImportant" checked="">
+                            <label for="raceImportant">Important</label>
+                        </td>
+                        <!-- <td>
+                            <input type="radio" class="filter" value="1" name="raceParameter" id="raceSomewhatImportant">
+                            <label for="raceSomewhatImportant">Somewhat Important</label>
+                        </td> -->
+                        <td>
+                            <input type="radio" class="filter" value="0" name="raceParameter" id="raceNotImportant">
+                            <label for="raceNotImportant">Not Important</label>
+                        </td>
+                    </tr>
+                    <tr>
+
+                    <td>
+                        <input type="checkbox" checked="true" id="designInclude" class="filter">
+                        <label for="designInclude">Study Design</label>
+                    </td>
+                    <td>
+                        <input type="radio" class="filter" value="2" name="designParameter" id="designImportant" checked="">
+                        <label for="designImportant">Important</label>
+                    </td>
+                    <!-- <td>
+                        <input type="radio" class="filter" value="1" name="designParameter" id="designSomewhatImportant">
+                        <label for="designSomewhatImportant">Somewhat Important</label>
+                    </td> -->
+                    <td>
+                        <input type="radio" class="filter" value="0" name="designParameter" id="designNotImportant">
+                        <label for="designNotImportant">Not Important</label>
+                    </td>
+                </tr>
+            </tbody>
+        </table>        
+    </div>
+    <div class="bottom">
+        <div class="container alignleft">
+            <button type="button" id="filter_apply">Apply</button>
+            <button type="reset" id="filter_defaults">Restore Defaults</button>
+        </div>
+
+        <div class="container alignright">
+            <img src="images/help.png" id="display-options-help" alt="help" height="24" width="24" border="0">
+        </div>
+
+    </div></div></div>
+</div>
+
+<!-- End of the iSee Body -->
+
+<div style="clear: both;"></div>
+</div>
+<br>
+
+<div id="main-footer" class="rounded shadow border">
+    <h4 id="dbv">Database Version: Last update July 1, 2013. </h4>
+    <br>
+    <h5 style="font-size:x-small;font-weight:normal"> PhenDisco is based on a mix of computer- and human-curated data. For this reason, it is not 100% accurate. This work was funded by grant UH2HL108785 from NHLBI, NIH. </h5>
+    <div style="clear: both;"></div>
+</div>
+
+</div>
+
+
+<div class="ac_results" style="position: absolute; width: 400px; top: 99.03125px; left: 695.609375px; display: none;"><ul style="max-height: 180px; overflow: auto;"></ul></div></body></html>

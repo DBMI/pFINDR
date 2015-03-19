@@ -1,0 +1,45 @@
+/** 
+ * Specific CSS for iSee Demo for March 6th, 2015
+ * Dexter Friedman
+ */
+
+div#isee-body {
+    background-color: white;
+}
+
+div#sidebar {
+    width: 200px;
+}
+
+div#nearest-studies-container {
+    overflow: scroll;
+}
+
+div#isee-universe {
+    margin-top: 0px;
+    width: 740px;
+}
+
+div#isee-svg {
+	width: 726px;
+	height: 480px;
+	border-color: black;
+	border-width: 2px;
+	border-style: dotted;
+    border-radius: 16px;
+}
+
+div#isee-title {
+    padding: 10px 10px 0px 10px;
+    margin-bottom: 0px;
+}
+
+div.tooltip {
+    position: absolute;
+    display: none;
+    background: #FFE8C5;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 400px;
+}
